@@ -683,19 +683,30 @@ async function openPiece(slug) {
   await previewPiece(slug).catch((e) => toast(e.message, true));
 }
 
-async function previewPiece(slug) {
-  if (!slug) return;
+async function previewPiece(slug, { scroll = false } = {}) {
+  if (!slug) {
+    toast("先点一篇稿件，再预览", true);
+    return;
+  }
   const date = $("wDate").value;
   const theme = $("wTheme").value;
   const q = new URLSearchParams({ date });
   if (theme) q.set("theme", theme);
-  const data = await api(
-    `api/pieces/${encodeURIComponent(slug)}/preview?${q.toString()}`,
-  );
-  $("wPreviewWrap").hidden = false;
-  $("wFrame").srcdoc = `<!doctype html><meta charset="utf-8"><body style="margin:0;padding:16px;background:#fff;">${data.html}</body>`;
-  $("wPreviewNote").textContent =
-    data.skipped.length === 0 ? data.theme : `${data.theme} · ${data.skipped.length} 张图未内联`;
+  const button = $("wPreview");
+  button.disabled = true;
+  try {
+    const data = await api(
+      `api/pieces/${encodeURIComponent(slug)}/preview?${q.toString()}`,
+    );
+    $("wPreviewWrap").hidden = false;
+    $("wFrame").srcdoc = `<!doctype html><meta charset="utf-8"><body style="margin:0;padding:16px;background:#fff;">${data.html}</body>`;
+    $("wPreviewNote").textContent =
+      data.skipped.length === 0 ? data.theme : `${data.theme} · ${data.skipped.length} 张图未内联`;
+    // 预览区排在长稿件下方，不滚过去就等同于没有反馈。
+    if (scroll) $("wPreviewWrap").scrollIntoView({ block: "start", behavior: "smooth" });
+  } finally {
+    button.disabled = false;
+  }
 }
 
 function pollJob(id) {
@@ -780,8 +791,10 @@ $("wKind").onchange = () => {
   $("wDigestBox").hidden = !digest;
 };
 $("wStart").onclick = startPiece;
-$("wPreview").onclick = () => previewPiece(wCurrent).catch((e) => toast(e.message, true));
-$("wTheme").onchange = () => previewPiece(wCurrent).catch((e) => toast(e.message, true));
+$("wPreview").onclick = () =>
+  previewPiece(wCurrent, { scroll: true }).catch((e) => toast(e.message, true));
+$("wTheme").onchange = () =>
+  previewPiece(wCurrent, { scroll: true }).catch((e) => toast(e.message, true));
 
 $("wPush").onclick = async () => {
   if (!wCurrent) {
