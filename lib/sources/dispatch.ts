@@ -1,5 +1,5 @@
 import { fetchAttentionVc } from "./attentionvc";
-import { fetchBilibili } from "./bilibili";
+import { fetchBilibili, fetchBilibiliRegionRanking } from "./bilibili";
 import { fetchDouyin } from "./douyin";
 import { fetchGithubTrending } from "./github-trending";
 import { fetchHackerNews } from "./hackernews";
@@ -26,6 +26,8 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "huggingface-papers") return fetchHuggingfacePapers(source.id, source.keywords);
   if (source.id === "zhihu-hot") return fetchZhihu(source.id, source.category);
   if (source.id === "douyin-hot") return fetchDouyin(source.id, source.category);
+  if (source.id.startsWith("bilibili-film-talk"))
+    return fetchBilibiliRegionRanking(source.id, source.url, source.category);
   if (source.id.startsWith("bilibili-"))
     return fetchBilibili(source.id, source.url, source.category);
   if (source.id.startsWith("youtube-"))

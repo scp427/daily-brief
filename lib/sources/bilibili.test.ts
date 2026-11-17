@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { parseBilibiliRanking } from "./bilibili";
+import { parseBilibiliRanking, parseBilibiliRegionRanking } from "./bilibili";
 
 const PAYLOAD = {
   code: 0,
@@ -46,5 +46,37 @@ test("parseBilibiliRanking fails loudly on a non-zero api code", () => {
   assert.throws(
     () => parseBilibiliRanking({ code: -412, message: "请求被拦截" }, "bilibili-tech", "tech"),
     /bilibili bilibili-tech: code -412 请求被拦截/,
+  );
+});
+
+const REGION_PAYLOAD = {
+  code: 0,
+  message: "OK",
+  data: [
+    {
+      aid: "114294230358428",
+      bvid: "BV1nJRkYaEeH",
+      typename: "影视杂谈",
+      title: "史上最还原漫改电影！逼格拉满的暴力美学，8.4分《罪恶之城》",
+      author: "培根悖论唠唠嗑",
+      play: 1810376,
+    },
+    { bvid: "", title: "没有 bvid 的条目" },
+  ],
+};
+
+test("parseBilibiliRegionRanking maps the commentary board and its strip", () => {
+  const items = parseBilibiliRegionRanking(REGION_PAYLOAD, "bilibili-film-talk", "society");
+  assert.equal(items.length, 1);
+  const [item] = items;
+  assert.equal(item.url, "https://www.bilibili.com/video/BV1nJRkYaEeH");
+  assert.equal(item.meta, "影视杂谈 · 培根悖论唠唠嗑 · ▶ 181.0万");
+  assert.equal(item.publishedAt, undefined);
+});
+
+test("parseBilibiliRegionRanking fails loudly on a non-zero api code", () => {
+  assert.throws(
+    () => parseBilibiliRegionRanking({ code: -352, message: "-352" }, "bilibili-film-talk", "society"),
+    /bilibili bilibili-film-talk: code -352/,
   );
 });

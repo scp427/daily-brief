@@ -92,3 +92,74 @@ export async function fetchBilibili(
   if (!res.ok) throw new Error(`bilibili ${sourceId}: HTTP ${res.status}`);
   return parseBilibiliRanking(await res.json(), sourceId, category);
 }
+
+/**
+ * Region ranking — https://api.bilibili.com/x/web-interface/ranking/region
+ *
+ * The v2 ranking endpoint only serves first-level boards and rejects the
+ * commentary board (`rid=182`, 影视杂谈) with code -400. This older endpoint
+ * serves the second-level boards and returns `data` as a bare array. `rid=182`
+ * is where the film and anime commentary channels publish, which is a
+ * different thing from the film board (`rid=23`) that lists the films
+ * themselves.
+ */
+
+interface RegionVideoShape {
+  bvid?: unknown;
+  title?: unknown;
+  typename?: unknown;
+  author?: unknown;
+  play?: unknown;
+}
+
+export function parseBilibiliRegionRanking(
+  payload: unknown,
+  sourceId: string,
+  category: Category,
+): RawArticle[] {
+  const body = payload as { code?: unknown; message?: unknown; data?: unknown };
+  if (body?.code !== 0) {
+    throw new Error(
+      `bilibili ${sourceId}: code ${String(body?.code)} ${asString(body?.message)}`,
+    );
+  }
+  const list = body?.data;
+  if (!Array.isArray(list)) throw new Error(`bilibili ${sourceId}: missing data`);
+
+  const items: RawArticle[] = [];
+  for (const raw of list as RegionVideoShape[]) {
+    const bvid = asString(raw?.bvid);
+    const title = asString(raw?.title);
+    if (!bvid || !title) continue;
+
+    const metaParts: string[] = [];
+    const tname = asString(raw?.typename);
+    const author = asString(raw?.author);
+    const plays = Number(raw?.play);
+    if (tname) metaParts.push(tname);
+    if (author) metaParts.push(author);
+    if (plays > 0) metaParts.push(`▶ ${formatCount(plays)}`);
+
+    items.push({
+      sourceId,
+      title,
+      url: `https://www.bilibili.com/video/${bvid}`,
+      excerpt: "",
+      // No publishedAt: the board order is the ranking.
+      meta: metaParts.join(" · "),
+      category,
+    });
+  }
+
+  return items;
+}
+
+export async function fetchBilibiliRegionRanking(
+  sourceId: string,
+  url: string,
+  category: Category,
+): Promise<RawArticle[]> {
+  const res = await fetch(url, { headers: HEADERS, signal: AbortSignal.timeout(15000) });
+  if (!res.ok) throw new Error(`bilibili ${sourceId}: HTTP ${res.status}`);
+  return parseBilibiliRegionRanking(await res.json(), sourceId, category);
+}
