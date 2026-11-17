@@ -227,6 +227,13 @@
         <div><label>keywords（逗号分隔，可空）</label><input id="a-kw" placeholder="ai,llm"></div>
         <div><label>useCurl</label><select id="a-curl"><option value="">否</option><option value="1">是（Cloudflare 拦截时）</option></select></div>
         <div><label>是否国内</label><label style="margin:0;font-weight:400"><input type="checkbox" id="a-domestic" style="width:auto"> 国内直连（不勾选 = 境外，走 Actions 快照）</label></div>
+        <div><label>展示上限（可空）</label><input id="a-max" type="number" min="1" max="200" placeholder="继承子类上限"></div>
+        <div><label>摘要方式</label><select id="a-enrich">
+          <option value="">auto（按源类型）</option>
+          <option value="news">news（通用事实摘要）</option>
+          <option value="intro">intro（通用中文介绍）</option>
+          <option value="off">off（不生成摘要）</option>
+        </select></div>
       </div>
       <div class="row" style="margin-top:12px">
         <button class="primary" id="createBtn">创建</button>
@@ -500,7 +507,8 @@ function render() {
       <td class="name"><a href="${href}" target="_blank" rel="noreferrer noopener" title="${href}">${escapeHtml(s.name)}</a></td>
       <td><span class="pill">${escapeHtml(s.type)}${s.useCurl ? " ·curl" : ""}</span></td>
       <td><span class="cat">${escapeHtml(s.category)}</span>
-        ${s.subcategory ? `<div class="muted small">${escapeHtml(s.subcategory)}</div>` : ""}</td>
+        ${s.subcategory ? `<div class="muted small">${escapeHtml(s.subcategory)}</div>` : ""}
+        ${s.maxItems !== undefined || s.enrich ? `<div class="muted small">${s.maxItems !== undefined ? `上限 ${s.maxItems}` : ""}${s.maxItems !== undefined && s.enrich ? " · " : ""}${s.enrich ? escapeHtml(s.enrich) : ""}</div>` : ""}</td>
       <td class="muted small">${(s.locales || ["zh", "en"]).join(", ")}${s.lang ? ` · ${s.lang}` : ""}</td>
       <td><label style="margin:0"><input type="checkbox" data-toggle="${escapeHtml(s.id)}" ${on ? "checked" : ""} style="width:auto"> ${on ? "启用" : "停用"}</label></td>
       <td><label style="margin:0"><input type="checkbox" data-domestic="${escapeHtml(s.id)}" ${s.domestic === true ? "checked" : ""} style="width:auto" title="是否国内"></label></td>
@@ -900,6 +908,8 @@ function resetForm() {
   $("a-lang").value = "";
   $("a-curl").value = "";
   $("a-domestic").checked = false;
+  $("a-max").value = "";
+  $("a-enrich").value = "";
   $("addErr").textContent = "";
 }
 
@@ -929,6 +939,8 @@ function startEdit(id) {
   $("a-kw").value = (s.keywords || []).join(",");
   $("a-curl").value = s.useCurl ? "1" : "";
   $("a-domestic").checked = s.domestic === true;
+  $("a-max").value = s.maxItems === undefined ? "" : String(s.maxItems);
+  $("a-enrich").value = s.enrich || "";
   $("addErr").textContent = "";
   $("addPanel").hidden = false;
   $("toggleAdd").textContent = "收起新增表单";
@@ -1079,6 +1091,8 @@ function readForm() {
     keywords: keywords.length ? keywords : null,
     useCurl: $("a-curl").value === "1" ? true : null,
     domestic: $("a-domestic").checked ? true : null,
+    maxItems: $("a-max").value.trim() === "" ? null : Number($("a-max").value),
+    enrich: $("a-enrich").value || null,
   };
   const body = {
     id: $("a-id").value.trim(),

@@ -56,12 +56,27 @@ test("validateSourceConfig rejects malformed locales and keywords", () => {
   );
 });
 
+test("validateSourceConfig bounds maxItems and whitelists enrich styles", () => {
+  assert.doesNotThrow(() =>
+    validateSourceConfig([source({ maxItems: 20, enrich: "intro" })]),
+  );
+  for (const maxItems of [0, 1.5, 201]) {
+    assert.throws(
+      () => validateSourceConfig([source({ maxItems })]),
+      /'maxItems' must be an integer in 1\.\.200/,
+    );
+  }
+  assert.throws(
+    () => validateSourceConfig([source({ enrich: "fancy" as "intro" })]),
+    /'enrich' must be one of auto, news, intro, off/,
+  );
+});
+
 test("sanitizePatch keeps known fields and rejects the rest", () => {
-  assert.deepEqual(sanitizePatch({ enabled: false, locales: ["en"], domestic: true }), {
-    enabled: false,
-    locales: ["en"],
-    domestic: true,
-  });
+  assert.deepEqual(
+    sanitizePatch({ enabled: false, locales: ["en"], domestic: true, maxItems: 12, enrich: "news" }),
+    { enabled: false, locales: ["en"], domestic: true, maxItems: 12, enrich: "news" },
+  );
   assert.throws(() => sanitizePatch({ category: "tech", bogus: 1 }), /unknown field\(s\): bogus/);
 });
 
@@ -80,6 +95,20 @@ test("addSource refuses duplicates and removeSource refuses unknowns", () => {
   assert.equal(addSource([], source()).length, 1);
   assert.throws(() => removeSource([source()], "missing"), /unknown source id/);
   assert.equal(removeSource([source()], "example").length, 0);
+});
+
+test("toSourceDef keeps maxItems and enrich", () => {
+  const def = toSourceDef({
+    id: "a",
+    name: "A",
+    type: "rss",
+    url: "u",
+    category: "tech",
+    maxItems: 8,
+    enrich: "off",
+  });
+  assert.equal(def.maxItems, 8);
+  assert.equal(def.enrich, "off");
 });
 
 test("toSourceDef drops absent optional fields", () => {

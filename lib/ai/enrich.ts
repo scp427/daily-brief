@@ -55,9 +55,9 @@ Output STRICTLY a JSON object, no markdown:
   ]
 }`;
 
-const FINANCE_SYSTEM_PROMPT_ZH = `你是一名中文财经编辑，为英文/中文财经新闻生成**中文事实摘要**。
+const NEWS_SYSTEM_PROMPT_ZH = `你是一名中文新闻编辑，为英文/中文新闻与文章生成**中文事实摘要**。
 
-输入：每条新闻有 url、title、excerpt 和 source（来源媒体名）。
+输入：每条内容有 url、title、excerpt 和 source（来源媒体名）。
 
 任务：根据 title + excerpt，生成一段 50-100 字的**中文摘要**：
   - 原文是英文 → 翻译关键信息为中文（不是逐字翻译，而是抽出要点）
@@ -76,7 +76,7 @@ const FINANCE_SYSTEM_PROMPT_ZH = `你是一名中文财经编辑，为英文/中
 
 **引号规则（重要！）**：summary 内的引用一律用中文全角引号「」或""，**绝不**用英文双引号 \" —— 否则会导致 JSON 解析失败。`;
 
-const FINANCE_SYSTEM_PROMPT_EN = `You are an English-language financial / world-news editor producing **factual summaries**.
+const NEWS_SYSTEM_PROMPT_EN = `You are an English-language news editor producing **factual summaries**.
 
 Input: each news item has url, title, excerpt, and source (publisher name).
 
@@ -209,10 +209,61 @@ Output STRICTLY a JSON object, no markdown:
 
 // Pick the right localized prompt set at module init. Each enricher reaches
 // in via PROMPTS.<key> so the call sites stay locale-agnostic.
+const INTRO_SYSTEM_PROMPT_ZH = `你是一名中文技术编辑，为项目、视频、社区帖子或文章写一段**中文介绍**。
+
+输入：每条内容有 url、title、excerpt 和 source。
+
+任务：根据 title + excerpt，写一段 60-120 字的通顺中文介绍，说清：
+  1. 这条内容在讲什么，解决了什么问题
+  2. 关键方法、工具或结论（能从 title + excerpt 推断的话）
+  3. 对谁有用，典型场景是什么
+
+写作风格：
+  - 信息密度高，不写"这是一篇…"这种废话开头
+  - 中文术语优先，技术名词保留英文
+  - 事实陈述为主，不标题党
+  - 信息不足时宁可短，不要编造
+
+输出严格 JSON 对象，不要 markdown：
+{
+  "summaries": [
+    { "url": "<原 url，从输入中精确复制>", "summary": "<60-120 字中文介绍>" },
+    ...
+  ]
+}
+
+**引号规则（重要！）**：summary 内的引用一律用中文全角引号「」，**绝不**用英文双引号 \" —— 否则会导致 JSON 解析失败。`;
+
+const INTRO_SYSTEM_PROMPT_EN = `You are an editor writing short English introductions for projects, videos, community posts, and articles.
+
+Input: each item has url, title, excerpt, and source.
+
+Task: from title + excerpt, write a 60-120 word fluent English introduction covering:
+  1. What the item is about and what problem it addresses
+  2. The key method, tool, or finding (inferable from title + excerpt)
+  3. Who benefits, typical use case
+
+Style:
+  - High information density; avoid "This is a..." filler openings
+  - Concrete; if info is insufficient, prefer shorter over fabrication
+  - Factual statements only, no hype
+
+Output STRICTLY a JSON object, no markdown:
+{
+  "summaries": [
+    { "url": "<exact url from input>", "summary": "<60-120 word English introduction>" },
+    ...
+  ]
+}
+
+**Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes — **never** a raw double quote, which breaks JSON parsing.`;
+
+// Pick the right localized prompt set at module init. Each enricher reaches
+// in via PROMPTS.<key> so the call sites stay locale-agnostic.
 const PROMPTS =
   REPORT_LOCALE === "en"
-    ? { gh: GH_SYSTEM_PROMPT_EN, finance: FINANCE_SYSTEM_PROMPT_EN, xViral: XVIRAL_SYSTEM_PROMPT_EN, papers: PAPERS_SYSTEM_PROMPT_EN }
-    : { gh: GH_SYSTEM_PROMPT_ZH, finance: FINANCE_SYSTEM_PROMPT_ZH, xViral: XVIRAL_SYSTEM_PROMPT_ZH, papers: PAPERS_SYSTEM_PROMPT_ZH };
+    ? { gh: GH_SYSTEM_PROMPT_EN, news: NEWS_SYSTEM_PROMPT_EN, intro: INTRO_SYSTEM_PROMPT_EN, xViral: XVIRAL_SYSTEM_PROMPT_EN, papers: PAPERS_SYSTEM_PROMPT_EN }
+    : { gh: GH_SYSTEM_PROMPT_ZH, news: NEWS_SYSTEM_PROMPT_ZH, intro: INTRO_SYSTEM_PROMPT_ZH, xViral: XVIRAL_SYSTEM_PROMPT_ZH, papers: PAPERS_SYSTEM_PROMPT_ZH };
 
 const USER_PROMPT_HEADER =
   REPORT_LOCALE === "en"
@@ -316,11 +367,10 @@ export async function enrichGithubTrendingSummaries(
 }
 
 /**
- * Generate Chinese factual summaries for the (up to ~50) finance news
- * items that will be shown in the raw panel. One Sonnet call covers
- * the whole batch.
+ * Generate factual summaries for news items that will be shown in a raw
+ * panel. One Sonnet call covers the whole batch.
  */
-export async function enrichFinanceNewsSummaries(
+export async function enrichNewsSummaries(
   items: EnrichInput[],
 ): Promise<Map<string, string>> {
   if (items.length === 0) return new Map();
@@ -330,7 +380,7 @@ export async function enrichFinanceNewsSummaries(
     source: it.source ?? "",
     excerpt: (it.excerpt ?? "").slice(0, 280),
   }));
-  return runEnrichment(payload, PROMPTS.finance, "finance summaries");
+  return runEnrichment(payload, PROMPTS.news, "news summaries");
 }
 
 /**
@@ -349,6 +399,23 @@ export async function enrichXViralSummaries(
     previewText: (it.excerpt ?? "").slice(0, 280),
   }));
   return runEnrichment(payload, PROMPTS.xViral, "X-viral summaries");
+}
+
+/**
+ * Generate an introduction for items whose title + excerpt need context a
+ * factual summary would not give: projects, videos, community posts.
+ */
+export async function enrichIntroSummaries(
+  items: EnrichInput[],
+): Promise<Map<string, string>> {
+  if (items.length === 0) return new Map();
+  const payload = items.map((it) => ({
+    url: it.url,
+    title: it.title,
+    source: it.source ?? "",
+    excerpt: (it.excerpt ?? "").slice(0, 280),
+  }));
+  return runEnrichment(payload, PROMPTS.intro, "intro summaries");
 }
 
 /**

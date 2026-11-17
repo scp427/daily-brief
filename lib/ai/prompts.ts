@@ -28,8 +28,13 @@ export function buildDigestSystemPrompt(locale: Locale): string {
   const schema = [
     "  \"hero_headline\": string,",
     locale === "en"
-      ? "  \"daily_overview\": string,          // 150-250 word paragraph distilling the whole picture so a reader catches it in 30 seconds"
-      : "  \"daily_overview\": string,          // 150-220 字的当日总览段落（一段话凝练各大领域要点，让读者 30 秒抓住全局）",
+      ? "  \"daily_overview\": string,          // 60-100 word lead-in that frames the day before the per-domain sections"
+      : "  \"daily_overview\": string,          // 60-100 字的当日导语（先给全局，再按领域展开）",
+    ...(locale === "en"
+      ? [`  "overview_sections": [             // one entry per category, in this order: ${categories.map((c) => c.id).join(", ")}`,
+         "    { \"category\": string, \"text\": string }, // category = category id above; text = 40-60 word summary of that domain"]
+      : [`  "overview_sections": [             // 每个大分类一条，顺序如下：${categories.map((c) => c.id).join(", ")}`,
+         "    { \"category\": string, \"text\": string }, // category 为上列分类 id；text = 40-60 字的该领域概览"]),
     ...briefsSchemaLines(locale, categories),
     locale === "en"
       ? "  \"editor_note\": string,             // 30-60 word neutral editor's note"
@@ -59,8 +64,9 @@ Rules:
 4. url MUST be copied exactly from input — never fabricate.
 5. English throughout. Translate any non-English title and summary to English.
 6. Prefer items with higher importance, cross-source coverage, and time-sensitivity.
-7. If a category has no eligible item, return [] for that briefs array.${HAS_TECH ? `
-8. For GitHub Trending / Hacker News items in tech_briefs, spend an extra 20-40 words in the summary explaining what the project actually does and why it's worth noting (problem solved, tech used). Readers usually haven't heard of these.` : ""}
+7. If a category has no eligible item, return [] for that briefs array.
+8. overview_sections has exactly one entry per category listed below, in the same order, and each \"category\" value is that category's id — never a display label. Keep every text self-contained and free of cross-references like \"as mentioned above\".${HAS_TECH ? `
+9. For GitHub Trending / Hacker News items in tech_briefs, spend an extra 20-40 words in the summary explaining what the project actually does and why it's worth noting (problem solved, tech used). Readers usually haven't heard of these.` : ""}
 
 Categories covered: ${categoryLabels(locale, categories)}.`;
   }
@@ -86,8 +92,10 @@ type BriefItem = {
 4. url 必须严格回填输入值，绝不创造新链接。
 5. 中文优先；英文新闻请将 title 翻译为中文，summary 也用中文。
 6. 优先选择 importance 高、跨源覆盖、时效强的条目。
-7. 如某分类无可用条目，对应 briefs 数组返回 []。${HAS_TECH ? `
-8. tech_briefs 中遇到 GitHub Trending / Hacker News 类项目时，可在 summary 多花
+7. 如某分类无可用条目，对应 briefs 数组返回 []。
+8. overview_sections 每个大分类恰好一条，顺序与下方领域列表一致，\"category\" 字段填分类 id
+   而不是显示名；每段自成一个完整句子，不写"如上所述"这类跨段引用。${HAS_TECH ? `
+9. tech_briefs 中遇到 GitHub Trending / Hacker News 类项目时，可在 summary 多花
    20-40 字解释这个项目实际做什么、为何值得关注（解决了什么问题、用了什么技术），
    而不只是复述标题——读者通常没听过这些项目。` : ""}
 

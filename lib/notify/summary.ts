@@ -3,7 +3,7 @@
  */
 
 import type { DailyReport } from "../ai/pipeline";
-import { categories } from "../categories";
+import { categories, categoryLabel } from "../categories";
 import type { NotifyConfig } from "./config";
 import type { NotifySummary } from "./types";
 
@@ -22,11 +22,19 @@ export function buildNotifySummary(
     if (first) bullets.push(`${label(category)}：${first.title}`);
   }
 
+  const sections = (report.overview_sections ?? [])
+    .filter((section) => section.text.trim().length > 0)
+    .map((section) => ({
+      label: categoryLabel(section.category),
+      text: section.text.trim(),
+    }));
+
   const trading = report.trading?.market_overview.trim();
   return {
     date,
     headline: report.hero_headline,
     overview: report.daily_overview,
+    ...(sections.length > 0 ? { sections } : {}),
     bullets,
     trading: trading ? trading : undefined,
     url: config.baseUrl === "" ? undefined : `${config.baseUrl}/${date}/${date}.html`,

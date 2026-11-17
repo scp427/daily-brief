@@ -55,6 +55,25 @@ test("generateDailyReport falls back after two truncated JSON responses", async 
   assert.equal(report.briefs.tech?.[0]?.summary, "summary");
 });
 
+test("generateDailyReport keeps only well-formed overview sections", async () => {
+  const { report } = await generateDailyReport([article("tech", 0)], async () => ({
+    hero_headline: "h",
+    daily_overview: "o",
+    briefs: { tech: [] },
+    editor_note: "",
+    keywords: [],
+    overview_sections: [
+      { category: "tech", text: "  技术综述  " },
+      { category: "nope", text: "未知分类" },
+      { category: "finance", text: "   " },
+    ],
+  }));
+
+  assert.deepEqual(report.overview_sections, [
+    { category: "tech", text: "技术综述" },
+  ]);
+});
+
 test("generateDailyReport does not hide provider/auth failures", async () => {
   const articles = [article("tech", 0)];
   let attempts = 0;

@@ -162,20 +162,24 @@ make admin-start      # 127.0.0.1:8183，令牌在 ~/.daily-brief-admin-token
 | `name` | ✓ | 显示名 |
 | `type` | ✓ | `rss` / `api` / `scrape` |
 | `url` | ✓ | feed 或 endpoint |
-| `category` | ✓ | `tech` / `finance` / `politics` / `community`，决定一级 tab |
+| `category` | ✓ | `tech` / `finance` / `politics` / `society`，决定一级 tab |
 | `subcategory` | | 二级分组，取值随 `category` 而定，须在 `categories.config.json` 声明 |
 | `enabled` | | 默认 `true`，`false` 保留记录但跳过 |
 | `useCurl` | | 被 Cloudflare 拦 TLS 指纹时改走 `curl` 子进程 |
 | `domestic` | | `true` 表示大陆可直连；`false` 走 Actions 快照 |
 | `lang` | | `zh` 表示中文内容，enrich 跳过不译 |
 | `locales` | | 出现在哪些 report locale，默认 `["zh","en"]` |
+| `maxItems` | | 该源展示与摘要的条数上限（1-200），省略则继承子类上限 |
+| `enrich` | | 摘要方式：`auto`（默认）/ `news` / `intro` / `off`；`auto` 给 GitHub、论文、X 用专用提示词，其余合并类子组用通用新闻摘要 |
 | `notes` | | 备注，运行时忽略 |
 
 `category` 与 `subcategory` 必须是 `categories.config.json` 里已声明的 id；**启用源**写错组合时 `sources:check`、管理 API 与 `npm run daily` 启动都会报错，停用源保留旧 subcategory 便于回滚。
 
 ### 面板与条数
 
-`categories.config.json` 定义一级 tab、二级分组、每源条数上限与 digest 条数要求（`digestCount`、`payloadLimit`、`fallbackLimit`、`summaryStyle`，二级分组可带 `displayLimit` / `subLimit` / `mergeLimit`）。改分类不必抓数据：rendering 按源当前的分类归桶，只有被删源的文章才会退回抓取时的类别。每个列表首屏渲染 20 条，其余写进 `<date>-overflow/` 片段，滚动到底再取。
+`categories.config.json` 定义一级 tab、二级分组、每源条数上限与 digest 条数要求（`digestCount`、`payloadLimit`、`fallbackLimit`、`summaryStyle`，二级分组可带 `displayLimit` / `subLimit` / `mergeLimit`）。改分类不必抓数据：rendering 按源当前的分类归桶，只有被删源的文章才会退回抓取时的类别。每个列表首屏渲染 20 条，其余写进 `<date>-overflow/` 片段，滚动到底再取。源的 `maxItems` 在该源自己的桶内先截断，再进入子类的 `displayLimit` / `mergeLimit` 预算。
+
+`overview_sections` 是报告 JSON 里的分领域总览（每个大分类一段，`category` 存分类 id），旧报告没有该字段时页面与邮件回退到 `daily_overview` 单段。
 
 ### 境外源与快照
 

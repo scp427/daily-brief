@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 import { readCategoriesConfig, taxonomyIdsOf, type TaxonomyIds } from "../categories";
-import type { Category, SourceDef, SourceType } from "./types";
+import type { Category, EnrichStyle, SourceDef, SourceType } from "./types";
 
 /**
  * Read/write half of the source registry. `registry.ts` loads and filters
@@ -15,6 +15,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export const CONFIG_PATH = path.resolve(__dirname, "../..", "sources.config.json");
 
 const VALID_TYPES: ReadonlySet<string> = new Set(["rss", "api", "scrape"]);
+const VALID_ENRICH: ReadonlySet<string> = new Set(["auto", "news", "intro", "off"]);
+const MAX_ITEMS_LIMIT = 200;
 
 export interface SourceConfigReadResult {
   sources: SourceDef[];
@@ -83,6 +85,19 @@ export function validateSourceConfig(
     }
     if (s.domestic !== undefined && typeof s.domestic !== "boolean") {
       throw new Error(`${at} (${s.id}): 'domestic' must be a boolean`);
+    }
+    if (s.maxItems !== undefined) {
+      if (
+        typeof s.maxItems !== "number" ||
+        !Number.isInteger(s.maxItems) ||
+        s.maxItems < 1 ||
+        s.maxItems > MAX_ITEMS_LIMIT
+      ) {
+        throw new Error(`${at} (${s.id}): 'maxItems' must be an integer in 1..${MAX_ITEMS_LIMIT}`);
+      }
+    }
+    if (s.enrich !== undefined && !VALID_ENRICH.has(s.enrich as string)) {
+      throw new Error(`${at} (${s.id}): 'enrich' must be one of auto, news, intro, off`);
     }
   }
   return parsed as SourceDef[];
@@ -153,6 +168,8 @@ const PATCHABLE = [
   "keywords",
   "useCurl",
   "notes",
+  "maxItems",
+  "enrich",
 ] as const;
 
 export type SourcePatch = {
@@ -220,5 +237,7 @@ export function toSourceDef(body: Record<string, unknown>): SourceDef {
   if (body.keywords !== undefined) source.keywords = body.keywords as string[];
   if (body.useCurl !== undefined) source.useCurl = Boolean(body.useCurl);
   if (body.notes !== undefined) source.notes = String(body.notes);
+  if (body.maxItems !== undefined) source.maxItems = Number(body.maxItems);
+  if (body.enrich !== undefined) source.enrich = body.enrich as EnrichStyle;
   return source;
 }

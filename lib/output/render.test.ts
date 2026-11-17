@@ -64,14 +64,25 @@ test("groupRaw rejects a subcategory that categories.config.json does not declar
 });
 
 test("groupRaw buckets by the registry's category so a retagged source leaves its old tab", () => {
-  const registry = [source({ id: "sample", category: "community", subcategory: "cn-video" })];
+  const registry = [source({ id: "sample", category: "society", subcategory: "cn-video" })];
   // The sidecar still carries the category recorded before the retag.
   const grouped = groupRaw([article("sample", "tech")], registry);
   assert.deepEqual(grouped.tech, []);
   assert.deepEqual(
-    grouped.community?.flatMap((sub) => sub.sources.map((s) => s.sourceId)),
+    grouped.society?.flatMap((sub) => sub.sources.map((s) => s.sourceId)),
     ["sample"],
   );
+});
+
+test("a per-source maxItems cap trims its bucket before the subcategory budget", () => {
+  const registry = [
+    source({ id: "capped", category: "tech", subcategory: "cn-community", maxItems: 2 }),
+    source({ id: "free", category: "tech", subcategory: "cn-community" }),
+  ];
+  const raw = groupRaw([...many("capped", "tech", 5), ...many("free", "tech", 5)], registry);
+  const groups = raw.tech.find((sub) => sub.id === "cn-community")?.sources ?? [];
+  assert.equal(groups.find((g) => g.sourceId === "capped")?.items.length, 2);
+  assert.equal(groups.find((g) => g.sourceId === "free")?.items.length, 5);
 });
 
 test("a subcategory with no items renders no tab", () => {

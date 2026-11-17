@@ -6,6 +6,14 @@
 export type Category = string;
 export type SourceType = "rss" | "api" | "scrape";
 
+/**
+ * Which prompt summarises this source's items. `auto` picks the dedicated
+ * prompt for GitHub/papers/X and the generic news prompt for merged
+ * subcategories; `news` and `intro` force one generic prompt; `off` skips
+ * enrichment entirely.
+ */
+export type EnrichStyle = "auto" | "news" | "intro" | "off";
+
 export interface SourceDef {
   id: string;
   name: string;
@@ -58,6 +66,14 @@ export interface SourceDef {
    * Omit or leave empty to return all items unfiltered.
    */
   keywords?: string[];
+  /**
+   * Per-source display cap. Truncates this source's bucket before the
+   * renderer applies subcategory budgets, and caps how many of its items
+   * the summariser processes. Omit to inherit the subcategory limit.
+   */
+  maxItems?: number;
+  /** Summary prompt style; see {@link EnrichStyle}. Defaults to "auto". */
+  enrich?: EnrichStyle;
 }
 
 export interface RawArticle {

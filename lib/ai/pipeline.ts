@@ -16,9 +16,19 @@ export interface BriefItem {
   importance: number;
 }
 
+/** One per-category paragraph of the daily overview. */
+export interface OverviewSection {
+  /** Category id from categories.config.json. */
+  category: string;
+  text: string;
+}
+
 export interface DailyReport {
   hero_headline: string;
+  /** Lead-in paragraph shown above the per-category overview sections. */
   daily_overview: string;
+  /** Absent on reports written before per-category overviews existed. */
+  overview_sections?: OverviewSection[];
   /** Digest briefs keyed by category id (see categories.config.json). */
   briefs: Record<string, BriefItem[]>;
   editor_note: string;
@@ -140,6 +150,22 @@ export function buildFallbackDailyReport(
   };
 }
 
+/**
+ * Keep only sections naming a declared category with non-empty text. LLM
+ * output is a real boundary: an unknown id would render as a bare id.
+ */
+export function normalizeOverviewSections(raw: unknown): OverviewSection[] {
+  if (!Array.isArray(raw)) return [];
+  return raw.flatMap((entry) => {
+    const item = entry as { category?: unknown; text?: unknown };
+    if (typeof item.category !== "string" || !categoryIds.includes(item.category)) {
+      return [];
+    }
+    if (typeof item.text !== "string" || !item.text.trim()) return [];
+    return [{ category: item.category, text: item.text.trim() }];
+  });
+}
+
 function isRecoverableDigestOutputError(error: unknown): boolean {
   return (
     error instanceof SyntaxError ||
@@ -162,7 +188,8 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           "",
           "The JSON must contain every field non-empty (briefs arrays per the system-prompt counts):",
           "  - hero_headline: 10-25 word headline of the day",
-          `  - daily_overview: **150-250 word** paragraph covering ${categories.map((c) => c.labelEn).join(" / ")} signals so a reader sees the whole picture at a glance`,
+          "  - daily_overview: **60-100 word** lead-in that frames the day",
+          `  - overview_sections: one entry per category, in this order: ${categories.map((c) => c.id).join(", ")}. Each entry is {"category": "<id>", "text": "<40-60 word summary of that domain>"}`,
           ...categories.map(
             (c) => `  - ${c.id}_briefs: **${c.digestCount}** ${c.labelEn} BriefItems`,
           ),
@@ -181,7 +208,8 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           "",
           "JSON 必须包含全部字段且不能为空（briefs 数组按 system prompt 规定的条数填充）：",
           "  - hero_headline: 10-25 字的当日一句话头条",
-          `  - daily_overview: **150-220 字** 的当日总览段落，一段话覆盖${categories.map((c) => c.labelZh).join(" / ")} 的核心信号，让读者一眼抓住全貌`,
+          "  - daily_overview: **60-100 字** 的当日导语（先给全局）",
+          `  - overview_sections: 每个大分类一条，顺序为 ${categories.map((c) => c.id).join(" / ")}，每条 {"category": "<分类 id>", "text": "<40-60 字的该领域概览>"}`,
           ...categories.map(
             (c) => `  - ${c.id}_briefs: **${c.digestCount} 条** ${c.labelZh} BriefItem`,
           ),
@@ -240,9 +268,14 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
     briefs[category.id] = (field as BriefItem[] | undefined) ?? [];
   }
 
+  const overview_sections = normalizeOverviewSections(
+    (parsed as { overview_sections?: unknown }).overview_sections,
+  );
+
   return {
     hero_headline: parsed.hero_headline ?? "",
     daily_overview: parsed.daily_overview ?? "",
+    ...(overview_sections.length ? { overview_sections } : {}),
     briefs,
     editor_note: parsed.editor_note ?? "",
     keywords: parsed.keywords ?? [],
@@ -303,6 +336,9 @@ export async function generateDailyReport(
       }
     }
   }
+
+  report.overview_sections = normalizeOverviewSections(report.overview_sections);
+  if (report.overview_sections.length === 0) delete report.overview_sections;
 
   // Max subscription has no per-call token meter — we expose 0 for schema
   // compatibility; consumers should treat 0 as "metric not available".

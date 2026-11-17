@@ -168,7 +168,7 @@ export type RawByCategory = Record<string, SubGroup[]>;
  * algorithm we want to preserve. groupRaw skips its default date-desc sort
  * for these so the final render reflects the source's own ranking.
  */
-const PRESERVE_FETCH_ORDER_SOURCES = new Set([
+export const PRESERVE_FETCH_ORDER_SOURCES = new Set([
   "attentionvc-ai",
   "huggingface-papers",
 ]);
@@ -199,9 +199,11 @@ export function groupRaw(
   // source's articles land in the bucket its *current* config entry names.
   const subcatOf = new Map<string, string | undefined>();
   const catOf = new Map<string, string>();
+  const maxItemsOf = new Map<string, number>();
   for (const s of registry) {
     subcatOf.set(s.id, s.subcategory);
     catOf.set(s.id, s.category);
+    if (s.maxItems !== undefined) maxItemsOf.set(s.id, s.maxItems);
   }
   // Drop articles from sources that have since been disabled — important
   // when scripts/render.ts re-renders against a stale sidecar that still
@@ -275,10 +277,13 @@ export function groupRaw(
     b: Bucket,
     limit: number | undefined,
   ): SourceGroup {
+    // A per-source cap wins over the subcategory display limit, so one noisy
+    // feed cannot crowd out its siblings.
+    const cap = maxItemsOf.get(sourceId) ?? limit;
     return {
       sourceId,
       sourceName: b.sourceName,
-      items: limit ? b.items.slice(0, limit) : b.items,
+      items: cap ? b.items.slice(0, cap) : b.items,
     };
   }
 
@@ -322,7 +327,10 @@ export function groupRaw(
         // the renderer can label them.
         const flat: ArticleInput[] = [];
         for (const [id, b] of buckets[cat].entries()) {
-          if (subcatOf.get(id) === subId) flat.push(...b.items);
+          if (subcatOf.get(id) === subId) {
+            const cap = maxItemsOf.get(id);
+            flat.push(...(cap ? b.items.slice(0, cap) : b.items));
+          }
         }
         if (flat.length === 0) continue;
         flat.sort(
@@ -742,13 +750,26 @@ export function renderHtml(
     .sort((a, b) => b.importance - a.importance)
     .slice(0, 3);
 
+  const overviewRows = (report.overview_sections ?? [])
+    .map(
+      (section) =>
+        `<li class="overview-row"><span class="overview-cat">${escapeHtml(categoryLabel(section.category))}</span><p class="overview-text">${escapeHtml(section.text)}</p></li>`,
+    )
+    .join("");
+  const overviewCard =
+    report.daily_overview || overviewRows
+      ? `<div class="overview-card"><span class="eyebrow">${STR.mdTodayOverview}</span>${
+          report.daily_overview
+            ? `<p class="overview-text">${escapeHtml(report.daily_overview)}</p>`
+            : ""
+        }${overviewRows ? `<ul class="overview-list">${overviewRows}</ul>` : ""}</div>`
+      : "";
+
   const heroHtml = [
     report.hero_headline
       ? `<h2 class="hero-headline">${escapeHtml(report.hero_headline)}</h2>`
       : "",
-    report.daily_overview
-      ? `<div class="overview-card"><span class="eyebrow">${STR.mdTodayOverview}</span><p class="overview-text">${escapeHtml(report.daily_overview)}</p></div>`
-      : "",
+    overviewCard,
     report.keywords.length
       ? `<div class="keywords">${report.keywords.map((k) => `<span class="keyword">#${escapeHtml(k)}</span>`).join("")}</div>`
       : "",
@@ -1114,6 +1135,9 @@ export function renderMarkdown(report: DailyReport, date: string): string {
   if (report.hero_headline) blocks.push(`> ${report.hero_headline}\n`);
   if (report.daily_overview) {
     blocks.push(`## ${STR.mdTodayOverview}\n\n${report.daily_overview}\n`);
+  }
+  for (const section of report.overview_sections ?? []) {
+    blocks.push(`### ${categoryLabel(section.category)}\n\n${section.text}\n`);
   }
   for (const id of categoryIds) {
     blocks.push(

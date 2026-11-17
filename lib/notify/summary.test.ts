@@ -33,6 +33,15 @@ test("buildNotifySummary takes one bullet per category and the trading overview"
   assert.equal(summary.url, "https://example.com/brief/2026-11-17/2026-11-17.html");
 });
 
+test("buildNotifySummary turns overview sections into localized labels", () => {
+  const summary = buildNotifySummary(
+    "2026-11-17",
+    report({ overview_sections: [{ category: "tech", text: "技术综述" }] }),
+    { maxBullets: 6, baseUrl: "" },
+  );
+  assert.deepEqual(summary.sections, [{ label: "技术动态", text: "技术综述" }]);
+});
+
 test("buildNotifySummary caps bullets and omits the link when baseUrl is empty", () => {
   const summary = buildNotifySummary("2026-11-17", report(), { maxBullets: 0, baseUrl: "" });
   assert.deepEqual(summary.bullets, []);

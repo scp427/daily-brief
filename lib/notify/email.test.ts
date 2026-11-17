@@ -46,6 +46,17 @@ test("renderEmail includes every section and escapes HTML", () => {
   assert.match(html, /href="https:\/\/example\.com/);
 });
 
+test("renderEmail renders per-category sections instead of the bullet list", () => {
+  const { text, html } = renderEmail(
+    { ...SUMMARY, sections: [{ label: "技术动态", text: "技术综述" }] },
+    "[简报]",
+  );
+  assert.match(text, /技术动态\n技术综述/);
+  assert.doesNotMatch(text, /要点/);
+  assert.match(html, /技术动态/);
+  assert.doesNotMatch(html, /技术动态：技术头条/);
+});
+
 test("renderEmail truncates a long headline in the subject", () => {
   const { subject } = renderEmail({ ...SUMMARY, headline: "长".repeat(60) }, "[简报]");
   assert.equal(subject, `[简报] 2026-11-17 ${"长".repeat(40)}…`);

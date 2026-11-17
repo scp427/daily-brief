@@ -98,38 +98,12 @@
       ]
     },
     {
-      "id": "community",
-      "labelZh": "社区讨论",
-      "labelEn": "Community",
-      "digestCount": "3-5",
-      "payloadLimit": 20,
-      "fallbackLimit": 5,
-      "summaryStyle": "news",
-      "subcategories": [
-        {
-          "id": "cn-video",
-          "labelZh": "中文视频",
-          "labelEn": "Chinese Video"
-        },
-        {
-          "id": "overseas-video",
-          "labelZh": "海外视频",
-          "labelEn": "Overseas Video"
-        },
-        {
-          "id": "cn-hot",
-          "labelZh": "中文热榜",
-          "labelEn": "Chinese Hot Lists"
-        }
-      ]
-    },
-    {
       "id": "society",
       "labelZh": "社会民生",
       "labelEn": "Society",
-      "digestCount": "3-5",
-      "payloadLimit": 20,
-      "fallbackLimit": 5,
+      "digestCount": "4-6",
+      "payloadLimit": 25,
+      "fallbackLimit": 6,
       "summaryStyle": "news",
       "subcategories": [
         {
@@ -155,6 +129,16 @@
           "labelZh": "海外娱乐",
           "labelEn": "Entertainment",
           "displayLimit": 15
+        },
+        {
+          "id": "cn-video",
+          "labelZh": "中文视频",
+          "labelEn": "Chinese Video"
+        },
+        {
+          "id": "cn-hot",
+          "labelZh": "中文热榜",
+          "labelEn": "Chinese Hot Lists"
         }
       ]
     }

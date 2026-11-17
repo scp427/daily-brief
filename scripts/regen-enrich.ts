@@ -3,7 +3,7 @@ import "./_env";
 import fs from "node:fs";
 import path from "node:path";
 
-import { enrichFinanceNewsSummaries } from "../lib/ai/enrich";
+import { enrichNewsSummaries } from "../lib/ai/enrich";
 import { validateBackendCredentials } from "../lib/ai/llm";
 import type { ArticleInput } from "../lib/ai/pipeline";
 import { sources, REPORT_LOCALE } from "../lib/sources/registry";
@@ -89,7 +89,7 @@ async function main() {
   }
 
   const t0 = Date.now();
-  const summaries = await enrichFinanceNewsSummaries(missing);
+  const summaries = await enrichNewsSummaries(missing);
   console.log(
     `[regen-enrich] enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${missing.length}`,
   );

@@ -126,7 +126,7 @@ test("writeHtml publishes the overflow fragment each long list points at", () =>
     source: "B站科技区",
     title: `视频 ${i}`,
     url: `https://www.bilibili.com/video/${i}`,
-    category: "community",
+    category: "society",
   }));
   const sources = [
     {
@@ -134,7 +134,7 @@ test("writeHtml publishes the overflow fragment each long list points at", () =>
       name: "B站科技区",
       type: "api" as const,
       url: "https://api.bilibili.com/x/web-interface/ranking/v2?rid=188",
-      category: "community",
+      category: "society",
       subcategory: "cn-video",
     },
   ];

@@ -12,13 +12,19 @@ import {
 } from "../lib/ai/pipeline";
 import { getModelTag, validateBackendCredentials } from "../lib/ai/llm";
 import {
-  enrichFinanceNewsSummaries,
   enrichGithubTrendingSummaries,
+  enrichIntroSummaries,
+  enrichNewsSummaries,
   enrichTrendingPapersSummaries,
   enrichXViralSummaries,
 } from "../lib/ai/enrich";
 import { categories, dropsSports } from "../lib/categories";
-import { PAGE_SIZE, isSportsArticle, renderMarkdown } from "../lib/output/render";
+import {
+  PAGE_SIZE,
+  PRESERVE_FETCH_ORDER_SOURCES,
+  isSportsArticle,
+  renderMarkdown,
+} from "../lib/output/render";
 import { writeHtml } from "../lib/output/store";
 import { analyzeWatchlist } from "../lib/trading/runner";
 import { fetchCryptoFearGreed } from "../lib/trading/fear-greed";
@@ -26,6 +32,7 @@ import { fetchCryptoGlobal } from "../lib/trading/coingecko";
 import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
+import type { SourceDef } from "../lib/sources/types";
 import {
   buildNotifySummary,
   createChannels,
@@ -51,153 +58,171 @@ async function fetchAll(): Promise<ArticleInput[]> {
   return articles;
 }
 
-async function enrichGhTrending(articles: ArticleInput[]): Promise<void> {
-  const gh = articles.filter((a) => a.sourceId === "github-trending");
-  if (gh.length === 0) return;
-  console.log(
-    `[daily] enriching ${gh.length} GitHub Trending repos with ${REPORT_LOCALE} summaries…`,
-  );
-  const t0 = Date.now();
-  const summaries = await enrichGithubTrendingSummaries(gh);
-  for (const a of gh) {
-    const s = summaries.get(a.url);
-    if (s) a.summary = s;
-  }
-  console.log(
-    `[daily] enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${gh.length}`,
+type PromptStyle = "gh" | "papers" | "xViral" | "news" | "intro";
+
+/** Sources whose items get a dedicated prompt under `enrich: "auto"`. */
+const DEDICATED_STYLE: Record<string, PromptStyle> = {
+  "github-trending": "gh",
+  "huggingface-papers": "papers",
+  "attentionvc-ai": "xViral",
+};
+
+/** Items per LLM call; keeps a batch inside the provider's response budget. */
+const ENRICH_BATCH = 20;
+
+function mergedLimitOf(source: SourceDef): number | undefined {
+  return categories
+    .find((c) => c.id === source.category)
+    ?.subcategories.find(
+      (s) => s.id === source.subcategory && s.mergeLimit !== undefined,
+    )?.mergeLimit;
+}
+
+/**
+ * Resolve which prompt summarises a source: an explicit `enrich` wins, and
+ * `auto` maps the dedicated feeds to their prompt plus merged subcategories
+ * to the generic news prompt.
+ */
+function resolvePromptStyle(source: SourceDef): PromptStyle | undefined {
+  const chosen = source.enrich ?? "auto";
+  if (chosen === "off") return undefined;
+  if (chosen === "news" || chosen === "intro") return chosen;
+  return (
+    DEDICATED_STYLE[source.id] ??
+    (mergedLimitOf(source) !== undefined ? "news" : undefined)
   );
 }
 
 /**
- * Every subcategory with a `mergeLimit` in categories.config.json renders as
- * one merged time-sorted list. Enrich exactly the items that will be
- * displayed: take all enabled articles in (category, subcategory), sort by
- * publishedAt desc, slice to the merge limit, and ask the LLM for factual
- * summaries.
+ * Items in the order the renderer will show them: fetcher order for the
+ * rank-preserving sources, newest first otherwise.
  */
-async function enrichMergedSubgroups(articles: ArticleInput[]): Promise<void> {
+function orderedItems(
+  source: SourceDef,
+  articles: ArticleInput[],
+): ArticleInput[] {
+  const own = articles.filter((a) => a.sourceId === source.id);
+  if (PRESERVE_FETCH_ORDER_SOURCES.has(source.id)) return own;
+  return [...own].sort(
+    (a, b) => (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0),
+  );
+}
+
+function capOf(source: SourceDef, style: PromptStyle): number | undefined {
+  if (source.maxItems !== undefined) return source.maxItems;
+  if (style === "news") return mergedLimitOf(source);
+  if (style === "papers" || style === "xViral") return PAGE_SIZE;
+  return undefined;
+}
+
+function callStyle(
+  style: PromptStyle,
+  items: ArticleInput[],
+): Promise<Map<string, string>> {
+  switch (style) {
+    case "gh":
+      return enrichGithubTrendingSummaries(items);
+    case "papers":
+      return enrichTrendingPapersSummaries(items);
+    case "xViral":
+      return enrichXViralSummaries(
+        items.map((a) => ({
+          url: a.url,
+          title: a.title,
+          excerpt: a.excerpt,
+          // Author handle is part of the URL — it tells the model whose claim it is.
+          author: a.url.match(/x\.com\/([^/]+)\//)?.[1] ?? "",
+        })),
+      );
+    case "news":
+      return enrichNewsSummaries(items);
+    case "intro":
+      return enrichIntroSummaries(items);
+  }
+}
+
+/**
+ * Summarise the items each source will actually display. Merged
+ * subcategories are summarised as the merged timeline (post-merge limit);
+ * every other source is capped independently. Sources already in the target
+ * language are skipped unless they use a dedicated prompt.
+ */
+async function enrichArticles(articles: ArticleInput[]): Promise<void> {
+  const byId = new Map(sources.map((s) => [s.id, s]));
+  const groups = new Map<PromptStyle, ArticleInput[]>();
+  const add = (style: PromptStyle, items: ArticleInput[]): void => {
+    if (items.length === 0) return;
+    groups.set(style, [...(groups.get(style) ?? []), ...items]);
+  };
+
+  const mergedSourceIds = new Set<string>();
   for (const category of categories) {
     for (const sub of category.subcategories) {
       if (sub.mergeLimit === undefined) continue;
-      await enrichMergedSubgroup(articles, category.id, sub.id, sub.mergeLimit);
+      const members = sources.filter(
+        (s) =>
+          s.enabled !== false &&
+          s.category === category.id &&
+          s.subcategory === sub.id,
+      );
+      if (members.length === 0) continue;
+      const style = members
+        .map(resolvePromptStyle)
+        .find((st) => st === "news" || st === "intro");
+      if (!style) continue;
+      for (const s of members) mergedSourceIds.add(s.id);
+      const merged = members
+        .flatMap((s) => {
+          const own = orderedItems(s, articles);
+          return s.maxItems === undefined ? own : own.slice(0, s.maxItems);
+        })
+        .filter((a) => !dropsSports(category.id) || !isSportsArticle(a.title))
+        .sort(
+          (a, b) =>
+            (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0),
+        )
+        .slice(0, sub.mergeLimit)
+        .filter(
+          (a) => (byId.get(a.sourceId)?.lang ?? "en") !== REPORT_LOCALE,
+        );
+      add(style, merged);
     }
   }
-}
 
-/**
- * X 热帖 enrichment is different from merged subgroups — we preserve the
- * AttentionVC API's heat-rank order (do NOT sort by date) and cap to the
- * first rendered page (PAGE_SIZE): entries past it load on scroll and go
- * without a per-item summary.
- *
- * The Sonnet prompt also differs (XVIRAL_SYSTEM_PROMPT in enrich.ts) — X
- * tweet titles are clickbait, the previewText holds the actual claim.
- */
-async function enrichXViral(articles: ArticleInput[]): Promise<void> {
-  const xPosts = articles
-    .filter((a) => a.sourceId === "attentionvc-ai")
-    .slice(0, PAGE_SIZE);
-  if (xPosts.length === 0) return;
-  console.log(`[daily] enriching ${xPosts.length} X posts with ${REPORT_LOCALE} summaries…`);
-  const t0 = Date.now();
-  // Author handle is encoded in the URL (https://x.com/{handle}/status/{id})
-  // — extract it to help the model identify whose claim it is.
-  const summaries = await enrichXViralSummaries(
-    xPosts.map((a) => ({
-      url: a.url,
-      title: a.title,
-      excerpt: a.excerpt,
-      author: a.url.match(/x\.com\/([^/]+)\//)?.[1] ?? "",
-    })),
-  );
-  for (const a of xPosts) {
-    const s = summaries.get(a.url);
-    if (s) a.summary = s;
-  }
-  console.log(
-    `[daily] enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${xPosts.length}`,
-  );
-}
-
-/**
- * Trending papers enrichment — preserves the fetcher's upvote-desc order
- * (huggingface-papers is in PRESERVE_FETCH_ORDER_SOURCES) and caps to the
- * first rendered page (PAGE_SIZE): entries past it load on scroll and go
- * without a per-item summary.
- */
-async function enrichTrendingPapers(articles: ArticleInput[]): Promise<void> {
-  const papers = articles
-    .filter((a) => a.sourceId === "huggingface-papers")
-    .slice(0, PAGE_SIZE);
-  if (papers.length === 0) return;
-  console.log(
-    `[daily] enriching ${papers.length} trending papers with ${REPORT_LOCALE} summaries…`,
-  );
-  const t0 = Date.now();
-  const summaries = await enrichTrendingPapersSummaries(
-    papers.map((a) => ({ url: a.url, title: a.title, excerpt: a.excerpt })),
-  );
-  for (const a of papers) {
-    const s = summaries.get(a.url);
-    if (s) a.summary = s;
-  }
-  console.log(
-    `[daily] enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${papers.length}`,
-  );
-}
-
-/**
- * Shared implementation for "merged subgroup" enrichment: collect all
- * enabled articles in (category, subcategory), sort by date desc, take
- * the display cap, and ask the LLM to summarize them into REPORT_LOCALE in
- * a single batch. Symmetric to the merge logic in render.ts groupRaw, so
- * display and enrichment stay aligned.
- *
- * Sources whose `lang` already matches REPORT_LOCALE are skipped — no
- * point translating English to English (en mode) or Chinese to Chinese
- * (zh mode).
- */
-async function enrichMergedSubgroup(
-  articles: ArticleInput[],
-  category: string,
-  subcategory: string,
-  limit: number,
-): Promise<void> {
-  const subSources = sources.filter(
-    (s) =>
-      s.category === category &&
-      s.subcategory === subcategory &&
-      s.enabled !== false,
-  );
-  const enabledIds = new Set(subSources.map((s) => s.id));
-  const sameLocaleIds = new Set(
-    subSources.filter((s) => (s.lang ?? "en") === REPORT_LOCALE).map((s) => s.id),
-  );
-  // Top-N respects all enabled sources (so we don't reshape the merged
-  // timeline). Enrichment only targets items NOT already in the target
-  // language within that slice.
-  const top = articles
-    .filter((a) => enabledIds.has(a.sourceId))
-    .filter((a) => !dropsSports(category) || !isSportsArticle(a.title))
-    .sort(
-      (a, b) =>
-        (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0),
+  for (const source of sources) {
+    if (source.enabled === false || mergedSourceIds.has(source.id)) continue;
+    const style = resolvePromptStyle(source);
+    if (!style) continue;
+    if (
+      (style === "news" || style === "intro") &&
+      (source.lang ?? "en") === REPORT_LOCALE
     )
-    .slice(0, limit);
-  const toEnrich = top.filter((a) => !sameLocaleIds.has(a.sourceId));
-  if (toEnrich.length === 0) return;
-  console.log(
-    `[daily] enriching ${toEnrich.length}/${top.length} ${category}:${subcategory} items with ${REPORT_LOCALE} summaries…`,
-  );
-  const t0 = Date.now();
-  const summaries = await enrichFinanceNewsSummaries(toEnrich);
-  for (const a of toEnrich) {
-    const s = summaries.get(a.url);
-    if (s) a.summary = s;
+      continue;
+    let items = orderedItems(source, articles);
+    if (dropsSports(source.category)) {
+      items = items.filter((a) => !isSportsArticle(a.title));
+    }
+    const cap = capOf(source, style);
+    add(style, cap === undefined ? items : items.slice(0, cap));
   }
-  console.log(
-    `[daily] enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${toEnrich.length}`,
-  );
+
+  for (const [style, items] of groups) {
+    for (let i = 0; i < items.length; i += ENRICH_BATCH) {
+      const chunk = items.slice(i, i + ENRICH_BATCH);
+      console.log(
+        `[daily] enriching ${chunk.length} ${style} items with ${REPORT_LOCALE} summaries…`,
+      );
+      const t0 = Date.now();
+      const summaries = await callStyle(style, chunk);
+      for (const a of chunk) {
+        const summary = summaries.get(a.url);
+        if (summary) a.summary = summary;
+      }
+      console.log(
+        `[daily] ${style} enrichment done in ${((Date.now() - t0) / 1000).toFixed(1)}s, matched ${summaries.size}/${chunk.length}`,
+      );
+    }
+  }
 }
 
 /**
@@ -257,11 +282,7 @@ async function main() {
     throw new Error("no articles fetched — aborting");
   }
 
-  // Enrich GH Trending, papers, finance news, and politics with summaries.
-  await enrichGhTrending(articles);
-  await enrichTrendingPapers(articles);
-  await enrichMergedSubgroups(articles);
-  await enrichXViral(articles);
+  await enrichArticles(articles);
 
   // Trading signals: Yahoo fetch + indicators + commentary. Non-fatal —
   // if it errors, we still ship the news digest.

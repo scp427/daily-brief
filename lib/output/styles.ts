@@ -307,6 +307,28 @@ header.report-header {
   line-height: 1.75;
   color: var(--fg-soft);
 }
+.overview-list {
+  list-style: none;
+  margin: 0.7rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+.overview-row {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  gap: 0.6rem;
+  align-items: baseline;
+}
+.overview-cat {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+@media (max-width: 560px) {
+  .overview-row { grid-template-columns: 1fr; gap: 0.15rem; }
+}
 .keywords { display: flex; flex-wrap: wrap; gap: 6px; margin: 0.85rem 0 0; }
 .keyword {
   background: var(--accent-soft);

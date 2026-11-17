@@ -8,7 +8,9 @@ export interface NotifySummary {
   date: string;
   headline: string;
   overview: string;
-  /** 每个分类取一条，形如「技术动态：标题」。 */
+  /** 按大分类展开的总览段落；旧报告没有该结构时为空。 */
+  sections?: Array<{ label: string; text: string }>;
+  /** 每个分类取一条，形如「技术动态：标题」；有 sections 时渠道可省略。 */
   bullets: string[];
   /** 交易日点评的首段；当日没有行情板块时为空。 */
   trading?: string;
