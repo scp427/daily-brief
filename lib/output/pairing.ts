@@ -49,3 +49,41 @@ export function auditPairing(
   }
   return issues;
 }
+
+export interface SidecarCategoryDrift {
+  sourceId: string;
+  from: string;
+  to: string;
+  count: number;
+}
+
+/**
+ * Sidecar articles carry the category that was current when they were fetched.
+ * `groupRaw()` buckets each article under the source's current category, so a
+ * source that moved between categories leaves records whose recorded category
+ * no longer matches; that stale value reaches the page only as
+ * `summaryStyleOf(a.category)`. Counts drift per (source, recorded category)
+ * for the caller to report, and never judges the pair: legality belongs to
+ * `auditPairing()`, which reads the current config.
+ */
+export function auditSidecarCategories(
+  articles: ReadonlyArray<{ sourceId: string; category: string }>,
+  byId: ReadonlyMap<string, SourceDef>,
+): SidecarCategoryDrift[] {
+  const drift = new Map<string, SidecarCategoryDrift>();
+  for (const a of articles) {
+    const s = byId.get(a.sourceId);
+    if (s === undefined || s.enabled === false) continue;
+    if (a.category === s.category) continue;
+    const key = `${a.sourceId}\u0000${a.category}`;
+    const entry = drift.get(key) ?? {
+      sourceId: a.sourceId,
+      from: a.category,
+      to: s.category,
+      count: 0,
+    };
+    entry.count += 1;
+    drift.set(key, entry);
+  }
+  return [...drift.values()];
+}

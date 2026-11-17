@@ -1,12 +1,13 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { auditPairing, pairingViolation } from "./pairing";
+import { auditPairing, auditSidecarCategories, pairingViolation } from "./pairing";
 import type { SourceDef } from "../sources/types";
 
 const ORDER: Record<string, string[]> = {
   tech: ["cn-video", "ai-news"],
   politics: ["china", "world"],
+  community: ["cn-video", "overseas-video"],
 };
 
 function source(overrides: Partial<SourceDef> = {}): SourceDef {
@@ -58,4 +59,28 @@ test("auditPairing reports enabled sources only, and skips undeclared categories
     issues.map((i) => i.sourceId),
     ["moved", "bare"],
   );
+});
+
+test("auditSidecarCategories counts drift for a source that moved, without failing the pair", () => {
+  const moved = source({ id: "sample", category: "community", subcategory: "overseas-video" });
+  const articles = [
+    { sourceId: "sample", category: "tech" },
+    { sourceId: "sample", category: "tech" },
+    { sourceId: "sample", category: "community" },
+    { sourceId: "sample", category: "politics" },
+  ];
+  assert.deepEqual(auditPairing([moved], ORDER), []);
+  assert.deepEqual(auditSidecarCategories(articles, new Map([[moved.id, moved]])), [
+    { sourceId: "sample", from: "tech", to: "community", count: 2 },
+    { sourceId: "sample", from: "politics", to: "community", count: 1 },
+  ]);
+});
+
+test("auditSidecarCategories ignores disabled and unknown sources", () => {
+  const off = source({ id: "off", enabled: false, category: "community" });
+  const articles = [
+    { sourceId: "off", category: "tech" },
+    { sourceId: "gone", category: "tech" },
+  ];
+  assert.deepEqual(auditSidecarCategories(articles, new Map([[off.id, off]])), []);
 });
