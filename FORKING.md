@@ -54,29 +54,15 @@ Workflow:
 
 For **non-RSS source types** (custom JSON API, scraping), create a new file in `lib/sources/`, export a `fetchXxx(sourceId)` function returning `RawArticle[]`, then add a branch in [`lib/sources/dispatch.ts`](lib/sources/dispatch.ts) so `type: "api"` or `type: "scrape"` entries route there.
 
-## Rename L1 tabs / change order
+## Rename an L1 tab, reorder tabs, add a category
 
-[`lib/output/render.ts`](lib/output/render.ts):
+Edit `categories.config.json`. `labelZh` / `labelEn` rename a panel; the array order is the L1 tab order. A new object in `categories` adds a panel — `lib/categories.ts` validates it, and the renderer, the digest prompt and source validation all derive from it. `tradingPanel.insertAfter` pins the markets panel after the named category.
 
-```ts
-const CATEGORY_LABELS: Record<Category, string> = {
-  tech: "技术动态",        // ← rename here
-  finance: "财经要点",
-  politics: "时政观察",
-};
-```
+## Add an L2 subcategory
 
-L1 panel order is hardcoded in `renderHtml()` (search for `<nav class="tabs">`). Reorder the `<button>` lines.
-
-## Add a new L2 subcategory under tech
-
-1. In `registry.ts`: tag sources with `subcategory: "my-new-sub"`
-2. In `render.ts`:
-   - Add `"my-new-sub"` to `SUBCATEGORY_ORDER.tech`
-   - Add `"my-new-sub": "我的新栏目"` to `SUBCATEGORY_LABELS`
-   - Add to `TECH_MAIN_SUBS` (or `TECH_COMMUNITY_SUBS` for community panel) — controls which L1 panel renders it
-   - Optionally: `SOURCE_DISPLAY_LIMITS["tech:my-new-sub"]` for per-source cap
-   - Optionally: `MERGED_SUBGROUP_LIMITS["tech:my-new-sub"]` to merge sources into single time-sorted list
+1. Declare it in the category's `subcategories` in `categories.config.json`: `displayLimit` caps each source, `subLimit` caps the whole sub-tab, `mergeLimit` flattens every source of the subcategory into one time-sorted list.
+2. Tag sources with `subcategory: "<id>"` in `sources.config.json`.
+3. `extraPanels` moves a declared subcategory out of its category into its own L1 panel.
 
 ## Add Chinese summary enrichment for a new subcategory
 

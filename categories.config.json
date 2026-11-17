@@ -122,6 +122,41 @@
           "labelEn": "Zhihu Hot"
         }
       ]
+    },
+    {
+      "id": "society",
+      "labelZh": "社会民生",
+      "labelEn": "Society",
+      "digestCount": "3-5",
+      "payloadLimit": 20,
+      "fallbackLimit": 5,
+      "summaryStyle": "news",
+      "subcategories": [
+        {
+          "id": "cn-society",
+          "labelZh": "国内社会",
+          "labelEn": "China Society",
+          "displayLimit": 12
+        },
+        {
+          "id": "cn-ent",
+          "labelZh": "中文文娱",
+          "labelEn": "Chinese Entertainment",
+          "displayLimit": 20
+        },
+        {
+          "id": "overseas-society",
+          "labelZh": "海外社会",
+          "labelEn": "World Society",
+          "mergeLimit": 12
+        },
+        {
+          "id": "overseas-ent",
+          "labelZh": "海外娱乐",
+          "labelEn": "Entertainment",
+          "displayLimit": 15
+        }
+      ]
     }
   ],
   "extraPanels": [],
