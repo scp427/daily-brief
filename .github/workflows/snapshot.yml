@@ -1,0 +1,69 @@
+name: Overseas source snapshots
+
+# Overseas feeds cannot be reached from a mainland host, so a runner fetches
+# them and commits the result to the `snapshots` branch. The report host reads
+# that branch back (lib/sources/snapshot.ts) before each of its own daily runs,
+# at 08:00 and 17:00 Asia/Shanghai.
+
+on:
+  schedule:
+    # 06:07 / 06:37 and 16:07 / 16:37 Asia/Shanghai — one window ahead of each
+    # report run, so the afternoon report does not reuse the morning snapshot.
+    # The second slot in each window covers a dropped first run.
+    - cron: "7 22 * * *"
+    - cron: "37 22 * * *"
+    - cron: "7 8 * * *"
+    - cron: "37 8 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated source ids (empty = every overseas source)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshots
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Restore the previous snapshot set
+        run: |
+          if git fetch --depth=1 origin snapshots; then
+            git checkout FETCH_HEAD -- snapshots
+          else
+            echo "no snapshots branch yet — starting from an empty set"
+          fi
+
+      - name: Fetch overseas sources
+        env:
+          ONLY: ${{ inputs.only }}
+        run: |
+          args=(--out snapshots --keep 7)
+          if [ -n "$ONLY" ]; then args+=(--only "$ONLY"); fi
+          node scripts/run-tsx.mjs scripts/snapshot.ts "${args[@]}"
+
+      - name: Publish the snapshots branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan snapshots-next
+          git rm -rf --cached . --quiet
+          git add snapshots
+          git commit -m "snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push --force origin snapshots-next:snapshots

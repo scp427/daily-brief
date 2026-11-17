@@ -1,0 +1,19 @@
+[Unit]
+Description=daily-brief source admin server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=@USER@
+Group=@USER@
+WorkingDirectory=@APP@
+Environment=PATH=@HOME@/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/usr/bin/node scripts/run-tsx.mjs scripts/admin-server.ts
+Restart=always
+RestartSec=3
+StandardOutput=append:@APP@/logs/admin.log
+StandardError=append:@APP@/logs/admin.log
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,1110 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>运维台 · daily-brief</title>
+<script>
+  // Apply the stored theme before first paint so the page does not flash.
+  // Same storage key as the report and archive, so one choice applies everywhere.
+  (function () {
+    var t = "light";
+    try { t = localStorage.getItem("db-report-theme") || ""; } catch (e) {}
+    if (t !== "light" && t !== "dark" && t !== "paper") {
+      t = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+<style>
+  :root, html[data-theme="light"] {
+    color-scheme: light;
+    --bg: #f6f7fa; --bg-elevated: #ffffff; --bg-subtle: #eef1f6;
+    --panel: #ffffff; --line: #e1e6ed; --fg: #14181f;
+    --dim: #6b7482; --accent: #3454d1; --ok: #12885c; --bad: #d13a34;
+    --warn: #b06b12; --hover: #eef1f6; --head: rgba(246,247,250,.94);
+    --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #0d1117; --bg-elevated: #161b23; --bg-subtle: #1c222c;
+    --panel: #161b23; --line: #29313c; --fg: #e9eef6;
+    --dim: #8d97a7; --accent: #7196ff; --ok: #4ad6a0; --bad: #ff7b73;
+    --warn: #e6ae61; --hover: #1c222c; --head: rgba(13,17,23,.94);
+  }
+  html[data-theme="paper"] {
+    color-scheme: light;
+    --bg: #f2ecdf; --bg-elevated: #fffcf4; --bg-subtle: #eae1cf;
+    --panel: #fffcf4; --line: #ddd2bb; --fg: #2c271f;
+    --dim: #817663; --accent: #8a4b20; --ok: #3f7352; --bad: #b23a2e;
+    --warn: #96631b; --hover: #eae1cf; --head: rgba(242,236,223,.94);
+    --font-body: "Songti SC", "STSong", "Noto Serif CJK SC", Georgia, serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+    font: 14px/1.55 var(--font-body); }
+  header { position: sticky; top: 0; z-index: 5; background: var(--head);
+    border-bottom: 1px solid var(--line); padding: 10px 20px 12px; display: flex;
+    flex-direction: column; gap: 8px; backdrop-filter: blur(8px); }
+  .bar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  h1 { font-size: 15px; margin: 0 8px 0 0; font-weight: 600; letter-spacing: .02em; }
+  main { padding: 18px 20px 60px; max-width: 1500px; }
+  button, select, input, textarea { font: inherit; color: var(--fg); background: var(--panel);
+    border: 1px solid var(--line); border-radius: 7px; padding: 6px 10px; }
+  button { cursor: pointer; }
+  button:hover { border-color: var(--accent); }
+  button.primary { background: color-mix(in srgb, var(--accent) 22%, transparent);
+    border-color: color-mix(in srgb, var(--accent) 55%, transparent); }
+  button.danger:hover { border-color: var(--bad); color: var(--bad); }
+  input, textarea { width: 100%; }
+  .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .muted { color: var(--dim); }
+  .small { font-size: 12px; }
+  table { width: 100%; border-collapse: collapse; margin-top: 14px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line);
+    vertical-align: top; }
+  th { font-size: 12px; color: var(--dim); font-weight: 600; text-transform: uppercase;
+    letter-spacing: .04em; position: sticky; top: 92px; background: var(--bg); z-index: 3; }
+  tr.off td { opacity: .55; }
+  td.id { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12.5px; }
+  td.name a { color: var(--fg); text-decoration: none; border-bottom: 1px dashed var(--line); }
+  td.name a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+  .badge { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: 12px;
+    border: 1px solid; white-space: nowrap; }
+  .badge.ok { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 45%, transparent);
+    background: color-mix(in srgb, var(--ok) 12%, transparent); }
+  .badge.bad { color: var(--bad); border-color: color-mix(in srgb, var(--bad) 45%, transparent);
+    background: color-mix(in srgb, var(--bad) 12%, transparent); }
+  .badge.none { color: var(--dim); border-color: var(--line); }
+  .cat { font-size: 12px; padding: 1px 7px; border-radius: 5px;
+    background: color-mix(in srgb, var(--fg) 8%, transparent); color: var(--dim); }
+  .err { color: var(--bad); font-size: 12px; word-break: break-all; }
+  .warnbox { margin: 0 0 14px; padding: 8px 12px; border-radius: 8px; font-size: 12.5px;
+    border: 1px solid color-mix(in srgb, var(--warn) 45%, transparent);
+    background: color-mix(in srgb, var(--warn) 12%, transparent); color: var(--warn);
+    white-space: pre-wrap; word-break: break-word; }
+  .pill { font-size: 11px; padding: 1px 6px; border: 1px solid var(--line); border-radius: 5px;
+    color: var(--dim); }
+  #login { max-width: 460px; margin: 60px auto; background: var(--panel); border: 1px solid var(--line);
+    border-radius: 12px; padding: 24px; }
+  #app[hidden], #login[hidden], #addPanel[hidden], #catPanel[hidden],
+  #sourcesBar[hidden], #sourcesFilters[hidden], #writerView[hidden],
+  #wTopicBox[hidden], #wDigestBox[hidden], #wPreviewWrap[hidden] { display: none; }
+  #wPreviewWrap { margin-top: 14px; }
+  #wFrame { width: 375px; max-width: 100%; height: 560px; border: 1px solid var(--line);
+    border-radius: 8px; background: #fff; margin-top: 8px; }
+  #addPanel, #catPanel { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 14px; margin-top: 14px; }
+  #catJson { width: 100%; box-sizing: border-box; min-height: 320px; margin-top: 10px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; line-height: 1.5;
+    background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 8px;
+    padding: 10px; resize: vertical; tab-size: 2; }
+  #catPanel .hint { margin: 6px 0 0; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px; }
+  label { display: block; font-size: 12px; color: var(--dim); margin-bottom: 3px; }
+  #toast { position: fixed; right: 18px; bottom: 18px; background: var(--panel);
+    border: 1px solid var(--line); border-radius: 9px; padding: 10px 14px; font-size: 13px;
+    max-width: 420px; opacity: 0; transform: translateY(8px); transition: .18s;
+    pointer-events: none; box-shadow: 0 8px 24px rgba(0,0,0,.18); }
+  #toast.show { opacity: 1; transform: none; }
+  #toast.bad { border-color: var(--bad); color: var(--bad); }
+  td.actions { white-space: nowrap; }
+  td.actions button { padding: 3px 8px; font-size: 12px; }
+
+  /* Checkbox pills used by both filter groups. */
+  .chips { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .chips > span.legend { font-size: 12px; color: var(--dim); margin-right: 2px; }
+  .chip { position: relative; display: inline-flex; align-items: center; gap: 5px;
+    padding: 3px 10px; border: 1px solid var(--line); border-radius: 999px;
+    font-size: 12.5px; cursor: pointer; user-select: none; background: var(--panel); }
+  .chip input { width: auto; margin: 0; accent-color: var(--accent); }
+  .chip:has(input:checked) { border-color: color-mix(in srgb, var(--accent) 55%, transparent);
+    background: color-mix(in srgb, var(--accent) 14%, transparent); }
+  .chips button { padding: 2px 8px; font-size: 12px; }
+  .grid2 { display: grid; grid-template-columns: minmax(300px, 400px) 1fr; gap: 18px; }
+  @media (max-width: 900px) { .grid2 { grid-template-columns: 1fr; } }
+  .list { display: flex; flex-direction: column; gap: 6px; margin-top: 8px; max-height: 420px; overflow: auto; }
+  .list .item { display: flex; gap: 8px; align-items: baseline; padding: 6px 8px;
+    border: 1px solid var(--line); border-radius: 7px; background: var(--panel); cursor: pointer; }
+  .list .item:hover { border-color: var(--accent); }
+  .list .item input { width: auto; margin: 0; }
+  /* Material rows: title takes the slack, source sits flush right. */
+  .list .item.art > .art-title { flex: 1; min-width: 0; }
+  .list .item.art > .art-src { margin-left: auto; white-space: nowrap; }
+  pre.log, pre.draft { margin: 8px 0 0; padding: 10px 12px; border: 1px solid var(--line);
+    border-radius: 7px; background: var(--panel); white-space: pre-wrap; word-break: break-word;
+    font: 12.5px/1.55 ui-monospace, SFMono-Regular, Menlo, monospace; max-height: 300px;
+    overflow: auto; }
+  pre.draft { max-height: 480px; }
+  .finding { font-size: 12.5px; padding: 4px 0; border-bottom: 1px dashed var(--line); }
+  .finding .sev-high { color: var(--bad); }
+  .finding .sev-medium { color: var(--warn); }
+  .finding .sev-low { color: var(--dim); }
+  .panel-title { font-weight: 600; margin: 0 0 12px; }
+
+  /* Theme switcher — same shape / tokens as the report toolbar. */
+  .segmented {
+    display: inline-flex; align-items: center; gap: 2px;
+    border: 0.5px solid var(--line); border-radius: 999px;
+    padding: 2px; background: var(--bg-elevated);
+  }
+  .segmented button {
+    border: 0; background: none; color: var(--dim);
+    font-size: 12px; line-height: 1; padding: 6px 10px;
+    border-radius: 999px; cursor: pointer;
+    transition: background .15s, color .15s;
+  }
+  .segmented button:hover { color: var(--fg); }
+  .segmented button[aria-pressed="true"] { background: var(--accent); color: var(--bg-elevated); }
+</style>
+</head>
+<body>
+
+<div id="login" hidden>
+  <h1 style="margin-bottom:6px">数据源管理</h1>
+  <p class="muted small" style="margin-top:0">需要访问令牌。令牌在服务器上：<code>~/.daily-brief-admin-token</code></p>
+  <label for="token">Bearer token</label>
+  <input id="token" type="password" autocomplete="off" placeholder="粘贴令牌后回车">
+  <div class="row" style="margin-top:12px">
+    <button class="primary" id="loginBtn">进入</button>
+    <span class="err" id="loginErr"></span>
+  </div>
+</div>
+
+<div id="app" hidden>
+  <header>
+    <div class="bar">
+      <h1>daily-brief</h1>
+      <button id="viewSources" class="primary">数据源</button>
+      <button id="viewWriter">写作</button>
+      <span style="flex:1"></span>
+      <div class="segmented" role="group" aria-label="主题">
+        <button type="button" data-theme-set="light" aria-pressed="false">☀ 亮色</button>
+        <button type="button" data-theme-set="dark" aria-pressed="false">☾ 暗色</button>
+        <button type="button" data-theme-set="paper" aria-pressed="false">▤ 纸张</button>
+      </div>
+      <button id="logout" class="danger">清除令牌</button>
+    </div>
+    <div class="bar" id="sourcesBar">
+      <input id="fText" placeholder="搜索 id / 名称" style="width:200px">
+      <button id="refresh">刷新</button>
+      <button id="toggleAdd" class="primary">新增数据源</button>
+      <button id="toggleCat">分类配置</button>
+      <span class="muted small" id="count"></span>
+    </div>
+    <div class="bar" id="sourcesFilters">
+      <div class="chips" id="fCat"><span class="legend">分类</span></div>
+      <div class="chips" id="fEnabled">
+        <span class="legend">启停</span>
+        <label class="chip"><input type="checkbox" value="on" checked>已启用</label>
+        <label class="chip"><input type="checkbox" value="off" checked>已停用</label>
+      </div>
+      <div class="chips" id="fResult">
+        <span class="legend">最近一次</span>
+        <label class="chip"><input type="checkbox" value="ok" checked>成功</label>
+        <label class="chip"><input type="checkbox" value="fail" checked>失败</label>
+        <label class="chip"><input type="checkbox" value="none" checked>未运行</label>
+      </div>
+    </div>
+  </header>
+
+  <main>
+  <div id="sourcesView">
+    <!-- Undeclared category/subcategory references: the list still loads, so
+         this box is where the operator sees what blocks the next daily run. -->
+    <div id="warn" class="warnbox" hidden></div>
+    <div id="addPanel" hidden>
+      <strong id="formTitle">新增数据源</strong>
+      <div class="grid">
+        <div><label>id（唯一，小写短横线）</label><input id="a-id" placeholder="my-feed"></div>
+        <div><label>名称</label><input id="a-name" placeholder="My Feed"></div>
+        <div><label>类型</label><select id="a-type"><option>rss</option><option>api</option><option>scrape</option></select></div>
+        <div><label>分类</label><select id="a-cat"></select></div>
+        <div><label>二级分类（可空）</label><select id="a-sub"></select></div>
+        <div><label>URL</label><input id="a-url" placeholder="https://example.com/feed.xml"></div>
+        <div><label>语言</label><select id="a-lang"><option value="">默认</option><option value="zh">zh</option><option value="en">en</option></select></div>
+        <div><label>locales（逗号分隔，可空）</label><input id="a-locales" placeholder="zh,en"></div>
+        <div><label>keywords（逗号分隔，可空）</label><input id="a-kw" placeholder="ai,llm"></div>
+        <div><label>useCurl</label><select id="a-curl"><option value="">否</option><option value="1">是（Cloudflare 拦截时）</option></select></div>
+        <div><label>是否国内</label><label style="margin:0;font-weight:400"><input type="checkbox" id="a-domestic" style="width:auto"> 国内直连（不勾选 = 境外，走 Actions 快照）</label></div>
+      </div>
+      <div class="row" style="margin-top:12px">
+        <button class="primary" id="createBtn">创建</button>
+        <button id="cancelAdd">取消</button>
+        <span class="err" id="addErr"></span>
+      </div>
+    </div>
+
+    <div id="catPanel" hidden>
+      <div class="row" style="justify-content:space-between">
+        <strong>分类配置 · categories.config.json</strong>
+        <span class="muted small">保存后对下一次 daily / render 生效</span>
+      </div>
+      <p class="muted small hint">
+        控制顶部面板顺序、子分类、每源条数上限、digest 条数与摘要风格。
+        校验不通过时文件不会被改写，原因显示在下方。改动会写盘并在同目录留一份 .bak。
+      </p>
+      <textarea id="catJson" spellcheck="false" autocomplete="off"></textarea>
+      <div class="row" style="margin-top:10px">
+        <button class="primary" id="saveCat">保存并校验</button>
+        <button id="reloadCat">从文件重载</button>
+        <button id="cancelCat">关闭</button>
+        <span class="err" id="catErr"></span>
+      </div>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th>id</th><th>名称</th><th>类型</th><th>分类 / 二级</th><th>locales</th>
+          <th>启停</th><th>是否国内</th><th>最近抓取</th><th>操作</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+
+  <div id="writerView" hidden>
+    <div class="panel-title">写作 · 用当天数据成稿</div>
+    <div class="row" style="margin-bottom:14px">
+      <label for="wDate" class="muted small" style="margin:0">日期</label>
+      <input id="wDate" type="date" style="width:150px">
+      <label for="wKind" class="muted small" style="margin:0">稿型</label>
+      <select id="wKind" style="width:130px">
+        <option value="topic">主题稿</option>
+        <option value="digest">资讯汇总</option>
+      </select>
+      <label class="small" style="margin:0;font-weight:400"><input type="checkbox" id="wReview" checked style="width:auto"> 写完立即审阅</label>
+      <button class="primary" id="wStart">生成</button>
+      <span class="muted small" id="wStage"></span>
+    </div>
+
+    <div class="grid2">
+      <div>
+        <div id="wTopicBox">
+          <label for="wTopic">主题</label>
+          <input id="wTopic" placeholder="例：英伟达财报后的算力竞争">
+          <label for="wQueries" style="margin-top:12px">补充选稿（每行一个 URL 或标题关键词）</label>
+          <textarea id="wQueries" rows="3" spellcheck="false" autocomplete="off" placeholder="https://example.com/a&#10;Nvidia earnings"></textarea>
+          <div class="row" style="justify-content:space-between;margin-top:14px">
+            <strong>当日素材</strong>
+            <span class="muted small" id="wArticleCount"></span>
+          </div>
+          <input id="wFilter" placeholder="过滤标题 / 来源关键词" autocomplete="off" style="margin-top:8px">
+          <div id="wArticles" class="list"></div>
+        </div>
+        <div id="wDigestBox" hidden>
+          <label>类别</label>
+          <div class="chips" id="wCats"></div>
+          <p class="muted small hint">按当日报告里各条的重要度取前 12 条，一条一段。</p>
+        </div>
+      </div>
+      <div>
+        <div class="row" style="justify-content:space-between">
+          <strong>进度</strong>
+          <span class="muted small" id="wJobState"></span>
+        </div>
+        <pre id="wLog" class="log">尚未提交。</pre>
+        <div class="row" style="justify-content:space-between;margin-top:14px">
+          <strong>稿件</strong>
+          <span class="row" style="gap:8px">
+            <select id="wTheme" title="公众号版式">
+              <option value="">按稿型</option>
+              <option value="journal">刊物版</option>
+              <option value="brief">简报版</option>
+              <option value="plain">极简版</option>
+            </select>
+            <button id="wPreview">预览公众号</button>
+            <button id="wPush">推到公众号</button>
+            <button id="wCopy">复制 markdown</button>
+          </span>
+        </div>
+        <pre id="wMarkdown" class="draft">—</pre>
+        <div id="wFindings"></div>
+        <div id="wPreviewWrap" hidden>
+          <div class="row" style="justify-content:space-between">
+            <strong>公众号预览</strong>
+            <span class="muted small" id="wPreviewNote"></span>
+          </div>
+          <iframe id="wFrame" title="公众号预览" sandbox="allow-same-origin"></iframe>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="justify-content:space-between;margin-top:18px">
+      <strong>当天已有稿件</strong>
+      <span class="muted small">点击查看</span>
+    </div>
+    <div id="wList" class="list"></div>
+  </div>
+  </main>
+  <div id="toast"></div>
+</div>
+
+<script>
+const TOKEN_KEY = "daily-brief-admin-token";
+const THEME_KEY = "db-report-theme";
+const FILTER_KEY = "db-admin-filters";
+const $ = (id) => document.getElementById(id);
+let sources = [];
+let status = {};
+let categories = [];
+/** id being edited, or null while the form creates a new source. */
+let editing = null;
+
+function token() { return localStorage.getItem(TOKEN_KEY) || ""; }
+
+async function api(path, options = {}) {
+  const res = await fetch(path, {
+    ...options,
+    headers: {
+      "content-type": "application/json",
+      authorization: `Bearer ${token()}`,
+      ...(options.headers || {}),
+    },
+  });
+  const body = await res.json().catch(() => ({}));
+  if (res.status === 401) { showLogin("令牌无效或已失效"); throw new Error("unauthorized"); }
+  if (!res.ok) throw new Error(body.error || `HTTP ${res.status}`);
+  if (Array.isArray(body.warnings)) setWarnings(body.warnings);
+  return body;
+}
+
+function setWarnings(list) {
+  const box = $("warn");
+  box.hidden = list.length === 0;
+  box.textContent = list.length
+    ? `配置引用问题（${list.length}）：\n${list.join("\n")}`
+    : "";
+}
+
+function showLogin(err) {
+  $("app").hidden = true;
+  $("login").hidden = false;
+  $("loginErr").textContent = err || "";
+}
+
+function toast(msg, bad) {
+  const el = $("toast");
+  el.textContent = msg;
+  el.classList.toggle("bad", Boolean(bad));
+  el.classList.add("show");
+  clearTimeout(toast.timer);
+  toast.timer = setTimeout(() => el.classList.remove("show"), bad ? 8000 : 2500);
+}
+
+function fmtAgo(iso) {
+  if (!iso) return "从未";
+  const min = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  if (min < 1) return "刚刚";
+  if (min < 60) return `${min} 分钟前`;
+  const h = Math.round(min / 60);
+  if (h < 48) return `${h} 小时前`;
+  return `${Math.round(h / 24)} 天前`;
+}
+
+function statusCell(id) {
+  const s = status[id];
+  if (!s) return '<span class="badge none">未运行</span>';
+  const when = `${fmtAgo(s.lastRunAt)} · ${s.runKind}`;
+  const route = s.origin === "snapshot" ? "快照" : s.origin === "direct" ? "直连" : "";
+  if (s.ok) {
+    return `<span class="badge ok" title="${when}">✓ ${s.itemCount} 条</span>${
+      route ? ` <span class="badge none">${route}</span>` : ""
+    }
+      <div class="muted small">${when} · ${s.durationMs}ms</div>`;
+  }
+  const err = (s.error || "失败").slice(0, 160);
+  return `<span class="badge bad" title="${when}">✗ 失败</span>
+    <div class="muted small">${when}</div><div class="err">${escapeHtml(err)}</div>`;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+/** Checked values of a filter group; an empty selection means "no filter". */
+function checkedValues(containerId) {
+  return [...document.querySelectorAll(`#${containerId} input:checked`)].map((el) => el.value);
+}
+
+function renderCatFilter() {
+  $("fCat").innerHTML = '<span class="legend">分类</span>' + categories.map((c) =>
+    `<label class="chip"><input type="checkbox" value="${escapeHtml(c.id)}" checked>${escapeHtml(c.label)}</label>`
+  ).join("");
+}
+
+/** Subcategory options follow the selected category (ids from categories.config.json). */
+function renderSubOptions() {
+  const category = categories.find((c) => c.id === $("a-cat").value);
+  const subs = category ? category.subcategories : [];
+  $("a-sub").innerHTML = '<option value="">（无）</option>' + subs.map((sub) =>
+    `<option value="${escapeHtml(sub.id)}">${escapeHtml(sub.label)} (${escapeHtml(sub.id)})</option>`
+  ).join("");
+}
+
+/** Filters checked in the three chip groups plus the search box. */
+function currentFilters() {
+  return {
+    cat: checkedValues("fCat"),
+    enabled: checkedValues("fEnabled"),
+    result: checkedValues("fResult"),
+    text: $("fText").value.trim(),
+  };
+}
+
+function saveFilters() {
+  try { localStorage.setItem(FILTER_KEY, JSON.stringify(currentFilters())); }
+  catch (e) { /* storage disabled: the filter still applies until the tab closes */ }
+}
+
+/** Apply the stored selection; a group missing from the stored value keeps every box checked. */
+function restoreFilters() {
+  let saved = null;
+  try { saved = JSON.parse(localStorage.getItem(FILTER_KEY) || "null"); }
+  catch (e) { saved = null; }
+  if (!saved || typeof saved !== "object") return;
+  for (const [group, wanted] of [["fCat", saved.cat], ["fEnabled", saved.enabled], ["fResult", saved.result]]) {
+    if (!Array.isArray(wanted)) continue;
+    for (const box of document.querySelectorAll(`#${group} input`)) box.checked = wanted.includes(box.value);
+  }
+  if (typeof saved.text === "string") $("fText").value = saved.text;
+}
+
+function render() {
+  const cats = checkedValues("fCat");
+  const enabledSel = checkedValues("fEnabled");
+  const resultSel = checkedValues("fResult");
+  const text = $("fText").value.trim().toLowerCase();
+
+  const rows = sources.filter((s) => {
+    if (cats.length && !cats.includes(s.category)) return false;
+    if (text && !s.id.toLowerCase().includes(text) && !s.name.toLowerCase().includes(text)) return false;
+    if (enabledSel.length && !enabledSel.includes(s.enabled !== false ? "on" : "off")) return false;
+    if (resultSel.length) {
+      const st = status[s.id];
+      const result = !st ? "none" : st.ok ? "ok" : "fail";
+      if (!resultSel.includes(result)) return false;
+    }
+    return true;
+  });
+
+  const enabledAll = sources.filter((s) => s.enabled !== false).length;
+  $("count").textContent = `${rows.length}/${sources.length} 条 · 启用 ${enabledAll}`;
+
+  $("rows").innerHTML = rows.map((s) => {
+    const on = s.enabled !== false;
+    const href = escapeHtml(s.url);
+    return `<tr class="${on ? "" : "off"}">
+      <td class="id">${escapeHtml(s.id)}</td>
+      <td class="name"><a href="${href}" target="_blank" rel="noreferrer noopener" title="${href}">${escapeHtml(s.name)}</a></td>
+      <td><span class="pill">${escapeHtml(s.type)}${s.useCurl ? " ·curl" : ""}</span></td>
+      <td><span class="cat">${escapeHtml(s.category)}</span>
+        ${s.subcategory ? `<div class="muted small">${escapeHtml(s.subcategory)}</div>` : ""}</td>
+      <td class="muted small">${(s.locales || ["zh", "en"]).join(", ")}${s.lang ? ` · ${s.lang}` : ""}</td>
+      <td><label style="margin:0"><input type="checkbox" data-toggle="${escapeHtml(s.id)}" ${on ? "checked" : ""} style="width:auto"> ${on ? "启用" : "停用"}</label></td>
+      <td><label style="margin:0"><input type="checkbox" data-domestic="${escapeHtml(s.id)}" ${s.domestic === true ? "checked" : ""} style="width:auto" title="是否国内"></label></td>
+      <td>${statusCell(s.id)}</td>
+      <td class="actions">
+        <button data-edit="${escapeHtml(s.id)}">编辑</button>
+        <button data-test="${escapeHtml(s.id)}">测试</button>
+        <button data-fetch="${escapeHtml(s.id)}" title="抓取该源并写回当日数据，不调用 LLM">抓取</button>
+        <button class="danger" data-del="${escapeHtml(s.id)}">删除</button>
+      </td>
+    </tr>`;
+  }).join("") || '<tr><td colspan="9" class="muted">没有匹配的数据源</td></tr>';
+}
+
+async function load() {
+  const data = await api("api/sources");
+  sources = data.sources;
+  status = data.status || {};
+  categories = data.categories || [];
+  renderCatFilter();
+  restoreFilters();
+  const keepCat = $("a-cat").value;
+  $("a-cat").innerHTML = categories
+    .map((c) => `<option value="${escapeHtml(c.id)}">${escapeHtml(c.label)}</option>`).join("");
+  if (keepCat) $("a-cat").value = keepCat;
+  renderSubOptions();
+  render();
+}
+
+/* ---------------- 写作面板 ---------------- */
+
+const VIEW_KEY = "db-admin-view";
+/** /editor/ 入口只渲染写作面板；nginx 原样转发，浏览器地址栏保留原始路径。 */
+const EDITOR_ONLY = location.pathname.startsWith("/editor");
+let wArticles = [];
+let wShown = [];
+let wArticlesDate = "";
+let wFilterText = "";
+const wSelected = new Set();
+let wTimer = null;
+let wCurrent = null;
+
+function today() {
+  const d = new Date();
+  const pad = (n) => String(n).padStart(2, "0");
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+}
+
+function setView(next, loadNow = true) {
+  const writer = next === "writer";
+  $("sourcesView").hidden = writer;
+  $("sourcesBar").hidden = writer;
+  $("sourcesFilters").hidden = writer;
+  $("writerView").hidden = !writer;
+  $("viewSources").classList.toggle("primary", !writer);
+  $("viewWriter").classList.toggle("primary", writer);
+  // /editor/ 的视图由 URL 决定，不写回偏好，否则会把 /admin/ 也改成写作入口。
+  if (!EDITOR_ONLY) localStorage.setItem(VIEW_KEY, next);
+  if (writer && loadNow) loadWriter().catch((e) => toast(e.message, true));
+}
+
+function renderCatChips() {
+  $("wCats").innerHTML =
+    categories
+      .map(
+        (c) =>
+          `<label class="chip"><input type="checkbox" value="${escapeHtml(c.id)}">${escapeHtml(c.label)}</label>`,
+      )
+      .join("") || '<span class="muted small">没有类别配置</span>';
+}
+
+function updateArticleCount() {
+  const total = wArticles.length;
+  if (!total) { $("wArticleCount").textContent = ""; return; }
+  const shown = wShown.length === total ? `${total} 篇` : `${wShown.length}/${total} 篇`;
+  $("wArticleCount").textContent = wSelected.size ? `${shown} · 已选 ${wSelected.size}` : shown;
+}
+
+function renderArticles() {
+  const q = wFilterText.trim().toLowerCase();
+  wShown = q
+    ? wArticles.filter((a) => `${a.title} ${a.source || ""} ${a.url}`.toLowerCase().includes(q))
+    : wArticles;
+  updateArticleCount();
+  $("wArticles").innerHTML =
+    wShown
+      .map(
+        (a) => `<label class="item art">
+          <input type="checkbox" value="${escapeHtml(a.url)}"${wSelected.has(a.url) ? " checked" : ""}>
+          <span class="art-title">${escapeHtml(a.title)}</span>
+          <span class="art-src muted small">${escapeHtml(a.source || "")}</span>
+        </label>`,
+      )
+      .join("") ||
+    `<div class="muted small">${q ? "没有匹配的素材。" : "当天还没有抓取数据，先跑 npm run daily。"}</div>`;
+}
+
+async function refreshPieceList() {
+  const { pieces } = await api(`api/pieces?date=${encodeURIComponent($("wDate").value)}`);
+  $("wList").innerHTML =
+    (pieces || [])
+      .map(
+        (p) => `<div class="item" data-piece="${escapeHtml(p.slug)}">
+          <span>${escapeHtml(p.title)}</span>
+          <span class="muted small">${escapeHtml(p.piece)} · ${p.words} 字 · ${p.verdict ? escapeHtml(p.verdict) : "未审阅"}</span>
+        </div>`,
+      )
+      .join("") || '<div class="muted small">当天还没有稿件。</div>';
+}
+
+async function loadWriter() {
+  const date = $("wDate").value || today();
+  $("wDate").value = date;
+  renderCatChips();
+  try {
+    const { articles } = await api(`api/articles?date=${encodeURIComponent(date)}`);
+    if (date !== wArticlesDate) {
+      wArticlesDate = date;
+      wSelected.clear();
+    }
+    wArticles = articles || [];
+    renderArticles();
+  } catch (e) {
+    wArticles = [];
+    $("wArticleCount").textContent = "";
+    $("wArticles").innerHTML = `<div class="muted small">${escapeHtml(e.message)}</div>`;
+  }
+  try {
+    await refreshPieceList();
+  } catch (e) {
+    $("wList").innerHTML = `<div class="muted small">${escapeHtml(e.message)}</div>`;
+  }
+  try {
+    const { jobs } = await api(`api/pieces?date=${encodeURIComponent(date)}`);
+    const running = (jobs || []).find((job) => job.state === "running");
+    if (running && !wTimer) pollJob(running.id);
+  } catch (e) {
+    void e; // 任务表读不到不影响提交新任务
+  }
+}
+
+function renderReview(review) {
+  if (!review) {
+    $("wFindings").innerHTML = "";
+    return;
+  }
+  const findings = [...(review.mechanical || []), ...(review.facts || [])];
+  const items = findings
+    .map(
+      (f) => `<div class="finding">
+        <span class="sev-${escapeHtml(f.severity)}">${escapeHtml(f.severity)}</span>
+        「${escapeHtml(f.quote)}」${escapeHtml(f.problem)}
+        ${f.evidence ? `<div class="muted small">依据：${escapeHtml(f.evidence)}</div>` : ""}
+      </div>`,
+    )
+    .join("");
+  const badge =
+    review.verdict === "pass"
+      ? '<span class="badge ok">审阅通过</span>'
+      : '<span class="badge bad">需要修改</span>';
+  $("wFindings").innerHTML = `
+    <div class="row" style="margin-top:12px">${badge}
+      <span class="muted small">机械 ${review.mechanical.length} · 事实 ${review.facts.length} · ${review.durationMs}ms</span>
+    </div>
+    ${items || '<div class="muted small" style="margin-top:8px">没有发现问题。</div>'}
+    ${(review.warnings || []).map((w) => `<div class="muted small">! ${escapeHtml(w)}</div>`).join("")}`;
+}
+
+async function openPiece(slug) {
+  const date = $("wDate").value;
+  try {
+    const data = await api(`api/pieces/${encodeURIComponent(slug)}?date=${encodeURIComponent(date)}`);
+    wCurrent = slug;
+    $("wMarkdown").textContent = data.markdown;
+    renderReview(data.review);
+  } catch (e) {
+    toast(e.message, true);
+  }
+  // 预览独立失败：排版样式出问题不该挡住 markdown 的查看。
+  await previewPiece(slug).catch((e) => toast(e.message, true));
+}
+
+async function previewPiece(slug) {
+  if (!slug) return;
+  const date = $("wDate").value;
+  const theme = $("wTheme").value;
+  const q = new URLSearchParams({ date });
+  if (theme) q.set("theme", theme);
+  const data = await api(
+    `api/pieces/${encodeURIComponent(slug)}/preview?${q.toString()}`,
+  );
+  $("wPreviewWrap").hidden = false;
+  $("wFrame").srcdoc = `<!doctype html><meta charset="utf-8"><body style="margin:0;padding:16px;background:#fff;">${data.html}</body>`;
+  $("wPreviewNote").textContent =
+    data.skipped.length === 0 ? data.theme : `${data.theme} · ${data.skipped.length} 张图未内联`;
+}
+
+function pollJob(id) {
+  clearInterval(wTimer);
+  $("wStart").disabled = true;
+  const tick = async () => {
+    let job;
+    try {
+      ({ job } = await api(`api/pieces/job/${encodeURIComponent(id)}`));
+    } catch (e) {
+      clearInterval(wTimer);
+      wTimer = null;
+      $("wStart").disabled = false;
+      toast(e.message, true);
+      return;
+    }
+    $("wStage").textContent = job.stage;
+    $("wJobState").textContent = job.state === "running" ? "进行中" : job.state === "done" ? "完成" : "失败";
+    $("wLog").textContent = job.log.length ? job.log.join("\n") : "（暂无输出）";
+    if (job.state === "running") return;
+    clearInterval(wTimer);
+    wTimer = null;
+    $("wStart").disabled = false;
+    if (job.state === "failed") {
+      toast(`生成失败：${job.error}`, true);
+      return;
+    }
+    toast(`完成：${job.result.slug}`);
+    await refreshPieceList();
+    await openPiece(job.result.slug);
+  };
+  tick();
+  wTimer = setInterval(tick, 1500);
+}
+
+async function startPiece() {
+  const date = $("wDate").value || today();
+  const kind = $("wKind").value;
+  const checked = [...wSelected];
+  const extra = $("wQueries").value.split("\n").map((line) => line.trim()).filter(Boolean);
+  const body = {
+    kind,
+    queries: checked.concat(extra),
+    review: $("wReview").checked,
+  };
+  if (kind === "topic") {
+    body.topic = $("wTopic").value.trim();
+    if (!body.topic) { toast("先写主题", true); return; }
+  } else {
+    body.categories = checkedValues("wCats");
+    if (!body.categories.length) { toast("至少选一个类别", true); return; }
+  }
+  $("wStage").textContent = "提交中…";
+  $("wJobState").textContent = "进行中";
+  $("wLog").textContent = "已提交，等待进度…";
+  try {
+    const { job } = await api(`api/pieces?date=${encodeURIComponent(date)}`, {
+      method: "POST",
+      body: JSON.stringify(body),
+    });
+    pollJob(job.id);
+  } catch (e) {
+    $("wStage").textContent = "";
+    $("wJobState").textContent = "";
+    toast(e.message, true);
+  }
+}
+
+$("viewSources").onclick = () => setView("sources");
+$("viewWriter").onclick = () => setView("writer");
+$("wDate").onchange = () => loadWriter().catch((e) => toast(e.message, true));
+$("wFilter").oninput = () => { wFilterText = $("wFilter").value; renderArticles(); };
+$("wArticles").addEventListener("change", (e) => {
+  const url = e.target.value;
+  if (!url) return;
+  if (e.target.checked) wSelected.add(url); else wSelected.delete(url);
+  updateArticleCount();
+});
+$("wKind").onchange = () => {
+  const digest = $("wKind").value === "digest";
+  $("wTopicBox").hidden = digest;
+  $("wDigestBox").hidden = !digest;
+};
+$("wStart").onclick = startPiece;
+$("wPreview").onclick = () => previewPiece(wCurrent).catch((e) => toast(e.message, true));
+$("wTheme").onchange = () => previewPiece(wCurrent).catch((e) => toast(e.message, true));
+
+$("wPush").onclick = async () => {
+  if (!wCurrent) {
+    toast("先选一篇稿件", true);
+    return;
+  }
+  const date = $("wDate").value;
+  const theme = $("wTheme").value;
+  const q = new URLSearchParams({ date });
+  if (theme) q.set("theme", theme);
+  $("wPush").disabled = true;
+  toast("正在上传图片并写草稿…");
+  try {
+    const data = await api(
+      `api/pieces/${encodeURIComponent(wCurrent)}/push?${q.toString()}`,
+      { method: "POST" },
+    );
+    toast(`已写入草稿箱 ${data.draftId}`);
+    await openPiece(wCurrent);
+  } catch (e) {
+    toast(e.message, true);
+  } finally {
+    $("wPush").disabled = false;
+  }
+};
+
+$("wCopy").onclick = async () => {
+  const text = $("wMarkdown").textContent;
+  try {
+    await navigator.clipboard.writeText(text);
+    toast("已复制");
+  } catch (e) {
+    toast(`复制失败：${e.message}`, true);
+  }
+};
+$("wList").addEventListener("click", (e) => {
+  const el = e.target.closest("[data-piece]");
+  if (el) openPiece(el.dataset.piece);
+});
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  document.querySelectorAll("[data-theme-set]").forEach((btn) => {
+    btn.setAttribute("aria-pressed", btn.dataset.themeSet === theme ? "true" : "false");
+  });
+  try { localStorage.setItem(THEME_KEY, theme); }
+  catch (e) { /* storage disabled: theme applies for this page load only */ }
+}
+
+document.querySelectorAll("[data-theme-set]").forEach((btn) => {
+  btn.addEventListener("click", () => applyTheme(btn.dataset.themeSet));
+});
+// Reflect the theme chosen by the pre-paint bootstrap (or shared storage).
+applyTheme(document.documentElement.dataset.theme || "light");
+
+$("loginBtn").onclick = async () => {
+  const value = $("token").value.trim();
+  if (!value) return;
+  localStorage.setItem(TOKEN_KEY, value);
+  try {
+    await load();
+    $("login").hidden = true;
+    $("app").hidden = false;
+  } catch (e) {
+    localStorage.removeItem(TOKEN_KEY);
+    showLogin("令牌无效或无法连接");
+  }
+};
+$("token").addEventListener("keydown", (e) => { if (e.key === "Enter") $("loginBtn").click(); });
+
+$("logout").onclick = () => { localStorage.removeItem(TOKEN_KEY); showLogin(""); };
+$("refresh").onclick = () => load().then(() => toast("已刷新")).catch((e) => toast(e.message, true));
+for (const group of ["fCat", "fEnabled", "fResult"]) {
+  $(group).addEventListener("change", () => { saveFilters(); render(); });
+}
+$("a-cat").addEventListener("change", renderSubOptions);
+$("fText").oninput = () => { saveFilters(); render(); };
+$("toggleAdd").onclick = () => {
+  const panel = $("addPanel");
+  if (panel.hidden) resetForm();
+  panel.hidden = !panel.hidden;
+  $("toggleAdd").textContent = panel.hidden ? "新增数据源" : "收起新增表单";
+  if (!panel.hidden) {
+    panel.scrollIntoView({ block: "nearest" });
+    $("a-id").focus();
+  }
+};
+$("cancelAdd").onclick = () => {
+  $("addPanel").hidden = true;
+  $("toggleAdd").textContent = "新增数据源";
+  resetForm();
+};
+
+/** Empty the form and return it to create mode. */
+function resetForm() {
+  editing = null;
+  $("formTitle").textContent = "新增数据源";
+  $("createBtn").textContent = "创建";
+  $("a-id").readOnly = false;
+  ["a-id", "a-name", "a-url", "a-sub", "a-locales", "a-kw"].forEach((k) => { $(k).value = ""; });
+  $("a-cat").selectedIndex = 0;
+  renderSubOptions();
+  $("a-lang").value = "";
+  $("a-curl").value = "";
+  $("a-domestic").checked = false;
+  $("addErr").textContent = "";
+}
+
+function startEdit(id) {
+  const s = sources.find((x) => x.id === id);
+  if (!s) return;
+  editing = id;
+  $("formTitle").textContent = `编辑 ${id}`;
+  $("createBtn").textContent = "保存修改";
+  $("a-id").value = s.id;
+  $("a-id").readOnly = true;
+  $("a-name").value = s.name;
+  $("a-type").value = s.type;
+  $("a-cat").value = s.category;
+  renderSubOptions();
+  const sub = s.subcategory || "";
+  if (sub && ![...$("a-sub").options].some((o) => o.value === sub)) {
+    $("a-sub").insertAdjacentHTML(
+      "beforeend",
+      `<option value="${escapeHtml(sub)}">${escapeHtml(sub)}（分类配置未声明）</option>`,
+    );
+  }
+  $("a-sub").value = sub;
+  $("a-url").value = s.url;
+  $("a-lang").value = s.lang || "";
+  $("a-locales").value = (s.locales || []).join(",");
+  $("a-kw").value = (s.keywords || []).join(",");
+  $("a-curl").value = s.useCurl ? "1" : "";
+  $("a-domestic").checked = s.domestic === true;
+  $("addErr").textContent = "";
+  $("addPanel").hidden = false;
+  $("toggleAdd").textContent = "收起新增表单";
+  $("addPanel").scrollIntoView({ block: "nearest" });
+}
+
+async function loadCategories() {
+  const data = await api("api/categories");
+  $("catJson").value = JSON.stringify(data.config, null, 2);
+  $("catErr").textContent = "";
+}
+
+$("toggleCat").onclick = async () => {
+  const panel = $("catPanel");
+  panel.hidden = !panel.hidden;
+  $("toggleCat").textContent = panel.hidden ? "分类配置" : "收起分类配置";
+  if (panel.hidden) return;
+  panel.scrollIntoView({ block: "nearest" });
+  try { await loadCategories(); }
+  catch (err) { $("catErr").textContent = err.message; }
+};
+
+$("cancelCat").onclick = () => {
+  $("catPanel").hidden = true;
+  $("toggleCat").textContent = "分类配置";
+  $("catErr").textContent = "";
+};
+
+$("reloadCat").onclick = () => {
+  loadCategories().then(() => toast("已从文件重载")).catch((err) => { $("catErr").textContent = err.message; });
+};
+
+$("saveCat").onclick = async () => {
+  $("catErr").textContent = "";
+  let parsed;
+  try { parsed = JSON.parse($("catJson").value); }
+  catch (err) { $("catErr").textContent = `JSON 解析失败：${err.message}`; return; }
+  try {
+    await api("api/categories", { method: "PUT", body: JSON.stringify(parsed) });
+    await loadCategories();
+    await load();
+    toast("分类配置已保存，下一次 run 生效");
+  } catch (err) {
+    // 400 → 文件没改写。小字提示太容易漏看，这里同时弹 toast。
+    $("catErr").textContent = err.message;
+    $("catErr").scrollIntoView({ block: "nearest" });
+    toast(`未保存：${err.message}`, true);
+  }
+};
+
+$("rows").addEventListener("click", async (e) => {
+  const testId = e.target.dataset.test;
+  if (testId) {
+    e.target.disabled = true;
+    e.target.textContent = "测试中…";
+    try {
+      const r = await api(`api/sources/${encodeURIComponent(testId)}/test`, { method: "POST" });
+      await load();
+      toast(r.ok ? `${testId} 抓到 ${r.itemCount} 条${r.origin === "snapshot" ? "（快照）" : "（直连）"}` : `${testId} 失败：${r.error}`, !r.ok);
+    } catch (err) { toast(err.message, true); }
+    return;
+  }
+  const fetchId = e.target.dataset.fetch;
+  if (fetchId) {
+    if (!confirm(`重新抓取 ${fetchId}，把新条目并入当日数据？已有条目（含 LLM 摘要）会保留。`)) return;
+    e.target.disabled = true;
+    e.target.textContent = "抓取中…";
+    try {
+      const r = await api(`api/sources/${encodeURIComponent(fetchId)}/refresh`, { method: "POST" });
+      await load();
+      toast(r.ok ? `${fetchId} 抓到 ${r.itemCount} 条，新增 ${r.added} 条，已写回 ${r.date} 并重渲染` : `${fetchId} 抓取失败：${r.error}`, !r.ok);
+    } catch (err) { toast(err.message, true); }
+    return;
+  }
+  const editId = e.target.dataset.edit;
+  if (editId) {
+    startEdit(editId);
+    return;
+  }
+  const delId = e.target.dataset.del;
+  if (delId) {
+    if (!confirm(`删除 ${delId}？将从 sources.config.json 移除（可用 .bak 恢复）。`)) return;
+    try {
+      await api(`api/sources/${encodeURIComponent(delId)}`, { method: "DELETE" });
+      await load();
+      toast(`${delId} 已删除`);
+    } catch (err) { toast(err.message, true); }
+  }
+});
+
+$("rows").addEventListener("change", async (e) => {
+  const domesticId = e.target.dataset.domestic;
+  if (domesticId) {
+    try {
+      await api(`api/sources/${encodeURIComponent(domesticId)}`, {
+        method: "PATCH",
+        body: JSON.stringify({ domestic: e.target.checked }),
+      });
+      await load();
+      toast(`${domesticId} 标为${e.target.checked ? "国内" : "境外"}`);
+    } catch (err) { toast(err.message, true); }
+    return;
+  }
+  const id = e.target.dataset.toggle;
+  if (!id) return;
+  try {
+    await api(`api/sources/${encodeURIComponent(id)}`, {
+      method: "PATCH",
+      body: JSON.stringify({ enabled: e.target.checked }),
+    });
+    await load();
+    toast(`${id} 已${e.target.checked ? "启用" : "停用"}`);
+  } catch (err) { toast(err.message, true); }
+});
+
+$("createBtn").onclick = async () => {
+  const body = readForm();
+  if (!editing) body.enabled = true;
+  $("addErr").textContent = "";
+  try {
+    if (editing) {
+      delete body.id;
+      await api(`api/sources/${encodeURIComponent(editing)}`, { method: "PATCH", body: JSON.stringify(body) });
+      toast(`${editing} 已保存`);
+    } else {
+      await api("api/sources", { method: "POST", body: JSON.stringify(body) });
+      toast(`${body.id} 已创建，可点「测试」验证连通性`);
+    }
+    await load();
+    $("addPanel").hidden = true;
+    $("toggleAdd").textContent = "新增数据源";
+    resetForm();
+  } catch (err) { $("addErr").textContent = err.message; }
+};
+
+/**
+ * Form values. In edit mode an emptied optional field is sent as null so the
+ * server deletes it instead of keeping the old value.
+ */
+function readForm() {
+  const split = (v) => v.split(",").map((x) => x.trim()).filter(Boolean);
+  const locales = split($("a-locales").value);
+  const keywords = split($("a-kw").value);
+  const optional = {
+    subcategory: $("a-sub").value.trim() || null,
+    lang: $("a-lang").value || null,
+    locales: locales.length ? locales : null,
+    keywords: keywords.length ? keywords : null,
+    useCurl: $("a-curl").value === "1" ? true : null,
+    domestic: $("a-domestic").checked ? true : null,
+  };
+  const body = {
+    id: $("a-id").value.trim(),
+    name: $("a-name").value.trim(),
+    type: $("a-type").value,
+    url: $("a-url").value.trim(),
+    category: $("a-cat").value,
+    ...optional,
+  };
+  if (editing) return body;
+  // Creation omits unset optionals instead of writing explicit nulls.
+  for (const key of Object.keys(optional)) {
+    if (body[key] === null) delete body[key];
+  }
+  return body;
+}
+
+$("wDate").value = today();
+if (EDITOR_ONLY) {
+  $("viewSources").hidden = true;
+  $("viewWriter").hidden = true;
+  document.querySelector("header h1").textContent = "daily-brief · 写作";
+  document.title = "写作 · daily-brief";
+}
+setView(
+  EDITOR_ONLY ? "writer" : localStorage.getItem(VIEW_KEY) === "writer" ? "writer" : "sources",
+  false,
+);
+
+if (token()) {
+  load()
+    .then(() => {
+      $("app").hidden = false;
+      if (!$("writerView").hidden) loadWriter().catch((e) => toast(e.message, true));
+    })
+    .catch(() => showLogin("令牌无效或已失效"));
+} else {
+  showLogin("");
+}
+</script>
+</body>
+</html>

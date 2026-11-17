@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "id": "tech",
+      "labelZh": "技术动态",
+      "labelEn": "Tech",
+      "digestCount": "3-5",
+      "payloadLimit": 25,
+      "fallbackLimit": 5,
+      "summaryStyle": "intro",
+      "subcategories": [
+        {
+          "id": "github-trending",
+          "labelZh": "GitHub 趋势",
+          "labelEn": "GitHub Trending"
+        },
+        {
+          "id": "trending-papers",
+          "labelZh": "热门论文",
+          "labelEn": "Trending Papers"
+        },
+        {
+          "id": "x-viral",
+          "labelZh": "X 推文",
+          "labelEn": "X Viral"
+        },
+        {
+          "id": "ai-news",
+          "labelZh": "AI 媒体",
+          "labelEn": "AI Media",
+          "mergeLimit": 15
+        },
+        {
+          "id": "cn-community",
+          "labelZh": "中文社区",
+          "labelEn": "Chinese Community"
+        },
+        {
+          "id": "overseas-community",
+          "labelZh": "海外社区",
+          "labelEn": "Overseas Community"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "labelZh": "时政观察",
+      "labelEn": "World",
+      "digestCount": "2-3",
+      "payloadLimit": 15,
+      "fallbackLimit": 3,
+      "summaryStyle": "news",
+      "dropSports": true,
+      "subcategories": [
+        {
+          "id": "china",
+          "labelZh": "国内时政",
+          "labelEn": "China News"
+        },
+        {
+          "id": "world",
+          "labelZh": "国际要闻",
+          "labelEn": "World News",
+          "mergeLimit": 15
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "labelZh": "财经要点",
+      "labelEn": "Finance",
+      "digestCount": "3-5",
+      "payloadLimit": 20,
+      "fallbackLimit": 5,
+      "summaryStyle": "news",
+      "subcategories": [
+        {
+          "id": "cn-finance",
+          "labelZh": "国内财经",
+          "labelEn": "China Finance"
+        },
+        {
+          "id": "news",
+          "labelZh": "财经要闻",
+          "labelEn": "Finance News",
+          "mergeLimit": 15
+        },
+        {
+          "id": "companies",
+          "labelZh": "公司动态",
+          "labelEn": "Companies"
+        },
+        {
+          "id": "community",
+          "labelZh": "社区讨论",
+          "labelEn": "Community"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "labelZh": "社区讨论",
+      "labelEn": "Community",
+      "digestCount": "3-5",
+      "payloadLimit": 20,
+      "fallbackLimit": 5,
+      "summaryStyle": "news",
+      "subcategories": [
+        {
+          "id": "cn-video",
+          "labelZh": "中文视频",
+          "labelEn": "Chinese Video"
+        },
+        {
+          "id": "overseas-video",
+          "labelZh": "海外视频",
+          "labelEn": "Overseas Video"
+        },
+        {
+          "id": "zhihu-hot",
+          "labelZh": "知乎热榜",
+          "labelEn": "Zhihu Hot"
+        }
+      ]
+    }
+  ],
+  "extraPanels": [],
+  "tradingPanel": {
+    "labelZh": "市场行情",
+    "labelEn": "Markets",
+    "insertAfter": "tech"
+  }
+}
