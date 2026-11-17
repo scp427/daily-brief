@@ -71,9 +71,42 @@ npm run sources:check         # 只校验 sources.config.json
 npm run config-check [date]   # 源配置 × 分类配置 × 当日 sidecar 一致性
 npm run freshness             # 逐源检查最新文章日期
 npm run quota-report          # LLM 用量统计
+npm run notify [date]         # 用已生成的报告发一次概览邮件
 ```
 
 `Makefile` 是同一个管线的快捷入口（`make help` 看全部）：`make daily`、`make render`、`make site`、`make publish`、`make admin-start`、`make piece`、`make review`、`make push`。其中 `make daily` / `make render` 末尾会顺带 `build-site` + `publish`，把新报告镜像到 nginx 根目录。
+
+---
+
+## 邮件概览通知
+
+每次 `npm run daily` 写完报告后，可以把「头条 + 总览 + 每类一条要点 + 行情点评」发到邮箱。配置在 `notify.config.json`——它含收件地址，已被 `.gitignore` 排除；首次使用先复制模板：
+
+```bash
+cp notify.config.example.json notify.config.json
+```
+
+```json
+{
+  "enabled": true,
+  "channels": ["email"],
+  "email": {
+    "host": "smtp.qq.com", "port": 465, "secure": true,
+    "from": "you@qq.com", "to": ["you@qq.com"],
+    "subjectPrefix": "[每日简报]"
+  },
+  "maxBullets": 6,
+  "baseUrl": "https://your-host/daily-brief"
+}
+```
+
+- SMTP 授权码只从环境变量 `NOTIFY_SMTP_PASS` 读，写进 `.env.local`；`enabled` 为 `false` 时不需要它
+- `baseUrl` 留空则邮件不附全文链接；填了就拼成 `${baseUrl}/<date>/<date>.html`，与 nginx 镜像目录一致
+- 配置写错会在管线启动时直接报错，不会等跑完 5-8 分钟才发现；SMTP 投递失败只记警告，不影响报告与退出码
+- `regen-*`、`snapshot` 不推送，避免同一天重复发信
+- GitHub Actions 里的 `daily.yml` 也会跑 `npm run daily`：`enabled: true` 时要在 Secrets 里加 `NOTIFY_SMTP_PASS`，否则那次运行会按配置错误失败。飞书/Server 酱这类 Webhook 可在 `lib/notify/` 下加一个实现接入
+- 先 `npm run notify -- --dry-run` 看渲染结果，再去掉 `--dry-run` 真发一封
+- 新增渠道只需在 `lib/notify/` 加一个实现并在 `config.ts` 的 `KNOWN_CHANNELS` 登记
 
 ---
 

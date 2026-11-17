@@ -26,6 +26,12 @@ import { fetchCryptoGlobal } from "../lib/trading/coingecko";
 import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
+import {
+  buildNotifySummary,
+  createChannels,
+  loadNotifyConfig,
+  notifyReport,
+} from "../lib/notify";
 
 const OUTPUT_DIR = "daily_reports";
 
@@ -238,6 +244,10 @@ async function main() {
   // Fail fast on misconfigured backend before we spend 30s fetching
   // 500+ articles only to discover the LLM has no credentials.
   validateBackendCredentials();
+  // Notify config is validated here too: a typo in notify.config.json must
+  // surface before the 5-8 minute run, not after the report is written.
+  const notifyConfig = loadNotifyConfig();
+  const notifyChannels = createChannels(notifyConfig);
 
   const date = todayKey();
   console.log(`[daily] ${date} — fetching sources…\n`);
@@ -287,6 +297,15 @@ async function main() {
     console.log(`[daily] wrote ${base}.{json,html,md,articles.json}`);
   } else {
     console.log(`[daily] wrote ${base}.{json,html,articles.json}`);
+  }
+
+  // Delivery is a side effect of a finished report: a broken SMTP server must
+  // not turn a successful run into a failed one.
+  try {
+    await notifyReport(buildNotifySummary(date, report, notifyConfig), notifyConfig, notifyChannels);
+  } catch (e) {
+    const msg = e instanceof Error ? e.message : String(e);
+    console.warn(`[daily] notify failed: ${msg}`);
   }
 
   console.log(`[daily] done.`);

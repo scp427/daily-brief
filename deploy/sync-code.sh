@@ -20,4 +20,5 @@ rsync -a --delete \
   --exclude .git \
   --exclude '*.bak' \
   --exclude '.env*' \
+  --exclude 'notify.config.json' \
   "$root/" "$host:$remote/"

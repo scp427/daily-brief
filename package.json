@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "tsx --test lib/*.test.ts lib/output/*.test.ts lib/ai/*.test.ts lib/ai/backends/*.test.ts lib/publish/*.test.ts lib/publish/channels/*.test.ts lib/sources/*.test.ts scripts/*.test.mjs",
+    "test": "tsx --test lib/*.test.ts lib/output/*.test.ts lib/ai/*.test.ts lib/ai/backends/*.test.ts lib/notify/*.test.ts lib/publish/*.test.ts lib/publish/channels/*.test.ts lib/sources/*.test.ts scripts/*.test.mjs",
     "dry-run": "node scripts/run-tsx.mjs scripts/dry-run.ts",
     "config-check": "node scripts/run-tsx.mjs scripts/config-check.ts",
     "daily": "node scripts/run-tsx.mjs scripts/daily.ts",
@@ -22,17 +22,20 @@
     "piece": "node scripts/run-tsx.mjs scripts/piece.ts",
     "review": "node scripts/run-tsx.mjs scripts/review.ts",
     "push": "node scripts/run-tsx.mjs scripts/push.ts",
+    "notify": "node scripts/run-tsx.mjs scripts/notify.ts",
     "freshness": "node scripts/run-tsx.mjs scripts/freshness.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.96.0",
     "cheerio": "^1.2.0",
     "jsonrepair": "^3.14.0",
+    "nodemailer": "^10.6.0",
     "openai": "^6.38.0",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@types/nodemailer": "^8.0.2",
     "dotenv": "^17.4.2",
     "tsx": "^4.21.0",
     "typescript": "^5"

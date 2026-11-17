@@ -34,7 +34,7 @@ sudo DAILY_BRIEF_USER=<user> bash deploy/install-nginx.sh
 deploy/sync-code.sh <host> ~/daily-brief
 ```
 
-脚本用 `rsync -a --delete` 镜像工作树，排除项就是契约：`node_modules/` 按 lockfile 重建，`logs/`、`daily_reports/`、`snapshots/` 是服务器自己的运行产物，`.env.local` 只写在服务器上（LLM key、`SNAPSHOT_REPO`），`.git/` 在服务器上不存在。rsync 不对被排除的路径执行 `--delete`，所以这些文件既不会被覆盖也不会被删除。
+脚本用 `rsync -a --delete` 镜像工作树，排除项就是契约：`node_modules/` 按 lockfile 重建，`logs/`、`daily_reports/`、`snapshots/` 是服务器自己的运行产物，`.env.local` 只写在服务器上（LLM key、`SNAPSHOT_REPO`），`notify.config.json` 只写在服务器上（收件地址与 SMTP 主机），`.git/` 在服务器上不存在。rsync 不对被排除的路径执行 `--delete`，所以这些文件既不会被覆盖也不会被删除。
 
 `package.json` 未变时服务器上不需要 `npm install`。`daily-brief-admin.service` 常驻内存，`lib/` 改动后要 `sudo systemctl restart daily-brief-admin.service` 才会生效。
 

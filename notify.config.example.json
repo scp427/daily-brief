@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "channels": ["email"],
+  "email": {
+    "host": "smtp.qq.com",
+    "port": 465,
+    "secure": true,
+    "from": "you@qq.com",
+    "to": ["you@qq.com"],
+    "subjectPrefix": "[每日简报]"
+  },
+  "maxBullets": 6,
+  "baseUrl": ""
+}
