@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-19T03:47:54.002Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 401,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "Meta pauses plans to create non-voting share class after investor lawsuit",
+      "url": "https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Mark Zuckerberg would have been able to sell down stake without reducing his control under deal",
+      "publishedAt": "2026-11-19T03:21:54.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US tech outages blamed on rush to fix bugs found by AI",
+      "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others",
+      "publishedAt": "2026-11-19T00:07:46.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
+      "url": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance",
+      "publishedAt": "2026-11-19T00:01:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘GTA VI’ shows the power of a blockbuster",
+      "url": "https://www.ft.com/content/d6f65483-2c8f-46eb-89d2-c98270ad4c88?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Instead of publishing several mediocre games like its rivals, Take-Two is focusing on getting one release right",
+      "publishedAt": "2026-11-19T00:01:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Crew of Mike Lynch’s Bayesian superyacht were unaware of risks, probe finds",
+      "url": "https://www.ft.com/content/bccbf72c-c7ea-4774-ab92-96b7138a79bd?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Vessel’s unusually tall mast and vulnerability to flooding contributed to its sudden sinking, says UK Marine Accident Investigation Branch",
+      "publishedAt": "2026-11-19T00:01:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Anthropic raises $81bn in record IPO",
+      "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "AI giant’s enlarged deal will surpass SpaceX to become world’s biggest public listing",
+      "publishedAt": "2026-11-18T22:04:50.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Russian accused of spying on Palantir over assistance to Ukraine",
+      "url": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group",
+      "publishedAt": "2026-11-18T21:44:59.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records",
+      "url": "https://www.ft.com/content/444ff3e0-08b9-4a48-b935-a8cf65311ea0?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Hopes of video game industry resting on much-delayed title from Rockstar Games",
+      "publishedAt": "2026-11-18T21:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+      "url": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
+      "publishedAt": "2026-11-18T20:40:19.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
+      "url": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
+      "publishedAt": "2026-11-18T20:15:44.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US tech stocks oscillate after Nvidia results",
+      "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off",
+      "publishedAt": "2026-11-18T19:44:27.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "BAE set to cut more than 1,000 jobs",
+      "url": "https://www.ft.com/content/21e2a744-8e9d-4470-9978-f7d88c10c0fb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "UK’s largest defence contractor responds to government demand for ‘greater speed and efficiency’",
+      "publishedAt": "2026-11-18T18:43:39.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
+      "url": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
+      "publishedAt": "2026-11-18T16:30:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Activist investor pushes for Chemring break-up",
+      "url": "https://www.ft.com/content/b8501396-7400-4114-b27a-a35f9d04708a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "UK defence group has failed to capitalise on surge in European military budgets, says Palliser Capital",
+      "publishedAt": "2026-11-18T16:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "British energy price cap set to rise to over £2,000 in January",
+      "url": "https://www.ft.com/content/c22b7eeb-96ce-4d4a-87ed-2b17901255be?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Lower levels of government support will see households paying more for energy in real terms than during Ukraine inflation shock",
+      "publishedAt": "2026-11-18T15:10:39.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "A Russian oligarch and the suspect money that flowed through Deutsche Bank",
+      "url": "https://www.ft.com/content/5789cfd1-1041-454f-b450-ae2015d7c6ff?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Lender discovered a suspected laundromat centred on a Hungarian bank with ties to Viktor Orbán",
+      "publishedAt": "2026-11-18T14:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "GM seeks to double defence revenue",
+      "url": "https://www.ft.com/content/b36bf99b-e7b9-4591-aedb-5aa2b82bdf37?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Carmakers move to diversify businesses as global defence contractors turn to automotive technology to accelerate weapons production",
+      "publishedAt": "2026-11-18T11:00:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "RFK Jr opens door to experimental drugs promising muscle growth and better sex",
+      "url": "https://www.ft.com/content/47973475-36b8-4e46-8f2d-0c04de23b6db?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Telehealth and beauty groups race to cash in on booming demand for unproven anti-ageing and sexual enhancement treatments",
+      "publishedAt": "2026-11-18T11:00:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Helsing scales back Plymouth factory after losing out on British navy contract",
+      "url": "https://www.ft.com/content/1138e74b-c384-42ba-9edd-c17c8beb4546?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Decision comes amid frustration among start-ups at slow pace of UK defence contracts",
+      "publishedAt": "2026-11-18T10:28:51.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: Anthropic IPO set to redraw venture capital’s power rankings",
+      "url": "https://www.ft.com/content/c9edda0a-b10b-4dd6-b598-1cdf98e4337b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Also in today’s newsletter: AI-based audit asks ‘better questions’ than accountants",
+      "publishedAt": "2026-11-18T10:15:42.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Space could be the first frontier for European defence mergers",
+      "url": "https://www.ft.com/content/8eab26fa-ca90-42b7-9158-7aa5368bc758?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "There is a logic to the pairing of Iceye and Avio",
+      "publishedAt": "2026-11-18T10:00:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Russia imports record volumes of petrol as Ukraine strikes refineries",
+      "url": "https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Shipments a ‘remarkable reversal’ from country’s traditional role as fuel exporter",
+      "publishedAt": "2026-11-18T09:46:03.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Democrats probe whether Lutnick helped Cantor avoid Nvidia losses",
+      "url": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Lawmakers seek information on whether US commerce secretary’s decisions were influenced by family’s investment firm",
+      "publishedAt": "2026-11-18T09:45:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK oil producer quits ‘high-tax’ North Sea",
+      "url": "https://www.ft.com/content/c102961c-de3c-4678-964f-23d591f04d10?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "EnQuest sells its UK oilfields to rival Neo Next+ in search of better returns",
+      "publishedAt": "2026-11-18T09:35:17.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
+      "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Concerns raised that hyperscalers are building up trillions of dollars in off-balance sheet commitments through contracts with other tech groups",
+      "publishedAt": "2026-11-18T09:00:07.000Z"
+    }
+  ]
+}

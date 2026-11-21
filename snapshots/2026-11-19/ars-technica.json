@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-19T03:47:52.983Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 146,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "category": "tech",
+      "excerpt": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "publishedAt": "2026-11-18T23:25:04.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "category": "tech",
+      "excerpt": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "publishedAt": "2026-11-18T23:10:39.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "category": "tech",
+      "excerpt": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "publishedAt": "2026-11-18T22:08:57.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "category": "tech",
+      "excerpt": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "publishedAt": "2026-11-18T21:29:24.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "category": "tech",
+      "excerpt": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "publishedAt": "2026-11-18T20:41:12.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "category": "tech",
+      "excerpt": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+      "publishedAt": "2026-11-18T19:31:17.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "category": "tech",
+      "excerpt": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "publishedAt": "2026-11-18T19:19:33.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+      "category": "tech",
+      "excerpt": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+      "publishedAt": "2026-11-18T18:46:08.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "The \"shameful\" measles data that lost the US its elimination status",
+      "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
+      "category": "tech",
+      "excerpt": "Measles became endemic in the US months ago—and it's only accelerating.",
+      "publishedAt": "2026-11-18T18:30:23.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "category": "tech",
+      "excerpt": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
+      "publishedAt": "2026-11-18T18:10:33.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
+      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+      "category": "tech",
+      "excerpt": "This commuter bike will have you blazing through streets without any range anxiety.",
+      "publishedAt": "2026-11-18T17:53:59.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+      "category": "tech",
+      "excerpt": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+      "publishedAt": "2026-11-18T16:58:32.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+      "category": "tech",
+      "excerpt": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+      "publishedAt": "2026-11-18T16:24:34.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
+      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
+      "category": "tech",
+      "excerpt": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+      "publishedAt": "2026-11-18T14:01:45.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+      "category": "tech",
+      "excerpt": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+      "publishedAt": "2026-11-18T12:15:44.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Grand Theft Auto VI: The Ars Technica review",
+      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+      "category": "tech",
+      "excerpt": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
+      "publishedAt": "2026-11-18T11:00:27.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "category": "tech",
+      "excerpt": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "publishedAt": "2026-11-18T00:27:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "category": "tech",
+      "excerpt": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "publishedAt": "2026-11-17T23:09:09.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "category": "tech",
+      "excerpt": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "publishedAt": "2026-11-17T22:44:46.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "category": "tech",
+      "excerpt": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "publishedAt": "2026-11-17T22:32:16.000Z"
+    }
+  ]
+}

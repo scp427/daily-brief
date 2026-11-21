@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-19T03:47:55.131Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 309,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "publishedAt": "2026-11-18T17:00:40.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "publishedAt": "2026-11-19T00:00:59.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
+      "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+      "publishedAt": "2026-11-19T02:02:23.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "publishedAt": "2026-11-19T02:20:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Crew unaware of risks before Bayesian yacht accident, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+      "publishedAt": "2026-11-19T00:05:31.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "publishedAt": "2026-11-19T00:49:19.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "publishedAt": "2026-11-19T01:05:03.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Prince Harry says he would rejoin army as he warns of Russia threat",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Duke of Sussex thought people should be ready to serve again for their country if needed.",
+      "publishedAt": "2026-11-18T20:55:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "publishedAt": "2026-11-19T02:59:06.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+      "publishedAt": "2026-11-18T23:29:14.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "No state has ever been found guilty by an international court of committing genocide.",
+      "publishedAt": "2026-11-18T23:04:06.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Is your child lying to you? That might not be a bad thing",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Parents may be annoyed when their kids lie but experts explain why it is part of their development.",
+      "publishedAt": "2026-11-19T00:12:57.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "publishedAt": "2026-11-18T21:28:08.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+      "publishedAt": "2026-11-18T10:53:21.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The Papers: 'I'd rejoin the Army to fight Russia' and 'Boiling point'",
+      "url": "https://www.bbc.co.uk/news/articles/cqly45eymjeko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Dominating newspaper headlines is Prince Harry's declaration that he would rejoin the army if needed.",
+      "publishedAt": "2026-11-19T03:10:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "publishedAt": "2026-11-18T23:47:46.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "publishedAt": "2026-11-18T17:34:25.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
+      "publishedAt": "2026-11-18T11:00:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "publishedAt": "2026-11-18T20:07:08.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "publishedAt": "2026-11-18T22:34:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Police investigate death of boy, 3, after nursery incident",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The boy died in hospital three days after an incident at Cosy Toes Nursery in Middleton, police say.",
+      "publishedAt": "2026-11-18T16:51:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Council wins legal fight against flags on lamp-posts",
+      "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction.",
+      "publishedAt": "2026-11-18T18:19:34.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Regulator mistakenly sent complaints about doctors to newspaper",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+      "publishedAt": "2026-11-18T17:48:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "TfL photocard breach exposes 265,000 customers",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4kz3lgdz5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Names, addresses, dates of birth and security answers were accessed, Transport for London says.",
+      "publishedAt": "2026-11-18T20:49:53.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Can Milburn's Neets Report Help Britain's 'Lost Generation'?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News",
+      "category": "society",
+      "excerpt": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "publishedAt": "2026-10-25T00:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The sandpaper plot - who was there, who said what?",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
+      "publishedAt": "2026-11-18T16:13:04.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The tightest survival scrap for years? Why it's not too early to worry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+      "publishedAt": "2026-11-18T16:09:55.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Divide and conquer - now maverick Erasmus plans online watchalong",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg28v20xy0o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Rassie Erasmus is a serial offender when it comes to criticising officials, but he retains huge support in South Africa - and has unique plans for following his team's game against Ireland.",
+      "publishedAt": "2026-11-18T15:02:01.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "FA explored legal challenge to Infantino staying on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+      "publishedAt": "2026-11-18T20:55:01.000Z"
+    }
+  ]
+}

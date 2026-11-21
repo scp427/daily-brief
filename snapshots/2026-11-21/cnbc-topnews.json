@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-21T03:25:18.656Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 89,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "category": "finance",
+      "excerpt": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "publishedAt": "2026-11-20T22:59:33.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "A massive bearish trade just happened in the chip stocks",
+      "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+      "category": "finance",
+      "excerpt": "Options traders place big bets that semiconductor stocks have further to fall",
+      "publishedAt": "2026-11-20T19:33:31.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "category": "finance",
+      "excerpt": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+      "publishedAt": "2026-11-20T21:35:24.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "category": "finance",
+      "excerpt": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+      "publishedAt": "2026-11-20T14:15:29.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "category": "finance",
+      "excerpt": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "publishedAt": "2026-11-20T20:47:58.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "category": "finance",
+      "excerpt": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+      "publishedAt": "2026-11-20T19:59:03.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
+      "url": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
+      "category": "finance",
+      "excerpt": "Anthropic options list Monday. They will likely be expensive",
+      "publishedAt": "2026-11-20T15:12:40.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump says he still has confidence in Lutnick",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "category": "finance",
+      "excerpt": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick.",
+      "publishedAt": "2026-11-20T20:52:08.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "category": "finance",
+      "excerpt": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+      "publishedAt": "2026-11-20T19:42:53.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Data center construction costs soar 13% in 2026",
+      "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
+      "category": "finance",
+      "excerpt": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
+      "publishedAt": "2026-11-20T16:52:08.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "category": "finance",
+      "excerpt": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+      "publishedAt": "2026-11-20T21:10:48.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+      "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+      "category": "finance",
+      "excerpt": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+      "publishedAt": "2026-11-20T15:50:27.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "category": "finance",
+      "excerpt": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+      "publishedAt": "2026-11-20T22:08:41.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "category": "finance",
+      "excerpt": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+      "publishedAt": "2026-11-20T00:00:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "category": "finance",
+      "excerpt": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+      "publishedAt": "2026-11-20T21:04:48.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "category": "finance",
+      "excerpt": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
+      "publishedAt": "2026-11-20T14:59:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+      "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+      "category": "finance",
+      "excerpt": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+      "publishedAt": "2026-11-20T20:06:12.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "category": "finance",
+      "excerpt": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+      "publishedAt": "2026-11-20T06:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+      "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+      "category": "finance",
+      "excerpt": "Unhappy workers are staying put at their jobs as anxiety around the job market looms. If conditions improve, these workers could be the first to quit, according to experts.",
+      "publishedAt": "2026-11-20T18:55:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "category": "finance",
+      "excerpt": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
+      "publishedAt": "2026-11-19T18:44:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
+      "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
+      "category": "finance",
+      "excerpt": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
+      "publishedAt": "2026-11-20T14:34:14.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "category": "finance",
+      "excerpt": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
+      "publishedAt": "2026-11-20T13:29:50.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "category": "finance",
+      "excerpt": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+      "publishedAt": "2026-11-20T14:07:24.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
+      "url": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
+      "category": "finance",
+      "excerpt": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
+      "publishedAt": "2026-11-20T12:00:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
+      "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
+      "category": "finance",
+      "excerpt": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
+      "publishedAt": "2026-11-20T16:18:04.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+      "category": "finance",
+      "excerpt": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
+      "publishedAt": "2026-11-20T18:07:18.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
+      "url": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
+      "category": "finance",
+      "excerpt": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
+      "publishedAt": "2026-11-20T12:00:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+      "category": "finance",
+      "excerpt": "Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
+      "publishedAt": "2026-11-20T17:25:19.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+      "category": "finance",
+      "excerpt": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
+      "publishedAt": "2026-11-20T15:52:45.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules",
+      "url": "https://www.cnbc.com/2026/11/20/fha-mortgage-insurance-cuts-cancellation.html",
+      "category": "finance",
+      "excerpt": "Mortgage industry groups want the rules applying to mortgage insurance for FHA loans to be changed to bring down the cost for borrowers.",
+      "publishedAt": "2026-11-20T13:35:01.000Z"
+    }
+  ]
+}

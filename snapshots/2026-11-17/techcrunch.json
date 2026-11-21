@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-17T04:44:06.132Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 87,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "category": "tech",
+      "excerpt": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "publishedAt": "2026-11-16T23:32:32.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "category": "tech",
+      "excerpt": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "publishedAt": "2026-11-16T22:12:31.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "category": "tech",
+      "excerpt": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "publishedAt": "2026-11-16T22:03:02.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "category": "tech",
+      "excerpt": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "publishedAt": "2026-11-16T21:01:02.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "category": "tech",
+      "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "publishedAt": "2026-11-16T20:07:13.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "category": "tech",
+      "excerpt": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "publishedAt": "2026-11-16T19:53:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "category": "tech",
+      "excerpt": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+      "publishedAt": "2026-11-16T19:26:55.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "category": "tech",
+      "excerpt": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "publishedAt": "2026-11-16T19:12:02.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "category": "tech",
+      "excerpt": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+      "publishedAt": "2026-11-16T18:54:18.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "category": "tech",
+      "excerpt": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
+      "publishedAt": "2026-11-16T18:21:14.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "category": "tech",
+      "excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "publishedAt": "2026-11-16T18:11:10.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "category": "tech",
+      "excerpt": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "publishedAt": "2026-11-16T17:36:43.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "category": "tech",
+      "excerpt": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "publishedAt": "2026-11-16T17:10:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "category": "tech",
+      "excerpt": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "publishedAt": "2026-11-16T17:02:43.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "category": "tech",
+      "excerpt": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "publishedAt": "2026-11-16T17:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "category": "tech",
+      "excerpt": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+      "publishedAt": "2026-11-16T17:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "category": "tech",
+      "excerpt": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+      "publishedAt": "2026-11-16T16:06:30.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "category": "tech",
+      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "publishedAt": "2026-11-16T15:52:19.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "category": "tech",
+      "excerpt": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "publishedAt": "2026-11-16T15:02:34.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "category": "tech",
+      "excerpt": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "publishedAt": "2026-11-16T14:48:13.000Z"
+    }
+  ]
+}

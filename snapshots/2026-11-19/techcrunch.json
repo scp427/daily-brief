@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-19T03:47:53.228Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 105,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "category": "tech",
+      "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "publishedAt": "2026-11-19T00:42:56.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "category": "tech",
+      "excerpt": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+      "publishedAt": "2026-11-19T00:40:49.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "category": "tech",
+      "excerpt": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "publishedAt": "2026-11-18T23:45:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "category": "tech",
+      "excerpt": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "publishedAt": "2026-11-18T23:25:17.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "category": "tech",
+      "excerpt": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "publishedAt": "2026-11-18T23:17:28.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "category": "tech",
+      "excerpt": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "publishedAt": "2026-11-18T22:58:11.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "category": "tech",
+      "excerpt": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "publishedAt": "2026-11-18T22:11:15.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "category": "tech",
+      "excerpt": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+      "publishedAt": "2026-11-18T22:04:03.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "category": "tech",
+      "excerpt": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "publishedAt": "2026-11-18T21:57:40.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "category": "tech",
+      "excerpt": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "publishedAt": "2026-11-18T21:34:13.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "category": "tech",
+      "excerpt": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "publishedAt": "2026-11-18T21:31:21.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "category": "tech",
+      "excerpt": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "publishedAt": "2026-11-18T20:07:01.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "category": "tech",
+      "excerpt": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "publishedAt": "2026-11-18T19:56:39.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "category": "tech",
+      "excerpt": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "publishedAt": "2026-11-18T19:29:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "category": "tech",
+      "excerpt": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "publishedAt": "2026-11-18T18:04:05.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "category": "tech",
+      "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "publishedAt": "2026-11-18T17:32:10.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+      "category": "tech",
+      "excerpt": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+      "publishedAt": "2026-11-18T17:30:56.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "category": "tech",
+      "excerpt": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "publishedAt": "2026-11-18T16:59:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "category": "tech",
+      "excerpt": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "publishedAt": "2026-11-18T16:14:09.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+      "category": "tech",
+      "excerpt": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
+      "publishedAt": "2026-11-18T16:00:00.000Z"
+    }
+  ]
+}

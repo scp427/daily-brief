@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-tech",
+  "fetchedAt": "2026-11-18T03:48:50.663Z",
+  "ok": true,
+  "itemCount": 21,
+  "durationMs": 182,
+  "items": [
+    {
+      "sourceId": "bbc-tech",
+      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "publishedAt": "2026-11-18T03:07:22.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "publishedAt": "2026-11-18T01:18:18.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "publishedAt": "2026-11-18T00:00:24.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "publishedAt": "2026-11-17T14:25:45.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "NHS data contract to stay with Palantir until 2029",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+      "publishedAt": "2026-11-17T12:00:12.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "publishedAt": "2026-11-17T11:49:01.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "publishedAt": "2026-11-17T11:17:32.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+      "publishedAt": "2026-11-17T09:41:07.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "publishedAt": "2026-11-17T02:37:53.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "publishedAt": "2026-11-16T23:25:53.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "OpenAI sued by California over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "publishedAt": "2026-11-16T23:12:24.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "publishedAt": "2026-11-16T13:34:22.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "publishedAt": "2026-11-16T03:04:01.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "publishedAt": "2026-11-17T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "publishedAt": "2026-11-10T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "publishedAt": "2026-11-03T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "publishedAt": "2026-10-27T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "publishedAt": "2026-10-10T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "publishedAt": "2026-10-03T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "publishedAt": "2026-09-26T01:00:13.000Z"
+    }
+  ]
+}

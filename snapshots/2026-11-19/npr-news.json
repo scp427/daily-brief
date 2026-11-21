@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-19T03:47:54.929Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 24,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+      "category": "society",
+      "excerpt": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
+      "publishedAt": "2026-11-18T23:54:56.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+      "category": "society",
+      "excerpt": "It's been a year since the House passed the Epstein Files Transparency Act, forcing the Justice Department to release millions of files connected to the convicted sex offender. His victims speak out.",
+      "publishedAt": "2026-11-18T22:27:43.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Why the Nvidia scandal is a national security issue",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+      "category": "society",
+      "excerpt": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
+      "publishedAt": "2026-11-18T22:12:56.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+      "category": "society",
+      "excerpt": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January.",
+      "publishedAt": "2026-11-18T22:01:19.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+      "category": "society",
+      "excerpt": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
+      "publishedAt": "2026-11-18T22:01:17.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Democratic Black women take over almost all state agencies in Georgia soon",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+      "category": "society",
+      "excerpt": "In January, most of Georgia's state agencies will be headed by Black women who were all elected in the 2026 midterms.",
+      "publishedAt": "2026-11-18T21:51:33.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+      "category": "society",
+      "excerpt": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+      "publishedAt": "2026-11-18T18:18:16.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+      "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "category": "society",
+      "excerpt": "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+      "publishedAt": "2026-11-18T18:15:59.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "category": "society",
+      "excerpt": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
+      "publishedAt": "2026-11-18T17:10:44.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+      "category": "society",
+      "excerpt": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+      "publishedAt": "2026-11-18T15:56:30.000Z"
+    }
+  ]
+}

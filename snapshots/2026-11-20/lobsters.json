@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-20T03:40:59.134Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 288,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Design for Understandability",
+      "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:07:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "PostgreSQL 19 Released",
+      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T15:12:08.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "We Need Smart People Who Give a Shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:28:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Mutex poisoning is not for everyone",
+      "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:01:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "15 million web servers on one VM - smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:38:19.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Hiring a Systems Programmer for Boxem",
+      "url": "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem",
+      "category": "tech",
+      "excerpt": "Handmade Cities has a job referral program, where engineers and employers reach out about open roles. (It's a free community service, so I'm not getting paid.) I'm cross-posting an unusually good opportunity from Boxem, who are writing fast shipping software and are very keen to hire a veteran C pro",
+      "publishedAt": "2026-11-19T16:45:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
+      "url": "https://verialabs.com/ruby2shell/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T10:50:28.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+      "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
+      "category": "tech",
+      "excerpt": "Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to /etc/hosts: 217.197.84.140 codeberg.org Update: it's now up again, and the above workaround is not necessary. Comments",
+      "publishedAt": "2026-11-18T08:51:09.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T08:37:13.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Visualizing a Ledger with pgledger-ui",
+      "url": "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T19:55:10.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T19:50:25.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Supporting FOSS projects to transition to memory safe tech",
+      "url": "https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T18:39:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "PHP 8.6 Release Announcement",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T10:17:55.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Mercurius — A Zero-Trust Network‑Native Window System",
+      "url": "https://mercurius.tebibyte.org/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T18:37:35.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "nginx2root",
+      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T15:28:56.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T02:41:39.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Java4Shell is a reason to use Java",
+      "url": "https://mccue.dev/pages/11-18-26-java4shell",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T14:21:42.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Postel Awardee Dave Täht Made Every Millisecond Count",
+      "url": "https://www.internetsociety.org/blog/2026/11/postel-awardee-dave-taht-made-every-millisecond-count/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T16:01:27.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Type inference and narrowing with reverse arrows",
+      "url": "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:34:58.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Upcoming Critical PHP Security Release (18 Nov 2026)",
+      "url": "https://www.php.net/index.php#2026-11-18-1",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T19:44:06.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T03:34:36.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Farcall, a terminal-ready Rust PC+DOS emulator",
+      "url": "https://www.dialup.net/farcall/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T02:12:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Validating a High-Performance Cloud Object Store with Lightweight Formal Methods",
+      "url": "https://dl.acm.org/doi/10.1145/3830418.3843899",
+      "category": "tech",
+      "excerpt": "Abstract: We report on our experience validating S3 Express One Zone, a high-performance Amazon S3 storage class launched in November 2023. We focused on its distributed metadata index, which implements a hierarchical namespace using distributed transactions. We check strong consistency and durabili",
+      "publishedAt": "2026-11-19T08:53:43.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Windows 11 collects data on which coding agents and dev tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T11:57:46.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How I made a custom game engine for Satelital",
+      "url": "https://spectralorbit.com/blog/satelital_game_engine",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T16:39:00.000Z"
+    }
+  ]
+}

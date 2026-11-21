@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-20T03:41:00.863Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 198,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "category": "finance",
+      "excerpt": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "publishedAt": "2026-11-20T03:30:45.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "category": "finance",
+      "excerpt": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "publishedAt": "2026-11-20T03:38:07.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "AMD dives on short seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "category": "finance",
+      "excerpt": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+      "publishedAt": "2026-11-20T00:08:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "category": "finance",
+      "excerpt": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+      "publishedAt": "2026-11-19T23:21:23.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "category": "finance",
+      "excerpt": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+      "publishedAt": "2026-11-20T00:00:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "category": "finance",
+      "excerpt": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+      "publishedAt": "2026-11-20T00:53:55.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "category": "finance",
+      "excerpt": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+      "publishedAt": "2026-11-20T01:49:03.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "category": "finance",
+      "excerpt": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "publishedAt": "2026-11-20T03:30:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Congress passes bill to protect older investors from financial fraud",
+      "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+      "category": "finance",
+      "excerpt": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
+      "publishedAt": "2026-11-19T22:23:29.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
+      "category": "finance",
+      "excerpt": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
+      "publishedAt": "2026-11-19T10:54:07.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "category": "finance",
+      "excerpt": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+      "publishedAt": "2026-11-19T19:58:30.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "category": "finance",
+      "excerpt": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
+      "publishedAt": "2026-11-19T18:44:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+      "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+      "category": "finance",
+      "excerpt": "The ASEAN summit in the Philippines failed to conclude the Code of Conduct for the South China Sea despite Manila pledging it would happen this year.",
+      "publishedAt": "2026-11-19T00:31:00.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+      "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+      "category": "finance",
+      "excerpt": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+      "publishedAt": "2026-11-19T21:40:31.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "category": "finance",
+      "excerpt": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+      "publishedAt": "2026-11-19T19:43:08.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "category": "finance",
+      "excerpt": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
+      "publishedAt": "2026-11-19T20:46:23.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "category": "finance",
+      "excerpt": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
+      "publishedAt": "2026-11-19T21:00:57.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "category": "finance",
+      "excerpt": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+      "publishedAt": "2026-11-20T00:16:30.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+      "category": "finance",
+      "excerpt": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "publishedAt": "2026-11-19T20:10:21.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
+      "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "category": "finance",
+      "excerpt": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say.",
+      "publishedAt": "2026-11-19T19:06:56.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+      "category": "finance",
+      "excerpt": "India’s inflation, which has been on the rise for 12 straight months, is becoming a risk to growth and to the reversal of foreign inflows.",
+      "publishedAt": "2026-11-19T00:01:23.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+      "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+      "category": "finance",
+      "excerpt": "Payward, the owner of crypto exchange Kraken, is pushing into private markets with its purchase of venture capital and asset management provider Tribe Capital.",
+      "publishedAt": "2026-11-19T20:33:05.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "3-step method to influence people and win them over, from a Stanford expert: ‘Your voice is like a muscle’",
+      "url": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html",
+      "category": "finance",
+      "excerpt": "Stanford University communications lecturer Matt Abrahams teaches current and future leaders how to train their voices to be more engaging and persuasive.",
+      "publishedAt": "2026-11-19T20:17:36.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "category": "finance",
+      "excerpt": "An ongoing shortage of Sanofi’s Pompe disease treatment is forcing some patients to miss critical doses. They worry their health is at risk.",
+      "publishedAt": "2026-11-19T19:38:33.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "category": "finance",
+      "excerpt": "Netflix, Amazon and Fox are among those bidding on the 2030 men's World Cup media rights. Disney has decided not to bid, sources told CNBC.",
+      "publishedAt": "2026-11-19T18:30:51.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
+      "url": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html",
+      "category": "finance",
+      "excerpt": "Social Security's trust funds face a looming shortfall. But AARP says Sen. Ron Johnson's description of the program as a \"legal Ponzi scheme\" is inaccurate.",
+      "publishedAt": "2026-11-19T21:35:46.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Gold's bad year is getting worse. Why its price keeps falling",
+      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+      "category": "finance",
+      "excerpt": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
+      "publishedAt": "2026-11-19T16:29:52.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+      "category": "finance",
+      "excerpt": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
+      "publishedAt": "2026-11-19T17:01:41.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
+      "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
+      "category": "finance",
+      "excerpt": "It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.",
+      "publishedAt": "2026-11-19T12:02:08.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
+      "category": "finance",
+      "excerpt": "The Anthropic IPO and a flood of AI wealth are spurring the creation of new family offices built for the era of artificial intelligence.",
+      "publishedAt": "2026-11-19T14:57:38.000Z"
+    }
+  ]
+}

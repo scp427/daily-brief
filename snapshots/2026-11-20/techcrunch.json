@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-20T03:41:00.612Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 143,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "category": "tech",
+      "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "publishedAt": "2026-11-20T00:56:01.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "category": "tech",
+      "excerpt": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "publishedAt": "2026-11-20T00:43:50.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "category": "tech",
+      "excerpt": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "publishedAt": "2026-11-20T00:26:03.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "category": "tech",
+      "excerpt": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "publishedAt": "2026-11-19T23:37:56.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "category": "tech",
+      "excerpt": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "publishedAt": "2026-11-19T22:33:26.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "category": "tech",
+      "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "publishedAt": "2026-11-19T21:58:06.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "category": "tech",
+      "excerpt": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "publishedAt": "2026-11-19T21:42:31.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "category": "tech",
+      "excerpt": "Uber is testing the new program in three U.S. cities.",
+      "publishedAt": "2026-11-19T21:33:24.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "tech",
+      "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "publishedAt": "2026-11-19T20:18:49.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "category": "tech",
+      "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "publishedAt": "2026-11-19T19:10:45.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "category": "tech",
+      "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "publishedAt": "2026-11-19T18:09:11.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "category": "tech",
+      "excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "publishedAt": "2026-11-19T17:38:40.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "category": "tech",
+      "excerpt": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "publishedAt": "2026-11-19T17:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "category": "tech",
+      "excerpt": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "publishedAt": "2026-11-19T16:59:23.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "category": "tech",
+      "excerpt": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "publishedAt": "2026-11-19T16:19:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "category": "tech",
+      "excerpt": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "publishedAt": "2026-11-19T15:32:20.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "category": "tech",
+      "excerpt": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "publishedAt": "2026-11-19T14:54:39.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "category": "tech",
+      "excerpt": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "publishedAt": "2026-11-19T14:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "category": "tech",
+      "excerpt": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "publishedAt": "2026-11-19T14:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "category": "tech",
+      "excerpt": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "publishedAt": "2026-11-19T00:42:56.000Z"
+    }
+  ]
+}

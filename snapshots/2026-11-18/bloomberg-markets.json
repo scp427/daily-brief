@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-18T03:48:50.711Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 181,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SQM Warns Lithium Sales Price May Decline ‘Substantially’",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
+      "category": "finance",
+      "excerpt": "Chilean lithium producer SQM warned that product prices may be set for a substantial decline this quarter, even as it continued to see “encouraging demand trends” for the battery metal.",
+      "publishedAt": "2026-11-18T01:18:05.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Xi Warns Against ‘Rampant’ Protectionism Before Trump Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks",
+      "category": "finance",
+      "excerpt": "Xi Jinping urged Asia-Pacific economies to deepen cooperation on trade and technology, warning against rising protectionism days after new US curbs on China’s access to top AI chips threatened to overshadow his talks with Donald Trump.",
+      "publishedAt": "2026-11-18T02:25:09.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Foreign Investors Pour Record $9.6 Billion Into Indian Stocks in November",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
+      "category": "finance",
+      "excerpt": "Foreigners are becoming buyers of Indian stocks at a record pace, signaling a broader portfolio shift as weakeness in the artificial intelligence trade revives demand for a market they have largely abandoned over the past two years.",
+      "publishedAt": "2026-11-17T13:31:21.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Lose Nvidia-Led Momentum, Treasuries Rise: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "A rebound in equities fueled by Nvidia Corp.’s better-than-expected sales forecast lost momentum as traders questioned whether the results were enough to reverse a broader retreat from the artificial intelligence trade. Treasuries gained.",
+      "publishedAt": "2026-11-17T22:07:08.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China a 'Supersized' Testing Ground for Technology: Xi",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
+      "category": "finance",
+      "excerpt": "Xi Jinping tells Asia-Pacific business leaders that China aims to drive high-quality growth through innovation, green transition and closer integration of technological and industrial development. He describes China as a \"supersized\" testing ground for technologies such as factory robots, autonomous",
+      "publishedAt": "2026-11-18T03:02:15.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Xi Calls for Deeper Cooperation and Free Trade",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-calls-for-deeper-cooperation-and-free-trade-video",
+      "category": "finance",
+      "excerpt": "Xi Jinping says Asia-Pacific economies should expand trade and bilateral relations while recognizing their differences in history, culture and development. He speaks at the APEC CEO Summit in Shenzhen. (Source: Bloomberg)",
+      "publishedAt": "2026-11-18T02:44:48.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Rupee Forwards Turn More Bullish Than Currency Forecasters",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/rupee-forwards-turn-more-bullish-than-currency-forecasters",
+      "category": "finance",
+      "excerpt": "Forward-implied USD/INR rate for end-2026 is about 94.32 per dollar.",
+      "publishedAt": "2026-11-18T02:30:55.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Iron Ore Likely to Find a Floor Near $80, Chinese Analysts Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/iron-ore-likely-to-find-a-floor-near-80-chinese-analysts-say",
+      "category": "finance",
+      "excerpt": "Iron ore prices will need to drop to about $80 a ton before high-cost mines start cutting output to put a floor under the market, according to Chinese analysts.",
+      "publishedAt": "2026-11-18T02:30:04.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Sets Strongest Yuan Fixing Since 2022 as APEC Begins",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/pboc-sets-strongest-yuan-fix-since-2022-to-allow-further-gains",
+      "category": "finance",
+      "excerpt": "China’s central bank lifted its daily yuan reference rate to the strongest in over four years, a sign of tolerance for gradual gains as the nation hosts a key regional summit.",
+      "publishedAt": "2026-11-18T01:25:45.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+      "category": "finance",
+      "excerpt": "Gold dropped below $3,800 an ounce for the first time since September 2025 after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
+      "publishedAt": "2026-11-17T23:33:52.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japanese Restaurant Skylark Eyes More M&A After Ramen Chain Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/japanese-restaurant-skylark-eyes-more-m-a-after-ramen-chain-deal",
+      "category": "finance",
+      "excerpt": "Skylark Holdings Co., one of Japan’s largest restaurant chains, plans more M&A in 2027, and expects its growth-investment budget to match at least this year’s ¥50 billion ($313 million), according to company management.",
+      "publishedAt": "2026-11-18T02:15:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/cobalt-s-outlook-darkens-as-memory-chip-costs-hit-gadgets-demand",
+      "category": "finance",
+      "excerpt": "Chinese cobalt demand is weakening as soaring prices for memory chips hit sales of the electronic gadgets that use the battery metal.",
+      "publishedAt": "2026-11-18T01:36:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Ping An Group To Reduce Public Equity Allocation",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/ping-an-group-to-reduce-public-equity-allocation-video",
+      "category": "finance",
+      "excerpt": "Michael Guo, Ping An Group Co-CEO says the insurance company is planning to reduce allocation on public equity and considering fixed income as an alternative investment. He speaks to Bloomberg’s Stephen Engle in an exclusive interview at the APEC 2026 summit. (Source: Bloomberg)",
+      "publishedAt": "2026-11-18T01:36:31.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Quant Trader Graviton Expands Office Space in India, Singapore",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/quant-trader-graviton-expands-office-space-in-india-singapore",
+      "category": "finance",
+      "excerpt": "Graviton Research Capital LLP has expanded into larger offices in India’s high-frequency trading hub of Gurugram and in Singapore as the homegrown firm gears up for an ambitious global expansion.",
+      "publishedAt": "2026-11-18T01:30:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 18",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+      "category": "finance",
+      "excerpt": "Oil steadied as traders assessed renewed fighting in the Middle East against signs of recovering supplies and higher US inventories.",
+      "publishedAt": "2026-11-17T23:01:33.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "David Jones to Cut 1,500 Jobs in Survival Fight, Union Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/david-jones-to-cut-1-500-jobs-in-fight-to-survive-union-says",
+      "category": "finance",
+      "excerpt": "Australian department store chain David Jones is set to cut about 1,500 jobs, one-quarter of the workforce, as it shuts outlets in a bid to survive, according to the employees’ union.",
+      "publishedAt": "2026-11-18T00:37:39.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
+      "category": "finance",
+      "excerpt": "The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”",
+      "publishedAt": "2026-11-17T23:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
+      "category": "finance",
+      "excerpt": "New US restrictions on the export and access to top-end semiconductors risks denting Thailand’s ambitions to be a hub for data centers, the foreign minister said. Foreign Minister Sihasak said in a BTV interview with Haslinda Amin that the new rules, announced this week just as President Donald Trum",
+      "publishedAt": "2026-11-18T00:10:57.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
+      "category": "finance",
+      "excerpt": "Chris McGuire, Council on Foreign Relations' Senior Fellow on China and Emerging Technologies discusses US restrictions on Nvidia chip sales and remote access, as the US president prepares to meet Chinese President Xi Jinping at the APEC summit. He speaks with Romaine Bostick and Ed Ludlow on \"The C",
+      "publishedAt": "2026-11-17T23:59:56.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Bank Rally Gains Momentum as Global AI Trade Unravels",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-bank-rally-gains-momentum-as-global-ai-trade-unravels",
+      "category": "finance",
+      "excerpt": "Chinese bank stocks are gaining a tailwind as turmoil around Nvidia Corp. deepens cracks in the artificial intelligence trade and drives investors toward defensive bets.",
+      "publishedAt": "2026-11-17T23:57:14.000Z"
+    }
+  ]
+}

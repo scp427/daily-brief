@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-16T15:22:18.311Z",
+  "ok": true,
+  "itemCount": 4,
+  "durationMs": 167,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Goal Engineering: How to Design Goals",
+      "url": "https://x.com/hwchase17/status/2121635683999883577",
+      "category": "tech",
+      "excerpt": "Written in conjunction with @mgarimella (Actively AI) and Anshul Gupta (Actively AI) The scope of tasks that agents can take on has increased drastically over the past few years. They have gone from",
+      "publishedAt": "2026-11-14T16:05:39.000Z",
+      "meta": "@hwchase17 · 140.1K 粉丝 · 59.1K 阅 · 501 赞 · 64 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "看起来没有壁垒的数据生意，为何如此繁荣？",
+      "url": "https://x.com/SuJinyan6/status/2121812102709157921",
+      "category": "tech",
+      "excerpt": "The English version can be found on my Substack here. The original Chinese version: 今年我找工作，主要投的是post-training这个方向。 结果来联系我的startup，几乎全是做数据的。",
+      "publishedAt": "2026-11-15T03:46:41.000Z",
+      "meta": "@SuJinyan6 · 6.5K 粉丝 · 54.2K 阅 · 556 赞 · 63 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "I left Ramp and spent eight months rebuilding the setup I couldn’t live without.",
+      "url": "https://x.com/josiah_arcanist/status/2121321789192081583",
+      "category": "tech",
+      "excerpt": "You’re sitting there with your agent prompting it 50 times before putting up a PR. The big dawgs like Ramp are handing off changes to their agents and starting on the next task. Anthropic reported",
+      "publishedAt": "2026-11-13T19:18:21.000Z",
+      "meta": "@josiah_arcanist · 612 粉丝 · 44.1K 阅 · 508 赞 · 32 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Nobody Trusts Your Agent",
+      "url": "https://x.com/andrewdsouza/status/2121305381515456998",
+      "category": "tech",
+      "excerpt": "If 2026 was the year of agents, 2027 will be the year of principals. Nobody has ever trusted an agent, and nobody ever will. An agent is something that acts on someone’s behalf. A principal is the one",
+      "publishedAt": "2026-11-13T18:13:09.000Z",
+      "meta": "@andrewdsouza · 21.7K 粉丝 · 31.2K 阅 · 538 赞 · 116 转"
+    }
+  ]
+}

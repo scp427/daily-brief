@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-19T03:47:54.707Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 266,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+      "category": "politics",
+      "excerpt": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
+      "publishedAt": "2026-11-18T14:16:41.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "category": "politics",
+      "excerpt": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+      "publishedAt": "2026-11-19T03:32:41.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "category": "politics",
+      "excerpt": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+      "publishedAt": "2026-11-18T20:29:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+      "category": "politics",
+      "excerpt": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
+      "publishedAt": "2026-11-18T15:37:11.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+      "category": "politics",
+      "excerpt": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime.",
+      "publishedAt": "2026-11-18T18:38:15.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+      "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+      "category": "politics",
+      "excerpt": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
+      "publishedAt": "2026-11-18T17:23:46.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Leaders of China and Japan Meet Amid Political Feud",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+      "category": "politics",
+      "excerpt": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+      "publishedAt": "2026-11-18T13:46:45.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
+      "category": "politics",
+      "excerpt": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
+      "publishedAt": "2026-11-18T05:01:06.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
+      "category": "politics",
+      "excerpt": "The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.",
+      "publishedAt": "2026-11-18T07:46:33.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "What to Know About the Myanmar Genocide Case at the World Court",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+      "category": "politics",
+      "excerpt": "The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.",
+      "publishedAt": "2026-11-18T10:03:51.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+      "category": "politics",
+      "excerpt": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
+      "publishedAt": "2026-11-18T22:24:50.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+      "category": "politics",
+      "excerpt": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
+      "publishedAt": "2026-11-17T16:00:01.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+      "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+      "category": "politics",
+      "excerpt": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
+      "publishedAt": "2026-11-17T20:44:22.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Tracking China’s Intensifying War of Words Against Japan",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "category": "politics",
+      "excerpt": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+      "publishedAt": "2026-11-19T03:32:40.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "How to Decode the Xi-Trump Hug",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
+      "category": "politics",
+      "excerpt": "The welcome China’s leader, Xi Jinping, offered President Trump appeared to reflect a desire for a measure of stability at a time of growing disagreements.",
+      "publishedAt": "2026-11-19T03:44:26.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
+      "category": "politics",
+      "excerpt": "A song chosen to welcome Sanae Takaichi at the APEC summit in Shenzhen grew out of protests against the American military presence in Japan.",
+      "publishedAt": "2026-11-19T03:03:43.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
+      "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
+      "category": "politics",
+      "excerpt": "Christian Emmanuel Sanon, 67, who was convicted in a Miami court, could now face life in prison over the killing of Jovenel Moïse.",
+      "publishedAt": "2026-11-19T03:36:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+      "category": "politics",
+      "excerpt": "South Korea is sending emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
+      "publishedAt": "2026-11-19T03:15:42.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "India is not in the room in Shenzhen, but it’s watching closely.",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T01:47:16.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T03:24:54.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "How We Broke Open the Nvidia Investigation",
+      "url": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+      "category": "politics",
+      "excerpt": "A global reporting effort by The New York Times included many twists and turns, from surprising photos and shipment records to a big break through astonishing tips from sources.",
+      "publishedAt": "2026-11-18T23:52:05.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food",
+      "url": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
+      "category": "politics",
+      "excerpt": "A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out.",
+      "publishedAt": "2026-11-18T23:45:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Grand Theft Auto: An American Icon, Born in Britain",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+      "category": "politics",
+      "excerpt": "The game franchise is a cultural juggernaut, played around the world as a violent, immersive ride through American cities. But the series originated in Scotland from a pop culture collage.",
+      "publishedAt": "2026-11-18T22:05:43.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Undoing Brexit",
+      "url": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "category": "politics",
+      "excerpt": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "publishedAt": "2026-11-18T20:41:00.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+      "url": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+      "category": "politics",
+      "excerpt": "The Colombian president said his nation would not allow American forces to take part in anti-cartel military operations on its soil, according to U.S. officials. He later denied that his government had rejected a cooperation plan.",
+      "publishedAt": "2026-11-19T03:23:24.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+      "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+      "category": "politics",
+      "excerpt": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
+      "publishedAt": "2026-11-18T20:08:35.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+      "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+      "category": "politics",
+      "excerpt": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.",
+      "publishedAt": "2026-11-18T17:42:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
+      "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+      "category": "politics",
+      "excerpt": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
+      "publishedAt": "2026-11-19T00:52:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Gen Z: Tell Us Your Political Hopes",
+      "url": "https://www.nytimes.com/2026/11/18/world/europe/gen-z-protests-politics-what-do-you-want.html",
+      "category": "politics",
+      "excerpt": "Young people are protesting for a better world in countries across the globe. Let’s talk about it.",
+      "publishedAt": "2026-11-18T14:22:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Putin renews his warm bond with Xi.",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
+      "category": "politics",
+      "excerpt": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
+      "publishedAt": "2026-11-18T14:14:34.000Z"
+    }
+  ]
+}

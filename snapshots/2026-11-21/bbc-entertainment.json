@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-entertainment",
+  "fetchedAt": "2026-11-21T03:25:18.885Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 13,
+  "items": [
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+      "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+      "publishedAt": "2026-11-20T01:11:57.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "publishedAt": "2026-11-20T22:53:24.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+      "publishedAt": "2026-11-20T00:38:57.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "publishedAt": "2026-11-20T15:55:02.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Babydoll singer Jamie Miller covers Christmas classic",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pe2jdg08o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "It's Beginning To Look A Lot Like Christmas for the number one hitmaker from Cardiff.",
+      "publishedAt": "2026-11-20T10:33:50.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Percy Jackson returns as teen stars adapt to life in the limelight",
+      "url": "https://www.bbc.co.uk/news/articles/ckge37rdrp1eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Percy Jackson's lead Walker Scobell admits there are ups and downs to fame as the series returns.",
+      "publishedAt": "2026-11-20T10:43:35.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "How Blackpool gets ready for Strictly Come Dancing",
+      "url": "https://www.bbc.co.uk/news/articles/cvp86l5j7l93o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "We go behind the scenes at the Blackpool Tower Ballroom as Strictly Come Dancing comes to town.",
+      "publishedAt": "2026-11-20T11:08:53.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Remember Monday 'still feel nerves' after Eurovision",
+      "url": "https://www.bbc.co.uk/news/articles/cke89vdd77p3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Life is an adrenaline rush for the trio after their rise to fame through the 2025 Eurovision final.",
+      "publishedAt": "2026-11-20T06:13:47.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Actor Owen Cooper stars in new Beatles music video",
+      "url": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The film follows a family's love of music across generations and features Liverpool landmarks.",
+      "publishedAt": "2026-11-20T06:22:29.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
+      "url": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
+      "publishedAt": "2026-11-19T21:14:23.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "PM urges social media companies to 'show some decency' and take down Brand video",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The comments came after YouTube owner Google refused a government request to remove a clip posted by the wife of the jailed comedian in which he claims he is innocent.",
+      "publishedAt": "2026-11-19T15:47:56.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
+      "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
+      "publishedAt": "2026-11-19T12:17:32.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Star Wars actor 'thrilled' to voice the Welsh Luke Skywalker",
+      "url": "https://www.bbc.co.uk/news/articles/cjy5xnye765zo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The classic 1977 film has been dubbed into Welsh for the first time and features a host of star names.",
+      "publishedAt": "2026-11-19T19:07:07.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
+      "url": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard chart record in the US.",
+      "publishedAt": "2026-11-19T12:01:35.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Fiona Harvey to appear at Crown Court on harassment charge",
+      "url": "https://www.bbc.co.uk/news/articles/cq143j81g6l3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Harvey, who allegedly inspired Netflix's Baby Reindeer, racially aggravated harassment without violence.",
+      "publishedAt": "2026-11-19T13:39:56.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Who decides that Grand Theft Auto is for adults only?",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25ver32rpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Examiners based in Stevenage spend days playing unreleased games before issuing age rating.",
+      "publishedAt": "2026-11-19T05:58:59.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+      "publishedAt": "2026-11-17T13:15:38.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+      "publishedAt": "2026-11-17T17:57:56.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Robert Pattinson: How the Twilight star became 007",
+      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+      "publishedAt": "2026-11-16T15:02:41.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "James Bond: What we know so far about the next 007 film",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+      "publishedAt": "2026-11-16T15:46:45.000Z"
+    }
+  ]
+}

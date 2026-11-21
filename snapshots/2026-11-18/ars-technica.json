@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-18T03:48:50.179Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 100,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "category": "tech",
+      "excerpt": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "publishedAt": "2026-11-18T00:27:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "category": "tech",
+      "excerpt": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "publishedAt": "2026-11-17T23:09:09.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "category": "tech",
+      "excerpt": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "publishedAt": "2026-11-17T22:44:46.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "category": "tech",
+      "excerpt": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "publishedAt": "2026-11-17T22:32:16.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "category": "tech",
+      "excerpt": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "publishedAt": "2026-11-17T20:32:55.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "category": "tech",
+      "excerpt": "Studio head Heather Hazen is among those departing.",
+      "publishedAt": "2026-11-17T19:45:25.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "category": "tech",
+      "excerpt": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "publishedAt": "2026-11-17T18:26:26.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "category": "tech",
+      "excerpt": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "publishedAt": "2026-11-17T18:13:34.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "category": "tech",
+      "excerpt": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "publishedAt": "2026-11-17T18:00:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "category": "tech",
+      "excerpt": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "publishedAt": "2026-11-17T16:50:10.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "House Democrats promise a US return to global climate talks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "category": "tech",
+      "excerpt": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "publishedAt": "2026-11-17T15:32:43.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "category": "tech",
+      "excerpt": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "publishedAt": "2026-11-17T15:28:59.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "category": "tech",
+      "excerpt": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "publishedAt": "2026-11-17T14:00:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Artist brings old Space Shuttle tank back to life",
+      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+      "category": "tech",
+      "excerpt": "\"It's definitely the largest art project I've ever worked on.\"",
+      "publishedAt": "2026-11-17T12:15:54.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "category": "tech",
+      "excerpt": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "publishedAt": "2026-11-16T22:58:27.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "category": "tech",
+      "excerpt": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "publishedAt": "2026-11-16T21:56:39.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "category": "tech",
+      "excerpt": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "publishedAt": "2026-11-16T20:52:10.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "category": "tech",
+      "excerpt": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "publishedAt": "2026-11-16T20:37:47.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "category": "tech",
+      "excerpt": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+      "publishedAt": "2026-11-16T20:27:58.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "category": "tech",
+      "excerpt": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "publishedAt": "2026-11-16T19:54:21.000Z"
+    }
+  ]
+}

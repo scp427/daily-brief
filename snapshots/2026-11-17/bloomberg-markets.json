@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-17T04:44:06.400Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 315,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Anthropic IPO: What Australian Investors Need to Know",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
+      "category": "finance",
+      "excerpt": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding the AI trade and how Australia could benefit from the AI infrastructure boom on \"Bloomberg: The Asia",
+      "publishedAt": "2026-11-17T04:10:08.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+      "category": "finance",
+      "excerpt": "The New Zealand dollar fell to its lowest level since 2020 against the greenback, pressured by cooling domestic inflation expectations and a widening interest rate gap with the US.",
+      "publishedAt": "2026-11-17T02:46:47.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "Asian stocks dropped as US moves to restrict China’s access to advanced artificial intelligence chips and servers added to caution ahead of Nvidia Corp.’s high-stakes earnings.",
+      "publishedAt": "2026-11-16T22:06:51.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 17",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+      "category": "finance",
+      "excerpt": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+      "publishedAt": "2026-11-16T23:02:55.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+      "category": "finance",
+      "excerpt": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
+      "publishedAt": "2026-11-17T00:22:19.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
+      "category": "finance",
+      "excerpt": "Forced selling by retail investors was a main driver of Taiwanese stocks’ steep selloff on Monday, a trend that could extend and pressure the market further, according to Barclays Plc.",
+      "publishedAt": "2026-11-17T03:17:04.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
+      "category": "finance",
+      "excerpt": "Chinese business and technology leaders are gathering in Shenzhen ahead of the APEC CEO Summit. The talks unfold as the US Commerce Department adds licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil to close remote-access loopholes. (Source: Bloomberg)",
+      "publishedAt": "2026-11-17T02:55:42.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Mitsui & Co. Said to Back J-Oil Mills in Battle Over Kadoya",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/mitsui-co-said-to-back-j-oil-mills-in-battle-over-kadoya",
+      "category": "finance",
+      "excerpt": "Kadoya Sesame Mills Inc. shareholder Mitsui & Co. has backed a proposal from J-Oil Mills Inc. to take over the Japanese sesame seed oil seller, according to people familiar with the matter, potentially strengthening the bidder’s hand in a three-way battle for control of the company.",
+      "publishedAt": "2026-11-16T09:35:29.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
+      "category": "finance",
+      "excerpt": "Foreign long-only funds are gradually adding exposure after months of caution.",
+      "publishedAt": "2026-11-17T02:39:15.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
+      "category": "finance",
+      "excerpt": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
+      "publishedAt": "2026-11-17T02:24:44.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
+      "category": "finance",
+      "excerpt": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil.",
+      "publishedAt": "2026-11-17T02:21:36.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
+      "category": "finance",
+      "excerpt": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+      "publishedAt": "2026-11-17T01:46:26.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-etfs-rise-for-2nd-week-in-982-mln-streak",
+      "category": "finance",
+      "excerpt": "Investors plowed cash into an exchange-traded fund that buys Indian stocks at the fastest pace in over a year last week, as the selloff around artificiall intelligence stocks pushed investors to diversify into other markets.",
+      "publishedAt": "2026-11-16T11:00:29.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "RBNZ Flags Growing Private Credit Risks in Property Finance",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
+      "category": "finance",
+      "excerpt": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
+      "publishedAt": "2026-11-16T21:17:24.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "New Zealand Sees Best Quarterly Population Gain in Two Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
+      "category": "finance",
+      "excerpt": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy.",
+      "publishedAt": "2026-11-17T01:09:46.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
+      "category": "finance",
+      "excerpt": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia.",
+      "publishedAt": "2026-11-17T00:44:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
+      "category": "finance",
+      "excerpt": "A majority of the Australian central bank’s nine-member board voted to raise interest rates two weeks ago on concerns that risks to the inflation outlook remained to the upside and consumer prices had stayed too high for too long.",
+      "publishedAt": "2026-11-17T00:30:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
+      "category": "finance",
+      "excerpt": "Chinese companies are tapping only a fraction of loans provided by Beijing for stock buybacks, an indication that the latest effort to support markets is faltering.",
+      "publishedAt": "2026-11-17T00:00:50.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-close-11-16-2026-video",
+      "category": "finance",
+      "excerpt": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Alger’s Executive Vice President, Portfolio Manager Ankur Crawford, Bilt’s CEO Ankur Jain, Jefferies’ Senior Equity Research A",
+      "publishedAt": "2026-11-17T00:17:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+      "category": "finance",
+      "excerpt": "Gold steadied after its lowest close since September 2025, under pressure from stubborn US inflation and losses on Wall Street.",
+      "publishedAt": "2026-11-16T23:26:48.000Z"
+    }
+  ]
+}

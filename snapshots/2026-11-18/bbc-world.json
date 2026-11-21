@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-world",
+  "fetchedAt": "2026-11-18T03:48:51.055Z",
+  "ok": true,
+  "itemCount": 28,
+  "durationMs": 14,
+  "items": [
+    {
+      "sourceId": "bbc-world",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "publishedAt": "2026-11-17T21:24:35.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "publishedAt": "2026-11-17T15:38:10.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "publishedAt": "2026-11-18T01:18:18.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "publishedAt": "2026-11-17T22:44:15.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "publishedAt": "2026-11-17T17:19:57.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "publishedAt": "2026-11-17T21:06:11.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "publishedAt": "2026-11-17T20:30:20.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "publishedAt": "2026-11-17T21:04:00.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "publishedAt": "2026-11-17T22:46:30.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "publishedAt": "2026-11-17T18:20:36.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "publishedAt": "2026-11-17T20:25:46.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "publishedAt": "2026-11-17T09:27:44.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "publishedAt": "2026-11-17T11:17:32.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+      "publishedAt": "2026-11-17T17:37:04.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "publishedAt": "2026-11-17T18:27:27.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "publishedAt": "2026-11-17T18:58:57.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+      "publishedAt": "2026-11-17T11:58:16.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "publishedAt": "2026-11-17T15:54:15.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+      "publishedAt": "2026-11-17T06:23:51.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Will President Trump meet Kim Jong Un?",
+      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "publishedAt": "2026-11-17T10:13:27.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+      "publishedAt": "2026-11-16T15:08:59.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "New York teen reunites with cat missing after building collapse",
+      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "publishedAt": "2026-11-16T04:36:45.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+      "publishedAt": "2026-11-16T21:12:13.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "publishedAt": "2026-11-17T23:02:12.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Who to watch in Spain's election race",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+      "publishedAt": "2026-11-17T18:13:45.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "publishedAt": "2026-11-17T14:25:45.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "publishedAt": "2026-11-17T05:59:01.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "publishedAt": "2026-11-17T11:49:01.000Z"
+    }
+  ]
+}

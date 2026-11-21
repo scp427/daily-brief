@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-20T03:41:01.102Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 360,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "A thaw in India’s ties with Pakistan?",
+      "url": "https://www.ft.com/content/c27362fd-e138-4b32-8875-1e52ce4a4e05?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Plus, Amazon’s $7bn investment",
+      "publishedAt": "2026-11-20T01:30:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+      "url": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+      "publishedAt": "2026-11-20T00:42:44.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+      "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
+      "publishedAt": "2026-11-20T00:15:12.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Boisterous bosses, sprawling empires: Hong Kong got there first",
+      "url": "https://www.ft.com/content/4c87f714-93a1-47c9-87bf-7cfe36ee6ae7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Swire Pacific has more in common with the sprawling tech conglomerates than might be imagined",
+      "publishedAt": "2026-11-20T00:01:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Activist hedge fund calls for departure of Accor CEO",
+      "url": "https://www.ft.com/content/fb14f7c2-37c0-42ea-b05e-ee0fd31b6f9b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Parvus says head of French hotel group has presided over ‘unfocused strategy’",
+      "publishedAt": "2026-11-19T21:29:52.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Anthropic shares jump 17% after record Wall Street listing",
+      "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "AI group led by Dario Amodei raises $81bn in upsized public offering",
+      "publishedAt": "2026-11-19T21:02:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Australian PM to meet Xi Jinping as iron ore tensions loom",
+      "url": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday",
+      "publishedAt": "2026-11-19T21:00:10.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Law firms that caved to Trump brace for scrutiny from new Congress",
+      "url": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Firms are hiring outside lawyers as Democrats probe deals they struck with the president",
+      "publishedAt": "2026-11-19T20:35:00.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Frustrated’ regulator vows to tackle electricity grid delays",
+      "url": "https://www.ft.com/content/81b74d04-1289-4e87-8777-9eec66d9ae10?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Attempts to accelerate connections may have backfired",
+      "publishedAt": "2026-11-19T20:18:30.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Sage maps out the attractions of the UK’s tech hinterland",
+      "url": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere",
+      "publishedAt": "2026-11-19T18:44:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "AMD shares fall after short seller report on China links",
+      "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
+      "publishedAt": "2026-11-19T18:40:23.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Leaked files shine a harsh light on Deutsche Bank",
+      "url": "https://www.ft.com/content/e444203b-c639-4cb5-b35a-75829d2d62de?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Revelations about Germany’s biggest lender carry lessons for European peers",
+      "publishedAt": "2026-11-19T18:30:01.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+      "url": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Final COP31 sessions focusing on energy security rather than climate change",
+      "publishedAt": "2026-11-19T18:16:58.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK’s long-delayed pensions dashboard now due to launch next year",
+      "url": "https://www.ft.com/content/64822545-cd35-44d0-b267-b6231893666b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Pensions minister says hub allowing people to view all their retirement pots in one place will go live in 2027",
+      "publishedAt": "2026-11-19T17:14:53.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US stocks end more than 2% lower in wake of Anthropic debut",
+      "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "AI group led by Dario Amodei begins trading on Nasdaq after raising $81bn in upsized public offering",
+      "publishedAt": "2026-11-19T16:19:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK loses bid to keep Apple ‘backdoor’ order secret",
+      "url": "https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Privacy rights campaigners laud a ‘big win for accountability, transparency and online security’",
+      "publishedAt": "2026-11-19T15:50:37.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Walmart boosted by grocery sales as US consumers search for lower prices",
+      "url": "https://www.ft.com/content/55ca051f-af14-48e9-94cc-b700b3097e2f?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Retailer said it took greater share of Americans’ spending on groceries in third quarter",
+      "publishedAt": "2026-11-19T15:47:13.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Milbank swoops on Weil Paris office as US law firms target European growth",
+      "url": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Recruitment of 87-lawyer team will give Milbank a French office for first time",
+      "publishedAt": "2026-11-19T15:30:08.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nscale warns of its exposure to suppliers facing US blacklist",
+      "url": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
+      "publishedAt": "2026-11-19T14:39:18.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Germany hit by AI-driven surge in cyber attacks",
+      "url": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Threat level ‘critical’ as new tools make it far easier for hackers to exploit security flaws",
+      "publishedAt": "2026-11-19T14:28:48.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The dangers of AI ‘handoverism’",
+      "url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Even some of Silicon Valley’s most enthusiastic capitalists are alarmed about how far and fast the technology is moving",
+      "publishedAt": "2026-11-19T14:04:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK revamps renewable energy auctions in move to bring down costs",
+      "url": "https://www.ft.com/content/c39c29f8-3141-423e-b6b9-674e40be1e66?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Developers to be pushed into offering lowest possible prices by bidding for subsidies without knowing the levels of funding available",
+      "publishedAt": "2026-11-19T13:58:55.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Kenya awards prized rare earth deposit to US group",
+      "url": "https://www.ft.com/content/913e3748-6bf2-4c59-b2b6-31bf58a166ab?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Deal is a win for the Trump administration’s efforts to counter China’s dominance of the metals used for magnets",
+      "publishedAt": "2026-11-19T13:53:19.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The key to Anthropic’s value",
+      "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The AI company needs to become a full enterprise technology platform after IPO",
+      "publishedAt": "2026-11-19T13:47:00.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "European tech bosses urge Brussels to unlock €12tn in household savings",
+      "url": "https://www.ft.com/content/bc4ffdc7-667b-4333-b054-1b341345f715?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Spotify, Vinted and Dailymotion bosses call for bold EU measures to unleash region’s ‘sleeping giant’",
+      "publishedAt": "2026-11-19T12:37:07.000Z"
+    }
+  ]
+}

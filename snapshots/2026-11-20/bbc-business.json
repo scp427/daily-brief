@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-business",
+  "fetchedAt": "2026-11-20T03:41:01.192Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 101,
+  "items": [
+    {
+      "sourceId": "bbc-business",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "publishedAt": "2026-11-19T23:33:51.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "publishedAt": "2026-11-20T02:54:40.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "publishedAt": "2026-11-19T23:04:30.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "publishedAt": "2026-11-20T00:02:07.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "publishedAt": "2026-11-20T00:12:28.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "publishedAt": "2026-11-20T00:08:37.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+      "publishedAt": "2026-11-19T13:35:52.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "publishedAt": "2026-11-18T21:28:08.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "publishedAt": "2026-11-19T00:00:59.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "publishedAt": "2026-11-18T23:42:07.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+      "publishedAt": "2026-11-19T00:05:31.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "publishedAt": "2026-11-19T02:59:06.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
+      "publishedAt": "2026-11-19T06:15:57.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "publishedAt": "2026-11-18T23:47:46.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "publishedAt": "2026-11-18T13:17:06.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "publishedAt": "2026-11-19T15:58:58.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+      "publishedAt": "2026-11-18T13:10:01.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "publishedAt": "2026-11-18T01:18:18.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "publishedAt": "2026-11-18T06:04:21.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "publishedAt": "2026-11-18T04:00:54.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "publishedAt": "2026-11-17T18:43:05.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "publishedAt": "2026-11-17T20:04:54.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "publishedAt": "2026-11-18T08:47:06.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "publishedAt": "2026-11-18T03:07:22.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "publishedAt": "2026-11-17T23:02:12.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Where are the most jobs for 18-24 year-olds?",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "publishedAt": "2026-11-17T12:35:53.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "publishedAt": "2026-11-18T00:00:24.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "publishedAt": "2026-11-13T12:22:30.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "publishedAt": "2026-11-12T17:11:48.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "publishedAt": "2026-11-11T00:19:13.000Z"
+    }
+  ]
+}

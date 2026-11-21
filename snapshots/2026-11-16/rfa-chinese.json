@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "rfa-chinese",
+  "fetchedAt": "2026-11-16T15:22:19.945Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 531,
+  "items": [
+    {
+      "sourceId": "rfa-chinese",
+      "title": "美中俄元首APEC会晤在即 深圳数百公里空域管制",
+      "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/16/china-apec-trump-xi-jinping-putin-tariffs-and-trade/",
+      "category": "politics",
+      "excerpt": "亚太经合组织（APEC）第三十三次领导人非正式会议将于本周三至周四（18日至19日）在深圳举行。美国总统特朗普将在访华行程结束前，与中国国家主席习近平、俄罗斯总统普京举行三方会谈。",
+      "publishedAt": "2026-11-16T07:27:47.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "西工大购芯片公告消失 两百亿项目生变",
+      "url": "https://rfa.org/mandarin/shangye/jingji/2026/11/15/china-nvidia-jensen-huang-chips-large-scale-data-models/",
+      "category": "politics",
+      "excerpt": "中国涉及受美国出口管制的英伟达芯片的算力项目及设备协议，合计金额超过230亿元人民币。部分项目已签订建设合同，但路透社尚无法确认相关芯片是否到货。一旦供应中断，相关项目可能延期，成本也将增加。",
+      "publishedAt": "2026-11-15T07:17:49.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "周末读书 / 安田峰俊： “恐龙研究，是中国少数仍然’正常’的领域”",
+      "url": "https://rfa.org/mandarin/wenhua/2026/11/15/dinosaur-china-yasudaminetoshi/",
+      "category": "politics",
+      "excerpt": "日本作家安田峰俊身兼「记者」和「恐龙迷」两种身份，在新作《恐龙中国》里，钩勒了当代中国古生物学者研究恐龙化石的今昔物语。",
+      "publishedAt": "2026-11-15T07:12:28.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "许成钢：芯片竞争关系到民主制度自身存亡",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/nvidia-alicehuang-huawei-deepseek-chenggangxu/",
+      "category": "politics",
+      "excerpt": "美国财经媒体CNBC报道，与英伟达（NVIDIA）联合创始人黄仁勋过从甚密的黄乐（Alice Huang）透过其商业关系网络，与多家涉及华为业务的企业存在联系。而华为正是英伟达在中国最大的竞争对手。",
+      "publishedAt": "2026-11-14T10:24:22.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "为北京从事间谍活动 旅美民运人士唐元隽认罪获缓刑",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/chinese-dissident-yuanjuntang-spy-three-years-probation/",
+      "category": "politics",
+      "excerpt": "美联社报道，长居纽约的中国民运人士唐元隽，承认代表中国政府从事间谍活动，并监控在纽约的中国民运人士长达5年。他12日在曼哈顿联邦法院被判3年缓刑。",
+      "publishedAt": "2026-11-14T04:49:42.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄仁勋离职 美国政府还在调查什么？",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/13/jensen-huang-resignation-us-investigation/",
+      "category": "politics",
+      "excerpt": "黄仁勋辞去英伟达首席执行官职务后，美国政府还在调查什么？芯片出口、商业秘密和虚假陈述可能涉及哪些法律问题？美国律师迈克尔·温斯坦解析三大调查方向，并追问：政府此前掌握了多少线索，为何现在才引发关注？",
+      "publishedAt": "2026-11-13T13:30:05.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄仁勋同意出席国会闭门简报会 特朗普称黄“正在经历地狱”",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/13/jensenhuang-agree-congress-briefing-trump/",
+      "category": "politics",
+      "excerpt": "美国众议院外交事务委员会主席、佛罗里达州共和党众议员布莱恩·马斯特 (Brian Mast) 表示，英伟达（NVIDIA）联合创始人黄仁勋（Jensen Huang）已同意出席国会闭门简报会，重点讨论美国国家安全面临的威胁。",
+      "publishedAt": "2026-11-13T06:28:17.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "（独家）美国列管的“济南超算中心”  今年仍采购英伟达AI产品",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/12/nvidia-products-sold-to-sanctioned-entities-in-china/",
+      "category": "politics",
+      "excerpt": "自由亚洲电台查阅中国政府采购资料发现，被美国列入出口管制实体清单的山东省计算中心（国家超级计算济南中心），今年一项人工智能设备采购案的成交公告中，出现英伟达的RTX 5090显卡及DGX Spark等产品。",
+      "publishedAt": "2026-11-12T18:21:08.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄仁勋突辞英伟达CEO 全球AI产业迎“地震”",
+      "url": "https://rfa.org/mandarin/guoji/2026/11/12/nvidia-jensen-huang-resign-alice-huang-national-security-ai/",
+      "category": "politics",
+      "excerpt": "黄仁勋11月12日辞去英伟达总裁、CEO及董事职务，即刻生效。首席财务官克雷斯出任临时CEO。",
+      "publishedAt": "2026-11-12T16:15:50.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "台湾民间提“两岸和平倡议”　学者解读：测试两岸路线水温",
+      "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/11/12/peace-route-taiwan/",
+      "category": "politics",
+      "excerpt": "台湾政界及学界人士在台北成立“两岸和平倡议”。主张检讨军购、恢复两岸对话，并为最终政治协商创造条件。",
+      "publishedAt": "2026-11-12T10:35:56.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "美国国会推动三项法案收紧对华芯片出口管制",
+      "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/12/us-china-trade-jensen-huang-chip-exports-espionage-case/",
+      "category": "politics",
+      "excerpt": "美国国会议员正推动三项涉及对华芯片出口限制的法案，分别针对先进人工智能芯片走私、出口审批监督，以及芯片制造设备出口。这些措施已进入参议院《国防授权法案》的统筹修正案包，能否纳入最终文本，仍待国会协商。",
+      "publishedAt": "2026-11-12T06:24:19.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "AI 听谁的？（下）：AI给我的答案 谁说了算",
+      "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/11/11/who-decides-what-ai-tells-me/",
+      "category": "politics",
+      "excerpt": "同一个问题，换成简体或繁体中文，AI给出的信息为什么可能不同？本集从一项针对美国开发模型的研究出发，结合专家访谈，探讨训练资料、内容规则与开发者选择如何影响答案，以及用户怎样核实信息、开发者应承担什么责任。",
+      "publishedAt": "2026-11-11T12:35:27.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "Acer创办人施振荣  获指派任台湾APEC峰会代表",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/11/apec-acer-founder-taiwan/",
+      "category": "politics",
+      "excerpt": "台湾总统府周三（11日）宣布，总统赖清德指派宏碁集团创办人、荣誉董事长施振荣，代表台湾出席11月18日至19日在中国深圳举行的亚太经济合作组织（APEC）经济领袖会议。",
+      "publishedAt": "2026-11-11T09:56:20.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "拆局黄乐芯片交易：钱哪里来？货交给谁？",
+      "url": "https://rfa.org/mandarin/shangye/2026/11/11/chinese-female-spy-huang-le-jensen-huang-chips/",
+      "category": "politics",
+      "excerpt": "中国女商人黄乐利用与英伟达首席执行官黄仁勋的关系，协助关联企业采购高端芯片。自2023年以来，黄乐关联商业网络促成至少75亿美元的英伟达芯片交易，涉及约24万颗H100、H200及A100芯片。",
+      "publishedAt": "2026-11-11T08:02:51.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄乐做的是什么生意？ 美国对中管制高阶芯片的漏洞在哪里？",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/10/nvidia-jensen-huang-alice-huang-national-security/",
+      "category": "politics",
+      "excerpt": "美国人工智能芯片龙头英伟达（NVIDIA）执行长黄仁勋近日卷入“粉红间谍”疑云。美国情报机关怀疑黄仁勋的绯闻对象 — 中国籍商人黄乐（Alice Huang），可能与中国国家安全部有关，并利用与黄仁勋的关系接近英伟达决策核心。",
+      "publishedAt": "2026-11-10T16:16:26.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "AI 听谁的？（中）AI说我可疑，我能找谁说理？",
+      "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/11/10/ai-flags-me-as-suspicious/",
+      "category": "politics",
+      "excerpt": "当AI被用于分析个人数据、评估潜在风险，谁来决定一个人是否“可疑”？如果判断有误，当事人能否看到依据、要求纠正？本集通过李厚辰与埃米尔·迪克斯的访谈，探讨中国的AI监控、预测性警务，以及普通人的隐私、申辩与纠错机会。",
+      "publishedAt": "2026-11-10T14:43:01.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "多地查账从企业个人继续扩大  寺庙、道观也成对象",
+      "url": "https://rfa.org/mandarin/shehui/2026/11/10/china-tax-audits-temples-income-tax-fines-economic-downturn/",
+      "category": "politics",
+      "excerpt": "中国部分地区近期对寺院、道观等宗教活动场所开展财务检查，涉及资金收支、捐赠登记及账簿管理。网上另有消息称，全国数万座寺院、道观正在接受财务检查，但这一说法尚未获得官方证实。受访民众怀疑，地方政府查账与财政收入减少有关。",
+      "publishedAt": "2026-11-10T07:36:53.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄仁勋风波持续发酵 美总统与国会两党接连回应",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/10/jensen-huang-nvidia-trump-congress-response/",
+      "category": "politics",
+      "excerpt": "英伟达首席执行官黄仁勋承认婚外情，且交往对象涉嫌“中国间谍”。特朗普11月9日称已与黄通话，并提及FBI调查。国会两党议员要求追查或加强芯片出口管制；英伟达启动独立调查，中方否认相关间谍指控。",
+      "publishedAt": "2026-11-10T02:31:49.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "AI 听谁的？（上）：美中竞赛，谁敢先踩刹车？",
+      "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/11/07/ai-race-who-dares-to-slow-down/",
+      "category": "politics",
+      "excerpt": "美中竞相加速发展人工智能，AI安全风险却引发越来越多的担忧。面对可能失控的技术，为什么各国和企业都不敢率先放慢脚步？本集通过专家访谈，探讨AI竞赛背后的安全困境、国际合作与监管挑战，以及AI造成伤害后，谁应该承担责任。",
+      "publishedAt": "2026-11-09T09:16:05.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄仁勋卷入女谍案　分析指美方早已知情",
+      "url": "https://rfa.org/mandarin/zhengzhi/2026/11/09/chinanvidiajensen-huangfemale-spy-casechip-sales/",
+      "category": "politics",
+      "excerpt": "特朗普11月8日回应英伟达首席执行官黄仁勋与涉嫌为中国情报机构工作的女商人存在亲密关系一事，称黄仁勋是一个正直的人。英伟达同日宣布启动独立调查，了解黄仁勋是否成为外国情报机构的目标，以及公公司机密和美国国家安全是否受到影响。",
+      "publishedAt": "2026-11-09T08:20:23.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "台北市长选举热战  查核组织揭AI深伪影片",
+      "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/11/08/taiwan-election-shen/",
+      "category": "politics",
+      "excerpt": "台湾地方选举将于11月28日投票，台湾社群网络上传出民进党提名的候选人沈伯洋疑似吸毒的影片，而经过台湾专业查核组织鉴识后确认这是一部以人工智慧（AI，美国官方称SI，”超级智慧”）”深伪”",
+      "publishedAt": "2026-11-08T09:38:48.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "（独家）特习会前北京酝酿五项贸易要求 涉关税芯片及投资",
+      "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/08/us-china-trade-trump-xi-jinping-trump-xi-meeting-trade-war-tariffs/",
+      "category": "politics",
+      "excerpt": "美国中期选举之后，APEC领导人非正式会议将于本月18日至19日在深圳举行，北京一位外贸部门人士向本台透露，中方酝酿的五项贸易诉求涉及关税、农产品采购、先进芯片及设备出口限制、中国企业赴美投资，以及跨境合规与多边规则。",
+      "publishedAt": "2026-11-08T07:08:14.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "移植”网格”到海外  智库揭中国借全球华社组监控网络",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/07/safeguarddefenders-repression-formula-china-global-grid-community-control/",
+      "category": "politics",
+      "excerpt": "人权组织“保护卫士”发布最新报告指出，继四年前中国海外警察站曝光后，相关机构虽然摘下警察标识，但管控功能并未消失，反而进一步扩大，覆盖范围也更加广泛。中国正通过公安、法院、检察院等机关，将管控网络延伸至世界各地。",
+      "publishedAt": "2026-11-07T09:27:13.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "侧写黄之锋：推迟10年的自由人生",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/07/joshua-wong-chifung-imprisoned-in-hong-kong/",
+      "category": "politics",
+      "excerpt": "黄之锋自2020年11月起持续被关押，原定于2027年1月服毕“民主派47人初选案”刑期。不过，香港高等法院本周再以“串谋勾结外国势力”罪判处他监禁10年。新刑期按现有判决推算，他要到2036年前后、接近40岁时才能获释。",
+      "publishedAt": "2026-11-07T06:58:13.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "被控为中国影响台湾选举  退将臧幼侠交保候查",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/06/china-election-interference-in-taiwan/",
+      "category": "politics",
+      "excerpt": "台湾高雄地检署指控，退役少将、前国民党黄复兴党部主委臧幼侠，涉嫌透过两个由其负责的协会，接受中国方面资助及指示，以免费赴中旅游及在台举办餐会等方式，介入2026年台湾地方选举。",
+      "publishedAt": "2026-11-06T12:21:55.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "澳门首宗国安案  民主派前议员区锦新获刑12年半",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/06/macau-au-kam-san-national-security-case/",
+      "category": "politics",
+      "excerpt": "澳门初级法院周五（11月6日）裁定，69岁前民主派立法会议员区锦新涉及颠覆国家政权、联系境外组织实施危害国家安全行为及违反保密等罪名成立，合并判处有期徒刑12年6个月。",
+      "publishedAt": "2026-11-06T05:17:30.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "美国会议员要求黄仁勋出席会议  说明与“中国情报员”关系",
+      "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/06/mast-moolenaar-crawford-jensenhuang-brief-congress-nvidia-huangle-alicehuang/",
+      "category": "politics",
+      "excerpt": "美国众议院外交事务委员会主席布莱恩·马斯特、美中战略竞争特别委员会主席约翰·穆勒纳尔，和常设情报特别委员会主席里克·克劳福联合致信英伟达执行长黄仁勋，要求他出席三个委员会的联合闭门简报会，说明他与被指控为中国女情报员黄乐的关系。",
+      "publishedAt": "2026-11-06T05:13:27.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "美国中期选举国会易手　对华政策面临新博弈",
+      "url": "https://rfa.org/mandarin/shehui/2026/11/05/zhongguo-meiguo-zhongqi-xuanju-guohui-zhong-mei-guanxi-dui-hua-zhengce-22-china-us-midterm-elections-congress-us-china-relations-policy-toward-china/",
+      "category": "politics",
+      "excerpt": "民主党在本周二（3日）的美国中期选举中赢得参众两院控制权，共和党失去同时掌握白宫与国会的优势。",
+      "publishedAt": "2026-11-05T08:18:31.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "黄之锋再遭判囚10年 预计2036年前后获释",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/05/hongkong-wong-chifung-/",
+      "category": "politics",
+      "excerpt": "香港民主运动人士黄之锋周四（11月5日）被香港高等法院以“串谋勾结外国或者境外势力危害国家安全罪”，判处监禁10年。法官裁定案件属于《港区国安法》所称的“罪行重大”，以13年为量刑起点，再因黄之锋认罪减至10年。",
+      "publishedAt": "2026-11-05T07:03:31.000Z"
+    },
+    {
+      "sourceId": "rfa-chinese",
+      "title": "程万军遭遣返  台移民署：因自伤、抗拒曾采取“必要措施”",
+      "url": "https://rfa.org/mandarin/yataibaodao/2026/11/04/chinese-exile-chengwanjun-sent-back-to-thailand/",
+      "category": "politics",
+      "excerpt": "曾任中国央视《法律讲堂》主讲人的程万军，周二(3日)前在台湾桃园机场转机时寻求人道庇护，随后被遣返泰国。他11月4日公开指控，台湾移民署人员押送他登机期间，曾对他捆绑、堵嘴及殴打。",
+      "publishedAt": "2026-11-04T11:13:17.000Z"
+    }
+  ]
+}

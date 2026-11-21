@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-16T15:22:19.044Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 350,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
+      "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "US president’s intervention comes days after co-founder of chipmaker resigned following two extramarital affairs",
+      "publishedAt": "2026-11-16T15:03:59.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Jefferies fund eased lending checks on iron ore traders accused of fraud",
+      "url": "https://www.ft.com/content/b7655aab-8a43-4046-ab61-d56ec4843006?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Point Bonita dropped requirement for Glencore to verify invoices bought from Radiant World and Sapphire",
+      "publishedAt": "2026-11-16T15:02:35.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Six-year-olds: Novo’s new frontier for weight-loss drugs",
+      "url": "https://www.ft.com/content/d08ee4e3-210d-45d2-92be-2b98a8b150b6?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Wegovy helped almost 8 in 10 children as young as 6 lose more than 10% of their BMI in trial",
+      "publishedAt": "2026-11-16T15:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US tech stocks slide amid Nvidia fallout",
+      "url": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Tech-heavy Nasdaq 100 fell more than 2 per cent in early trading",
+      "publishedAt": "2026-11-16T14:33:13.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Johnson & Johnson buys eye disease biotech for up to $3.3bn",
+      "url": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Drugmaker’s acquisition of Ollin Biosciences is latest in glut of deals in biotechnology sector",
+      "publishedAt": "2026-11-16T13:55:36.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin",
+      "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Acquisition is latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
+      "publishedAt": "2026-11-16T13:12:30.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Miliband ‘would not quit’ over Rosebank oilfield approval",
+      "url": "https://www.ft.com/content/748f9a4b-fed7-45ba-bc74-a5fa9cfee09b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Foreign secretary had previously called the project ‘climate vandalism’",
+      "publishedAt": "2026-11-16T12:34:56.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK air traffic chief stands by dividends amid outage backlash",
+      "url": "https://www.ft.com/content/c2d24c06-85df-4550-8cd9-9ec5774d3d1c?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Nats boss Martin Rolfe has come under fire after disruption in September grounded thousands of flights",
+      "publishedAt": "2026-11-16T11:57:40.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Biggest IPOs this year lose investors money as AI frenzy fades",
+      "url": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Ten biggest flotations have fallen more than 20% on average in 2026 after four years of gains",
+      "publishedAt": "2026-11-16T11:47:31.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: Jensen Huang talks about Nvidia comeback with allies",
+      "url": "https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Also in today’s newsletter: IPOs struggle and Trump’s summit with Xi and Putin",
+      "publishedAt": "2026-11-16T11:01:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor",
+      "url": "https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Superstar status of executives affects tech founders’ personal lives and their companies, says Lingotto’s James Anderson",
+      "publishedAt": "2026-11-16T11:00:03.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "EU renews push for global AI rules after midterms weaken Trump",
+      "url": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Brussels hopes an international deal is more attainable after voters’ rebuke to US president",
+      "publishedAt": "2026-11-16T10:37:38.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Greensill auditors fined £700,000 over ‘superficial’ checks",
+      "url": "https://www.ft.com/content/d7966898-924a-4729-9726-2cc64125ab8d?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "UK regulator finds ‘recurring failures’ in Saffery’s work on collapsed company’s 2019 financial statements",
+      "publishedAt": "2026-11-16T10:31:19.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Hong Kong developer New World’s shares tumble 40% on $3.2bn rights issue plan",
+      "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Ailing property group to offer new stock at 80% discount as it moves to slash debts",
+      "publishedAt": "2026-11-16T08:59:48.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US regulator rejects cancer drug invented in China in blow to Beijing’s biotech sector",
+      "url": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Summit’s ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US",
+      "publishedAt": "2026-11-16T08:56:38.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The perfect sell-off",
+      "url": "https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Plus, fast-tracking Anthropic’s IPO",
+      "publishedAt": "2026-11-16T06:30:01.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Tiny quant fund joins UK tax giants",
+      "url": "https://www.ft.com/content/8919e96e-df3d-41b8-99fa-b8ebcab5e99a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Plus, Ken Griffin’s Miami makeover, a surprise crude surplus and the Guggenheim collection in London",
+      "publishedAt": "2026-11-16T06:00:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Climate ministers start final week of talks deeply divided over age-old issues",
+      "url": "https://www.ft.com/content/69862257-85c7-4dce-b246-a726df5ff0cb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Even the need for a final agreement is being opposed by fossil fuel-reliant nations",
+      "publishedAt": "2026-11-16T05:00:22.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "European banks’ risk transfer boom raises exposure to ‘forced deleveraging’",
+      "url": "https://www.ft.com/content/3b6cccb1-cac2-4e64-a2c2-3b3801f9a5fb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Banks increasingly reliant on SRTs to boost returns and lending capacity, says S&P report",
+      "publishedAt": "2026-11-16T05:00:22.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Plural raises €1bn fund to back European tech start-ups",
+      "url": "https://www.ft.com/content/26e52d2a-b259-4283-af83-e2c75d67a2fc?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "London-headquartered group announces one of region’s biggest-ever venture capital fundings",
+      "publishedAt": "2026-11-16T05:00:21.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI",
+      "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Ex-Nvidia chief’s ignominious exit removes a vocal and influential supporter of open AI systems",
+      "publishedAt": "2026-11-16T05:00:21.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK companies line up to replace Palantir in NHS contract",
+      "url": "https://www.ft.com/content/f69f1f6b-cdbe-40d6-b76d-fb712ca58b51?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The government is expected to rule out triggering a break clause but will instead announce a new procurement process",
+      "publishedAt": "2026-11-16T05:00:11.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The whole world is long America",
+      "url": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "And may soon have to pay the price for its obsession",
+      "publishedAt": "2026-11-16T05:00:11.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Publishers can afford to play hardball with Big Tech",
+      "url": "https://www.ft.com/content/89f58e38-4668-4501-b57b-5f083c997ae7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The value of deep wells of real human content has increased as AI fluff floods internet search engines",
+      "publishedAt": "2026-11-16T05:00:11.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Demand is insatiable’: Airlines add more premium seats despite fuel crisis",
+      "url": "https://www.ft.com/content/8b2e4ade-f4c7-4bfc-b22a-27141f38e47d?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "British Airways and Virgin Atlantic among those refitting cabins to capitalise on business and leisure passengers’ growing appetite for luxury travel",
+      "publishedAt": "2026-11-16T05:00:11.000Z"
+    }
+  ]
+}

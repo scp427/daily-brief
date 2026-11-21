@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-18T03:48:50.529Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 218,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "category": "tech",
+      "excerpt": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "publishedAt": "2026-11-18T01:44:21.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "category": "tech",
+      "excerpt": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "publishedAt": "2026-11-18T00:16:50.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "category": "tech",
+      "excerpt": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "publishedAt": "2026-11-18T00:01:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "category": "tech",
+      "excerpt": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "publishedAt": "2026-11-17T23:37:48.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "category": "tech",
+      "excerpt": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "publishedAt": "2026-11-17T23:04:35.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "category": "tech",
+      "excerpt": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "publishedAt": "2026-11-17T22:42:27.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "category": "tech",
+      "excerpt": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "publishedAt": "2026-11-17T22:29:05.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "category": "tech",
+      "excerpt": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "publishedAt": "2026-11-17T21:48:07.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "category": "tech",
+      "excerpt": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "publishedAt": "2026-11-17T21:34:50.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "category": "tech",
+      "excerpt": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "publishedAt": "2026-11-17T19:49:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "category": "tech",
+      "excerpt": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "publishedAt": "2026-11-17T19:32:11.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "category": "tech",
+      "excerpt": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "publishedAt": "2026-11-17T19:02:20.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "category": "tech",
+      "excerpt": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+      "publishedAt": "2026-11-17T18:55:40.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "category": "tech",
+      "excerpt": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "publishedAt": "2026-11-17T18:48:23.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "category": "tech",
+      "excerpt": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "publishedAt": "2026-11-17T18:10:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "category": "tech",
+      "excerpt": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "publishedAt": "2026-11-17T18:04:16.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "category": "tech",
+      "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "publishedAt": "2026-11-17T17:32:25.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "category": "tech",
+      "excerpt": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "publishedAt": "2026-11-17T17:20:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "category": "tech",
+      "excerpt": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "publishedAt": "2026-11-17T16:44:15.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "category": "tech",
+      "excerpt": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "publishedAt": "2026-11-17T16:32:55.000Z"
+    }
+  ]
+}

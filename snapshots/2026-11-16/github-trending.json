@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "github-trending",
+  "fetchedAt": "2026-11-16T15:22:19.006Z",
+  "ok": true,
+  "itemCount": 14,
+  "durationMs": 1502,
+  "items": [
+    {
+      "sourceId": "github-trending",
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "category": "tech",
+      "excerpt": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "meta": "TypeScript · ★ 18,544 · 🍴 1,899 · 📈 790 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "category": "tech",
+      "excerpt": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "meta": "TypeScript · ★ 12,309 · 🍴 1,153 · 📈 689 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "category": "tech",
+      "excerpt": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "meta": "TypeScript · ★ 27,538 · 🍴 2,511 · 📈 1,878 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "category": "tech",
+      "excerpt": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "meta": "Python · ★ 6,070 · 🍴 1,268 · 📈 841 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "category": "tech",
+      "excerpt": "Modern Docker Management, Designed for Everyone",
+      "meta": "Go · ★ 8,491 · 🍴 355 · 📈 31 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "category": "tech",
+      "excerpt": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "meta": "JavaScript · ★ 6,585 · 🍴 735 · 📈 285 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "category": "tech",
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "meta": "TypeScript · ★ 9,629 · 🍴 1,201 · 📈 540 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "category": "tech",
+      "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "meta": "Python · ★ 67,911 · 🍴 5,981 · 📈 122 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "category": "tech",
+      "excerpt": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "meta": "Python · ★ 2,352 · 🍴 300 · 📈 953 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "category": "tech",
+      "excerpt": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "meta": "Go · ★ 52,743 · 🍴 4,231 · 📈 946 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "category": "tech",
+      "excerpt": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "meta": "Python · ★ 1,149 · 🍴 182 · 📈 306 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "category": "tech",
+      "excerpt": "Chrome DevTools for coding agents",
+      "meta": "TypeScript · ★ 57,503 · 🍴 4,841 · 📈 837 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "category": "tech",
+      "excerpt": "web development for the rest of us",
+      "meta": "JavaScript · ★ 88,810 · 🍴 6,032 · 📈 58 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "category": "tech",
+      "excerpt": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "meta": "Python · ★ 6,313 · 🍴 551 · 📈 331 stars today"
+    }
+  ]
+}

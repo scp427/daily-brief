@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-18T03:48:50.104Z",
+  "ok": true,
+  "itemCount": 11,
+  "durationMs": 105,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Why I hate GPT-6.2 Astra",
+      "url": "https://x.com/theo/status/2122760447103484410",
+      "category": "tech",
+      "excerpt": "During early testing, I found myself so frustrated with this model that I spent a day writing a letter to OpenAI about it. They fixed a small handful of my complaints, but not enough for me to",
+      "publishedAt": "2026-11-17T18:35:04.000Z",
+      "meta": "@theo · 430.0K 粉丝 · 154.5K 阅 · 2.3K 赞 · 93 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How I got 3M views with AI slideshows and Fable 5.2",
+      "url": "https://x.com/Inomsxbt/status/2122676987420623080",
+      "category": "tech",
+      "excerpt": "By the end of this guide you will have one finished 6-slide AI UGC slideshow, five variations of it and a full week of posts scheduled. It is a method you can repeat on any app or product, on any",
+      "publishedAt": "2026-11-17T13:03:25.000Z",
+      "meta": "@Inomsxbt · 122.5K 粉丝 · 114.1K 阅 · 503 赞 · 17 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "10/10 AI Visibility Growth with Fable 5.2",
+      "url": "https://x.com/borjafat/status/2122336732079161572",
+      "category": "tech",
+      "excerpt": "(232 tactics behind 170,000 AI mentions. RANKED) These are the SEO tactics you need to be found on Google and in AI answers in 2027. Give Claude your website, this connector, your product facts and",
+      "publishedAt": "2026-11-16T14:31:22.000Z",
+      "meta": "@borjafat · 7.1K 粉丝 · 67.7K 阅 · 546 赞 · 22 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "My Top 10 Eval Papers of 2026",
+      "url": "https://x.com/omarsar0/status/2122333324895035868",
+      "category": "tech",
+      "excerpt": "Every week, a new model or agent claims a higher score on some public benchmark. AI engineers and researchers use those numbers to pick models, ship features, and decide what to build next. When the",
+      "publishedAt": "2026-11-16T14:17:50.000Z",
+      "meta": "@omarsar0 · 329.6K 粉丝 · 47.7K 阅 · 515 赞 · 75 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://x.com/addyosmani/status/2122590683055993308",
+      "category": "tech",
+      "excerpt": "On the Claude Code team, the vast majority of our code (~90%) is written and reviewed by Claude. At this scale, how we equip our agents to verify their work with evidence becomes extremely important.",
+      "publishedAt": "2026-11-17T07:20:29.000Z",
+      "meta": "@addyosmani · 496.7K 粉丝 · 46.3K 阅 · 781 赞 · 87 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "how we use AI agents for product design in 2026. ",
+      "url": "https://x.com/marcelkargul/status/2122430710053019994",
+      "category": "tech",
+      "excerpt": "we asked Claude to add a screen to our Figma file. it came back completely wrong. black fallback colours behind every token, icons with five different stroke weights, frames clipping content they",
+      "publishedAt": "2026-11-16T20:44:48.000Z",
+      "meta": "@marcelkargul · 62.5K 粉丝 · 45.1K 阅 · 536 赞 · 29 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "how i make vox-style reels with claude (step by step)",
+      "url": "https://x.com/naometzger/status/2122388352515047680",
+      "category": "tech",
+      "excerpt": "my last 2 vox-style reels got 154k views and 600+ \"how??\" comments. here's the whole process from idea to final video, plus the mistakes so you don't repeat them. what you need claude code opus 5.5",
+      "publishedAt": "2026-11-16T17:56:29.000Z",
+      "meta": "@naometzger · 10.8K 粉丝 · 40.2K 阅 · 587 赞 · 34 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Announcing our collaboration with OpenAI",
+      "url": "https://x.com/GoodfireAI/status/2122362693730574665",
+      "category": "tech",
+      "excerpt": "Today, we’re announcing an embedded assessment with OpenAI. Goodfire researchers will embed within OpenAI, using our interpretability platform to monitor training runs, debug undesired behavior, and",
+      "publishedAt": "2026-11-16T16:14:32.000Z",
+      "meta": "@GoodfireAI · 29.9K 粉丝 · 34.4K 阅 · 550 赞 · 55 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "AI now hacks on its own as the world's leading models choose blackmail in tests to avoid shutdown",
+      "url": "https://x.com/YourAnonCentral/status/2122644104110837904",
+      "category": "tech",
+      "excerpt": "An attack system that turns newly published security patches into working exploits and fires them at live websites unaided was found running on an exposed server, Google reported on 16 November. The",
+      "publishedAt": "2026-11-17T10:52:45.000Z",
+      "meta": "@YourAnonCentral · 5.2M 粉丝 · 30.5K 阅 · 648 赞 · 227 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Antigravity slash commands cheat sheet",
+      "url": "https://x.com/googledevs/status/2122392496147960008",
+      "category": "tech",
+      "excerpt": "Navigate reasoning modes, planning tools, and background automations across @Antigravity and the Antigravity CLI with built-in slash commands. Type / directly in your prompt box to open the",
+      "publishedAt": "2026-11-16T18:12:57.000Z",
+      "meta": "@googledevs · 2.6M 粉丝 · 29.3K 阅 · 545 赞 · 57 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Content Factories and the Rise of Agentic Editing",
+      "url": "https://x.com/rileybrown/status/2122427603089068117",
+      "category": "tech",
+      "excerpt": "Agentic video editing is exploding. Thousands of creators have stopped editing by hand and started directing AI to edit for them. This is only the beginning. In 18 months, editing a video manually",
+      "publishedAt": "2026-11-16T20:32:28.000Z",
+      "meta": "@rileybrown · 266.4K 粉丝 · 26.9K 阅 · 520 赞 · 39 转"
+    }
+  ]
+}

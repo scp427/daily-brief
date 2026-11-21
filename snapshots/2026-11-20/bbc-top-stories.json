@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-20T03:41:01.972Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 174,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+      "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
+      "publishedAt": "2026-11-20T01:12:45.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "publishedAt": "2026-11-20T00:02:07.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "publishedAt": "2026-11-19T23:33:51.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "publishedAt": "2026-11-20T02:40:49.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+      "publishedAt": "2026-11-19T20:02:02.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+      "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+      "publishedAt": "2026-11-19T17:23:29.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "publishedAt": "2026-11-20T00:13:21.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "publishedAt": "2026-11-20T00:08:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+      "publishedAt": "2026-11-20T00:38:57.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "publishedAt": "2026-11-20T00:12:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "publishedAt": "2026-11-19T22:48:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "publishedAt": "2026-11-20T00:50:24.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Anthony Zurcher: Trilateral summit high on spectacle, short on substance",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
+      "publishedAt": "2026-11-19T17:55:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Does our ethnicity change how we experience dying?",
+      "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+      "publishedAt": "2026-11-20T01:29:43.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Weekly quiz: Which star played cricket with Catherine in India?",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2edq12nno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "How much attention did you pay to what happened in the world over the past seven days?",
+      "publishedAt": "2026-11-19T18:43:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Why fibbing about stolen snacks is an important part of childhood",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Research shows lies and deception can start \"surprisingly young\" and are not always a bad thing.",
+      "publishedAt": "2026-11-19T16:36:33.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'The bravest woman in Britain' and 'Silence is not an option'",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wr0dg9vwxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Joanne Young, whose husband drugged and advertised her for sex online, is pictured on a number of front pages.",
+      "publishedAt": "2026-11-20T01:05:29.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Girls as young as five and women as old as 87 targeted for upskirting",
+      "url": "https://www.bbc.co.uk/news/articles/cq808rerxxp3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Police forces in Wales received 219 complaints over the past three years, with 18 people charged, an FOI request reveals.",
+      "publishedAt": "2026-11-19T22:53:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "England fined for fans' anti-Catholic chants in Spain",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+      "publishedAt": "2026-11-19T19:11:03.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
+      "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
+      "publishedAt": "2026-11-19T12:17:32.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "publishedAt": "2026-11-19T16:33:17.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "William and Catherine's India tour was 'particularly special', aide says",
+      "url": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Prince William's most senior advisor described the royal couple as \"very much a team\".",
+      "publishedAt": "2026-11-19T22:02:06.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Faults not fixed in 90% of homes in government insulation scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "People who signed up to a government insulation scheme have been struggling to get their damaged homes repaired.",
+      "publishedAt": "2026-11-19T17:59:16.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Fiona Harvey, who allegedly inspired Baby Reindeer, to appear in court on harassment charge",
+      "url": "https://www.bbc.co.uk/news/articles/cq143j81g6l3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Harvey, who allegedly inspired Netflix's Baby Reindeer, racially aggravated harassment without violence.",
+      "publishedAt": "2026-11-19T13:39:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
+      "category": "society",
+      "excerpt": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
+      "publishedAt": "2026-03-31T05:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Poppy Jay explores the appeal of being a tradwife",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034fdk?at_mid=rYnXJmy2He&at_campaign=Young_British_and_Tradwife&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0034fdk&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Young_British_and_Tradwife&at_bbc_team=BBC",
+      "category": "society",
+      "excerpt": "Happy homemaker or modern-day submission? Poppy Jay steps inside the world of tradwives",
+      "publishedAt": "2026-11-19T10:10:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
+      "publishedAt": "2026-11-19T15:05:21.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Pochettino's first Man Utd training session filmed by drone operator",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+      "publishedAt": "2026-11-19T18:45:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+      "publishedAt": "2026-11-19T23:57:54.000Z"
+    }
+  ]
+}

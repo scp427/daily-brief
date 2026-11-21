@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-18T03:48:51.101Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 45,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Live Updates: Trump Meets Philippine Leader Before Flying to China",
+      "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "category": "politics",
+      "excerpt": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+      "publishedAt": "2026-11-18T03:45:45.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
+      "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+      "category": "politics",
+      "excerpt": "The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.",
+      "publishedAt": "2026-11-17T18:26:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+      "category": "politics",
+      "excerpt": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
+      "publishedAt": "2026-11-17T16:00:01.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+      "category": "politics",
+      "excerpt": "The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.",
+      "publishedAt": "2026-11-17T18:59:25.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+      "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+      "category": "politics",
+      "excerpt": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
+      "publishedAt": "2026-11-17T20:44:22.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Tracking China’s Intensifying War of Words Against Japan",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "category": "politics",
+      "excerpt": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+      "publishedAt": "2026-11-18T01:02:39.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
+      "url": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
+      "category": "politics",
+      "excerpt": "Prosecutors say Christian Sanon was a con man who oversaw a plan to assassinate the country’s president. His defense says he played no part in the plot’s fatal outcome.",
+      "publishedAt": "2026-11-17T17:41:06.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "category": "politics",
+      "excerpt": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+      "publishedAt": "2026-11-17T19:41:03.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
+      "category": "politics",
+      "excerpt": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences.",
+      "publishedAt": "2026-11-17T13:09:11.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Carney and Xi Announce Canada-China Trade Pact",
+      "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+      "category": "politics",
+      "excerpt": "The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.",
+      "publishedAt": "2026-11-17T17:19:21.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+      "category": "politics",
+      "excerpt": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
+      "publishedAt": "2026-11-17T06:00:12.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "They’re Young and Frustrated and Want France to Change. They Disagree on How.",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
+      "category": "politics",
+      "excerpt": "One is a left-wing student leader, the other a young far-right activist. Together, Soumaya Sarré and Louise Montangon reflect the polarization of France, where more protests and strikes took place on Tuesday.",
+      "publishedAt": "2026-11-17T15:55:02.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "category": "politics",
+      "excerpt": "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
+      "publishedAt": "2026-11-17T17:51:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Visual Tour of President Trump’s Visits to Asia",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
+      "category": "politics",
+      "excerpt": "President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.",
+      "publishedAt": "2026-11-17T14:26:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-philippines-palace.html",
+      "category": "politics",
+      "excerpt": "President Trump met the Philippine leader Ferdinand R. Marcos Jr. at Malacañang Palace, which his family fled after his father was ousted from power 40 years ago.",
+      "publishedAt": "2026-11-18T03:25:01.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "National Book Award Finalist May Be Ineligible for the Prize",
+      "url": "https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html",
+      "category": "politics",
+      "excerpt": "The writer Abdelrahman ElGendy was blocked from visiting the United States to attend this year’s National Book Awards ceremony. Though his memoir is a finalist for the nonfiction award, it appears not to qualify.",
+      "publishedAt": "2026-11-18T03:10:58.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "category": "politics",
+      "excerpt": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
+      "publishedAt": "2026-11-18T02:11:26.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83",
+      "url": "https://www.nytimes.com/2026/11/17/world/middleeast/youssef-ibrahim-correspondent-obituary.html",
+      "category": "politics",
+      "excerpt": "The Egyptian-born correspondent wrote about the Middle East during a time of dizzying transformation, and was expelled by Iran for his coverage.",
+      "publishedAt": "2026-11-17T23:26:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
+      "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+      "category": "politics",
+      "excerpt": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.",
+      "publishedAt": "2026-11-17T21:54:22.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Big Money, Existential Risks",
+      "url": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
+      "category": "politics",
+      "excerpt": "Anthropic’s prospectus for its blockbuster I.P.O. this week reads like dystopian science fiction.",
+      "publishedAt": "2026-11-17T20:39:09.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A.I.’s People-Pleasing Problem",
+      "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+      "category": "politics",
+      "excerpt": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs.",
+      "publishedAt": "2026-11-17T19:16:41.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+      "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+      "category": "politics",
+      "excerpt": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
+      "publishedAt": "2026-11-17T21:22:40.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
+      "category": "politics",
+      "excerpt": "Even for a president who prizes photo opportunities, Mr. Trump’s appearance in Manila suggested a lack of interest in diplomatic wins or issues at home. “It’s life,” he said.",
+      "publishedAt": "2026-11-17T17:46:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Anne Thurston Has Died. She Revealed Salacious Details of Mao’s Life.",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
+      "category": "politics",
+      "excerpt": "Dr. Thurston’s works documented Mao Zedong’s personal life and the traumas of the Cultural Revolution, earning scholarly accolades — and scorn from Beijing.",
+      "publishedAt": "2026-11-17T17:49:58.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
+      "category": "politics",
+      "excerpt": "President Vladimir V. Putin of Russia could meet with Kim Jong-un if he travels to Shenzhen for the APEC summit this week. North Korea has not confirmed whether Mr. Kim will attend.",
+      "publishedAt": "2026-11-17T14:37:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump’s ‘trade deal’ with Thailand is not a done deal.",
+      "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-trade-deal-with-thailand-is-not-a-done-deal",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T12:07:45.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
+      "category": "politics",
+      "excerpt": "Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.",
+      "publishedAt": "2026-11-18T03:07:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "What to Know About APEC, ASEAN and the Quad",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html",
+      "category": "politics",
+      "excerpt": "President Trump’s trip to Asia is filled with acronyms. Here is a primer on what those terms mean, and some highlights from previous summits.",
+      "publishedAt": "2026-11-17T10:33:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump’s plan for A.I. supremacy fuels resistance in the Philippines.",
+      "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/trumps-plan-for-ai-supremacy-fuels-resistance-in-the-philippines",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T10:19:41.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "There’s a New Push at COP31 in Turkey: Electrification",
+      "url": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
+      "category": "politics",
+      "excerpt": "With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.",
+      "publishedAt": "2026-11-17T10:03:56.000Z"
+    }
+  ]
+}

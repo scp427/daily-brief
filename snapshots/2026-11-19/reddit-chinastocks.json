@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "reddit-chinastocks",
+  "fetchedAt": "2026-11-19T03:47:54.366Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 107,
+  "items": [],
+  "error": "Unable to parse XML."
+}

@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-16T15:22:18.546Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 53,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "category": "tech",
+      "excerpt": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "publishedAt": "2026-11-16T15:02:34.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "category": "tech",
+      "excerpt": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "publishedAt": "2026-11-16T14:48:13.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+      "category": "tech",
+      "excerpt": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+      "publishedAt": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "category": "tech",
+      "excerpt": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "publishedAt": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "category": "tech",
+      "excerpt": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "publishedAt": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "category": "tech",
+      "excerpt": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "publishedAt": "2026-11-16T12:30:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "category": "tech",
+      "excerpt": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+      "publishedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "category": "tech",
+      "excerpt": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+      "publishedAt": "2026-11-16T07:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "category": "tech",
+      "excerpt": "Apple's new app for a study will answer everyday medical questions",
+      "publishedAt": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "category": "tech",
+      "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "publishedAt": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "category": "tech",
+      "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "publishedAt": "2026-11-15T21:56:35.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "category": "tech",
+      "excerpt": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "publishedAt": "2026-11-15T20:20:57.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "category": "tech",
+      "excerpt": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+      "publishedAt": "2026-11-15T18:29:14.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "category": "tech",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-11-15T17:05:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "category": "tech",
+      "excerpt": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "category": "tech",
+      "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+      "publishedAt": "2026-11-15T00:08:07.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "category": "tech",
+      "excerpt": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "publishedAt": "2026-11-14T21:41:22.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "category": "tech",
+      "excerpt": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "publishedAt": "2026-11-14T20:04:44.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "category": "tech",
+      "excerpt": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "publishedAt": "2026-11-14T18:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "category": "tech",
+      "excerpt": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "publishedAt": "2026-11-14T17:45:04.000Z"
+    }
+  ]
+}

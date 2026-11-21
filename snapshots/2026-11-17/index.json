@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T10:06:25.276Z",
+  "sources": [
+    {
+      "id": "bbc-entertainment",
+      "ok": true,
+      "itemCount": 24,
+      "durationMs": 248
+    },
+    {
+      "id": "bbc-top-stories",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 102
+    }
+  ]
+}

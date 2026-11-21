@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube-ai-engineer",
+  "fetchedAt": "2026-11-18T03:48:49.329Z",
+  "ok": true,
+  "itemCount": 8,
+  "durationMs": 104,
+  "items": [
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Why Your AI Agents Never Get Smarter",
+      "url": "https://www.youtube.com/watch?v=J3Mn16ghsMs",
+      "category": "tech",
+      "excerpt": "Most AI agents wake up tomorrow no smarter than they were today. Emil Eifrem, founder and CEO of Neo4j, explains why, and the fix he's seeing work at a Fortune 20 bank, a major tech platform, and a fintech.\n\nHis idea: keep each AI agent thin, and put what the company knows in one shared layer that e",
+      "publishedAt": "2026-11-17T17:33:10.000Z",
+      "meta": "▶ 29"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Users Say Search Is Bad? Build an Eval | Aaron Linsky",
+      "url": "https://www.youtube.com/shorts/SBta4bp214w",
+      "category": "tech",
+      "excerpt": "Aaron Linsky explains how Bridgewater turned complaints about search into a benchmark: about 200 handpicked examples, built in less than a week. That gave the team a way to measure each improvement.\n\nFrom AI Engineer New York 2026.\n\n@Bridgewater \n\n@aiDotEngineer",
+      "publishedAt": "2026-11-13T17:00:38.000Z",
+      "meta": "▶ 217"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Who Evaluates the Evaluator? | Aparna Dhinakaran",
+      "url": "https://www.youtube.com/shorts/jjL_g1Gjuj8",
+      "category": "tech",
+      "excerpt": "Aparna Dhinakaran of Arize AI explains why AI engineers need to inspect traces, identify errors, and check evaluators against human judgment before shipping them.\n\nFrom AI Engineer New York 2026.\n\n@arizeai \n\n@aiDotEngineer",
+      "publishedAt": "2026-11-12T17:00:18.000Z",
+      "meta": "▶ 35"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Your Agent's Compute Needs Change Mid-Run | Akshat Bubna",
+      "url": "https://www.youtube.com/shorts/R36t70V_930",
+      "category": "tech",
+      "excerpt": "Akshat Bubna of Modal shows how CPU and memory demand changes across agent sandboxes and during a single run. Provisioning every sandbox for its peak can leave you paying for resources you do not need.\n\nFrom AI Engineer New York 2026.\n\n@ModalLabs \n\n@aiDotEngineer",
+      "publishedAt": "2026-11-11T17:00:12.000Z",
+      "meta": "▶ 437"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Why Code Quality Still Matters | Max Kanat-Alexander",
+      "url": "https://www.youtube.com/shorts/n6qfhMimOlU",
+      "category": "tech",
+      "excerpt": "Why did code quality matter in the first place? Max Kanat-Alexander brings it back to understanding what a system actually does and changing that behavior safely.\n\nFrom AI Engineer New York 2026.\n\n@mkanat \n\n@aiDotEngineer",
+      "publishedAt": "2026-11-06T22:00:36.000Z",
+      "meta": "▶ 35"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Your Coding Agent Writes Too Many Tests | Ben Holmes",
+      "url": "https://www.youtube.com/shorts/Hycv7NJuK-U",
+      "category": "tech",
+      "excerpt": "Ben Holmes explains two scores for evaluating coding agents: redundant tests and verbosity. Both can add work to code review.\n\nFrom AI Engineer New York 2026.\n\n@bholmesdev \n\n@aiDotEngineer",
+      "publishedAt": "2026-11-06T17:00:13.000Z",
+      "meta": "▶ 153"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "Startups Are Side Projects Now",
+      "url": "https://www.youtube.com/watch?v=DhUtuBb41Ug",
+      "category": "tech",
+      "excerpt": "AI coding models got so good that the rules of building software flipped. What used to need a startup is now a side project, and whole companies could be replaced by a single text file. Theo Browne, YouTuber and founder of T3 Chat, explains the habits developers need to drop, why deleting code shoul",
+      "publishedAt": "2026-10-29T18:44:51.000Z",
+      "meta": "▶ 3.8K"
+    },
+    {
+      "sourceId": "youtube-ai-engineer",
+      "title": "AI Writes the Code Now. So Why Is Everything Falling Apart?",
+      "url": "https://www.youtube.com/watch?v=m8XF2bo6aeY",
+      "category": "tech",
+      "excerpt": "Dex Horthy, co-founder of HumanLayer, explains why handing your code to AI backfires, and what to do instead.\n\nAI coding tools promised software built 10x faster. Instead, companies are seeing more outages, more bugs, and codebases that fall apart. In this talk, Dex shares what happened when his tea",
+      "publishedAt": "2026-10-12T20:29:06.000Z",
+      "meta": "▶ 2.1K"
+    }
+  ]
+}

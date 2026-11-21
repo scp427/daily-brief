@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-papers",
+  "fetchedAt": "2026-11-20T03:40:59.643Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 217,
+  "items": [
+    {
+      "sourceId": "huggingface-papers",
+      "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+      "url": "https://huggingface.co/papers/2611.23068",
+      "category": "tech",
+      "excerpt": "Agent evolution follows a simple loop: a proposer writes candidate artifacts (prompts, skills, memories) and selection accepts those that score higher. This loop has shown promise, yet practitioners face a puzzle: methods trade wins across papers, and evolution often fails to bootstrap on certain ta",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 35"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ALIVE: Making Streaming Video Models Interactive",
+      "url": "https://huggingface.co/papers/2611.21366",
+      "category": "tech",
+      "excerpt": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K f",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 34"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+      "url": "https://huggingface.co/papers/2611.24154",
+      "category": "tech",
+      "excerpt": "Games are a rich testbed for visual agents, demanding perception, long-horizon planning, and precise control. However, collecting human gameplay is costly, and learning from gameplay videos requires inferring missing actions. Existing datasets also cover a limited range of games, often without expli",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 25"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
+      "url": "https://huggingface.co/papers/2611.24654",
+      "category": "tech",
+      "excerpt": "A central challenge in adapting large language models (LLMs) is capability preservation: an adaptation can achieve its target while degrading general capabilities. We introduce CurvDelta, a scalable framework that incorporates the preservation constraint into the parameterization of the model update",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 22"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning",
+      "url": "https://huggingface.co/papers/2611.17600",
+      "category": "tech",
+      "excerpt": "Multimodal tabular learning involves classification and regression on tables combining structured numerical and categorical features with unstructured text and images. These unstructured fields are commonly represented by pretrained encoder embeddings reduced with principal component analysis (PCA).",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "meta": "👍 20"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "LogT: Logically Think with Images for Visual Search",
+      "url": "https://huggingface.co/papers/2611.19200",
+      "category": "tech",
+      "excerpt": "Thinking with images empowers vision-language models (VLMs) to use an external Zoom-in tool for fine-grained visual search. Recent works employ supervised fine-tuning (SFT) and reinforcement learning (RL) with tool-specific designs to enable such capabilities. However, achieving logical reasoning al",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2611.22287",
+      "category": "tech",
+      "excerpt": "Latent diffusion models rely on a decoder to map denoised latents to pixels, adding complexity and inference cost. We introduce Decoding Without a Decoder (DWD), which lets a finetuned diffusion transformer produce final pixels directly through a linear head. Unlike previous methods, where the denoi",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
+      "url": "https://huggingface.co/papers/2611.23751",
+      "category": "tech",
+      "excerpt": "Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a small set of known candidates. Existing dual-system agents offload such decisions to a lightweight System-1 model, but rely on workflow-spec",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 11"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+      "url": "https://huggingface.co/papers/2611.24651",
+      "category": "tech",
+      "excerpt": "We present Piccolo, a family of multimodal decision models (0.8B to 27B) that coevolves model capabilities and training data via Agentic Data Engineering and recursive self-improvement (RSI). The models predict probabilities over candidate answers for general-purpose text and visual judgments, agent",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 11"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
+      "url": "https://huggingface.co/papers/2611.21553",
+      "category": "tech",
+      "excerpt": "Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soon as sufficient evidence becomes available while avoiding premature, redundant, or incorrect respons",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
+      "url": "https://huggingface.co/papers/2611.23257",
+      "category": "tech",
+      "excerpt": "Large language models have reduced the effort to generate code for interactive software with graphical user interfaces (GUIs). For such software, a key testing bottleneck is reaching a deep state, one that requires a long interaction history. The cost of reaching it recurs across commits, and the GU",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PReMind: When Personal Memory Meets Visual Hazards",
+      "url": "https://huggingface.co/papers/2611.23808",
+      "category": "tech",
+      "excerpt": "Personalized vision-language assistants use visual observations and personal memories to provide advice tailored to the user. When the observed scene contains a physical hazard, personal context, such as allergies, medical conditions, or mobility constraints, can change what help is appropriate. Res",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Late Entry in Looped Language Models",
+      "url": "https://huggingface.co/papers/2611.24576",
+      "category": "tech",
+      "excerpt": "Looped language models deepen reasoning at a compact parameter count by iterating a shared layer stack T times per token, turning recurrence depth directly into sequential decoding latency. Conventional early-exit decoding halts after initial passes without cache completion, truncating cached key-va",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models",
+      "url": "https://huggingface.co/papers/2611.24098",
+      "category": "tech",
+      "excerpt": "Video rough-cut is a core stage in media production workflows, organizing raw media materials into an initial video cut. Despite recent advances in large vision-language models (LVLMs) for video-related tasks, automatic rough-cut remains underexplored, without a comprehensive benchmark for evaluatio",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration",
+      "url": "https://huggingface.co/papers/2611.24733",
+      "category": "tech",
+      "excerpt": "NPU design-space exploration for LLM inference mainly relies on an expensive simulator that often returns only scalar feedback such as latency and power. Such feedback can rank evaluated configurations, but gives little information for deciding why a configuration is slow or which architecture param",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
+      "url": "https://huggingface.co/papers/2611.23779",
+      "category": "tech",
+      "excerpt": "Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 cu",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 8"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+      "url": "https://huggingface.co/papers/2611.14848",
+      "category": "tech",
+      "excerpt": "Large language model (LLM) agents are rapidly becoming a dominant paradigm for AI applications. Recently, there is a growing demand to deploy large-scale Mixture-of-Experts (MoE) models locally on consumer PCs to balance data privacy, API costs, and inference efficiency. However, unlike datacenter s",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "meta": "👍 8"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data",
+      "url": "https://huggingface.co/papers/2611.16933",
+      "category": "tech",
+      "excerpt": "Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a mono recording of exactly two people into one track per perso",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "url": "https://huggingface.co/papers/2611.24362",
+      "category": "tech",
+      "excerpt": "Large language model (LLM) agents routinely interact with untrusted external data, exposing them to indirect prompt injection (IPI) attacks that hijack agents into executing attacker-chosen tasks. To uncover these vulnerabilities at scale, automated red-teaming methods often leverage reinforcement l",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "url": "https://huggingface.co/papers/2611.17460",
+      "category": "tech",
+      "excerpt": "AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority. When completion requires violating a rule, the agent must decide alone, yet benchmark",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
+      "url": "https://huggingface.co/papers/2611.21114",
+      "category": "tech",
+      "excerpt": "Visible artifacts are an unreliable cue for detecting generated videos, because newer generators learn to remove them. We instead detect a trace left by the generation pipeline itself. Most video generators decode latents with a 3D causal VAE that groups consecutive frames in time, so the fidelity o",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts",
+      "url": "https://huggingface.co/papers/2611.24059",
+      "category": "tech",
+      "excerpt": "Frontier post-training follows a common recipe: train one expert per domain with reinforcement learning (RL), then consolidate the experts into one model via multi-teacher on-policy distillation (MOPD). Such consolidation is expensive: the student samples in every environment again, an expert scores",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation",
+      "url": "https://huggingface.co/papers/2611.22382",
+      "category": "tech",
+      "excerpt": "Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one or a few neighboring pages, and commercial document-splitting APIs do n",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+      "url": "https://huggingface.co/papers/2611.22673",
+      "category": "tech",
+      "excerpt": "We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language metrics, yet aligning their scores with human judgments and tracing them to specific temporal viola",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding",
+      "url": "https://huggingface.co/papers/2611.22790",
+      "category": "tech",
+      "excerpt": "Fine-grained questions about long videos ask how many times an action occurs, in what order events unfold, or exactly when a state changes. Answering them can require finding brief moments scattered across hours of footage. Agentic models that decide when and where to look promise to find these mome",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DrawScore: Evaluating Generated CAD Models against Engineering Drawings",
+      "url": "https://huggingface.co/papers/2611.24681",
+      "category": "tech",
+      "excerpt": "Automatic CAD generation is commonly evaluated with volumetric IoU, Chamfer Distance, and surface F-score, which barely penalize local errors that occupy only a small fraction of a part's volume or surface area, such as a misplaced hole or a slot on the wrong face, even though such errors are critic",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+      "url": "https://huggingface.co/papers/2611.23824",
+      "category": "tech",
+      "excerpt": "Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a trajectory regardless of whether it retrieved useful information. T",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "url": "https://huggingface.co/papers/2611.22033",
+      "category": "tech",
+      "excerpt": "Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking power would make higher-qualit",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability",
+      "url": "https://huggingface.co/papers/2611.24669",
+      "category": "tech",
+      "excerpt": "Adapting a film into a game requires selecting source elements and translating them into player actions, rules, and feedback. We introduce Movie2Game-Bench (M2G-bench), a benchmark for evaluating film-to-game adaptation beyond playability. M2G-bench combines general evaluation, movie-specific evalua",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
+      "url": "https://huggingface.co/papers/2607.21179",
+      "category": "tech",
+      "excerpt": "The goal of this paper is to reduce the input token cost of Omni-modal large language models (Omni-LLMs) at inference time. Omni-LLMs reason jointly over audio, video and text, but the cost of the three streams is highly unbalanced: visual tokens account for the vast majority of the input, and are h",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 3"
+    }
+  ]
+}

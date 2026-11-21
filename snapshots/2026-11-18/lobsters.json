@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-18T03:48:49.619Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 308,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Actual curl rewrites in rust",
+      "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T13:37:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Java4Shell: Write once, RCE everywhere",
+      "url": "https://calif.io/java4shell/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T21:16:11.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T17:40:32.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Redict is deprecated",
+      "url": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T08:20:30.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Steve Jobs Core Animation demo from WWDC 2007",
+      "url": "https://lucas.love/100/058",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T15:23:20.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How to Bypass Rust's Orphan Rule",
+      "url": "https://edvong.com/bypass-orphan-rule/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T15:35:36.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Github Redesign (2019)",
+      "url": "https://tonsky.me/blog/github-redesign/",
+      "category": "tech",
+      "excerpt": "I suggest the conversation steer away from the controversial last point where he flattens the UI quite a bit to make it less \"dated\", as the rest was quite good up until that point, and that deserves being discussed. Comments",
+      "publishedAt": "2026-11-17T09:28:18.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "FreeBSD GUS",
+      "url": "https://gregoire.dev/writing/gus/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T02:54:59.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Nimony: The next version of Nim",
+      "url": "https://nimony.org/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T21:56:09.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Sarasa Gothic Mono",
+      "url": "https://picaq.github.io/sarasa",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T18:47:39.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "My Emacs 31 contributions",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T11:03:52.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "https://arxiv.org/abs/2607.02512",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T12:55:46.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How Rust Changed Me As A Developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T18:17:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "C’s designated initializers give us named arguments",
+      "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T15:58:44.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T18:18:12.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Sexp Matrix",
+      "url": "https://lisper.cc/ideas/entangle.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T21:29:57.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Improving the Wii U's Wii Mode",
+      "url": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T22:39:54.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T14:38:24.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+      "url": "https://jack.cab/blog/siterate.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T13:02:11.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
+      "url": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T16:43:58.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "On Leaving Swift for Rust",
+      "url": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T17:56:45.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Making Games in Go: Entity Component System (ECS)",
+      "url": "https://threedots.tech/post/making-games-in-go-ecs/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T17:18:53.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Migrating from GitHub to Codeberg",
+      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T05:10:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Vx32: Lightweight User-level Sandboxing on the x86 (2008)",
+      "url": "https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T22:49:01.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T16:25:38.000Z"
+    }
+  ]
+}

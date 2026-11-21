@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-papers",
+  "fetchedAt": "2026-11-18T03:48:49.779Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 109,
+  "items": [
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Sage S2.1 Flash Technical Report",
+      "url": "https://huggingface.co/papers/2611.21072",
+      "category": "tech",
+      "excerpt": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered ",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 89"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+      "url": "https://huggingface.co/papers/2611.21218",
+      "category": "tech",
+      "excerpt": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmark",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 74"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+      "url": "https://huggingface.co/papers/2611.21003",
+      "category": "tech",
+      "excerpt": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with stro",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 73"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
+      "url": "https://huggingface.co/papers/2611.07222",
+      "category": "tech",
+      "excerpt": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a language model on the decision that lets an action through, so the decision depends on a model that may re",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "meta": "👍 56"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+      "url": "https://huggingface.co/papers/2611.20218",
+      "category": "tech",
+      "excerpt": "A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 development assignments across 101 real repositories, 11 programming languages, and 12 application domains",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "meta": "👍 46"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+      "url": "https://huggingface.co/papers/2611.21607",
+      "category": "tech",
+      "excerpt": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-Language-Action (VLA) policies still rely on much smaller VLM backbones, leaving t",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 41"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Papers",
+      "url": "https://huggingface.co/papers/2611.17834",
+      "category": "tech",
+      "excerpt": "As AI conference submissions grow rapidly, AI reviewers are being considered as an alternative. However, simply imitating human reviewing is problematic because reviewing serves multiple purposes, including evaluating papers' soundness, interestingness, and clarity, the last two of which are subject",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "meta": "👍 28"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VoxMel TTS Technical Report",
+      "url": "https://huggingface.co/papers/2611.20254",
+      "category": "tech",
+      "excerpt": "Continuous autoregressive TTS relies on an acoustic target that enables stable next-latent modeling while preserving fine-grained acoustic details. While existing approaches employ learned compressed representations (e.g., continuous VAE latents) to render prediction tractable, they rely on complex ",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "meta": "👍 22"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Multi-Branch Transformer",
+      "url": "https://huggingface.co/papers/2611.19800",
+      "category": "tech",
+      "excerpt": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transformer blocks. We introduce the Multi-Branch Transformer (MBT), which processes the input through shar",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "meta": "👍 17"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
+      "url": "https://huggingface.co/papers/2611.20882",
+      "category": "tech",
+      "excerpt": "Application optimization requires coding agents to discover useful changes and coordinate them across a complete program while preserving the required computation. We introduce Accelerate Bench, a benchmark of 32 CPU optimization tasks adapted from scientific applications and supercomputing competit",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 17"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Weight-Space Programming Doesn't Need Transformers",
+      "url": "https://huggingface.co/papers/2611.22055",
+      "category": "tech",
+      "excerpt": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training, so those reasons no longer apply. Should we k",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 15"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
+      "url": "https://huggingface.co/papers/2611.17110",
+      "category": "tech",
+      "excerpt": "Embodied foundation models hinge on diverse robot interaction data, which are costly to collect. Egocentric human videos offer a complementary source of experience, and latent action models (LAMs) provide a popular means of leveraging these videos for policy supervision. Compared with world-action m",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "meta": "👍 13"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model",
+      "url": "https://huggingface.co/papers/2611.20986",
+      "category": "tech",
+      "excerpt": "Biomolecular foundation models predict the structures of proteins and their complexes accurately, and large language models (LLMs) reason in natural language, but the two remain separate: the abilities of the former are not part of a general-purpose LLM, and the reasoning of the latter does not ente",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
+      "url": "https://huggingface.co/papers/2611.21339",
+      "category": "tech",
+      "excerpt": "Streaming video generation must sustain quality beyond the training horizon while handling self-generated history and growing cache costs. To address these challenges, we present MovieRoll, a base-to-distilled framework that connects streaming fine-tuning, long-rollout distillation, and long-horizon",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 11"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+      "url": "https://huggingface.co/papers/2611.15348",
+      "category": "tech",
+      "excerpt": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchmarks that compare machine learning methods under realistic conditions, particularly sensor drift, a k",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "meta": "👍 8"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding",
+      "url": "https://huggingface.co/papers/2611.20992",
+      "category": "tech",
+      "excerpt": "Medical image understanding with vision-language models (VLMs) typically relies on autoregressively generating reasoning and answer tokens. These unnecessary tokens make the inference cost scale with the response length and force the answer to be parsed from free-form text, incurring avoidable laten",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 8"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ResWAM: Learning What Changes, Not What Stays, for World-Action Models",
+      "url": "https://huggingface.co/papers/2611.19559",
+      "category": "tech",
+      "excerpt": "World-action models (WAMs) augment vision-language-action policies (VLAs) with future prediction so that the policy can anticipate how its actions will affect the physical world. Existing WAMs supervise complete future observations. However, observations typically change little over an action chunk,",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+      "url": "https://huggingface.co/papers/2611.08977",
+      "category": "tech",
+      "excerpt": "Looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. However, existing looped models are not inherently guided by an explicit measure of progress, making it diffic",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Correcting Persistent Failures in Point-Cloud Grasping Policies using Human Demonstrations in Virtual Reality",
+      "url": "https://huggingface.co/papers/2611.18919",
+      "category": "tech",
+      "excerpt": "Robots in homes, warehouses and farms must pick up objects they have never seen, usually without a 3D model or a category label. A grasping policy that works directly on the point cloud from a depth sensor needs only the geometry the robot observes, so it applies to any new object. Offline grasp gen",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
+      "url": "https://huggingface.co/papers/2611.14960",
+      "category": "tech",
+      "excerpt": "Coding agents can solve a task well before they stop working on it. We characterize termination lag--the number of steps between an agent's first correct patch and the end of its run--across five models, two agent frameworks, and three SWE-bench datasets by recording and testing every distinct repos",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination",
+      "url": "https://huggingface.co/papers/2611.17933",
+      "category": "tech",
+      "excerpt": "In many long-horizon settings, an agent's own choices create future constraints: committing finite capacity establishes future obligations and forecloses later opportunities. Sustaining performance therefore requires both keeping evolving plans feasible and comparing the value of resource allocation",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax",
+      "url": "https://huggingface.co/papers/2611.19537",
+      "category": "tech",
+      "excerpt": "Coding agents can synthesize and optimize code-based policies from simulator feedback, allowing the resulting program to act with zero inference model calls. But for long horizon tasks, two challenges arise: local improvements can hurt final success and switching to a new objective requires another ",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images",
+      "url": "https://huggingface.co/papers/2611.20385",
+      "category": "tech",
+      "excerpt": "Can a vision-language model look at a picture of a chain reaction and tell what will happen? Recent multimodal models describe scenes fluently and solve textbook physics problems, which suggests they should also predict how a scene of ramps, ledges, pendulums, seesaws and dominoes plays out once a b",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos",
+      "url": "https://huggingface.co/papers/2611.13685",
+      "category": "tech",
+      "excerpt": "In this paper, we investigate how human egocentric videos can benefit robot policy learning without action supervision. Building on a pretrained VLM, we propose Shared Prediction on Action and Representation (SPAR), an MoT architecture in which future visual state prediction can provide independent ",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment",
+      "url": "https://huggingface.co/papers/2611.20441",
+      "category": "tech",
+      "excerpt": "Abstention, the withholding of a response by a large language model (LLM) under uncertainty or safety risks, is essential for trustworthy models. The causes of abstention fall into three perspectives: ambiguity in the Query (Q), limits of Model Knowledge (MK), and misalignment with Human Values (HV)",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "url": "https://huggingface.co/papers/2611.17610",
+      "category": "tech",
+      "excerpt": "Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations or",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
+      "url": "https://huggingface.co/papers/2611.16694",
+      "category": "tech",
+      "excerpt": "When language models revise a decision after another agent disagrees, neither reversal counts nor final accuracy shows whether they are fixing mistakes or abandoning correct answers. We introduce a controlled two-pass audit that holds the question, the evidence, and the model's initial answer fixed ",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "url": "https://huggingface.co/papers/2611.21605",
+      "category": "tech",
+      "excerpt": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward ",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers",
+      "url": "https://huggingface.co/papers/2611.19649",
+      "category": "tech",
+      "excerpt": "Looped Transformers improve parameter efficiency by repeatedly applying the same Transformer layers. During autoregressive decoding, however, generating each token requires several sequential passes through these layers, leading to high decoding latency. Pipelined self-speculative methods use shallo",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
+      "url": "https://huggingface.co/papers/2611.16661",
+      "category": "tech",
+      "excerpt": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce ba",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "meta": "👍 4"
+    }
+  ]
+}

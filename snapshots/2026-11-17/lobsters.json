@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-17T04:44:05.414Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 404,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+      "url": "https://jack.cab/blog/siterate.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T13:02:11.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How Rust Changed Me As A Developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T18:17:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Migrating from GitHub to Codeberg",
+      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T05:10:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
+      "url": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T16:43:58.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T13:56:54.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-15T22:39:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "On Leaving Swift for Rust",
+      "url": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T17:56:45.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Improving the Wii U's Wii Mode",
+      "url": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T22:39:54.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+      "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T16:25:38.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Enabling the parallel frontend on nightly",
+      "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T15:22:38.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Paint in the memory of other programs",
+      "url": "https://citrons.xyz/journal/2026-04-13",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T03:37:36.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "you won't win at copyright",
+      "url": "https://ingrids.space/posts/you-wont-win-at-copyright/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T08:30:13.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "\"Proof of use\" as a requirement for open source contributions?",
+      "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+      "category": "tech",
+      "excerpt": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter. I'm experimenting with ",
+      "publishedAt": "2026-11-16T22:25:45.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/isejqv/what_are_you_doing_this_week",
+      "category": "tech",
+      "excerpt": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
+      "publishedAt": "2026-11-16T11:03:30.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T05:12:27.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "NoisyTCP",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/15/2",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T12:50:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Announcing Hegel-clj",
+      "url": "https://aphyr.com/posts/428-announcing-hegel-clj",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T04:12:25.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-15T16:04:01.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "beer.drv.drv.drv",
+      "url": "https://fzakaria.com/2026/11/14/beer-drv-drv-drv",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T00:47:28.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Local Mirror for FreeBSD pkgbase",
+      "url": "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T14:47:48.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Where did the ACK go?",
+      "url": "https://yashgarg.dev/posts/where-did-the-ack-go/",
+      "category": "tech",
+      "excerpt": "Breaking things with JioFiber, SIP and Asterisk. Comments",
+      "publishedAt": "2026-11-16T19:19:20.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Programming a language",
+      "url": "https://nrinaudo.github.io/articles/pl.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T11:24:12.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Memory management in 40 major C projects, a survey",
+      "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-15T12:50:03.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Safe Systems-programming with Mutable Value Semantics | Dave Abrahams",
+      "url": "https://www.youtube.com/watch?v=op51SyyPJmw",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T22:13:03.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "funkycache: a Python library to cache functions in SQLite",
+      "url": "https://alexwlchan.net/2026/funkycache/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-16T13:15:54.000Z"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-21T03:25:18.773Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 191,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "Bayer’s $7.25bn settlement over cancer cases approved by US judge",
+      "url": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Ruling will help German chemicals group contain legal bills after years of court battles",
+      "publishedAt": "2026-11-20T23:16:28.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nvidia faces US regulator’s probe into its accounting",
+      "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+      "publishedAt": "2026-11-20T21:58:08.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+      "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+      "publishedAt": "2026-11-20T21:52:25.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Inside Anthropic’s historic IPO",
+      "url": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "publishedAt": "2026-11-20T21:21:29.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
+      "url": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Consumers have already spent more on the video game than the top-grossing movie",
+      "publishedAt": "2026-11-20T21:05:48.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+      "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
+      "publishedAt": "2026-11-20T20:17:29.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "’Tis the season to be grateful to China",
+      "url": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
+      "publishedAt": "2026-11-20T18:57:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Anthropic shares slide as tech stocks tumble",
+      "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
+      "publishedAt": "2026-11-20T18:03:21.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Directors’ Deals: Hikma executive sells £1.1mn of shares",
+      "url": "https://www.ft.com/content/afa3f80c-1893-4b94-ac3e-d5a702882dcf",
+      "category": "finance",
+      "excerpt": "Pharma group raises profit guidance for 2026",
+      "publishedAt": "2026-11-20T18:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Stockpickers: Sirius Real Estate, Gear4Music, Trifast",
+      "url": "https://www.ft.com/content/eb859639-46ce-4399-adb0-dd0b442ca151",
+      "category": "finance",
+      "excerpt": "Our experts discuss which companies to buy, sell or hold this week",
+      "publishedAt": "2026-11-20T18:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Fossil fuel fightback drives COP31 climate talks into overtime",
+      "url": "https://www.ft.com/content/fb459525-6978-40f3-a079-4e59047858bd?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Negotiations continue into the night as groups of countries remain far apart on key issues to tackle global warming",
+      "publishedAt": "2026-11-20T17:59:41.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
+      "url": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Boss of US lender says he will find ways to offset the increase announced by the government last month",
+      "publishedAt": "2026-11-20T17:08:46.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Betfred blames UK gambling tax rise as it shuts 73 stores",
+      "url": "https://www.ft.com/content/42f825e9-3ee1-4285-8194-3445517e8c14?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Bookmaker makes cuts after last month’s Budget increased levy on slot machines, which have been criticised for being highly addictive",
+      "publishedAt": "2026-11-20T14:26:34.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut",
+      "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Investors rush for havens as heavy selling sweeps Wall Street",
+      "publishedAt": "2026-11-20T14:01:58.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Brookfield revives talks over £450mn sale of London’s Citypoint tower",
+      "url": "https://www.ft.com/content/3b6e5e8d-c7d1-4093-9187-45e37a2d3af4?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Negotiations to sell BP’s former head office to developer Castleforge had foundered earlier in the year",
+      "publishedAt": "2026-11-20T13:42:30.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "New pancreatic cancer drug halts tumour growth in 90% of patients",
+      "url": "https://www.ft.com/content/6f8575e7-48df-4537-8c8d-73433f086e87?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Successful small-scale trial raises hopes that new approach could be extended to other types of the disease",
+      "publishedAt": "2026-11-20T12:17:51.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Zero-waste housebuilding is shifting gears. Is the pace fast enough?",
+      "url": "https://www.ft.com/content/87c35346-c47f-4684-a15b-f26ae4057f86",
+      "category": "finance",
+      "excerpt": "Governments around the world are grappling with the 2bn tonnes of construction ‘waste’ sent to landfill every year. New proposals and circularity pioneers want to see it eliminated — and used to build new houses",
+      "publishedAt": "2026-11-20T12:00:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Carbon removal rises up climate agenda as 1.5C ‘overshoot’ looms",
+      "url": "https://www.ft.com/content/9cb11330-d7b0-43e8-a43e-8b7eb983b9bb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Taking CO₂ from the air will be needed to reverse warming, scientists say",
+      "publishedAt": "2026-11-20T12:00:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Anthropic market cap in line with Alphaville’s guess",
+      "url": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
+      "category": "finance",
+      "excerpt": "A (very) light autopsy on our pre-IPO market cap guestimation",
+      "publishedAt": "2026-11-20T11:57:35.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Worldline bolstered cash flow through delayed payments and early receipts",
+      "url": "https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "French fintech repeatedly withheld money from suppliers and sought advances from customers ahead of its results in the years leading up to 2023 profit warning",
+      "publishedAt": "2026-11-20T11:34:28.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: US approved sale of advanced AI chips to Chinese companies",
+      "url": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Also in today’s newsletter: tech stocks fall, and pensions eating everything",
+      "publishedAt": "2026-11-20T11:03:38.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Babe, a new gilet just dropped",
+      "url": "https://www.ft.com/content/3556ef23-2df0-4546-89a3-be0323cd32e4",
+      "category": "finance",
+      "excerpt": "Inside Deutsche Bank they are down-free and breezy resistant",
+      "publishedAt": "2026-11-20T10:30:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+      "url": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Final COP31 sessions focusing on energy security rather than climate change, critics say",
+      "publishedAt": "2026-11-20T08:52:29.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "White House replaces top cyber security official",
+      "url": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Kirsten Davies joins from the Pentagon to succeed Sean Cairncross after numerous online outages",
+      "publishedAt": "2026-11-20T08:33:59.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK retail sales jump as consumers stock up on emergency supplies",
+      "url": "https://www.ft.com/content/1e7855e5-fe9c-4e9c-ba8d-68c70159a1f1?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Government’s ‘Be Ready Campaign’ pushed up demand for tinned food and long-life milk",
+      "publishedAt": "2026-11-20T07:55:18.000Z"
+    }
+  ]
+}

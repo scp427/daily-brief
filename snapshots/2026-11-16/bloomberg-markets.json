@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-16T15:22:19.016Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 428,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asean Leaders Gather at Philippines Summit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/asean-leaders-gather-at-philippines-summit-video",
+      "category": "finance",
+      "excerpt": "India’s Narendra Modi, Japan’s Sanae Takaichi and Australia’s Anthony Albanese are among world leaders gathering for the ASEAN summit in the Philippines. (Source: Bloomberg)",
+      "publishedAt": "2026-11-16T15:12:21.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Colombia dispara su deuda ante creciente déficit presupuestario",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-dispara-su-deuda-ante-creciente-deficit-presupuestario",
+      "category": "finance",
+      "excerpt": "El país ha captado cerca de US$10.000 millones en dólares este año.",
+      "publishedAt": "2026-11-16T15:08:36.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "The Asia Trade (11/16/2026)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-asia-trade-11-16-2026-video",
+      "category": "finance",
+      "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Paul Allen and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping globa",
+      "publishedAt": "2026-11-16T04:10:05.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut in the coming days.",
+      "publishedAt": "2026-11-15T22:11:32.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Stocks Drop as Tech Shares Extend Slide Before Nvidia Results",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
+      "category": "finance",
+      "excerpt": "US stocks fell at the opening bell on Monday, led by technology shares, as investors looked to Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
+      "publishedAt": "2026-11-16T13:17:25.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Tyson Shares Climb as Meatpacker Sees Beef Woes Easing",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/tyson-sees-beef-woes-easing-as-cattle-supplies-improve",
+      "category": "finance",
+      "excerpt": "Tyson Foods Inc. is finally starting to see signs of a turnaround in its struggling beef business, as margins improve with a bigger supply of cattle and fewer processing plants.",
+      "publishedAt": "2026-11-16T12:00:13.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Moves to Tighten Rules for Firms Sponsoring Foreign Workers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-tighten-rules-for-firms-sponsoring-foreign-workers-mwjdpb94",
+      "category": "finance",
+      "excerpt": "The US Department of Labor proposed tightening rules for employers seeking to hire foreign workers for certain roles in the US.",
+      "publishedAt": "2026-11-16T14:48:37.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Canadian Dollar Lowest Since 2025 on 3.1% Inflation Print",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/canada-inflation-holds-steady-at-3-1-in-october",
+      "category": "finance",
+      "excerpt": "Canada’s inflation rate held at 3.1% in October as higher energy prices put upward pressure on the consumer price index, while cell phone plans eased and rent price growth slowed.",
+      "publishedAt": "2026-11-16T13:30:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Todo lo que debe saber sobre la salida a bolsa de Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/todo-lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-mwjde71y",
+      "category": "finance",
+      "excerpt": "La empresa que nació hace seis años de una ruptura en OpenAI por preocupaciones sobre la seguridad busca recaudar hasta US$90.400 millones en una de las mayores ofertas de la historia.",
+      "publishedAt": "2026-11-16T14:39:58.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Airlines Race to Recover From Shutdown",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-airlines-race-to-recover-from-shutdown-video",
+      "category": "finance",
+      "excerpt": "US airlines were scrambling at the start of a fresh week to resurrect their networks after the longest nationwide shutdown in more than two decades. Kate Duffy has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "publishedAt": "2026-11-16T14:39:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "New Corporate Speak Is Shaped By AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video",
+      "category": "finance",
+      "excerpt": "Corporate managements are using new euphemisms for job cuts or hiring freezes far more in the age of AI, as technology-enabled headcount reductions increasingly draw public ire and pushback from politicians, bloomberg Opinion columnist Jonathan Levin says. As a result, company leaders are leaning on",
+      "publishedAt": "2026-11-13T15:20:47.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "BlackRock Shifts AI Bets, Adds Equity Risk in New Model Shakeup",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-shifts-ai-bets-adds-equity-risk-in-new-model-shakeup",
+      "category": "finance",
+      "excerpt": "BlackRock Inc. is reshuffling its artificial intelligence exposure and tactically adding equity risk following a market selloff, in the latest overhaul of its $300 billion suite of model portfolios.",
+      "publishedAt": "2026-11-16T13:55:59.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Diamondback Agrees to Buy Double Eagle Assets for $5 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+      "category": "finance",
+      "excerpt": "Diamondback Energy Inc. agreed to buy assets in the Permian Basin from closely held oil driller Double Eagle for about $5 billion in cash and stock, growing its position as one of the largest operators in the world’s most productive shale patch.",
+      "publishedAt": "2026-11-16T11:57:49.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Giant Aluminum Squeeze Is Stress Test for LME’s Anti-Abuse Rules",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/giant-aluminum-squeeze-is-stress-test-for-lme-s-anti-abuse-rules",
+      "category": "finance",
+      "excerpt": "The London Metal Exchange’s rules to prevent squeezes from wreaking havoc with the market are being given an extreme stress test — this time in aluminum.",
+      "publishedAt": "2026-11-16T13:26:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "BlackRock Seeks to Break ETF Mold With Private-Market Hybrid",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-seeks-to-break-etf-mold-with-private-market-hybrid",
+      "category": "finance",
+      "excerpt": "BlackRock Inc. is pushing to redraw the boundaries of the $16 trillion US exchange-traded funds industry with a novel investment vehicle that would marry two of Wall Street’s biggest obsessions: the trading ease of ETFs and the allure of private markets.",
+      "publishedAt": "2026-11-16T13:16:28.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India Weighs Capital Gains, Transaction Tax Change, Mint Reports",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/india-weighs-capital-gains-transaction-tax-change-mint-reports",
+      "category": "finance",
+      "excerpt": "India is reviewing taxes on capital gains and stock transactions, Mint reported, citing a senior official, amid clamor to make the local market more attractive to global investors after a year of heavy foreign outflows.",
+      "publishedAt": "2026-11-16T13:11:37.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Imran Khan Says He May Die in Prison, Asks Courts for Treatment",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/imran-khan-says-he-may-die-in-prison-asks-courts-for-treatment",
+      "category": "finance",
+      "excerpt": "Imran Khan, Pakistan’s jailed former prime minister, has asked the country’s top judges to enforce an order for his hospital treatment, saying months of solitary confinement have put his life at risk.",
+      "publishedAt": "2026-11-16T13:08:36.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dangote Invests $2.2 Billion to Upgrade Nigeria’s Road Network",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/dangote-invests-2-2-billion-to-upgrade-nigeria-s-road-network",
+      "category": "finance",
+      "excerpt": "Africa’s richest man said his businesses are spending 3.3 trillion naira ($2.2 billion) to upgrade the road network in his home country of Nigeria to make it easier to transport goods produced by his empire.",
+      "publishedAt": "2026-11-16T13:05:56.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Wheat Falls on Optimism About Black Sea Talks, Argentine Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
+      "category": "finance",
+      "excerpt": "Wheat futures in Chicago fell on optimism about progress in negotiations to end the Russia-Ukraine conflict in the Black Sea and expectations of strong supplies from the Southern Hemisphere.",
+      "publishedAt": "2026-11-16T04:11:22.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 16",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
+      "category": "finance",
+      "excerpt": "Oil declined amid signs that the market for physical barrels is well supplied, even as tensions in the Middle East threaten to hamper exports from the region.",
+      "publishedAt": "2026-11-15T23:03:50.000Z"
+    }
+  ]
+}

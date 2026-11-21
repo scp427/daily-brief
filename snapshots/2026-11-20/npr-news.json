@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-20T03:41:02.037Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 65,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+      "category": "society",
+      "excerpt": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+      "publishedAt": "2026-11-19T19:46:27.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+      "category": "society",
+      "excerpt": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
+      "publishedAt": "2026-11-19T18:28:23.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+      "category": "society",
+      "excerpt": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
+      "publishedAt": "2026-11-19T17:03:11.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "The midterms were the largest win for either party in 50 years",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+      "category": "society",
+      "excerpt": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
+      "publishedAt": "2026-11-19T15:55:05.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "category": "society",
+      "excerpt": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+      "publishedAt": "2026-11-19T12:29:41.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+      "category": "society",
+      "excerpt": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+      "publishedAt": "2026-11-19T12:26:31.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "category": "society",
+      "excerpt": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+      "publishedAt": "2026-11-19T12:26:01.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
+      "category": "society",
+      "excerpt": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
+      "publishedAt": "2026-11-19T11:20:42.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+      "category": "society",
+      "excerpt": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+      "publishedAt": "2026-11-19T11:20:37.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Muslims will outnumber Christians worldwide by 2035, report says",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
+      "category": "society",
+      "excerpt": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
+      "publishedAt": "2026-11-19T10:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-17T04:44:05.867Z",
+  "ok": true,
+  "itemCount": 4,
+  "durationMs": 110,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Goal Engineering: How to Design Goals",
+      "url": "https://x.com/hwchase17/status/2121635683999883577",
+      "category": "tech",
+      "excerpt": "Written in conjunction with @mgarimella (Actively AI) and Anshul Gupta (Actively AI) The scope of tasks that agents can take on has increased drastically over the past few years. They have gone from",
+      "publishedAt": "2026-11-14T16:05:39.000Z",
+      "meta": "@hwchase17 · 140.1K 粉丝 · 59.1K 阅 · 501 赞 · 64 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "看起来没有壁垒的数据生意，为何如此繁荣？",
+      "url": "https://x.com/SuJinyan6/status/2121812102709157921",
+      "category": "tech",
+      "excerpt": "The English version can be found on my Substack here. The original Chinese version: 今年我找工作，主要投的是post-training这个方向。 结果来联系我的startup，几乎全是做数据的。",
+      "publishedAt": "2026-11-15T03:46:41.000Z",
+      "meta": "@SuJinyan6 · 6.5K 粉丝 · 54.2K 阅 · 556 赞 · 63 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Announcing our collaboration with OpenAI",
+      "url": "https://x.com/GoodfireAI/status/2122362693730574665",
+      "category": "tech",
+      "excerpt": "Today, we’re announcing an embedded assessment with OpenAI. Goodfire researchers will embed within OpenAI, using our interpretability platform to monitor training runs, debug undesired behavior, and",
+      "publishedAt": "2026-11-16T16:14:32.000Z",
+      "meta": "@GoodfireAI · 29.9K 粉丝 · 34.4K 阅 · 550 赞 · 55 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Antigravity slash commands cheat sheet",
+      "url": "https://x.com/googledevs/status/2122392496147960008",
+      "category": "tech",
+      "excerpt": "Navigate reasoning modes, planning tools, and background automations across @Antigravity and the Antigravity CLI with built-in slash commands. Type / directly in your prompt box to open the",
+      "publishedAt": "2026-11-16T18:12:57.000Z",
+      "meta": "@googledevs · 2.6M 粉丝 · 29.3K 阅 · 545 赞 · 57 转"
+    }
+  ]
+}

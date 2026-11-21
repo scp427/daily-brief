@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "hackernews",
+  "fetchedAt": "2026-11-21T03:25:18.460Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 627,
+  "items": [
+    {
+      "sourceId": "hackernews",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "category": "tech",
+      "excerpt": "1682 points · 748 comments",
+      "publishedAt": "2026-11-20T18:33:14.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "category": "tech",
+      "excerpt": "755 points · 129 comments",
+      "publishedAt": "2026-11-20T20:12:19.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "category": "tech",
+      "excerpt": "2418 points · 1631 comments",
+      "publishedAt": "2026-11-20T14:16:21.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "category": "tech",
+      "excerpt": "150 points · 36 comments",
+      "publishedAt": "2026-11-20T22:30:47.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "category": "tech",
+      "excerpt": "330 points · 192 comments",
+      "publishedAt": "2026-11-20T18:17:51.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "category": "tech",
+      "excerpt": "59 points · 28 comments",
+      "publishedAt": "2026-11-17T16:58:30.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "category": "tech",
+      "excerpt": "363 points · 147 comments",
+      "publishedAt": "2026-11-20T17:21:36.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "category": "tech",
+      "excerpt": "353 points · 113 comments",
+      "publishedAt": "2026-11-20T16:29:06.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "category": "tech",
+      "excerpt": "47 points · 11 comments",
+      "publishedAt": "2026-11-20T23:19:44.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "category": "tech",
+      "excerpt": "129 points · 24 comments",
+      "publishedAt": "2026-11-20T20:03:59.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "category": "tech",
+      "excerpt": "261 points · 84 comments",
+      "publishedAt": "2026-11-20T15:34:31.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "And yet, it moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "category": "tech",
+      "excerpt": "110 points · 53 comments",
+      "publishedAt": "2026-11-20T20:07:55.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "category": "tech",
+      "excerpt": "524 points · 310 comments",
+      "publishedAt": "2026-11-20T09:42:16.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "category": "tech",
+      "excerpt": "153 points · 142 comments",
+      "publishedAt": "2026-11-20T23:42:44.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "category": "tech",
+      "excerpt": "119 points · 44 comments",
+      "publishedAt": "2026-11-20T18:15:16.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "category": "tech",
+      "excerpt": "224 points · 204 comments",
+      "publishedAt": "2026-11-20T20:03:07.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How to Bypass Rust's Orphan Rule",
+      "url": "https://edvong.com/bypass-orphan-rule/",
+      "category": "tech",
+      "excerpt": "21 points · 3 comments",
+      "publishedAt": "2026-11-18T20:22:06.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "category": "tech",
+      "excerpt": "110 points · 35 comments",
+      "publishedAt": "2026-11-20T19:30:16.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "category": "tech",
+      "excerpt": "25 points · 13 comments",
+      "publishedAt": "2026-11-20T23:29:30.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "category": "tech",
+      "excerpt": "93 points · 61 comments",
+      "publishedAt": "2026-11-14T09:13:24.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "category": "tech",
+      "excerpt": "21 points · 8 comments",
+      "publishedAt": "2026-11-20T22:18:20.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Integrals of Polynomials with Galois Group S_p",
+      "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+      "category": "tech",
+      "excerpt": "6 points · 1 comments",
+      "publishedAt": "2026-11-21T01:17:05.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "category": "tech",
+      "excerpt": "I released dettato, my open weight audio to midi transcription model. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without training on copyrighted recordings. Feel free to ask questions",
+      "publishedAt": "2026-11-17T01:03:05.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I can’t believe it’s 1!",
+      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "category": "tech",
+      "excerpt": "47 points · 55 comments",
+      "publishedAt": "2026-11-16T19:07:13.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "category": "tech",
+      "excerpt": "247 points · 130 comments",
+      "publishedAt": "2026-11-20T20:22:41.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "category": "tech",
+      "excerpt": "Hi HN!Utpal here, I&#x27;m one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24",
+      "publishedAt": "2026-11-20T20:19:56.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "category": "tech",
+      "excerpt": "I&#x27;ll be here for the rest of the day. As usual, there are countless possible topics and I&#x27;ll be guided by whatever you&#x27;re concerned with. Please remember that I can&#x27;t provide legal advice on specific cases for obvious liability reasons because I won&#x27;t have access to all the ",
+      "publishedAt": "2026-11-20T16:45:25.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "category": "tech",
+      "excerpt": "Hey HN, we&#x27;re Yarn (W24) and we make a video editing app for startups, and we built Quebec (https:&#x2F;&#x2F;quebec.yarn.so), an API that gives you accurate word timestamps from speech. We needed it because cutting a word even 50ms off from its true timing can ruin talking head footage (exampl",
+      "publishedAt": "2026-11-17T15:16:45.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Merkle Tree Certificates",
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+      "category": "tech",
+      "excerpt": "22 points · 3 comments",
+      "publishedAt": "2026-11-20T22:19:23.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "category": "tech",
+      "excerpt": "637 points · 298 comments",
+      "publishedAt": "2026-11-20T09:43:19.000Z"
+    }
+  ]
+}

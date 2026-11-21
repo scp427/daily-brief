@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-world",
+  "fetchedAt": "2026-11-18T03:48:51.309Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 208,
+  "items": [
+    {
+      "sourceId": "npr-world",
+      "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+      "category": "politics",
+      "excerpt": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+      "publishedAt": "2026-11-17T22:41:53.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "category": "politics",
+      "excerpt": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+      "publishedAt": "2026-11-17T18:34:31.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "category": "politics",
+      "excerpt": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
+      "publishedAt": "2026-11-17T12:20:57.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "category": "politics",
+      "excerpt": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "publishedAt": "2026-11-17T10:43:55.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "category": "politics",
+      "excerpt": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimean, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukrainian drones.",
+      "publishedAt": "2026-11-17T09:50:45.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+      "category": "politics",
+      "excerpt": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
+      "publishedAt": "2026-11-17T09:46:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Africa: Trading in yuan",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+      "category": "politics",
+      "excerpt": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+      "publishedAt": "2026-11-16T23:49:35.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+      "category": "politics",
+      "excerpt": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+      "publishedAt": "2026-11-16T18:04:50.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+      "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+      "category": "politics",
+      "excerpt": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+      "publishedAt": "2026-11-16T12:08:14.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+      "category": "politics",
+      "excerpt": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
+      "publishedAt": "2026-11-16T11:39:14.000Z"
+    }
+  ]
+}

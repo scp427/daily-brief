@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-19T03:47:54.039Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 664,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Anthropic IPO Hands Korean Tycoon’s Firm $3 Billion Windfall",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
+      "category": "finance",
+      "excerpt": "Anthropic PBC’s blockbuster initial public offering has delivered a multibillion-dollar windfall for billionaire Chey Tae-won’s empire, rewarding an early bet on the artificial intelligence startup by SK Telecom Co., South Korea’s largest mobile carrier.",
+      "publishedAt": "2026-11-19T01:36:26.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
+      "category": "finance",
+      "excerpt": "Dennis Wilder, Senior Fellow at Georgetown University and former CIA Deputy Assistant Director for East Asia and the Pacific, says the trilateral meeting between US President Donald Trump, Chinese counterpart Xi Jinping and Russian President Vladimir Putin is in itself sending a message. Wilder argu",
+      "publishedAt": "2026-11-19T03:27:56.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Rebounds After Rout as Physical Tightness Persists",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+      "category": "finance",
+      "excerpt": "Copper steadied after plunging almost 6% on Wednesday — the biggest drop since April 2025 — on a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs.",
+      "publishedAt": "2026-11-19T01:14:36.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 19",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+      "category": "finance",
+      "excerpt": "Oil steadied as traders assessed the outlook for the US-Iran conflict, including the possibility of fresh attacks against Tehran.",
+      "publishedAt": "2026-11-18T23:03:35.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasuries Draw Record Demand From South Korean Investors",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
+      "category": "finance",
+      "excerpt": "South Korean investors bought a record amount of US Treasuries in September, reversing heavy selling as yields climbed and buyers sought to diversify away from a chip-heavy local stock market.",
+      "publishedAt": "2026-11-19T00:45:02.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Lose Momentum After Anthropic, Aussie Drops: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "Stocks struggled to sustain gains for a second straight session as lingering concerns over the artificial-intelligence trade tempered initial enthusiasm over Anthropic PBC’s IPO pricing. The Australian dollar fell.",
+      "publishedAt": "2026-11-18T22:07:41.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
+      "category": "finance",
+      "excerpt": "Australia’s dollar wiped out its 2026 gain against the greenback after weak employment data reinforced bets that the central bank has ended its interest-rate hike cycle and will pivot to cuts next year.",
+      "publishedAt": "2026-11-19T01:53:37.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
+      "category": "finance",
+      "excerpt": "A consortium led by private investment firm RRJ Capital has agreed to buy $619 million of bonds from Australian coking coal miner GM3, according to people familiar with the matter.",
+      "publishedAt": "2026-11-19T02:33:23.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India Studies Tax Proposals to Encourage Stock Trading, Curb Speculative Bets",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/india-studies-tax-proposals-to-encourage-stock-trading-curb-speculative-bets",
+      "category": "finance",
+      "excerpt": "Investors and economists have proposed raising taxes on stock derivatives while lowering levies on share trading.",
+      "publishedAt": "2026-11-19T02:30:35.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+      "category": "finance",
+      "excerpt": "China began marketing up to $2 billion of dollar-denominated sovereign bonds, as leaders of the world’s two largest economies are set to meet in Shenzhen.",
+      "publishedAt": "2026-11-19T00:57:50.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "K-Pop Giants Position for China Return After Decade-Long Freeze",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/k-pop-giants-position-for-china-return-after-decade-long-freeze",
+      "category": "finance",
+      "excerpt": "South Korean entertainment companies are positioning themselves for a return to China after the two countries agreed to expand cultural exchanges, raising hopes that Beijing may loosen restrictions that have kept major K-pop acts out of the mainland for almost a decade.",
+      "publishedAt": "2026-11-19T02:02:33.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "A-Cap Insurer Asks to Defer Payouts to Clients Amid Deal Talks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/a-cap-insurer-asks-to-defer-payouts-to-clients-amid-deal-talks",
+      "category": "finance",
+      "excerpt": "Advantage Capital Holdings’ main life insurer, which has been disputing a state regulator’s concerns about its financial strength, is seeking to defer certain payments to customers while pursuing sale talks with a potential acquirer.",
+      "publishedAt": "2026-11-19T01:58:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
+      "category": "finance",
+      "excerpt": "The amount of liquefied natural gas tankers passing outbound through the Strait of Hormuz appears to have dropped over the last week, according to satellite and ship-tracking data, suggesting shipowners are being more cautious after a flurry of attacks.",
+      "publishedAt": "2026-11-19T01:23:23.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+      "category": "finance",
+      "excerpt": "Gold climbed from a 14-month low as dip buyers helped cushion growing expectations that the Federal Reserve will hike interest rates.",
+      "publishedAt": "2026-11-18T23:24:06.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+      "category": "finance",
+      "excerpt": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
+      "publishedAt": "2026-11-18T09:45:09.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+      "category": "finance",
+      "excerpt": "Artificial intelligence can bring exponential benefits but the damage that may result from a breach of its safeguards is the biggest risk that’s being underpriced by markets right now, according to Morgan Stanley.",
+      "publishedAt": "2026-11-19T01:00:36.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
+      "category": "finance",
+      "excerpt": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
+      "publishedAt": "2026-11-19T00:54:52.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
+      "category": "finance",
+      "excerpt": "Anthropic PBC and its co-founders raised $107.3 billion in an upsized IPO and private placement. The artificial intelligence firm sold 956.4 million shares and the co-founders sold 23.6 million shares for $83 each, according to a statement, above the marketed range. The IPO is the biggest of all tim",
+      "publishedAt": "2026-11-19T00:45:46.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/jeffrey-sachs-expects-friendly-trilateral-outcome-video",
+      "category": "finance",
+      "excerpt": "Columbia University Professor Jeffrey Sachs says he is happy that the leaders of US-China and Russia have agreed to have a trilateral meeting. Speaking to Bloomberg’s Stephen Engle, he adds that his expectations are that the outcome will be ‘calm’ and ‘friendly’. (Source: Bloomberg)",
+      "publishedAt": "2026-11-19T00:36:42.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Oil Imports Rebound as Beijing Turns Back to Stockpiling",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-oil-imports-rebound-as-beijing-turns-back-to-stockpiling",
+      "category": "finance",
+      "excerpt": "China’s appetite for crude is recovering faster than expected in the final months of 2026, as lower oil prices push cash-strapped refiners to use up government-granted import allowances and encourage processors to rebuild stockpiles depleted by months of war.",
+      "publishedAt": "2026-11-19T00:36:26.000Z"
+    }
+  ]
+}

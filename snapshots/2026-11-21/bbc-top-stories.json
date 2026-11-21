@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-21T03:25:18.946Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 68,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "publishedAt": "2026-11-20T17:49:48.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "publishedAt": "2026-11-20T16:41:52.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "publishedAt": "2026-11-20T22:42:47.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Man guilty of murdering woman he groomed on fetish site",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
+      "publishedAt": "2026-11-20T18:17:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "publishedAt": "2026-11-21T02:09:46.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+      "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+      "publishedAt": "2026-11-21T00:02:09.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+      "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+      "publishedAt": "2026-11-20T16:39:49.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "publishedAt": "2026-11-20T21:57:07.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "publishedAt": "2026-11-20T20:54:12.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "publishedAt": "2026-11-20T22:37:09.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "publishedAt": "2026-11-20T15:14:01.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+      "publishedAt": "2026-11-21T00:03:16.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
+      "url": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
+      "publishedAt": "2026-11-21T01:07:01.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "publishedAt": "2026-11-21T00:06:11.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
+      "url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
+      "publishedAt": "2026-11-21T00:08:19.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "publishedAt": "2026-11-20T23:20:33.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What is the EU-UK youth experience scheme and when will it start?",
+      "url": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years.",
+      "publishedAt": "2026-11-20T16:07:55.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "publishedAt": "2026-11-21T01:02:39.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What new UK-EU deal could mean for future post-Brexit relations",
+      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+      "publishedAt": "2026-11-20T21:43:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
+      "publishedAt": "2026-11-21T01:34:51.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'I was exhausted': Two days in the shoes of a tradwife",
+      "url": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
+      "publishedAt": "2026-11-21T00:29:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "publishedAt": "2026-11-20T23:15:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "publishedAt": "2026-11-20T19:45:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+      "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales.",
+      "publishedAt": "2026-11-20T19:41:30.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Man jailed for murder of woman drowned in Thames",
+      "url": "https://www.bbc.co.uk/news/articles/c67423wvdnpyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Nelio Gouveia, 45, is jailed for killing Jennifer Symonds, who drowned in the River Thames.",
+      "publishedAt": "2026-11-20T16:59:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
+      "category": "society",
+      "excerpt": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
+      "publishedAt": "2026-03-31T05:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Price beats Kotaskova to become undisputed champion",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+      "publishedAt": "2026-11-20T23:30:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+      "publishedAt": "2026-11-20T23:18:16.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Stacked England aim to pile on style and add to All Black misery",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrmgjpp0l48o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "England's easy-on-the-eye revival will be stress-tested by a New Zealand side under sudden pressure on Saturday",
+      "publishedAt": "2026-11-20T16:51:17.000Z"
+    }
+  ]
+}

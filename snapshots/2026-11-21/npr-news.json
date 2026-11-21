@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-21T03:25:18.918Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 37,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "category": "society",
+      "excerpt": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+      "publishedAt": "2026-11-20T22:11:29.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "The latest from Trump's press conference",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+      "category": "society",
+      "excerpt": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+      "publishedAt": "2026-11-20T21:38:21.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Rising seas have forced this Quinault village to relocate",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+      "category": "society",
+      "excerpt": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+      "publishedAt": "2026-11-20T21:38:13.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Trump's impact on an Ohio steel plant",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+      "category": "society",
+      "excerpt": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
+      "publishedAt": "2026-11-20T21:38:11.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "MLK's handwritten draft of iconic speech on display for the first time",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+      "category": "society",
+      "excerpt": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+      "publishedAt": "2026-11-20T21:38:05.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+      "category": "society",
+      "excerpt": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+      "publishedAt": "2026-11-20T18:25:09.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+      "category": "society",
+      "excerpt": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+      "publishedAt": "2026-11-20T17:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "How Orchestra Noir turned classical music into a cultural movement",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+      "category": "society",
+      "excerpt": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
+      "publishedAt": "2026-11-20T16:12:18.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Trump touts meeting with Xi and Putin but offers little results",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "category": "society",
+      "excerpt": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
+      "publishedAt": "2026-11-20T15:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+      "category": "society",
+      "excerpt": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+      "publishedAt": "2026-11-20T12:24:40.000Z"
+    }
+  ]
+}

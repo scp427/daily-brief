@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-16T15:22:18.337Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 58,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "category": "tech",
+      "excerpt": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "publishedAt": "2026-11-16T14:06:16.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+      "category": "tech",
+      "excerpt": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+      "publishedAt": "2026-11-16T14:00:05.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+      "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "category": "tech",
+      "excerpt": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "publishedAt": "2026-11-16T12:00:57.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "category": "tech",
+      "excerpt": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "publishedAt": "2026-11-15T23:11:54.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "category": "tech",
+      "excerpt": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "publishedAt": "2026-11-15T12:07:34.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "category": "tech",
+      "excerpt": "It felt like stepping into the future.",
+      "publishedAt": "2026-11-15T00:40:59.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "category": "tech",
+      "excerpt": "Radiation and collisions reshape the planetary building materials.",
+      "publishedAt": "2026-11-14T12:15:48.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "category": "tech",
+      "excerpt": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "publishedAt": "2026-11-14T12:05:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "category": "tech",
+      "excerpt": "One way or another, the company will get some more data on Saturday.",
+      "publishedAt": "2026-11-14T00:49:13.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "category": "tech",
+      "excerpt": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "publishedAt": "2026-11-13T23:17:38.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "category": "tech",
+      "excerpt": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "publishedAt": "2026-11-13T21:59:01.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "category": "tech",
+      "excerpt": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "publishedAt": "2026-11-13T21:20:47.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "category": "tech",
+      "excerpt": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+      "publishedAt": "2026-11-13T20:03:13.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "category": "tech",
+      "excerpt": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "publishedAt": "2026-11-13T19:49:16.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "category": "tech",
+      "excerpt": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "publishedAt": "2026-11-13T17:25:45.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "category": "tech",
+      "excerpt": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "publishedAt": "2026-11-13T16:26:32.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "category": "tech",
+      "excerpt": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "publishedAt": "2026-11-13T15:26:53.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+      "category": "tech",
+      "excerpt": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+      "publishedAt": "2026-11-13T15:09:39.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+      "category": "tech",
+      "excerpt": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+      "publishedAt": "2026-11-13T14:45:04.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+      "category": "tech",
+      "excerpt": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+      "publishedAt": "2026-11-13T14:29:15.000Z"
+    }
+  ]
+}

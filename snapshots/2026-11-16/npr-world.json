@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-world",
+  "fetchedAt": "2026-11-16T15:22:19.356Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 106,
+  "items": [
+    {
+      "sourceId": "npr-world",
+      "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+      "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+      "category": "politics",
+      "excerpt": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+      "publishedAt": "2026-11-16T12:08:14.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+      "category": "politics",
+      "excerpt": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Chuck Schumer and what he would change about Senate Democratic leadership.",
+      "publishedAt": "2026-11-16T11:39:14.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+      "category": "politics",
+      "excerpt": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+      "publishedAt": "2026-11-16T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "What to expect from Trump and Xi's upcoming meeting in China",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+      "category": "politics",
+      "excerpt": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+      "publishedAt": "2026-11-15T22:11:26.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+      "category": "politics",
+      "excerpt": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+      "publishedAt": "2026-11-15T22:07:55.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Fuel crisis and protests pressure Chile's far-right president",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+      "category": "politics",
+      "excerpt": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+      "publishedAt": "2026-11-14T16:05:12.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "category": "politics",
+      "excerpt": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+      "publishedAt": "2026-11-13T19:02:04.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "category": "politics",
+      "excerpt": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+      "publishedAt": "2026-11-13T12:07:12.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+      "category": "politics",
+      "excerpt": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+      "publishedAt": "2026-11-13T11:47:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+      "category": "politics",
+      "excerpt": "U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts.",
+      "publishedAt": "2026-11-12T15:26:34.000Z"
+    }
+  ]
+}

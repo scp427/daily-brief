@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-21T03:25:18.486Z",
+  "ok": true,
+  "itemCount": 8,
+  "durationMs": 160,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Automate Anything with Grok Bot",
+      "url": "https://x.com/poteto/status/2123159537016533493",
+      "category": "tech",
+      "excerpt": "Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
+      "publishedAt": "2026-11-18T21:00:54.000Z",
+      "meta": "@poteto · 310.4K 粉丝 · 310.9K 阅 · 2.4K 赞 · 197 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "5 agent orchestration patterns backed by research",
+      "url": "https://x.com/googlecloud/status/2123428849262248255",
+      "category": "tech",
+      "excerpt": "A lot of developers run teams of agents and agent orchestration by vibe, but is it actually effective? In this article, I'll introduce five research-backed patterns for running agent teams in",
+      "publishedAt": "2026-11-19T14:51:03.000Z",
+      "meta": "@googlecloud · 579.1K 粉丝 · 70.6K 阅 · 898 赞 · 91 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Becoming a factory engineer",
+      "url": "https://x.com/BHolmesDev/status/2123495357036605797",
+      "category": "tech",
+      "excerpt": "Software engineering has quickly become factory engineering. We've progressed from writing code, to writing prompts, to engineering the system of agents that executes on those prompts. It's a systems",
+      "publishedAt": "2026-11-19T19:15:20.000Z",
+      "meta": "@BHolmesDev · 49.9K 粉丝 · 49.0K 阅 · 528 赞 · 48 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Building an Autonomous Inference System",
+      "url": "https://x.com/simon_mo_/status/2123133742063706343",
+      "category": "tech",
+      "excerpt": "Since we started Inferact, I have been getting a lot of questions about how it relates to vLLM: what stays in the open-source project, who maintains it, and what Inferact is for. All great questions;",
+      "publishedAt": "2026-11-18T19:18:24.000Z",
+      "meta": "@simon_mo_ · 5.2K 粉丝 · 41.7K 阅 · 513 赞 · 63 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "On the Christiano/Dwarkesh podcast",
+      "url": "https://x.com/sebkrier/status/2123015473507733777",
+      "category": "tech",
+      "excerpt": "Some early takes on the Dwarkesh/Christiano interview: As people know from my views of ‘RSI’ (which I think is a bad initialism, and should instead be understood as ‘model training pipeline",
+      "publishedAt": "2026-11-18T11:28:27.000Z",
+      "meta": "@sebkrier · 31.8K 粉丝 · 35.3K 阅 · 503 赞 · 61 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://x.com/GoogleAIStudio/status/2123489911684866251",
+      "category": "tech",
+      "excerpt": "Tool Retrieval is now in preview in the Gemini Interactions API. Load tool parameter schemas on demand instead of sending your full tool library in every prompt, designed to reduce input tokens and",
+      "publishedAt": "2026-11-19T18:53:42.000Z",
+      "meta": "@GoogleAIStudio · 221.4K 粉丝 · 34.4K 阅 · 514 赞 · 38 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://x.com/GoogleAIStudio/status/2123178116604416115",
+      "category": "tech",
+      "excerpt": "Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Today, we’re introducing Gemini 4 Neon — bringing",
+      "publishedAt": "2026-11-18T22:14:44.000Z",
+      "meta": "@GoogleAIStudio · 221.4K 粉丝 · 16.2K 阅 · 511 赞 · 45 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "The Dawn of the Human–Agent Society: From Human-Like Digital Agents to Physical Agents",
+      "url": "https://x.com/AidenChaoyangHe/status/2123430903733231648",
+      "category": "tech",
+      "excerpt": "Today, we're unveiling Teamily Video Agent and AI Glasses, giving AI agents eyes and ears to see, hear, understand, and interact with the physical world in real time. The same agent. The same",
+      "publishedAt": "2026-11-19T14:59:13.000Z",
+      "meta": "@AidenChaoyangHe · 3.8K 粉丝 · 3.5K 阅 · 548 赞 · 41 转"
+    }
+  ]
+}

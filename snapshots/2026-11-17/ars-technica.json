@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-17T04:44:06.004Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 183,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "category": "tech",
+      "excerpt": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "publishedAt": "2026-11-16T22:58:27.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "category": "tech",
+      "excerpt": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "publishedAt": "2026-11-16T21:56:39.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "category": "tech",
+      "excerpt": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "publishedAt": "2026-11-16T20:52:10.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "category": "tech",
+      "excerpt": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "publishedAt": "2026-11-16T20:37:47.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "category": "tech",
+      "excerpt": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+      "publishedAt": "2026-11-16T20:27:58.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "category": "tech",
+      "excerpt": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "publishedAt": "2026-11-16T19:54:21.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "When will humans actually fly on Starship?",
+      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "category": "tech",
+      "excerpt": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "publishedAt": "2026-11-16T19:46:08.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "category": "tech",
+      "excerpt": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+      "publishedAt": "2026-11-16T19:36:25.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "category": "tech",
+      "excerpt": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "publishedAt": "2026-11-16T19:10:09.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "category": "tech",
+      "excerpt": "International authorities will announce US lost its elimination status Tuesday.",
+      "publishedAt": "2026-11-16T16:39:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "category": "tech",
+      "excerpt": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "publishedAt": "2026-11-16T14:06:16.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+      "category": "tech",
+      "excerpt": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+      "publishedAt": "2026-11-16T14:00:05.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+      "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "category": "tech",
+      "excerpt": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "publishedAt": "2026-11-16T12:00:57.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "category": "tech",
+      "excerpt": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "publishedAt": "2026-11-15T23:11:54.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "category": "tech",
+      "excerpt": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "publishedAt": "2026-11-15T12:07:34.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "category": "tech",
+      "excerpt": "It felt like stepping into the future.",
+      "publishedAt": "2026-11-15T00:40:59.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "category": "tech",
+      "excerpt": "Radiation and collisions reshape the planetary building materials.",
+      "publishedAt": "2026-11-14T12:15:48.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "category": "tech",
+      "excerpt": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "publishedAt": "2026-11-14T12:05:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "category": "tech",
+      "excerpt": "One way or another, the company will get some more data on Saturday.",
+      "publishedAt": "2026-11-14T00:49:13.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "category": "tech",
+      "excerpt": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "publishedAt": "2026-11-13T23:17:38.000Z"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-20T03:41:01.031Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 440,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Nextdc Says It Will No Longer Develop Data Centers Near Homes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/nextdc-says-it-will-no-longer-develop-data-centers-near-homes",
+      "category": "finance",
+      "excerpt": "Australian data center company Nextdc has vowed not to develop sites near residential areas after community opposition and power constraints delayed a major expansion project.",
+      "publishedAt": "2026-11-20T03:23:43.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+      "category": "finance",
+      "excerpt": "Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under fresh strain, putting the island’s benchmark on course for its worst week since 1991.",
+      "publishedAt": "2026-11-20T02:29:57.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "Global stocks were poised for their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run in 2026, sending investors to haven assets such as Treasuries and the dollar.",
+      "publishedAt": "2026-11-19T22:03:40.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Hong Kong Stocks Fall 20% From 2026 High as AI Selloff Spreads",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+      "category": "finance",
+      "excerpt": "Hong Kong stocks fell toward a grim milestone as an AI-led selloff spread to engulf even the more defensive corners of the market.",
+      "publishedAt": "2026-11-20T02:29:50.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Rout Deepens as AI Selloff Wreaks Havoc in Metals Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+      "category": "finance",
+      "excerpt": "Copper crashed to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
+      "publishedAt": "2026-11-20T03:03:05.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Trump Offers Xi a Helping Hand on Escalator",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
+      "category": "finance",
+      "excerpt": "Donald Trump, 80, offered Xi Jinping, 73, a hand while boarding an escalator, with Xi holding his forearm as he stepped up, during their third summit of the year in Shenzhen. The friendly gesture contrasted with Washington’s recent efforts to restrict China’s access to key AI technology. (Source: Bl",
+      "publishedAt": "2026-11-20T03:01:17.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Honda Debuts Hybrid SUV for Asia in Pivot From Failed EV Bet",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/honda-debuts-hybrid-suv-for-asia-in-pivot-from-failed-ev-bet",
+      "category": "finance",
+      "excerpt": "Honda Motor Co. unwrapped a new flagship SUV, the first of a range of gas-electric hybrid models the company is rolling out this decade as part of its pivot away from fully electric cars.",
+      "publishedAt": "2026-11-20T03:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Rising Bond Yields May Pose a Challenge to Nifty’s Sharp Rebound",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/rising-bond-yields-may-pose-a-challenge-to-nifty-s-sharp-rebound",
+      "category": "finance",
+      "excerpt": "The Nifty has rebounded almost 15% since early October, pushing valuations higher.",
+      "publishedAt": "2026-11-20T02:31:37.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+      "category": "finance",
+      "excerpt": "Gold fell for a fifth day — heading for the biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks pushed investors to sell the metal to cover losses.",
+      "publishedAt": "2026-11-19T23:56:03.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+      "url": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+      "category": "finance",
+      "excerpt": "The pioneering AI lab saw unprecedented demand for its stock from both retail and institutional investors.",
+      "publishedAt": "2026-11-20T02:16:42.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Frasers CFO Unleashes on Accent as Australian Bid Turns Personal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/frasers-cfo-unleashes-on-accent-as-australian-bid-turns-personal",
+      "category": "finance",
+      "excerpt": "Frasers Group Plc’s pursuit of Australia’s Accent Group Ltd. turned personal after Frasers’ finance chief flew to the retailer’s annual meeting in Melbourne to publicly accuse it of under-performance and demand the chairman quit.",
+      "publishedAt": "2026-11-20T02:02:33.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Anthropic IPO’s Australia Tranche Said About 10 Times Subscribed",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
+      "category": "finance",
+      "excerpt": "Anthropic PBC drew orders for about 10 times the final allocations in the Australian tranche of its record-breaking US initial public offering, according to a person familiar with the matter.",
+      "publishedAt": "2026-11-19T23:35:17.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Sour Crude’s War Premium Vanishes as Oil Supply Surges",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges",
+      "category": "finance",
+      "excerpt": "The price of US sour oil has plunged, as a surge in crude supply from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
+      "publishedAt": "2026-11-19T16:45:06.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australian Pension Funds Confront Their Latest Rival: AI Agents",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/australian-pension-funds-confront-their-latest-rival-ai-agents",
+      "category": "finance",
+      "excerpt": "Top Australian pension funds are grappling with the potential proliferation of autonomous AI agents, a new source of competition in the lucrative retirement market which senior executives say is creating significant challenges.",
+      "publishedAt": "2026-11-20T01:19:16.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Trilateral Talks Yield Few Concrete Results",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
+      "category": "finance",
+      "excerpt": "Power dynamics were on full display as the leaders of the US, China, and Russia met on the sidelines of the APEC summit in Shenzhen. Presidents Donald Trump, Xi Jinping and Vladimir Putin pledged to boost global fuel supplies and held discussions spanning issues from Ukraine to denuclearization. (So",
+      "publishedAt": "2026-11-20T01:15:46.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says",
+      "category": "finance",
+      "excerpt": "Australia’s central bank is trying to manage the difficult tradeoffs in monetary policy of how much weight to put on inflation and how much on employment, as required under its mandate, said Renee Fry-McKibbin, a member of the Reserve Bank’s rate-setting board.",
+      "publishedAt": "2026-11-20T01:15:40.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 20",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+      "category": "finance",
+      "excerpt": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against ample supply.",
+      "publishedAt": "2026-11-19T23:05:51.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Sells $2 Billion Bonds at Same Yield as US Treasuries",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+      "category": "finance",
+      "excerpt": "China sold $2 billion of dollar-denominated sovereign bonds on Thursday priced at no premium to US Treasuries, as the offering drew strong demand.",
+      "publishedAt": "2026-11-19T00:57:50.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan Tobacco Shares Fall After Russia-Related Charges",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
+      "category": "finance",
+      "excerpt": "Japan Tobacco Inc. shares declined after the cigarette maker said it expects to swing to an operating loss and slashed its dividend forecast after losing control of its Russian business.",
+      "publishedAt": "2026-11-20T00:10:10.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dollar Heads for Fourth Week of Gains Following Anthropic IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo",
+      "category": "finance",
+      "excerpt": "The dollar is headed for a fourth straight weekly gain as demand tied to the Anthropic PBC IPO further lifts the currency that has been supported by expectations of further Federal Reserve interest-rate hikes and elevated US Treasury yields.",
+      "publishedAt": "2026-11-20T00:20:47.000Z"
+    }
+  ]
+}

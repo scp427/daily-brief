@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-tech",
+  "fetchedAt": "2026-11-17T04:44:06.366Z",
+  "ok": true,
+  "itemCount": 21,
+  "durationMs": 299,
+  "items": [
+    {
+      "sourceId": "bbc-tech",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "publishedAt": "2026-11-17T02:37:53.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "publishedAt": "2026-11-17T01:04:45.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "publishedAt": "2026-11-16T23:25:53.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "publishedAt": "2026-11-16T23:12:24.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "publishedAt": "2026-11-16T13:34:22.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "publishedAt": "2026-11-16T03:04:01.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "publishedAt": "2026-11-16T01:47:57.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "publishedAt": "2026-11-15T13:37:45.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "publishedAt": "2026-11-14T18:28:06.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "publishedAt": "2026-11-14T06:42:27.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The next title in the series is expected to be the biggest video game release ever.",
+      "publishedAt": "2026-11-14T00:37:01.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "publishedAt": "2026-11-13T23:00:31.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "publishedAt": "2026-11-13T21:15:41.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "publishedAt": "2026-11-10T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "publishedAt": "2026-11-03T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "publishedAt": "2026-10-27T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
+      "publishedAt": "2026-10-20T19:45:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "publishedAt": "2026-10-10T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "publishedAt": "2026-10-03T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032d9k?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Ammie Sekhon explores tech used to identify and remove counterfeit products online.",
+      "publishedAt": "2026-09-26T01:00:13.000Z"
+    }
+  ]
+}

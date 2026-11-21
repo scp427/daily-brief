@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-21T03:25:18.834Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 39,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "category": "politics",
+      "excerpt": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "publishedAt": "2026-11-20T20:22:14.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+      "category": "politics",
+      "excerpt": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+      "publishedAt": "2026-11-20T23:05:46.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "category": "politics",
+      "excerpt": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+      "publishedAt": "2026-11-20T16:18:21.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "category": "politics",
+      "excerpt": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "publishedAt": "2026-11-20T20:30:59.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+      "category": "politics",
+      "excerpt": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
+      "publishedAt": "2026-11-20T10:38:19.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+      "category": "politics",
+      "excerpt": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
+      "publishedAt": "2026-11-20T14:17:02.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+      "category": "politics",
+      "excerpt": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+      "publishedAt": "2026-11-20T13:56:56.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+      "category": "politics",
+      "excerpt": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
+      "publishedAt": "2026-11-20T16:50:16.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
+      "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
+      "category": "politics",
+      "excerpt": "The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898.",
+      "publishedAt": "2026-11-20T08:13:07.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "category": "politics",
+      "excerpt": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+      "publishedAt": "2026-11-20T01:37:20.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+      "category": "politics",
+      "excerpt": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+      "publishedAt": "2026-11-20T09:17:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "category": "politics",
+      "excerpt": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+      "publishedAt": "2026-11-19T16:51:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+      "category": "politics",
+      "excerpt": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
+      "publishedAt": "2026-11-19T21:17:13.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "White Police Officers Are Convicted of Beating a Black Man in France",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+      "category": "politics",
+      "excerpt": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
+      "publishedAt": "2026-11-20T23:21:51.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+      "category": "politics",
+      "excerpt": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
+      "publishedAt": "2026-11-20T22:15:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+      "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+      "category": "politics",
+      "excerpt": "Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.",
+      "publishedAt": "2026-11-20T22:06:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+      "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+      "category": "politics",
+      "excerpt": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
+      "publishedAt": "2026-11-20T23:29:24.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "category": "politics",
+      "excerpt": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "publishedAt": "2026-11-20T17:13:20.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Unexpected Fallout From the Iran War",
+      "url": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
+      "category": "politics",
+      "excerpt": "Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds.",
+      "publishedAt": "2026-11-19T21:40:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Love and Carjackings in a Video Game",
+      "url": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+      "category": "politics",
+      "excerpt": "Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”",
+      "publishedAt": "2026-11-20T05:15:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "category": "politics",
+      "excerpt": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+      "publishedAt": "2026-11-20T14:16:51.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "category": "politics",
+      "excerpt": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+      "publishedAt": "2026-11-20T22:34:05.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+      "category": "politics",
+      "excerpt": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.",
+      "publishedAt": "2026-11-19T17:05:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "category": "politics",
+      "excerpt": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.",
+      "publishedAt": "2026-11-20T17:45:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
+      "category": "politics",
+      "excerpt": "People gathered in the rain to hear the ruling on whether Myanmar had committed genocide, though they understood it might not change their lives anytime soon.",
+      "publishedAt": "2026-11-19T16:07:50.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+      "category": "politics",
+      "excerpt": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+      "publishedAt": "2026-11-19T18:47:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Rohingya Crisis Over the Years",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
+      "category": "politics",
+      "excerpt": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.",
+      "publishedAt": "2026-11-19T16:27:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T15:08:16.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Greenland Pulls Closer to the U.S. — by an Hour",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+      "category": "politics",
+      "excerpt": "Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.",
+      "publishedAt": "2026-11-19T16:14:06.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+      "category": "politics",
+      "excerpt": "After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.",
+      "publishedAt": "2026-11-19T14:23:07.000Z"
+    }
+  ]
+}

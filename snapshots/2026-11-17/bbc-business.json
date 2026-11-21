@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-business",
+  "fetchedAt": "2026-11-17T04:44:06.597Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 27,
+  "items": [
+    {
+      "sourceId": "bbc-business",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "publishedAt": "2026-11-16T22:32:47.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "publishedAt": "2026-11-16T23:12:24.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "publishedAt": "2026-11-17T00:00:03.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "publishedAt": "2026-11-17T00:00:02.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "publishedAt": "2026-11-17T02:37:53.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+      "publishedAt": "2026-11-16T13:19:33.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Customers report service outages at major US banks",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "publishedAt": "2026-11-17T00:18:01.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "publishedAt": "2026-11-16T15:40:16.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+      "publishedAt": "2026-11-16T06:24:08.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "publishedAt": "2026-11-16T03:04:01.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Avoid this Black Friday scam - how to check it's a real deal",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+      "publishedAt": "2026-11-16T09:58:52.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "publishedAt": "2026-11-15T00:01:07.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "publishedAt": "2026-11-16T01:47:57.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Minister backs legal right to job support for young people",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "publishedAt": "2026-11-15T13:06:15.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "publishedAt": "2026-11-13T23:00:31.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "publishedAt": "2026-11-14T06:42:27.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "publishedAt": "2026-11-13T18:36:57.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "publishedAt": "2026-11-13T19:53:57.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "publishedAt": "2026-11-13T03:57:01.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "publishedAt": "2026-11-13T01:17:58.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "publishedAt": "2026-11-13T00:13:35.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "publishedAt": "2026-11-13T09:29:25.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "publishedAt": "2026-11-12T15:10:32.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The UK is seeing impressive growth, but will it last?",
+      "publishedAt": "2026-11-12T13:27:09.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "publishedAt": "2026-11-12T11:20:25.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+      "publishedAt": "2026-11-12T14:29:59.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "publishedAt": "2026-11-12T22:51:18.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "publishedAt": "2026-11-13T12:22:30.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "publishedAt": "2026-11-12T17:11:48.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "publishedAt": "2026-11-11T00:19:13.000Z"
+    }
+  ]
+}

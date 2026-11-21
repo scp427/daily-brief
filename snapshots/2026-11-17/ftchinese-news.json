@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ftchinese-news",
+  "fetchedAt": "2026-11-17T04:44:07.141Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 740,
+  "items": [
+    {
+      "sourceId": "ftchinese-news",
+      "title": "科技投资者：“成功和名望”损害硅谷企业领导水平",
+      "url": "https://www.ftchinese.com/story/001111388",
+      "category": "finance",
+      "excerpt": "英国知名基金经理安德森严厉批评硅谷盛行的“强势创始人-领导者”模式。他警告，黄仁勋和马斯克等人的超级明星地位有损企业领导水平。",
+      "publishedAt": "2026-11-16T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "欧盟再度推动AI治理全球协议",
+      "url": "https://www.ftchinese.com/story/001111386",
+      "category": "finance",
+      "excerpt": "欧盟迄今未能说服特朗普加入一项关于AI治理的国际协议。然而，特朗普在中期选举中受挫，一定程度上突显了美国选民对AI和数据中心的担忧。",
+      "publishedAt": "2026-11-16T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "极地涡旋提前崩溃令人担忧寒冬",
+      "url": "https://www.ftchinese.com/story/001111375",
+      "category": "finance",
+      "excerpt": "通常困住北极冷空气的极地涡旋出现有记录以来最早的冬季崩溃，科学家担心欧洲、北美和北亚出现极度寒冷干燥的天气，但目前影响尚不明确。",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "纽约社会主义者组织支持奥卡西奥-科尔特斯竞选总统",
+      "url": "https://www.ftchinese.com/story/001111373",
+      "category": "finance",
+      "excerpt": "37岁的奥卡西奥-科尔特斯是新一代左翼代表人物，得到美国民主社会主义者协会纽约市分会的支持。她本人尚未表态会否竞选总统。",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "俄罗斯要求欧洲挑选一名代表参与俄乌和谈",
+      "url": "https://www.ftchinese.com/story/001111372",
+      "category": "finance",
+      "excerpt": "按照俄方设想，这一人选还必须获得普京的认可。此前特朗普女婿库什纳在莫斯科与俄总统会面后称，普京愿“尝试”让欧洲参与谈判。",
+      "publishedAt": "2026-11-15T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "英伟达风波引发芯片出口限制担忧，中国AI企业股价大跌",
+      "url": "https://www.ftchinese.com/story/001111367",
+      "category": "finance",
+      "excerpt": "现已辞职的英伟达CEO黄仁勋此前一直支持美国继续对华销售芯片。",
+      "publishedAt": "2026-11-12T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "美议员就芯片出口管控问题向卢特尼克施压",
+      "url": "https://www.ftchinese.com/story/001111365",
+      "category": "finance",
+      "excerpt": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。",
+      "publishedAt": "2026-11-12T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "中国警告美国不要以黄仁勋之事为借口收紧技术出口限制",
+      "url": "https://www.ftchinese.com/story/001111358",
+      "category": "finance",
+      "excerpt": "中国指责美国编造所谓的“间谍叙事”，为实施科技封锁寻找借口。",
+      "publishedAt": "2026-11-12T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "和谈之际乌克兰再遭星盾限速",
+      "url": "https://www.ftchinese.com/story/001111357",
+      "category": "finance",
+      "excerpt": "泽连斯基称已连续数日遭到星盾“系统性限速”。乌克兰高官相信此举是为了在俄美乌三方谈判期间向基辅方面施压。",
+      "publishedAt": "2026-11-12T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "以军再度空袭加沙医院",
+      "url": "https://www.ftchinese.com/story/001111356",
+      "category": "finance",
+      "excerpt": "当地卫生部门称6名遇难者包括一名医生、几名患者及陪同人员。以军称袭击目标是藏匿于纳赛尔医院的哈马斯汗尤尼斯旅指挥官及其他武装人员。",
+      "publishedAt": "2026-11-12T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "中国将严厉惩处离岸信托收益偷逃税者",
+      "url": "https://www.ftchinese.com/story/001111351",
+      "category": "finance",
+      "excerpt": "中国政府要求中国富裕人士在10月22日的最后期限前完成对离岸信托收益的申报缴税，上月个人所得税收入同比增长90%。",
+      "publishedAt": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "投资者对AI专用发电技术企业信心下降",
+      "url": "https://www.ftchinese.com/story/001111347",
+      "category": "finance",
+      "excerpt": "投资者兴趣曾推动小型模块化核反应堆、地热能和燃料电池相关企业股价飙升，但这反过来意味着这些企业必须持续“烧钱”以完成项目。",
+      "publishedAt": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "沙特石油产量回升至接近战前水平",
+      "url": "https://www.ftchinese.com/story/001111346",
+      "category": "finance",
+      "excerpt": "欧佩克最大产油国10月原油日产量达到1060万桶，似乎表明它找到了维持石油工业运转的方法。",
+      "publishedAt": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "美国科技股有望延续反弹趋势",
+      "url": "https://www.ftchinese.com/story/001111345",
+      "category": "finance",
+      "excerpt": "新云服务商CoreWeave好于预期的业绩表现，以及Anthropic上市估值有望上调的消息，都提振了市场情绪。",
+      "publishedAt": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "英伟达聘请前联邦检察官调查黄仁勋事件",
+      "url": "https://www.ftchinese.com/story/001111342",
+      "category": "finance",
+      "excerpt": "纽约南区前代理联邦检察官金俊铉将负责对黄仁勋与一名据称是中国间谍的女子之间婚外情的内部调查。",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "高中学历遭质疑 印尼副总统有意辞职",
+      "url": "https://www.ftchinese.com/story/001111332",
+      "category": "finance",
+      "excerpt": "吉布兰在2024年参选时提交了一份高中“同等学历证明”，但该证明已被最高法院裁定无效。",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "意大利银行业抨击梅洛尼政府最新增税计划",
+      "url": "https://www.ftchinese.com/story/001111330",
+      "category": "finance",
+      "excerpt": "针对梅洛尼政府在未来三年向银行额外征税70亿欧元的计划，银行业协会负责人抱怨称这有违“经济理性”。",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "美国10月环比通胀率放缓幅度不及预期",
+      "url": "https://www.ftchinese.com/story/001111329",
+      "category": "finance",
+      "excerpt": "该月环比价格涨幅为0.4%，低于9月的0.6%，但高于经济学家们此前预测的0.3%。",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "Anthropic寻求以1.4万亿美元估值上市",
+      "url": "https://www.ftchinese.com/story/001111328",
+      "category": "finance",
+      "excerpt": "这一目标估值显著高于这家AI公司5月进行上一轮私募融资时达到的9650亿美元。",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "德国总理就落实援乌资金向欧盟发出通牒",
+      "url": "https://www.ftchinese.com/story/001111323",
+      "category": "finance",
+      "excerpt": "默茨在欧盟领导人本周开会前警告：除非所有成员国承诺在2027年及以后继续向乌克兰提供财政支持，否则他将阻止欧盟通过下一份七年预算。",
+      "publishedAt": "2026-11-09T16:00:00.000Z"
+    }
+  ]
+}

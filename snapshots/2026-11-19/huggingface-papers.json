@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-papers",
+  "fetchedAt": "2026-11-19T03:47:52.462Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 144,
+  "items": [
+    {
+      "sourceId": "huggingface-papers",
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "url": "https://huggingface.co/papers/2611.22115",
+      "category": "tech",
+      "excerpt": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, lar",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 151"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "url": "https://huggingface.co/papers/2611.17621",
+      "category": "tech",
+      "excerpt": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn f",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "meta": "👍 91"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Weight-Space Programming Doesn't Need Transformers",
+      "url": "https://huggingface.co/papers/2611.22055",
+      "category": "tech",
+      "excerpt": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training, so those reasons no longer apply. Should we k",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 51"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Multi-Branch Transformer",
+      "url": "https://huggingface.co/papers/2611.19800",
+      "category": "tech",
+      "excerpt": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transformer blocks. We introduce the Multi-Branch Transformer (MBT), which processes the input through shar",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "meta": "👍 45"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+      "url": "https://huggingface.co/papers/2611.15348",
+      "category": "tech",
+      "excerpt": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchmarks that compare machine learning methods under realistic conditions, particularly sensor drift, a k",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "meta": "👍 32"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+      "url": "https://huggingface.co/papers/2611.18856",
+      "category": "tech",
+      "excerpt": "Harness optimization is often studied with a fixed policy model and benchmark. When either changes, the optimizer must decide which parts of an evolved harness to reuse or revise, but the harness alone may not explain why earlier edits were made or how they performed. In this work, we study Continua",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "meta": "👍 31"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "FastFrames: Video Generation at Interactive Latency",
+      "url": "https://huggingface.co/papers/2611.23226",
+      "category": "tech",
+      "excerpt": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a family of fast autoregre",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 24"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration",
+      "url": "https://huggingface.co/papers/2611.22275",
+      "category": "tech",
+      "excerpt": "Collaboration promises to extend humanoid capabilities beyond what individual robots can achieve. However, realizing this potential requires coordinated whole-body interactions, coherent long-horizon planning, and precise synchronization across robots. We introduce Heave-Ho, a decentralized framewor",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 21"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VideoNexus: Video Perception Beyond the Reasoning Context",
+      "url": "https://huggingface.co/papers/2611.21392",
+      "category": "tech",
+      "excerpt": "Understanding long videos requires locating evidence, resolving visual details, and integrating observations into an answer. Even when relevant evidence is present, performing these operations within long, dense visual sequences burdens both perception and reasoning. Video agents enable selective in",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 20"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "π^4: A Foundation Model for 4D Scene Geometry and Motion",
+      "url": "https://huggingface.co/papers/2611.23144",
+      "category": "tech",
+      "excerpt": "π^4 is a unified foundation model for 4D scene perception. From diverse, uncalibrated RGB observations in the wild---a single image, an unordered collection, or a video sequence---it recovers dense geometry, camera poses, and metric scale, together with 2D/3D point tracks and moving-object masks for",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 13"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
+      "url": "https://huggingface.co/papers/2611.21152",
+      "category": "tech",
+      "excerpt": "Training coding agents for long-horizon tasks requires environments with verifiable feedback. Existing pipelines often follow a linear process that ends with validation, establishing usability but providing little guidance on improving training value. Recursive self-improvement (RSI) often requires ",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+      "url": "https://huggingface.co/papers/2611.23068",
+      "category": "tech",
+      "excerpt": "Agent evolution follows a simple loop: a proposer writes candidate artifacts (prompts, skills, memories) and selection accepts those that score higher. This loop has shown promise, yet practitioners face a puzzle: methods trade wins across papers, and evolution often fails to bootstrap on certain ta",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 10"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "FMT: Lossless Image Compression in a Fixed Number of Parallel Steps",
+      "url": "https://huggingface.co/papers/2611.23108",
+      "category": "tech",
+      "excerpt": "Learned lossless codecs make smaller files than common classical codecs, yet the images we archive and train on still use classical codecs. A main reason is time: a learned codec takes seconds to decode a photo that a classical codec opens in milliseconds, and their faster variants give up most of t",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 10"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding",
+      "url": "https://huggingface.co/papers/2611.20992",
+      "category": "tech",
+      "excerpt": "Medical image understanding with vision-language models (VLMs) typically relies on autoregressively generating reasoning and answer tokens. These unnecessary tokens make the inference cost scale with the response length and force the answer to be parsed from free-form text, incurring avoidable laten",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 10"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ALIVE: Making Streaming Video Models Interactive",
+      "url": "https://huggingface.co/papers/2611.21366",
+      "category": "tech",
+      "excerpt": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K f",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
+      "url": "https://huggingface.co/papers/2611.22563",
+      "category": "tech",
+      "excerpt": "CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford. We introduce CADMAGEDDON, an open-source agent that reconstructs editab",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MPEG-Diffusion: Mixed-Resolution Video Generation",
+      "url": "https://huggingface.co/papers/2611.12069",
+      "category": "tech",
+      "excerpt": "Video diffusion transformers (DiTs) generate realistic videos, but their heavy computational cost limits broader real-world applications. Mixed-resolution generation reduces this cost by generating the visually important region at high resolution (HR) and the rest at low resolution (LR), yet existin",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+      "url": "https://huggingface.co/papers/2611.23388",
+      "category": "tech",
+      "excerpt": "Post-training quantization is the standard way to serve large language models at low cost. However, the best quantization recipe differs across models and precisions. As a result, experts must redesign it for every new model, which is time-consuming and often sub-optimal. Fortunately, an LLM agent c",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns",
+      "url": "https://huggingface.co/papers/2611.19244",
+      "category": "tech",
+      "excerpt": "On-policy distillation (OPD) transfers specialized capabilities to language-model agents, but its cross-domain effects on interaction remain unclear. We investigate how OPD reshapes ReAct interaction patterns across mathematics, ALFWorld, and τ^2-bench, focusing on reasoning, actions, and observatio",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2611.22287",
+      "category": "tech",
+      "excerpt": "Latent diffusion models rely on a decoder to map denoised latents to pixels, adding complexity and inference cost. We introduce Decoding Without a Decoder (DWD), which lets a finetuned diffusion transformer produce final pixels directly through a linear head. Unlike previous methods, where the denoi",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications",
+      "url": "https://huggingface.co/papers/2611.21382",
+      "category": "tech",
+      "excerpt": "Visual artifact tasks test agents' ability to translate task specifications and source materials into outputs that meet practical needs. Evaluation across artifact families helps distinguish broadly applicable authoring capabilities from strengths confined to a particular medium. We introduce Visual",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
+      "url": "https://huggingface.co/papers/2611.08922",
+      "category": "tech",
+      "excerpt": "Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at population scale, motivating methods that automatically extract pre-defined phenotypes in multimodal and uns",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "url": "https://huggingface.co/papers/2611.23219",
+      "category": "tech",
+      "excerpt": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-im",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "url": "https://huggingface.co/papers/2611.21925",
+      "category": "tech",
+      "excerpt": "Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft a",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models",
+      "url": "https://huggingface.co/papers/2611.15671",
+      "category": "tech",
+      "excerpt": "A quantized model is usually judged by comparing it with its BF16 original, but that comparison changes more than the weights. It often changes the serving engine, it always runs on a different server instance, it may change how requests are batched, and on some stacks the library selects a differen",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Regularized Score Centering",
+      "url": "https://huggingface.co/papers/2611.21791",
+      "category": "tech",
+      "excerpt": "Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effect of reward baselines on the expected update. Our gr",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ResWAM: Learning What Changes, Not What Stays, for World-Action Models",
+      "url": "https://huggingface.co/papers/2611.19559",
+      "category": "tech",
+      "excerpt": "World-action models (WAMs) augment vision-language-action policies (VLAs) with future prediction so that the policy can anticipate how its actions will affect the physical world. Existing WAMs supervise complete future observations. However, observations typically change little over an action chunk,",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Attention at Absolute Zero",
+      "url": "https://huggingface.co/papers/2611.11937",
+      "category": "tech",
+      "excerpt": "Attention scores candidate supports of an answer, which we call witnesses, and reads the scores at a temperature. We build a higher-order attention layer whose state lives on pairs of items: for a pair (a, b), each third item k is a witness judged through its legs (a, k) and (k, b). It reads witness",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MillBill: A Machining Agent with Geometric Feedback",
+      "url": "https://huggingface.co/papers/2611.22565",
+      "category": "tech",
+      "excerpt": "Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, but this makes numerical execution part of the model's task. We introduce MillBill, an agent that sep",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Recurrent Domain Incremental Adaptation of Time-Series Foundation Models",
+      "url": "https://huggingface.co/papers/2611.24075",
+      "category": "tech",
+      "excerpt": "Pretrained Time-Series Foundation Models (TSFMs) provide strong representations for downstream classification tasks. Yet adapting a TSFM under changing operating conditions remains challenging. A model must improve on each newly observed condition without sacrificing conditions it has already learne",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 2"
+    }
+  ]
+}

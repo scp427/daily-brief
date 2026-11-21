@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-19T03:47:53.010Z",
+  "ok": true,
+  "itemCount": 13,
+  "durationMs": 235,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Automate Anything with Grok Bot",
+      "url": "https://x.com/poteto/status/2123159537016533493",
+      "category": "tech",
+      "excerpt": "Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
+      "publishedAt": "2026-11-18T21:00:54.000Z",
+      "meta": "@poteto · 310.4K 粉丝 · 310.9K 阅 · 2.4K 赞 · 197 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Why I hate GPT-6.2 Astra",
+      "url": "https://x.com/theo/status/2122760447103484410",
+      "category": "tech",
+      "excerpt": "During early testing, I found myself so frustrated with this model that I spent a day writing a letter to OpenAI about it. They fixed a small handful of my complaints, but not enough for me to",
+      "publishedAt": "2026-11-17T18:35:04.000Z",
+      "meta": "@theo · 430.0K 粉丝 · 154.5K 阅 · 2.3K 赞 · 93 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How I got 3M views with AI slideshows and Fable 5.2",
+      "url": "https://x.com/Inomsxbt/status/2122676987420623080",
+      "category": "tech",
+      "excerpt": "By the end of this guide you will have one finished 6-slide AI UGC slideshow, five variations of it and a full week of posts scheduled. It is a method you can repeat on any app or product, on any",
+      "publishedAt": "2026-11-17T13:03:25.000Z",
+      "meta": "@Inomsxbt · 122.5K 粉丝 · 114.1K 阅 · 503 赞 · 17 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "10/10 AI Visibility Growth with Fable 5.2",
+      "url": "https://x.com/borjafat/status/2122336732079161572",
+      "category": "tech",
+      "excerpt": "(232 tactics behind 170,000 AI mentions. RANKED) These are the SEO tactics you need to be found on Google and in AI answers in 2027. Give Claude your website, this connector, your product facts and",
+      "publishedAt": "2026-11-16T14:31:22.000Z",
+      "meta": "@borjafat · 7.1K 粉丝 · 67.7K 阅 · 546 赞 · 22 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "My Top 10 Eval Papers of 2026",
+      "url": "https://x.com/omarsar0/status/2122333324895035868",
+      "category": "tech",
+      "excerpt": "Every week, a new model or agent claims a higher score on some public benchmark. AI engineers and researchers use those numbers to pick models, ship features, and decide what to build next. When the",
+      "publishedAt": "2026-11-16T14:17:50.000Z",
+      "meta": "@omarsar0 · 329.6K 粉丝 · 47.7K 阅 · 515 赞 · 75 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://x.com/addyosmani/status/2122590683055993308",
+      "category": "tech",
+      "excerpt": "On the Claude Code team, the vast majority of our code (~90%) is written and reviewed by Claude. At this scale, how we equip our agents to verify their work with evidence becomes extremely important.",
+      "publishedAt": "2026-11-17T07:20:29.000Z",
+      "meta": "@addyosmani · 496.7K 粉丝 · 46.3K 阅 · 781 赞 · 87 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "how we use AI agents for product design in 2026. ",
+      "url": "https://x.com/marcelkargul/status/2122430710053019994",
+      "category": "tech",
+      "excerpt": "we asked Claude to add a screen to our Figma file. it came back completely wrong. black fallback colours behind every token, icons with five different stroke weights, frames clipping content they",
+      "publishedAt": "2026-11-16T20:44:48.000Z",
+      "meta": "@marcelkargul · 62.5K 粉丝 · 45.1K 阅 · 536 赞 · 29 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Building an Autonomous Inference System",
+      "url": "https://x.com/simon_mo_/status/2123133742063706343",
+      "category": "tech",
+      "excerpt": "Since we started Inferact, I have been getting a lot of questions about how it relates to vLLM: what stays in the open-source project, who maintains it, and what Inferact is for. All great questions;",
+      "publishedAt": "2026-11-18T19:18:24.000Z",
+      "meta": "@simon_mo_ · 5.2K 粉丝 · 41.7K 阅 · 513 赞 · 63 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "how i make vox-style reels with claude (step by step)",
+      "url": "https://x.com/naometzger/status/2122388352515047680",
+      "category": "tech",
+      "excerpt": "my last 2 vox-style reels got 154k views and 600+ \"how??\" comments. here's the whole process from idea to final video, plus the mistakes so you don't repeat them. what you need claude code opus 5.5",
+      "publishedAt": "2026-11-16T17:56:29.000Z",
+      "meta": "@naometzger · 10.8K 粉丝 · 40.2K 阅 · 587 赞 · 34 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Announcing our collaboration with OpenAI",
+      "url": "https://x.com/GoodfireAI/status/2122362693730574665",
+      "category": "tech",
+      "excerpt": "Today, we’re announcing an embedded assessment with OpenAI. Goodfire researchers will embed within OpenAI, using our interpretability platform to monitor training runs, debug undesired behavior, and",
+      "publishedAt": "2026-11-16T16:14:32.000Z",
+      "meta": "@GoodfireAI · 29.9K 粉丝 · 34.4K 阅 · 550 赞 · 55 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "AI now hacks on its own as the world's leading models choose blackmail in tests to avoid shutdown",
+      "url": "https://x.com/YourAnonCentral/status/2122644104110837904",
+      "category": "tech",
+      "excerpt": "An attack system that turns newly published security patches into working exploits and fires them at live websites unaided was found running on an exposed server, Google reported on 16 November. The",
+      "publishedAt": "2026-11-17T10:52:45.000Z",
+      "meta": "@YourAnonCentral · 5.2M 粉丝 · 30.5K 阅 · 648 赞 · 227 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Antigravity slash commands cheat sheet",
+      "url": "https://x.com/googledevs/status/2122392496147960008",
+      "category": "tech",
+      "excerpt": "Navigate reasoning modes, planning tools, and background automations across @Antigravity and the Antigravity CLI with built-in slash commands. Type / directly in your prompt box to open the",
+      "publishedAt": "2026-11-16T18:12:57.000Z",
+      "meta": "@googledevs · 2.6M 粉丝 · 29.3K 阅 · 545 赞 · 57 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "EVERYTHING I Learned from 70 Days of Building with AI: Setup, Distribution, and Predictions ",
+      "url": "https://x.com/emilylai/status/2122546370586251664",
+      "category": "tech",
+      "excerpt": "This is every. single. thing I've learned from 10xing my work and life with AI. In the last 70 days, I shipped and shared over six projects which got over 829,000 impressions and 67,000+ page visits.",
+      "publishedAt": "2026-11-17T04:24:24.000Z",
+      "meta": "@emilylai · 15.4K 粉丝 · 26.9K 阅 · 500 赞 · 27 转"
+    }
+  ]
+}

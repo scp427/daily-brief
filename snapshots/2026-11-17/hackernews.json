@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "hackernews",
+  "fetchedAt": "2026-11-17T04:44:05.353Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 353,
+  "items": [
+    {
+      "sourceId": "hackernews",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "category": "tech",
+      "excerpt": "986 points · 151 comments",
+      "publishedAt": "2026-11-16T20:43:36.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "category": "tech",
+      "excerpt": "373 points · 236 comments",
+      "publishedAt": "2026-11-16T22:58:20.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "category": "tech",
+      "excerpt": "405 points · 197 comments",
+      "publishedAt": "2026-11-16T21:32:17.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "category": "tech",
+      "excerpt": "182 points · 92 comments",
+      "publishedAt": "2026-11-16T23:00:34.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "category": "tech",
+      "excerpt": "65 points · 27 comments",
+      "publishedAt": "2026-11-17T01:18:56.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "category": "tech",
+      "excerpt": "47 points · 20 comments",
+      "publishedAt": "2026-11-17T02:17:04.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "category": "tech",
+      "excerpt": "171 points · 76 comments",
+      "publishedAt": "2026-11-16T21:20:37.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "category": "tech",
+      "excerpt": "159 points · 79 comments",
+      "publishedAt": "2026-11-16T20:22:18.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "category": "tech",
+      "excerpt": "30 points · 34 comments",
+      "publishedAt": "2026-11-17T02:13:41.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "category": "tech",
+      "excerpt": "341 points · 239 comments",
+      "publishedAt": "2026-11-16T16:23:22.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "category": "tech",
+      "excerpt": "342 points · 77 comments",
+      "publishedAt": "2026-11-16T16:53:39.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "category": "tech",
+      "excerpt": "Hi HN! We’re Arsh and Max, founders of Axonnic (https:&#x2F;&#x2F;axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrou",
+      "publishedAt": "2026-11-16T20:29:48.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "category": "tech",
+      "excerpt": "84 points · 25 comments",
+      "publishedAt": "2026-11-14T15:07:48.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "category": "tech",
+      "excerpt": "93 points · 21 comments",
+      "publishedAt": "2026-11-16T22:19:23.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "category": "tech",
+      "excerpt": "243 points · 237 comments",
+      "publishedAt": "2026-11-16T17:27:46.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "category": "tech",
+      "excerpt": "90 points · 70 comments",
+      "publishedAt": "2026-11-16T20:48:08.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Why did modems have speakers? (2019)",
+      "url": "https://retrocomputing.stackexchange.com/questions/11765",
+      "category": "tech",
+      "excerpt": "11 points · 7 comments",
+      "publishedAt": "2026-11-15T21:27:29.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "category": "tech",
+      "excerpt": "33 points · 0 comments",
+      "publishedAt": "2026-11-17T00:16:24.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Do Repeat Yourself",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "category": "tech",
+      "excerpt": "51 points · 18 comments",
+      "publishedAt": "2026-11-16T12:06:46.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "category": "tech",
+      "excerpt": "80 points · 77 comments",
+      "publishedAt": "2026-11-16T21:47:19.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "category": "tech",
+      "excerpt": "738 points · 614 comments",
+      "publishedAt": "2026-11-16T18:31:30.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Atomic Nuked Veteran",
+      "url": "https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/",
+      "category": "tech",
+      "excerpt": "33 points · 6 comments",
+      "publishedAt": "2026-11-16T06:29:54.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "category": "tech",
+      "excerpt": "152 points · 45 comments",
+      "publishedAt": "2026-11-16T07:55:10.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "url": "https://github.com/0nelight/sutra-os",
+      "category": "tech",
+      "excerpt": "44 points · 21 comments",
+      "publishedAt": "2026-11-16T23:25:41.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "category": "tech",
+      "excerpt": "254 points · 184 comments",
+      "publishedAt": "2026-11-16T13:18:22.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "category": "tech",
+      "excerpt": "112 points · 45 comments",
+      "publishedAt": "2026-11-16T21:07:43.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Rust changed me as a developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "category": "tech",
+      "excerpt": "219 points · 140 comments",
+      "publishedAt": "2026-11-16T20:16:50.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "category": "tech",
+      "excerpt": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50524260",
+      "publishedAt": "2026-11-16T22:14:38.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+      "category": "tech",
+      "excerpt": "74 points · 22 comments",
+      "publishedAt": "2026-11-17T00:23:21.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Aristotle Expands into Rust",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "category": "tech",
+      "excerpt": "111 points · 60 comments",
+      "publishedAt": "2026-11-16T17:34:41.000Z"
+    }
+  ]
+}

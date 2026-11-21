@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "marketwatch-top",
+  "fetchedAt": "2026-11-19T03:47:54.104Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 102,
+  "items": [
+    {
+      "sourceId": "marketwatch-top",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "publishedAt": "2026-11-19T03:45:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "publishedAt": "2026-11-19T03:45:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "publishedAt": "2026-11-19T03:30:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+      "publishedAt": "2026-11-19T01:02:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+      "publishedAt": "2026-11-19T00:30:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+      "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "The negative chart pattern confirms weakness in the Russell 2000 and in overall market breadth.",
+      "publishedAt": "2026-11-18T23:12:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "How copper’s plunge could hurt the AI buildout",
+      "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+      "publishedAt": "2026-11-18T23:02:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
+      "publishedAt": "2026-11-18T22:53:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+      "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+      "publishedAt": "2026-11-18T22:31:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "publishedAt": "2026-11-18T22:00:00.000Z"
+    }
+  ]
+}

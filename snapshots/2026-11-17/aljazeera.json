@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "aljazeera",
+  "fetchedAt": "2026-11-17T04:44:07.092Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 117,
+  "items": [
+    {
+      "sourceId": "aljazeera",
+      "title": "Gunfire erupts in occupied West Bank settler attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+      "publishedAt": "2026-11-17T04:00:08.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+      "publishedAt": "2026-11-17T03:12:54.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+      "publishedAt": "2026-11-17T02:52:56.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+      "publishedAt": "2026-11-17T01:38:13.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+      "publishedAt": "2026-11-17T01:19:56.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+      "publishedAt": "2026-11-17T01:12:28.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+      "publishedAt": "2026-11-17T00:45:11.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "UK seeks closer ties with EU after Brexit fail",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+      "publishedAt": "2026-11-17T00:30:21.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+      "publishedAt": "2026-11-17T00:21:19.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran.",
+      "publishedAt": "2026-11-16T23:57:49.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+      "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+      "publishedAt": "2026-11-16T23:44:32.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Trump departs for ASEAN on summit with Xi and Putin",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+      "publishedAt": "2026-11-16T23:42:03.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "EU agrees to resurrect cooperation deal with Syria",
+      "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+      "publishedAt": "2026-11-16T23:00:36.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+      "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+      "publishedAt": "2026-11-16T22:40:07.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Germany thrash Netherlands to book quarterfinal spot",
+      "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
+      "publishedAt": "2026-11-16T22:04:31.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+      "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
+      "publishedAt": "2026-11-16T21:35:51.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
+      "publishedAt": "2026-11-16T21:16:02.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+      "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+      "publishedAt": "2026-11-16T21:06:19.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Manchester United’s Endless Loop",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
+      "publishedAt": "2026-11-16T21:00:22.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+      "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
+      "publishedAt": "2026-11-16T20:42:18.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "London Palestine Film Festival returns for 27th year",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+      "publishedAt": "2026-11-16T20:36:25.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
+      "publishedAt": "2026-11-16T20:20:02.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "What will Europe do next in Ukraine?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "publishedAt": "2026-11-16T20:12:21.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+      "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+      "publishedAt": "2026-11-16T20:05:06.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+      "publishedAt": "2026-11-16T20:00:07.000Z"
+    }
+  ]
+}

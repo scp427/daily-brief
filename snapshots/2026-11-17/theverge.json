@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "theverge",
+  "fetchedAt": "2026-11-17T04:44:06.280Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 224,
+  "items": [
+    {
+      "sourceId": "theverge",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "category": "tech",
+      "excerpt": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, a",
+      "publishedAt": "2026-11-16T23:35:58.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "category": "tech",
+      "excerpt": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result",
+      "publishedAt": "2026-11-16T23:17:34.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "category": "tech",
+      "excerpt": "United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Ai",
+      "publishedAt": "2026-11-16T22:54:59.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "category": "tech",
+      "excerpt": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed in",
+      "publishedAt": "2026-11-16T21:41:57.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "category": "tech",
+      "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ",
+      "publishedAt": "2026-11-16T20:46:01.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "category": "tech",
+      "excerpt": "Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the ",
+      "publishedAt": "2026-11-16T20:41:28.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "category": "tech",
+      "excerpt": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your",
+      "publishedAt": "2026-11-16T20:36:14.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "category": "tech",
+      "excerpt": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output from the plant. | Image: Getty Images Constellation Energy - America's largest operator of nuclear po",
+      "publishedAt": "2026-11-16T20:29:37.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "category": "tech",
+      "excerpt": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. ",
+      "publishedAt": "2026-11-16T20:27:58.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "category": "tech",
+      "excerpt": "The Apple Watch Series 12 is on sale in multiple configurations. | Photo: Amelia Holowaty Krales / The Verge If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connect",
+      "publishedAt": "2026-11-16T19:50:47.000Z"
+    }
+  ]
+}

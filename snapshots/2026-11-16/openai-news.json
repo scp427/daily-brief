@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "openai-news",
+  "fetchedAt": "2026-11-16T15:22:17.708Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 191,
+  "items": [
+    {
+      "sourceId": "openai-news",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "category": "tech",
+      "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "publishedAt": "2026-11-16T09:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "category": "tech",
+      "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "publishedAt": "2026-11-16T06:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "category": "tech",
+      "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "publishedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "tech",
+      "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "publishedAt": "2026-11-15T22:00:01.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "category": "tech",
+      "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "publishedAt": "2026-11-15T22:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "tech",
+      "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "publishedAt": "2026-11-13T15:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "category": "tech",
+      "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "publishedAt": "2026-11-13T08:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "category": "tech",
+      "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "publishedAt": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "category": "tech",
+      "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "publishedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "category": "tech",
+      "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "publishedAt": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "category": "tech",
+      "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "category": "tech",
+      "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "category": "tech",
+      "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "publishedAt": "2026-11-11T08:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "category": "tech",
+      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "publishedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "category": "tech",
+      "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "publishedAt": "2026-11-10T12:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "category": "tech",
+      "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "publishedAt": "2026-11-10T10:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "tech",
+      "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "publishedAt": "2026-11-10T09:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "category": "tech",
+      "excerpt": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "publishedAt": "2026-11-10T08:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "category": "tech",
+      "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "publishedAt": "2026-11-10T07:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "category": "tech",
+      "excerpt": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "category": "tech",
+      "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "publishedAt": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "category": "tech",
+      "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "publishedAt": "2026-11-09T13:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "category": "tech",
+      "excerpt": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "category": "tech",
+      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "publishedAt": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "category": "tech",
+      "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "publishedAt": "2026-11-06T08:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "tech",
+      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "publishedAt": "2026-11-06T00:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "category": "tech",
+      "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "publishedAt": "2026-11-05T17:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "category": "tech",
+      "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "publishedAt": "2026-11-05T20:00:00.000Z"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "category": "tech",
+      "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "publishedAt": "2026-11-05T09:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-21T03:25:18.484Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 30,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "category": "tech",
+      "excerpt": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "publishedAt": "2026-11-20T22:28:24.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "category": "tech",
+      "excerpt": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "publishedAt": "2026-11-20T22:16:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "category": "tech",
+      "excerpt": "Google search is making it even easier to access AI tools on the search page.",
+      "publishedAt": "2026-11-20T21:58:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "category": "tech",
+      "excerpt": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "publishedAt": "2026-11-20T21:47:10.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "category": "tech",
+      "excerpt": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "publishedAt": "2026-11-20T20:59:08.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "category": "tech",
+      "excerpt": "A recent brightening turned out to be from a star orbiting inside another.",
+      "publishedAt": "2026-11-20T20:41:17.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "category": "tech",
+      "excerpt": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "publishedAt": "2026-11-20T20:26:33.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "category": "tech",
+      "excerpt": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "publishedAt": "2026-11-20T19:52:59.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "category": "tech",
+      "excerpt": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+      "publishedAt": "2026-11-20T19:21:50.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "category": "tech",
+      "excerpt": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "publishedAt": "2026-11-20T16:11:21.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "category": "tech",
+      "excerpt": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "publishedAt": "2026-11-20T14:52:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "category": "tech",
+      "excerpt": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "publishedAt": "2026-11-20T14:15:21.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "category": "tech",
+      "excerpt": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "publishedAt": "2026-11-20T13:35:45.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "category": "tech",
+      "excerpt": "Gambling? We're just swapping contracts!",
+      "publishedAt": "2026-11-20T12:30:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "category": "tech",
+      "excerpt": "Your support for Ars matters more now than ever.",
+      "publishedAt": "2026-11-20T12:15:36.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "category": "tech",
+      "excerpt": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "publishedAt": "2026-11-20T12:00:43.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "category": "tech",
+      "excerpt": "Amazon now uses its shopping platform for political purposes.",
+      "publishedAt": "2026-11-19T22:16:37.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "category": "tech",
+      "excerpt": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "publishedAt": "2026-11-19T21:19:12.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "category": "tech",
+      "excerpt": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "publishedAt": "2026-11-19T20:29:46.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "category": "tech",
+      "excerpt": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "publishedAt": "2026-11-19T20:19:28.000Z"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-18T03:48:51.725Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 163,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "publishedAt": "2026-11-17T23:02:12.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "publishedAt": "2026-11-17T22:46:30.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Burnham to set out options next month for long-term EU relationship",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The prime minister says he will set out options for the future \"alongside\" his 10-year economic plan.",
+      "publishedAt": "2026-11-17T23:40:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
+      "publishedAt": "2026-11-18T00:39:06.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "publishedAt": "2026-11-17T18:43:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
+      "url": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The pair arrived at the ceremony where five £1m prizes were awarded to projects aimed at solving climate challenges.",
+      "publishedAt": "2026-11-17T21:15:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+      "publishedAt": "2026-11-18T02:00:37.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent outages affecting Microsoft, banks and flights are connected.",
+      "publishedAt": "2026-11-18T02:15:19.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "publishedAt": "2026-11-18T03:07:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Home secretary plans to tackle 'perception of two-tier policing'",
+      "url": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Shabana Mahmood will announce stronger guidance on police impartiality.",
+      "publishedAt": "2026-11-17T22:31:32.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "publishedAt": "2026-11-18T02:40:45.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
+      "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+      "publishedAt": "2026-11-17T22:51:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "publishedAt": "2026-11-17T15:56:04.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The government-backed report says its recommendations could help 440,000 young people into work by 2036.",
+      "publishedAt": "2026-11-17T14:43:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "At a glance: Key proposals from Milburn's Neets report",
+      "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A major review proposes widespread changes to help get young people into work across the UK.",
+      "publishedAt": "2026-11-17T11:31:40.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "How the attack on Putin's prized Crimean Bridge unfolded",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+      "publishedAt": "2026-11-17T15:38:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Watch: Eruption at California landfill sends black substance spewing into the air",
+      "url": "https://www.bbc.co.uk/news/videos/cm782w62v8qdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A drilling operation at the Chiquita Canyon Landfill triggered a large release of gas and decomposing waste that neighbours are voicing concerns over.",
+      "publishedAt": "2026-11-18T00:18:51.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+      "publishedAt": "2026-11-17T17:57:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The Papers:  'Over-25s next in line' and 'Clean for Colleen'",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The possible implications of a major review into youth inactivity leads a number of Wednesday's papers.",
+      "publishedAt": "2026-11-18T02:10:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+      "url": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Gamers can hardly contain their excitement as the release of Grand Theft Auto 6 approaches, ending a 13-year wait and fuelling extraordinary anticipation.",
+      "publishedAt": "2026-11-17T16:38:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Voy at-home test kit adverts banned over low testosterone claims",
+      "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+      "publishedAt": "2026-11-18T01:11:07.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Is there any more snow on the way for England and Scotland?",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvg2p9qlkz9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "After snow fell across northern England and southern Scotland on Tuesday, is there more on the way?",
+      "publishedAt": "2026-11-18T01:13:16.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Largest British study to check social media ban's effect on youth mental health",
+      "url": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Ten different research teams will look at how well teenagers are coping without social media.",
+      "publishedAt": "2026-11-18T00:49:31.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "publishedAt": "2026-11-18T00:44:48.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "publishedAt": "2026-11-17T22:44:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+      "publishedAt": "2026-11-18T02:29:52.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "publishedAt": "2026-11-18T01:18:18.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Can Milburn's Neets Report Help Britain's 'Lost Generation'?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn991s?at_mid=HRXOiJv79e&at_campaign=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Can_Milburns_Neets_Report_Help_Britains_Lost_Generation_news_rail&at_bbc_team=BBC&at_creation=News",
+      "category": "society",
+      "excerpt": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm.",
+      "publishedAt": "2026-10-25T00:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+      "publishedAt": "2026-11-17T23:49:31.000Z"
+    }
+  ]
+}

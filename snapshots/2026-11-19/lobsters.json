@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-19T03:47:52.318Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 357,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+      "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
+      "category": "tech",
+      "excerpt": "Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to /etc/hosts: 217.197.84.140 codeberg.org Update: it's now up again, and the above workaround is not necessary. Comments",
+      "publishedAt": "2026-11-18T08:51:09.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "nginx2root",
+      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T15:28:56.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Java4Shell is a reason to use Java",
+      "url": "https://mccue.dev/pages/11-18-26-java4shell",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T14:21:42.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Windows 11 collects data on which coding agents and dev tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T11:57:46.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Upcoming Critical PHP Security Release (18 Nov 2026)",
+      "url": "https://www.php.net/index.php#2026-11-18-1",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T19:44:06.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How I made a custom game engine for Satelital",
+      "url": "https://spectralorbit.com/blog/satelital_game_engine",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T16:39:00.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "The Magic of Partial Evaluation",
+      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T17:30:14.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T11:21:43.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T17:52:22.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Stricter checks for uploaded distributions on PyPI",
+      "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T20:00:42.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Security advisories: multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T01:26:37.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Java4Shell: Write once, RCE everywhere",
+      "url": "https://calif.io/java4shell/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T21:16:11.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Actual curl rewrites in rust",
+      "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T13:37:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "FreeBSD GUS",
+      "url": "https://gregoire.dev/writing/gus/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T02:54:59.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "sysdeck: Raycast for Linux & BSD",
+      "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T23:26:59.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Stacked diffs with Maiao",
+      "url": "https://entropicthoughts.com/stacked-diffs-with-maiao",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T06:43:30.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T21:15:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Incidents in the news",
+      "url": "https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T01:45:23.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "markdownWeb",
+      "url": "https://demo.bonbonweb.org/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T17:35:19.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "For the things we can only do together - Bonfire 1.1 Release",
+      "url": "https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T14:58:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Accelerating development for massive Git repositories",
+      "url": "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T16:00:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Faster CI with Orchestrated Pytest Workers",
+      "url": "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T18:13:35.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T17:40:32.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Why Fibonacci?",
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-18T18:28:22.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Sarasa Gothic Mono",
+      "url": "https://picaq.github.io/sarasa",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-17T18:47:39.000Z"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-20T03:41:01.635Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 266,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "category": "politics",
+      "excerpt": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+      "publishedAt": "2026-11-20T01:37:19.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "category": "politics",
+      "excerpt": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+      "publishedAt": "2026-11-20T00:51:01.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+      "category": "politics",
+      "excerpt": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+      "publishedAt": "2026-11-20T02:02:53.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "category": "politics",
+      "excerpt": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+      "publishedAt": "2026-11-19T16:51:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+      "category": "politics",
+      "excerpt": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
+      "publishedAt": "2026-11-19T21:17:13.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T13:50:11.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Rohingya Crisis Over the Years",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
+      "category": "politics",
+      "excerpt": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.",
+      "publishedAt": "2026-11-19T16:27:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+      "category": "politics",
+      "excerpt": "President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.",
+      "publishedAt": "2026-11-19T12:41:50.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+      "category": "politics",
+      "excerpt": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+      "publishedAt": "2026-11-19T18:47:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Greenland Pulls Closer to the U.S. — by an Hour",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+      "category": "politics",
+      "excerpt": "Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.",
+      "publishedAt": "2026-11-19T16:14:06.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+      "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+      "category": "politics",
+      "excerpt": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.",
+      "publishedAt": "2026-11-19T18:55:36.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "category": "politics",
+      "excerpt": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court found that Myanmar was culpable for the atrocities.",
+      "publishedAt": "2026-11-19T15:40:39.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Colombia’s President Is Acquiring a Reputation for Courting Controversy",
+      "url": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+      "category": "politics",
+      "excerpt": "Colombia’s new leader, Abelardo De La Espriella, presents himself as a warrior against criminal groups and woke culture, and courts controversy at every turn.",
+      "publishedAt": "2026-11-19T10:03:10.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Unexpected Fallout From the Iran War",
+      "url": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
+      "category": "politics",
+      "excerpt": "Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds.",
+      "publishedAt": "2026-11-19T21:40:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Love and Carjackings in a Video Game",
+      "url": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
+      "category": "politics",
+      "excerpt": "Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”",
+      "publishedAt": "2026-11-19T20:57:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "category": "politics",
+      "excerpt": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+      "publishedAt": "2026-11-19T21:05:59.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "category": "politics",
+      "excerpt": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+      "publishedAt": "2026-11-20T02:10:57.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+      "category": "politics",
+      "excerpt": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.",
+      "publishedAt": "2026-11-19T17:05:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "category": "politics",
+      "excerpt": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.",
+      "publishedAt": "2026-11-19T17:25:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
+      "category": "politics",
+      "excerpt": "People gathered in the rain to hear the ruling on whether Myanmar had committed genocide, though they understood it might not change their lives anytime soon.",
+      "publishedAt": "2026-11-19T16:07:50.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T15:08:16.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+      "category": "politics",
+      "excerpt": "After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.",
+      "publishedAt": "2026-11-19T14:23:07.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Inside a Rohingya Camp After a Genocide Ruling",
+      "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+      "category": "politics",
+      "excerpt": "On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to a",
+      "publishedAt": "2026-11-19T16:10:44.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Some leaders flew private to the APEC summit, but not Mexico’s president.",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
+      "category": "politics",
+      "excerpt": "President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.",
+      "publishedAt": "2026-11-19T18:48:51.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+      "category": "politics",
+      "excerpt": "The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.",
+      "publishedAt": "2026-11-19T12:08:19.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T10:41:37.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T10:17:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "category": "politics",
+      "excerpt": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+      "publishedAt": "2026-11-19T10:02:50.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Aung San Suu Kyi did not condemn the pogroms against the Rohingya.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T09:07:24.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
+      "category": "politics",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T08:39:44.000Z"
+    }
+  ]
+}

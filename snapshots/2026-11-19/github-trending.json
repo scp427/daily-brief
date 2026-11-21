@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "github-trending",
+  "fetchedAt": "2026-11-19T03:47:54.619Z",
+  "ok": true,
+  "itemCount": 19,
+  "durationMs": 2843,
+  "items": [
+    {
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "category": "tech",
+      "excerpt": "Cursor plugin specification and official plugins",
+      "meta": "TypeScript · ★ 17,276 · 🍴 1,907 · 📈 314 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "category": "tech",
+      "excerpt": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "meta": "Python · ★ 59,887 · 🍴 5,436 · 📈 389 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "category": "tech",
+      "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "meta": "Python · ★ 70,149 · 🍴 6,251 · 📈 1,059 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "category": "tech",
+      "excerpt": "Modern Docker Management, Designed for Everyone",
+      "meta": "Go · ★ 9,877 · 🍴 568 · 📈 547 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "category": "tech",
+      "excerpt": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "meta": "Python · ★ 3,805 · 🍴 522 · 📈 312 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "category": "tech",
+      "excerpt": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "meta": "Shell · ★ 96,166 · 🍴 10,781 · 📈 237 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "category": "tech",
+      "excerpt": "An extremely fast Python package and project manager, written in Rust.",
+      "meta": "Rust · ★ 92,269 · 🍴 3,924 · 📈 258 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "category": "tech",
+      "excerpt": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "meta": "Python · ★ 4,413 · 🍴 545 · 📈 1,524 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "category": "tech",
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "meta": "TypeScript · ★ 10,452 · 🍴 1,370 · 📈 365 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "category": "tech",
+      "excerpt": "web development for the rest of us",
+      "meta": "JavaScript · ★ 89,651 · 🍴 6,208 · 📈 692 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery",
+      "category": "tech",
+      "excerpt": "jQuery JavaScript Library",
+      "meta": "JavaScript · ★ 60,028 · 🍴 20,709 · 📈 266 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "category": "tech",
+      "excerpt": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "meta": "TypeScript · ★ 58,262 · 🍴 5,884 · 📈 232 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "category": "tech",
+      "excerpt": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "meta": "C++ · ★ 11,366 · 🍴 3,604 · 📈 24 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "category": "tech",
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "meta": "Shell · ★ 321,410 · 🍴 28,567 · 📈 822 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "tech",
+      "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "meta": "JavaScript · ★ 306,639 · 🍴 45,144 · 📈 1,108 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "category": "tech",
+      "excerpt": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "meta": "JavaScript · ★ 8,099 · 🍴 990 · 📈 218 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "category": "tech",
+      "excerpt": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "meta": "TypeScript · ★ 211,162 · 🍴 61,572 · 📈 325 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "solidjs/solid",
+      "url": "https://github.com/solidjs/solid",
+      "category": "tech",
+      "excerpt": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "meta": "TypeScript · ★ 36,629 · 🍴 1,185 · 📈 40 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "category": "tech",
+      "excerpt": "A collection of MCP servers.",
+      "meta": "★ 98,090 · 🍴 20,363 · 📈 53 stars today"
+    }
+  ]
+}

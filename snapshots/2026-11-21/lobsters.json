@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-21T03:25:18.066Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 223,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Levent Alpoge Claims Proof of Riemann Hypothesis",
+      "url": "https://alpo.ge/remark.pdf",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T14:46:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Vim Classic 8.3.1 released",
+      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T10:02:03.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Announcing jj-musubi: live sync for Jujutsu",
+      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T09:39:11.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Removing binder.c",
+      "url": "https://lwn.net/Articles/1102982/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T10:33:36.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Internet Archive Staffers Are Unionizing",
+      "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T18:39:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Alice v0.6.0",
+      "url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T16:44:09.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Visited links are purple",
+      "url": "https://dbushell.com/2026/11/16/visited-links/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T09:58:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T02:41:39.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T11:14:06.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend",
+      "category": "tech",
+      "excerpt": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback. Please keep in mind it’s more than OK to do nothing at all too!",
+      "publishedAt": "2026-11-20T10:05:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T03:34:36.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Design for Understandability",
+      "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:07:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Lisp Game Jam devlog: Polydraw",
+      "url": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T11:18:47.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "PostgreSQL 19 Released",
+      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T15:12:08.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Verifying formal models of Raft implementations",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T21:54:45.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "We Need Smart People Who Give a Shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:28:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Slopstrap: Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/l",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T00:46:40.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "DNS Stamps Specification",
+      "url": "https://dnscrypt.info/stamps-specifications/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T00:16:57.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Farcall, a terminal-ready Rust PC+DOS emulator",
+      "url": "https://www.dialup.net/farcall/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T02:12:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Mutex poisoning is not for everyone",
+      "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:01:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "15 million web servers on one VM - smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T13:38:19.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Persistent incrementality in Rust",
+      "url": "https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T04:16:34.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T19:50:25.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Supporting FOSS projects to transition to memory safe tech",
+      "url": "https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-19T18:39:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Hiring a Systems Programmer for Boxem",
+      "url": "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem",
+      "category": "tech",
+      "excerpt": "Handmade Cities has a job referral program, where engineers and employers reach out about open roles. (It's a free community service, so I'm not getting paid.) I'm cross-posting an unusually good opportunity from Boxem, who are writing fast shipping software and are very keen to hire a veteran C pro",
+      "publishedAt": "2026-11-19T16:45:34.000Z"
+    }
+  ]
+}

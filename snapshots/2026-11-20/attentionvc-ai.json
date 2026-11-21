@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-20T03:41:00.317Z",
+  "ok": true,
+  "itemCount": 12,
+  "durationMs": 431,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Automate Anything with Grok Bot",
+      "url": "https://x.com/poteto/status/2123159537016533493",
+      "category": "tech",
+      "excerpt": "Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
+      "publishedAt": "2026-11-18T21:00:54.000Z",
+      "meta": "@poteto · 310.4K 粉丝 · 310.9K 阅 · 2.4K 赞 · 197 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Why I hate GPT-6.2 Astra",
+      "url": "https://x.com/theo/status/2122760447103484410",
+      "category": "tech",
+      "excerpt": "During early testing, I found myself so frustrated with this model that I spent a day writing a letter to OpenAI about it. They fixed a small handful of my complaints, but not enough for me to",
+      "publishedAt": "2026-11-17T18:35:04.000Z",
+      "meta": "@theo · 430.0K 粉丝 · 154.5K 阅 · 2.3K 赞 · 93 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How I got 3M views with AI slideshows and Fable 5.2",
+      "url": "https://x.com/Inomsxbt/status/2122676987420623080",
+      "category": "tech",
+      "excerpt": "By the end of this guide you will have one finished 6-slide AI UGC slideshow, five variations of it and a full week of posts scheduled. It is a method you can repeat on any app or product, on any",
+      "publishedAt": "2026-11-17T13:03:25.000Z",
+      "meta": "@Inomsxbt · 122.5K 粉丝 · 114.1K 阅 · 503 赞 · 17 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "5 agent orchestration patterns backed by research",
+      "url": "https://x.com/googlecloud/status/2123428849262248255",
+      "category": "tech",
+      "excerpt": "A lot of developers run teams of agents and agent orchestration by vibe, but is it actually effective? In this article, I'll introduce five research-backed patterns for running agent teams in",
+      "publishedAt": "2026-11-19T14:51:03.000Z",
+      "meta": "@googlecloud · 579.1K 粉丝 · 70.6K 阅 · 898 赞 · 91 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://x.com/addyosmani/status/2122590683055993308",
+      "category": "tech",
+      "excerpt": "On the Claude Code team, the vast majority of our code (~90%) is written and reviewed by Claude. At this scale, how we equip our agents to verify their work with evidence becomes extremely important.",
+      "publishedAt": "2026-11-17T07:20:29.000Z",
+      "meta": "@addyosmani · 496.7K 粉丝 · 46.3K 阅 · 781 赞 · 87 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Building an Autonomous Inference System",
+      "url": "https://x.com/simon_mo_/status/2123133742063706343",
+      "category": "tech",
+      "excerpt": "Since we started Inferact, I have been getting a lot of questions about how it relates to vLLM: what stays in the open-source project, who maintains it, and what Inferact is for. All great questions;",
+      "publishedAt": "2026-11-18T19:18:24.000Z",
+      "meta": "@simon_mo_ · 5.2K 粉丝 · 41.7K 阅 · 513 赞 · 63 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "On the Christiano/Dwarkesh podcast",
+      "url": "https://x.com/sebkrier/status/2123015473507733777",
+      "category": "tech",
+      "excerpt": "Some early takes on the Dwarkesh/Christiano interview: As people know from my views of ‘RSI’ (which I think is a bad initialism, and should instead be understood as ‘model training pipeline",
+      "publishedAt": "2026-11-18T11:28:27.000Z",
+      "meta": "@sebkrier · 31.8K 粉丝 · 35.3K 阅 · 503 赞 · 61 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://x.com/GoogleAIStudio/status/2123489911684866251",
+      "category": "tech",
+      "excerpt": "Tool Retrieval is now in preview in the Gemini Interactions API. Load tool parameter schemas on demand instead of sending your full tool library in every prompt, designed to reduce input tokens and",
+      "publishedAt": "2026-11-19T18:53:42.000Z",
+      "meta": "@GoogleAIStudio · 221.4K 粉丝 · 34.4K 阅 · 514 赞 · 38 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "AI now hacks on its own as the world's leading models choose blackmail in tests to avoid shutdown",
+      "url": "https://x.com/YourAnonCentral/status/2122644104110837904",
+      "category": "tech",
+      "excerpt": "An attack system that turns newly published security patches into working exploits and fires them at live websites unaided was found running on an exposed server, Google reported on 16 November. The",
+      "publishedAt": "2026-11-17T10:52:45.000Z",
+      "meta": "@YourAnonCentral · 5.2M 粉丝 · 30.5K 阅 · 648 赞 · 227 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "EVERYTHING I Learned from 70 Days of Building with AI: Setup, Distribution, and Predictions ",
+      "url": "https://x.com/emilylai/status/2122546370586251664",
+      "category": "tech",
+      "excerpt": "This is every. single. thing I've learned from 10xing my work and life with AI. In the last 70 days, I shipped and shared over six projects which got over 829,000 impressions and 67,000+ page visits.",
+      "publishedAt": "2026-11-17T04:24:24.000Z",
+      "meta": "@emilylai · 15.4K 粉丝 · 26.9K 阅 · 500 赞 · 27 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://x.com/GoogleAIStudio/status/2123178116604416115",
+      "category": "tech",
+      "excerpt": "Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Today, we’re introducing Gemini 4 Neon — bringing",
+      "publishedAt": "2026-11-18T22:14:44.000Z",
+      "meta": "@GoogleAIStudio · 221.4K 粉丝 · 16.2K 阅 · 511 赞 · 45 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "The Dawn of the Human–Agent Society: From Human-Like Digital Agents to Physical Agents",
+      "url": "https://x.com/AidenChaoyangHe/status/2123430903733231648",
+      "category": "tech",
+      "excerpt": "Today, we're unveiling Teamily Video Agent and AI Glasses, giving AI agents eyes and ears to see, hear, understand, and interact with the physical world in real time. The same agent. The same",
+      "publishedAt": "2026-11-19T14:59:13.000Z",
+      "meta": "@AidenChaoyangHe · 3.8K 粉丝 · 3.5K 阅 · 548 赞 · 41 转"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "simonwillison",
+  "fetchedAt": "2026-11-21T03:25:18.534Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 50,
+  "items": [
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T19:21:49.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T16:30:48.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T02:49:57.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "PostgreSQL 19 Released",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T20:43:57.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T23:59:20.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T17:09:59.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T15:58:27.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T14:44:48.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T22:52:29.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T22:38:52.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T16:48:33.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Go Proverbs",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T06:16:26.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-16T23:57:26.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-15T23:58:36.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-15T23:20:27.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-15T23:18:17.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-15T04:02:45.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-agent 0.6a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-15T03:49:47.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-14T23:59:28.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-14T17:09:09.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-13T23:02:45.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-13T22:30:54.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-12T22:55:19.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T22:03:25.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T21:18:30.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Browse tools.simonwillison.net by tag",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T18:42:50.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T17:19:52.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T15:11:59.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-10T20:09:44.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-10T07:28:21.000Z"
+    }
+  ]
+}

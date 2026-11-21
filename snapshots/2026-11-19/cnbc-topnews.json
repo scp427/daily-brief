@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-19T03:47:53.662Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 182,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "category": "finance",
+      "excerpt": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+      "publishedAt": "2026-11-19T01:13:20.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "category": "finance",
+      "excerpt": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+      "publishedAt": "2026-11-19T02:49:35.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "category": "finance",
+      "excerpt": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+      "publishedAt": "2026-11-18T23:45:50.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+      "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "category": "finance",
+      "excerpt": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
+      "publishedAt": "2026-11-19T03:43:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+      "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+      "category": "finance",
+      "excerpt": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+      "publishedAt": "2026-11-19T00:07:06.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "category": "finance",
+      "excerpt": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+      "publishedAt": "2026-11-19T00:08:14.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+      "url": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+      "category": "finance",
+      "excerpt": "The FDA's unprecedented criminal case against an alternative funding program hinged on the cooperation of a peer CEO, according to a court record.",
+      "publishedAt": "2026-11-18T21:07:14.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "category": "finance",
+      "excerpt": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "publishedAt": "2026-11-18T19:41:59.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "category": "finance",
+      "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+      "publishedAt": "2026-11-18T19:47:05.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
+      "category": "finance",
+      "excerpt": "The congressional probe is among the first to be announced since the blue-wave midterm that will deliver Democrats control of the House and Senate come January.",
+      "publishedAt": "2026-11-18T09:45:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+      "category": "finance",
+      "excerpt": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+      "publishedAt": "2026-11-18T23:38:55.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+      "category": "finance",
+      "excerpt": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
+      "publishedAt": "2026-11-18T22:37:00.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Investigators make progress in hunt for cause of FAA ground stop",
+      "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+      "category": "finance",
+      "excerpt": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
+      "publishedAt": "2026-11-18T18:13:25.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+      "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+      "category": "finance",
+      "excerpt": "The ASEAN summit in the Philippines failed to conclude the Code of Conduct for the South China Sea despite Manila pledging it would happen this year.",
+      "publishedAt": "2026-11-19T00:31:00.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "category": "finance",
+      "excerpt": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "publishedAt": "2026-11-18T19:17:27.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Why Anthropic's hot IPO is bringing out sellers — plus, a silver lining of the down market",
+      "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+      "category": "finance",
+      "excerpt": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "publishedAt": "2026-11-18T19:46:12.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+      "category": "finance",
+      "excerpt": "India’s inflation, which has been on the rise for 12 straight months, is becoming a risk to growth and to the reversal of foreign inflows.",
+      "publishedAt": "2026-11-19T00:01:23.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "category": "finance",
+      "excerpt": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+      "publishedAt": "2026-11-18T15:13:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Is Apple the safe haven investors think it is? Here's a way to trade it with less risk",
+      "url": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
+      "category": "finance",
+      "excerpt": "Traders have flocked to Apple's perceived safety in the wake of Nvidia's scandal. It may not be so safe, says Mike Khouw",
+      "publishedAt": "2026-11-18T18:10:21.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
+      "category": "finance",
+      "excerpt": "Interim CEO Kress sat down with CNBC’s Jim Cramer Tuesday evening shortly after the AI chip giant delivered a quarterly beat and strong guidance.",
+      "publishedAt": "2026-11-18T18:14:42.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+      "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+      "category": "finance",
+      "excerpt": "Ford has started U.S. production and shipments of battery cells for its next-generation EVs using technologies licensed by Chinese battery giant CATL.",
+      "publishedAt": "2026-11-18T17:02:53.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Two new housing reports point to bleak winter ahead, with record low sales",
+      "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+      "category": "finance",
+      "excerpt": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers.",
+      "publishedAt": "2026-11-18T15:09:45.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "category": "finance",
+      "excerpt": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+      "publishedAt": "2026-11-18T16:33:14.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+      "category": "finance",
+      "excerpt": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
+      "publishedAt": "2026-11-18T18:11:41.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+      "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+      "category": "finance",
+      "excerpt": "Jeffries will still need to win a floor vote in January to officially become House speaker.",
+      "publishedAt": "2026-11-18T18:32:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+      "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "category": "finance",
+      "excerpt": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+      "publishedAt": "2026-11-18T17:56:50.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
+      "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+      "category": "finance",
+      "excerpt": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+, vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
+      "publishedAt": "2026-11-18T14:02:52.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+      "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+      "category": "finance",
+      "excerpt": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment.",
+      "publishedAt": "2026-11-18T03:15:00.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "category": "finance",
+      "excerpt": "Nvidia's earnings come at a tumultuous time for the company.",
+      "publishedAt": "2026-11-18T21:06:49.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+      "category": "finance",
+      "excerpt": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+      "publishedAt": "2026-11-18T17:50:37.000Z"
+    }
+  ]
+}

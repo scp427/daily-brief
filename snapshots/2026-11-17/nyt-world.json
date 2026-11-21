@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-17T04:44:06.959Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 100,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
+      "category": "politics",
+      "excerpt": "The onetime foreign minister, Karin Kneissl, has lauded her new home for its “genuine freedom” and used it as a perch to attack her old one.",
+      "publishedAt": "2026-11-16T20:29:22.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+      "url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+      "category": "politics",
+      "excerpt": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+      "publishedAt": "2026-11-16T17:24:04.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "10 Numbers That Might Change How You See Asia",
+      "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+      "category": "politics",
+      "excerpt": "From semiconductor dominance to new power grids, defense deals and K-pop, the region — beyond China — is becoming increasingly interconnected and self-reliant.",
+      "publishedAt": "2026-11-16T22:14:10.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+      "category": "politics",
+      "excerpt": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
+      "publishedAt": "2026-11-17T01:09:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+      "category": "politics",
+      "excerpt": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
+      "publishedAt": "2026-11-16T17:36:21.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+      "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+      "category": "politics",
+      "excerpt": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+      "publishedAt": "2026-11-16T18:58:10.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+      "category": "politics",
+      "excerpt": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
+      "publishedAt": "2026-11-16T14:47:46.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+      "category": "politics",
+      "excerpt": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
+      "publishedAt": "2026-11-16T19:43:54.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+      "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+      "category": "politics",
+      "excerpt": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
+      "publishedAt": "2026-11-16T21:42:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
+      "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
+      "category": "politics",
+      "excerpt": "The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.",
+      "publishedAt": "2026-11-16T11:51:32.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "They Defeated a Strongman. But Can They Run a Country?",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+      "category": "politics",
+      "excerpt": "Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.",
+      "publishedAt": "2026-11-16T05:01:15.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Searching for the Last Stoats of Waiheke Island",
+      "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+      "category": "politics",
+      "excerpt": "Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?",
+      "publishedAt": "2026-11-16T14:49:58.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+      "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+      "category": "politics",
+      "excerpt": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+      "publishedAt": "2026-11-16T13:22:53.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Death of ‘Keep 1.5 Alive’",
+      "url": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
+      "category": "politics",
+      "excerpt": "Negotiators at COP31 are confronting a new reality as the world blows past a key warming target.",
+      "publishedAt": "2026-11-16T20:46:12.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
+      "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+      "category": "politics",
+      "excerpt": "It’s illegal in the United States to transport game fowl for fighting. But investigators say breeders are sending birds to the Philippines, where cockfighting is legal and lucrative.",
+      "publishedAt": "2026-11-16T14:56:41.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
+      "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
+      "category": "politics",
+      "excerpt": "The Trump administration promised to make aid programs more “America First.” Some countries are balking.",
+      "publishedAt": "2026-11-16T10:00:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+      "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+      "category": "politics",
+      "excerpt": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
+      "publishedAt": "2026-11-16T02:11:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "category": "politics",
+      "excerpt": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
+      "publishedAt": "2026-11-15T21:33:59.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Too Many Chips in One Basket?",
+      "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+      "category": "politics",
+      "excerpt": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
+      "publishedAt": "2026-11-16T16:56:44.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+      "category": "politics",
+      "excerpt": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
+      "publishedAt": "2026-11-15T21:26:19.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iran Attacks Bahrain for the Second Time in Days",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+      "category": "politics",
+      "excerpt": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+      "publishedAt": "2026-11-15T15:55:09.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+      "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "category": "politics",
+      "excerpt": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
+      "publishedAt": "2026-11-15T18:47:49.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Is Italy the Model for Europe’s Future?",
+      "url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+      "category": "politics",
+      "excerpt": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.",
+      "publishedAt": "2026-11-15T05:01:24.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
+      "category": "politics",
+      "excerpt": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+      "publishedAt": "2026-11-15T05:01:20.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "category": "politics",
+      "excerpt": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "publishedAt": "2026-11-16T21:08:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
+      "url": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
+      "category": "politics",
+      "excerpt": "A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.",
+      "publishedAt": "2026-11-15T04:18:06.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+      "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+      "category": "politics",
+      "excerpt": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+      "publishedAt": "2026-11-14T16:51:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+      "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html",
+      "category": "politics",
+      "excerpt": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.",
+      "publishedAt": "2026-11-14T15:27:30.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+      "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
+      "category": "politics",
+      "excerpt": "China, India, Pakistan, Indonesia and Japan didn’t join the singing contest in Bangkok. That left some of the region’s best-known musical cultures out of the mix.",
+      "publishedAt": "2026-11-15T03:54:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Asian love ballads test Eurovision’s winning song formula.",
+      "url": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs",
+      "category": "politics",
+      "excerpt": "While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.",
+      "publishedAt": "2026-11-14T14:24:18.000Z"
+    }
+  ]
+}
