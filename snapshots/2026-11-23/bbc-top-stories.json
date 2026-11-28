@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-23T03:02:08.557Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 220,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "publishedAt": "2026-11-23T00:50:35.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "publishedAt": "2026-11-22T18:57:24.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "publishedAt": "2026-11-22T22:49:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "publishedAt": "2026-11-23T00:49:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "publishedAt": "2026-11-23T02:37:02.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "publishedAt": "2026-11-23T02:59:35.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+      "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+      "publishedAt": "2026-11-23T00:40:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The couple have been together for four years and were engaged in 2025.",
+      "publishedAt": "2026-11-22T21:22:40.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "publishedAt": "2026-11-23T01:23:43.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Russell Brand's wife says she'll honour prison rules after message row",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+      "publishedAt": "2026-11-22T16:51:57.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Manchester Co-op Live evacuated after suspected tear gas incident",
+      "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Police say no serious injuries were reported after a substance was let off in the crowd during a performance by US rapper Don Toliver.",
+      "publishedAt": "2026-11-23T02:07:29.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "publishedAt": "2026-11-23T01:05:07.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What is going on with Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "publishedAt": "2026-11-23T00:22:27.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Would you go on holiday with your ex's kids and their mum? How to make blended families work",
+      "url": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
+      "publishedAt": "2026-11-23T01:09:04.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
+      "url": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The collapse of the COP31 climate talks in Turkey is a major focus of Monday's front pages.",
+      "publishedAt": "2026-11-23T02:24:41.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "publishedAt": "2026-11-22T00:09:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The real people finding their work copied and stolen by AI characters",
+      "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+      "publishedAt": "2026-11-22T05:00:38.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "publishedAt": "2026-11-22T17:18:26.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "publishedAt": "2026-11-22T13:50:21.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+      "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+      "publishedAt": "2026-11-22T14:19:06.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "publishedAt": "2026-11-22T09:20:45.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Australian music legend Molly Meldrum dies aged 83",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "publishedAt": "2026-11-23T01:03:35.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+      "publishedAt": "2026-11-22T11:50:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "publishedAt": "2026-11-22T18:29:46.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m000pbnd?at_mid=nQHTb1sAnD&at_campaign=A_Simple_Favour&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000pbnd&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=A_Simple_Favour&at_bbc_team=BBC&at_creation=film",
+      "category": "society",
+      "excerpt": "Anna Kendrick stars. Every friendship has its secrets - some are worth dying for...",
+      "publishedAt": "2026-03-31T05:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "publishedAt": "2026-11-22T21:22:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "publishedAt": "2026-11-22T23:20:16.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+      "publishedAt": "2026-11-22T21:36:00.000Z"
+    }
+  ]
+}

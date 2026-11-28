@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cloudflare-blog",
+  "fetchedAt": "2026-11-25T05:00:33.788Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 86,
+  "items": [
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "category": "tech",
+      "excerpt": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+      "publishedAt": "2026-11-23T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "category": "tech",
+      "excerpt": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "publishedAt": "2026-11-20T20:24:38.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "category": "tech",
+      "excerpt": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "publishedAt": "2026-11-20T20:00:45.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "url": "https://blog.cloudflare.com/nginx2root/",
+      "category": "tech",
+      "excerpt": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+      "publishedAt": "2026-11-20T01:58:29.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "category": "tech",
+      "excerpt": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+      "publishedAt": "2026-11-19T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+      "url": "https://blog.cloudflare.com/open-clairic/",
+      "category": "tech",
+      "excerpt": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.",
+      "publishedAt": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "category": "tech",
+      "excerpt": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now.",
+      "publishedAt": "2026-11-18T14:52:10.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "category": "tech",
+      "excerpt": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "publishedAt": "2026-11-17T20:24:27.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Kitesurf is now open source",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "category": "tech",
+      "excerpt": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+      "publishedAt": "2026-11-13T20:20:21.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "category": "tech",
+      "excerpt": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
+      "publishedAt": "2026-11-13T19:26:07.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "category": "tech",
+      "excerpt": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
+      "publishedAt": "2026-11-13T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "category": "tech",
+      "excerpt": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+      "publishedAt": "2026-11-11T14:24:46.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Launching the Vite Ecosystem Fund",
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "category": "tech",
+      "excerpt": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
+      "publishedAt": "2026-11-09T13:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "The post-quantum future of web privacy",
+      "url": "https://blog.cloudflare.com/vole-mole/",
+      "category": "tech",
+      "excerpt": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+      "publishedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Agents aren’t humans (but they kinda are)",
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+      "category": "tech",
+      "excerpt": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+      "publishedAt": "2026-11-05T17:03:04.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "See the agents, set the terms: New visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "category": "tech",
+      "excerpt": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+      "publishedAt": "2026-11-04T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "category": "tech",
+      "excerpt": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+      "publishedAt": "2026-11-03T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "category": "tech",
+      "excerpt": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay.",
+      "publishedAt": "2026-11-02T14:00:00.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "url": "https://blog.cloudflare.com/emudhra-patching/",
+      "category": "tech",
+      "excerpt": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed.",
+      "publishedAt": "2026-10-30T17:38:50.000Z"
+    },
+    {
+      "sourceId": "cloudflare-blog",
+      "title": "Cloudflare services for private origins is now generally available",
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "category": "tech",
+      "excerpt": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
+      "publishedAt": "2026-10-30T14:23:43.000Z"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-25T05:00:34.558Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 89,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "category": "politics",
+      "excerpt": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "publishedAt": "2026-11-25T00:38:35.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "category": "politics",
+      "excerpt": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "publishedAt": "2026-11-24T19:18:15.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+      "category": "politics",
+      "excerpt": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
+      "publishedAt": "2026-11-24T11:55:30.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+      "category": "politics",
+      "excerpt": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+      "publishedAt": "2026-11-24T12:34:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+      "category": "politics",
+      "excerpt": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+      "publishedAt": "2026-11-24T14:13:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "category": "politics",
+      "excerpt": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
+      "publishedAt": "2026-11-24T10:35:30.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+      "category": "politics",
+      "excerpt": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
+      "publishedAt": "2026-11-24T16:31:07.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+      "category": "politics",
+      "excerpt": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "publishedAt": "2026-11-24T18:25:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+      "category": "politics",
+      "excerpt": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
+      "publishedAt": "2026-11-24T13:12:42.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+      "category": "politics",
+      "excerpt": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+      "publishedAt": "2026-11-24T14:42:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+      "category": "politics",
+      "excerpt": "Svalbard has a mining history that goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
+      "publishedAt": "2026-11-24T13:56:53.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+      "category": "politics",
+      "excerpt": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+      "publishedAt": "2026-11-24T16:27:04.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+      "category": "politics",
+      "excerpt": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
+      "publishedAt": "2026-11-24T13:40:55.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Pope Francis Diary Excerpts Published in New Book",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+      "category": "politics",
+      "excerpt": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
+      "publishedAt": "2026-11-24T22:03:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+      "category": "politics",
+      "excerpt": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+      "publishedAt": "2026-11-25T04:31:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+      "category": "politics",
+      "excerpt": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+      "publishedAt": "2026-11-25T02:55:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Administration Pauses Joint Operations With Ecuador",
+      "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+      "category": "politics",
+      "excerpt": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "publishedAt": "2026-11-25T00:42:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "‘Saturday Night Live’ Is Coming to France",
+      "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+      "category": "politics",
+      "excerpt": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
+      "publishedAt": "2026-11-24T21:13:22.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "National Security vs. the Stock Market",
+      "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+      "category": "politics",
+      "excerpt": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+      "publishedAt": "2026-11-24T20:56:04.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "category": "politics",
+      "excerpt": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+      "publishedAt": "2026-11-24T19:54:59.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "category": "politics",
+      "excerpt": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "publishedAt": "2026-11-24T21:12:54.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
+      "url": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
+      "category": "politics",
+      "excerpt": "Nneka Henry works for the United Nations to help develop solutions to the chaos and calamity caused by cars, motorcycles and scooters, and help drum up the resources to improve safety.",
+      "publishedAt": "2026-11-24T10:01:45.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+      "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+      "category": "politics",
+      "excerpt": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
+      "publishedAt": "2026-11-24T15:37:35.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Woman Who Took Canada to Court Over Genocide",
+      "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+      "category": "politics",
+      "excerpt": "Na’kuset is a longtime champion for Indigenous communities across Canada using her experiences to fuel her advocacy.",
+      "publishedAt": "2026-11-23T21:21:53.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Phumzile Mlambo-Ngcuka, South Africa’s First Female Deputy President, Has Died",
+      "url": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
+      "category": "politics",
+      "excerpt": "A champion of women’s rights and education, she led the U.N.’s gender equality and empowerment organization after leaving political office. She died at 71.",
+      "publishedAt": "2026-11-23T21:12:03.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Return of Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+      "category": "politics",
+      "excerpt": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
+      "publishedAt": "2026-11-24T05:44:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+      "category": "politics",
+      "excerpt": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+      "publishedAt": "2026-11-23T19:19:23.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+      "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+      "category": "politics",
+      "excerpt": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
+      "publishedAt": "2026-11-23T18:05:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "COP31 Climate Talks Broke Down. Now What?",
+      "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+      "category": "politics",
+      "excerpt": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
+      "publishedAt": "2026-11-23T16:18:49.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+      "category": "politics",
+      "excerpt": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
+      "publishedAt": "2026-11-23T15:39:34.000Z"
+    }
+  ]
+}

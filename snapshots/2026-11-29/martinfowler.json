@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "martinfowler",
+  "fetchedAt": "2026-11-28T17:09:16.467Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 362,
+  "items": [
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: November 20",
+      "url": "https://martinfowler.com/fragments/2026-11-20.html",
+      "category": "tech",
+      "excerpt": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review. Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%. The measures of health come from CodeScene. The experiment looked at three LLMs, 4",
+      "publishedAt": "2026-11-20T18:38:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Data Contracts",
+      "url": "https://martinfowler.com/articles/data-contracts.html",
+      "category": "tech",
+      "excerpt": "Data contracts are a way to describe the contents and guarantees of datasets. Simon Harrer and Arif Wider describe in detail what they are and how to use them. They apply practices from API design to data by treating them as data-providing services - such as data products - whose interfaces we want ",
+      "publishedAt": "2026-11-18T14:02:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Deterministic Simulation Testing",
+      "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+      "category": "tech",
+      "excerpt": "Distributed systems are hard to test because partial failures overlap with live traffic and the same fault can produce different execution traces on different runs. Unmesh Joshi describes how deterministic simulation testing addresses this by replacing real clocks, networks, and storage with simulat",
+      "publishedAt": "2026-11-17T14:33:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Bliki: Generated Glossary",
+      "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+      "category": "tech",
+      "excerpt": "When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such words and specialized meanings will be foreign to an LLM because they aren't in its training set, making it harder for the LLM to be effective when do",
+      "publishedAt": "2026-11-12T14:15:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Tests as data: ensuring AI-generated code does what we want",
+      "url": "https://martinfowler.com/articles/tests-as-data.html",
+      "category": "tech",
+      "excerpt": "Automated testing in the age of AI coding assistants is problematic: when AI agents write both production and test code, developers risk losing the assurance that automated tests protect against functional errors. Matteo Vaccari makes three claims: (1) when AI writes the code, developers become its ",
+      "publishedAt": "2026-11-11T15:17:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: November 10",
+      "url": "https://martinfowler.com/fragments/2026-11-10.html",
+      "category": "tech",
+      "excerpt": "It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last six months. It’s been a busy half-year, one that again h",
+      "publishedAt": "2026-11-10T14:30:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Long-horizon agents and durable execution",
+      "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+      "category": "tech",
+      "excerpt": "Long-horizon agents can automate complex tasks that take days or weeks to complete and involve multiple exchanges with people and external systems. Many things can go wrong during this time, including process crashes, network failures, and unanticipated real-world behavior. Kiran Prakash explains du",
+      "publishedAt": "2026-11-10T14:10:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The Data Product Platform Navigator",
+      "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
+      "category": "tech",
+      "excerpt": "Many organizations adopting data mesh and data products face a common challenge. They may be tasked with building a self-service platform for data products and data mesh from scratch, or they may have an existing platform that suffers from low adoption, preventing their data mesh from scaling. This ",
+      "publishedAt": "2026-11-05T14:11:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Bliki: LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "category": "tech",
+      "excerpt": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to the point of revuls",
+      "publishedAt": "2026-10-29T14:28:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Why are good developers so wary of agentic development?",
+      "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+      "category": "tech",
+      "excerpt": "TL;DR Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone el",
+      "publishedAt": "2026-10-29T13:50:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: October 28",
+      "url": "https://martinfowler.com/fragments/2026-10-28.html",
+      "category": "tech",
+      "excerpt": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing t",
+      "publishedAt": "2026-10-28T12:55:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: October 21",
+      "url": "https://martinfowler.com/fragments/2026-10-21.html",
+      "category": "tech",
+      "excerpt": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most",
+      "publishedAt": "2026-10-21T16:51:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "When Software Meets Hardware",
+      "url": "https://martinfowler.com/articles/software-meets-hardware.html",
+      "category": "tech",
+      "excerpt": "When software meets hardware, engineering principles remain largely the same, but the sensible defaults often change. Kuldeep Singh describes our experience modernizing a large IoT fleet of battery-powered sensors. Our familiar principles remained important; what changed was how we applied them. The",
+      "publishedAt": "2026-10-15T13:25:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Build your slide template",
+      "url": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
+      "category": "tech",
+      "excerpt": "Building a slide template starts with three foundational choices — colours, fonts and layouts. Sumeet Gayathri Moghe covers the basics of color theory and how to build a reusable palette, the essentials of typography, including serif, sans-serif, handwritten and monospace fonts, plus the finer point",
+      "publishedAt": "2026-10-14T14:20:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "The Craft of Practitioner Voice",
+      "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+      "category": "tech",
+      "excerpt": "A couple of months ago Jim Highsmith explained how practitioners writing for each other forms a distinct style of writing. He now adds a section to the article with more detail on the craft of how we write in this style. How the writer shows up in the prose, its four principles, the role of story, h",
+      "publishedAt": "2026-10-13T14:06:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Are Harnesses Worth the Cost?",
+      "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "category": "tech",
+      "excerpt": "Naresh Jain compares coding agents building the same API service with and without a behavioral harness. A frontier model, GPT-6 Sol, passed every external evaluation either way. But a cost-optimized model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10 with the harness. While addi",
+      "publishedAt": "2026-10-13T13:35:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: October  4",
+      "url": "https://martinfowler.com/fragments/2026-10-04.html",
+      "category": "tech",
+      "excerpt": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied: we shipped the id and forgot the superego. classic software lifecycle. I don’t know what was on their mind, bu",
+      "publishedAt": "2026-10-05T04:28:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Principles for effective slides",
+      "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+      "category": "tech",
+      "excerpt": "Not every presentation needs slides, but when they earn their place, they work as a visual channel that complements the speaker rather than replacing them. Sumeet Gayathri Moghe sets out the principles that follow from that idea — control over the rate of knowledge exposition, tight coupling between",
+      "publishedAt": "2026-09-30T14:14:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Bliki: Sensible Default",
+      "url": "https://martinfowler.com/bliki/SensibleDefault.html",
+      "category": "tech",
+      "excerpt": "A Sensible Default is a practice that, absent some overriding context, should be used when carrying out a certain kind of task. In software development such sensible defaults might include things like “use version control”, “separate UI logic from domain logic”, “automate deployment pipelines”. The ",
+      "publishedAt": "2026-09-29T13:43:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: September 29",
+      "url": "https://martinfowler.com/fragments/2026-09-29.html",
+      "category": "tech",
+      "excerpt": "Simon Willison: The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge This has been a constant impression I get f",
+      "publishedAt": "2026-09-29T12:41:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: September 24",
+      "url": "https://martinfowler.com/fragments/2026-09-24.html",
+      "category": "tech",
+      "excerpt": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast. Cyber attacks have already cost millio",
+      "publishedAt": "2026-09-24T15:35:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Healthy Feedback",
+      "url": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+      "category": "tech",
+      "excerpt": "Human collaboration, like most things, improves with feedback. But it's not obvious how to make feedback effective. Anuja Karnik and Sumeet Gayathri Moghe pass on a bevy of tips for healthy feedback, based on the principle that both praise and criticism should be seen as positive. more…",
+      "publishedAt": "2026-09-24T14:10:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "I don't like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "category": "tech",
+      "excerpt": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand, I’m fearful of the damage AI might cause: agent swarms taking over our virtual",
+      "publishedAt": "2026-09-17T13:50:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: September 16",
+      "url": "https://martinfowler.com/fragments/2026-09-16.html",
+      "category": "tech",
+      "excerpt": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previ",
+      "publishedAt": "2026-09-16T20:05:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Nail the Narrative",
+      "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+      "category": "tech",
+      "excerpt": "Sumeet Gayathri Moghe finds many folks building presentations get tangled in building slides without a coherent narrative. He advises distilling the big idea, visualizing the audience, and building a structured storyline. more…",
+      "publishedAt": "2026-09-15T15:11:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Social Media Engagement: summer 2026",
+      "url": "https://martinfowler.com/articles/2026-social-traffic.html",
+      "category": "tech",
+      "excerpt": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous decline since early 2025. more…",
+      "publishedAt": "2026-09-09T16:21:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Fragments: September  8",
+      "url": "https://martinfowler.com/fragments/2026-09-08.html",
+      "category": "tech",
+      "excerpt": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:. This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but ",
+      "publishedAt": "2026-09-08T15:22:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Do you even need a presentation?",
+      "url": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+      "category": "tech",
+      "excerpt": "Like me, Sumeet Gayathri Moghe is tired of poor presentations with bad slide decks. He's started to write a series of posts on how to avoid these calamities, beginning with a post that questions whether a presentation is needed at all. more…",
+      "publishedAt": "2026-09-08T13:42:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "Bliki: Paracelsus Maxim",
+      "url": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+      "category": "tech",
+      "excerpt": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good thing sitting in my garden, but not while driving my car. But another variable i",
+      "publishedAt": "2026-09-02T22:03:00.000Z"
+    },
+    {
+      "sourceId": "martinfowler",
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "category": "tech",
+      "excerpt": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination system inside the git repository. more…",
+      "publishedAt": "2026-09-02T14:45:00.000Z"
+    }
+  ]
+}

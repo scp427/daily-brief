@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-23T03:02:07.894Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 358,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "BYD shares fall after SUV barred from EU for Land Rover design copy",
+      "url": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Court ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+      "publishedAt": "2026-11-23T02:48:12.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Tech stock sell-off deepens in Asia",
+      "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
+      "publishedAt": "2026-11-23T01:55:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+      "url": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Also in today’s newsletter: COP31 climate talks fail and sanctioned Russian vessel attacked by drones near Finland",
+      "publishedAt": "2026-11-22T22:07:25.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Delta flight delays add to concerns about US air travel systems",
+      "url": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month",
+      "publishedAt": "2026-11-22T19:25:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+      "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+      "publishedAt": "2026-11-22T19:08:31.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
+      "url": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "£43bn group set to announce intention to move as soon as Tuesday",
+      "publishedAt": "2026-11-22T18:28:00.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Sanctioned Russian vessel attacked by drones near Finland",
+      "url": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged",
+      "publishedAt": "2026-11-22T14:15:40.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "COP31 climate talks fail after stand-off over fossil fuels",
+      "url": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
+      "publishedAt": "2026-11-22T13:50:41.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Adoption, not innovation, holds Britain back",
+      "url": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
+      "publishedAt": "2026-11-22T12:02:25.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
+      "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
+      "publishedAt": "2026-11-22T12:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Will Anthropic buck the tech sell-off?",
+      "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Market Questions is the FT’s guide to the week ahead",
+      "publishedAt": "2026-11-22T12:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
+      "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+      "category": "finance",
+      "excerpt": "UK data centre operator pauses hiring for all but critical roles",
+      "publishedAt": "2026-11-22T11:32:52.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Climate talks on the brink as EU rejects deal that ‘green washes fossil fuels’",
+      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Group of countries refuses to endorse proposed agreement in direct clash with Saudi Arabia",
+      "publishedAt": "2026-11-22T11:15:48.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The American dream of home ownership recedes as mortgage rates surge",
+      "url": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
+      "publishedAt": "2026-11-22T11:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+      "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+      "category": "finance",
+      "excerpt": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+      "publishedAt": "2026-11-22T11:00:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Cheap Chinese ecommerce parcels flood the UK",
+      "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Value of small imported packages rose fourfold in the past two years as purchases from Asian online retail groups and platforms boomed",
+      "publishedAt": "2026-11-22T05:00:14.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+      "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+      "publishedAt": "2026-11-22T05:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
+      "url": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
+      "publishedAt": "2026-11-22T05:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Heathrow’s biggest investor confident airport will build a third runway",
+      "url": "https://www.ft.com/content/5f83965d-e74d-4088-af9f-b59f2fa5e8f1?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Private capital firm Ardian highlights benefits of expanding the hub to the UK economy",
+      "publishedAt": "2026-11-22T05:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Amazon’s AI resistance: workers ready for battle over data centres",
+      "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Tech company’s plans for rapid expansion face opposition from the public and its own employees",
+      "publishedAt": "2026-11-22T05:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Biotech pioneer calls for UK capital gains tax cut to kick-start listings",
+      "url": "https://www.ft.com/content/01e128fd-58b4-44e9-8c31-c9d0a909b9b7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "British entrepreneur behind oncology group seeking London listing says government needs to offer ‘bold incentives’ to investors",
+      "publishedAt": "2026-11-22T05:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "India’s $126bn insurance sector slams proposed commission cap",
+      "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment",
+      "publishedAt": "2026-11-22T01:30:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+      "url": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan",
+      "publishedAt": "2026-11-21T21:00:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Acquisition would help AWS compete with Nvidia in race for computing power",
+      "publishedAt": "2026-11-21T17:21:36.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Alice Huang’s links to the chip underworld",
+      "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+      "publishedAt": "2026-11-21T17:00:10.000Z"
+    }
+  ]
+}

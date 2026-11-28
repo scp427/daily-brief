@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-world",
+  "fetchedAt": "2026-11-26T04:19:42.380Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 88,
+  "items": [
+    {
+      "sourceId": "npr-world",
+      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "category": "politics",
+      "excerpt": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+      "publishedAt": "2026-11-25T14:14:34.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "category": "politics",
+      "excerpt": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
+      "publishedAt": "2026-11-25T12:18:09.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "category": "politics",
+      "excerpt": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+      "publishedAt": "2026-11-25T11:50:05.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+      "category": "politics",
+      "excerpt": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+      "publishedAt": "2026-11-25T11:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+      "category": "politics",
+      "excerpt": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+      "publishedAt": "2026-11-25T09:44:13.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+      "category": "politics",
+      "excerpt": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+      "publishedAt": "2026-11-25T06:43:23.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "category": "politics",
+      "excerpt": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+      "publishedAt": "2026-11-24T14:24:04.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "category": "politics",
+      "excerpt": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "publishedAt": "2026-11-24T12:12:25.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "category": "politics",
+      "excerpt": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "publishedAt": "2026-11-24T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Meet Colombia's fuzzy 'water guardians'",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+      "category": "politics",
+      "excerpt": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+      "publishedAt": "2026-11-24T10:00:00.000Z"
+    }
+  ]
+}

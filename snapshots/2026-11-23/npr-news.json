@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-23T03:02:08.504Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 23,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+      "category": "society",
+      "excerpt": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible.",
+      "publishedAt": "2026-11-23T01:53:48.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "What it's like at a climate conference as talks collapse",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+      "category": "society",
+      "excerpt": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+      "publishedAt": "2026-11-22T22:40:23.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Philly festival-goers say pickles are a real big dill",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+      "category": "society",
+      "excerpt": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+      "publishedAt": "2026-11-22T22:40:19.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "category": "society",
+      "excerpt": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "publishedAt": "2026-11-22T17:44:52.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+      "category": "society",
+      "excerpt": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "publishedAt": "2026-11-22T17:34:20.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "category": "society",
+      "excerpt": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+      "publishedAt": "2026-11-22T16:33:22.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+      "category": "society",
+      "excerpt": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "publishedAt": "2026-11-22T13:11:04.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "He expected a small-business loan. He got a 7-year nightmare",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+      "category": "society",
+      "excerpt": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+      "publishedAt": "2026-11-22T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "NPR's Senior Podcast Challenge: Early entries we love",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+      "category": "society",
+      "excerpt": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!",
+      "publishedAt": "2026-11-22T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "category": "society",
+      "excerpt": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+      "publishedAt": "2026-11-21T22:40:36.000Z"
+    }
+  ]
+}

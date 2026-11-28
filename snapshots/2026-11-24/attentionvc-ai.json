@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-24T06:19:27.446Z",
+  "ok": true,
+  "itemCount": 11,
+  "durationMs": 286,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Human empowerment in a few fake graphs",
+      "url": "https://x.com/boazbaraktcs/status/2124884201283485934",
+      "category": "tech",
+      "excerpt": "One view of AI’s trajectory can be captured by this “fake graph” (with the gray region reflecting roughly where we are): AI is improving in intelligence while human intelligence is fixed. At some",
+      "publishedAt": "2026-11-23T15:14:06.000Z",
+      "meta": "@boazbaraktcs · 38.0K 粉丝 · 503.3K 阅 · 988 赞 · 130 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "T3 Code: build ai agent teams with all frontier models (Full-Course)",
+      "url": "https://x.com/0xCodez/status/2124586834072330269",
+      "category": "tech",
+      "excerpt": "Most people running AI agents have the same desktop. Claude Code in one terminal. Codex in another. A Gemini tab behind them. Grok on the phone. And one human in the middle, copy-pasting context",
+      "publishedAt": "2026-11-22T19:32:28.000Z",
+      "meta": "@0xCodez · 0 粉丝 · 176.9K 阅 · 632 赞 · 65 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to Make Claude Design Like a Real Studio",
+      "url": "https://x.com/tobiadonadon_/status/2124269680122638822",
+      "category": "tech",
+      "excerpt": "claude can build almost anything now. ask it for a landing page and you have one in a minute. the catch is you get the same landing page every time. same serif headline. same one word in italic, in",
+      "publishedAt": "2026-11-21T22:32:13.000Z",
+      "meta": "@tobiadonadon_ · 13.8K 粉丝 · 104.6K 阅 · 721 赞 · 43 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "🥇Top AI Papers of the Week ",
+      "url": "https://x.com/dair_ai/status/2124510548070895895",
+      "category": "tech",
+      "excerpt": "1. Self-Improvement Memory Harness optimization is usually studied with one fixed model and one fixed benchmark. When either changes, the optimizer has to decide which parts of an evolved harness to",
+      "publishedAt": "2026-11-22T14:29:20.000Z",
+      "meta": "@dair_ai · 0 粉丝 · 82.4K 阅 · 560 赞 · 61 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Gemini Omni 1.2: Longer generations, scene extension, and precision editing now in Google Flow",
+      "url": "https://x.com/FlowbyGoogle/status/2124960667748737313",
+      "category": "tech",
+      "excerpt": "Gemini Omni Flash just leveled up in Google Flow, bringing powerful new capabilities alongside meaningful quality enhancements to unlock greater creative control and expand your visual storytelling",
+      "publishedAt": "2026-11-23T20:17:57.000Z",
+      "meta": "@FlowbyGoogle · 77.9K 粉丝 · 58.4K 阅 · 1.0K 赞 · 89 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing file slicing controls in the Gemini API",
+      "url": "https://x.com/GoogleAIStudio/status/2124928707529674979",
+      "category": "tech",
+      "excerpt": "The Gemini API now features native file slicing controls, allowing developers to specify targeted pages, sheet ranges, and media segments for the model to load server-side. This capability reduces",
+      "publishedAt": "2026-11-23T18:10:57.000Z",
+      "meta": "@GoogleAIStudio · 223.6K 粉丝 · 55.3K 阅 · 792 赞 · 50 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How Uber Evals 1 Million Agent Skill Invocations a Month",
+      "url": "https://x.com/UberEng/status/2125008806249930999",
+      "category": "tech",
+      "excerpt": "Skills at Enterprise Scale A skill is a Markdown file that teaches an AI agent to do one job well, such as creating a pull request, querying a metrics store, or outlining a weekly sales presentation.",
+      "publishedAt": "2026-11-23T23:29:14.000Z",
+      "meta": "@UberEng · 72.5K 粉丝 · 54.6K 阅 · 812 赞 · 87 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to build a knowledge factory",
+      "url": "https://x.com/hwchase17/status/2124181216719151585",
+      "category": "tech",
+      "excerpt": "In order to make AI work for your company, the missing bit is not better models, it’s not just more context - it’s better knowledge. It’s knowledge of how your company works, what standards for",
+      "publishedAt": "2026-11-21T16:40:42.000Z",
+      "meta": "@hwchase17 · 141.3K 粉丝 · 41.0K 阅 · 550 赞 · 42 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to pick an eval framework that checks what you ship: what the popular tools really ask you to bu",
+      "url": "https://x.com/sermakarevich/status/2124210425331921148",
+      "category": "tech",
+      "excerpt": "An article for engineers who ship language-model features and need repeatable checks, plus managers deciding what to standardize on. Numbers come from public docs, repo pages, and papers listed at the",
+      "publishedAt": "2026-11-21T18:36:45.000Z",
+      "meta": "@sermakarevich · 3.1K 粉丝 · 40.8K 阅 · 589 赞 · 73 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Building Mont-Saint-Michel with Astra inside Unreal Engine",
+      "url": "https://x.com/UnrealEngine/status/2124911349775868138",
+      "category": "tech",
+      "excerpt": "Hi, I’m Quentin Marmier, Technical Art Director at Epic Games. I’ve been having a blast building a Mont-Saint-Michel-inspired level with Astra in Unreal Engine. Mont-Saint-Michel is a French island",
+      "publishedAt": "2026-11-23T17:01:59.000Z",
+      "meta": "@UnrealEngine · 601.3K 粉丝 · 37.6K 阅 · 593 赞 · 46 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Superintelligence is Arriving",
+      "url": "https://x.com/alexandr_wang/status/2124636606959345776",
+      "category": "tech",
+      "excerpt": "Superintelligence is arriving. How humanity acts over the next year will have great consequence on what future world we live in. As someone who has spent much of my life in math and science, I see the",
+      "publishedAt": "2026-11-22T22:50:15.000Z",
+      "meta": "@alexandr_wang · 855.8K 粉丝 · 22.8K 阅 · 537 赞 · 63 转"
+    }
+  ]
+}

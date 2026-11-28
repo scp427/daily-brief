@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T05:00:35.294Z",
+  "sources": [
+    {
+      "id": "github-trending",
+      "ok": true,
+      "itemCount": 16,
+      "durationMs": 1527
+    },
+    {
+      "id": "youtube-two-minute-papers",
+      "ok": true,
+      "itemCount": 15,
+      "durationMs": 133
+    },
+    {
+      "id": "youtube-ai-engineer",
+      "ok": true,
+      "itemCount": 8,
+      "durationMs": 160
+    },
+    {
+      "id": "youtube-3blue1brown",
+      "ok": true,
+      "itemCount": 15,
+      "durationMs": 148
+    },
+    {
+      "id": "hackernews",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 417
+    },
+    {
+      "id": "lobsters",
+      "ok": true,
+      "itemCount": 25,
+      "durationMs": 261
+    },
+    {
+      "id": "openai-news",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 240
+    },
+    {
+      "id": "deepmind-blog",
+      "ok": false,
+      "itemCount": 0,
+      "durationMs": 230,
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+    },
+    {
+      "id": "huggingface-blog",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 113
+    },
+    {
+      "id": "huggingface-papers",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 76
+    },
+    {
+      "id": "tldr-ai",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 360
+    },
+    {
+      "id": "smol-ai-news",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 238
+    },
+    {
+      "id": "latent-space",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 393
+    },
+    {
+      "id": "mit-tech-review-ai",
+      "ok": true,
+      "itemCount": 10,
+      "durationMs": 64
+    },
+    {
+      "id": "attentionvc-ai",
+      "ok": true,
+      "itemCount": 12,
+      "durationMs": 125
+    },
+    {
+      "id": "ars-technica",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 153
+    },
+    {
+      "id": "martinfowler",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 111
+    },
+    {
+      "id": "simonwillison",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 59
+    },
+    {
+      "id": "cloudflare-blog",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 86
+    },
+    {
+      "id": "github-engineering",
+      "ok": true,
+      "itemCount": 10,
+      "durationMs": 89
+    },
+    {
+      "id": "techcrunch",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 43
+    },
+    {
+      "id": "theverge",
+      "ok": true,
+      "itemCount": 10,
+      "durationMs": 132
+    },
+    {
+      "id": "bbc-tech",
+      "ok": true,
+      "itemCount": 21,
+      "durationMs": 155
+    },
+    {
+      "id": "bloomberg-markets",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 446
+    },
+    {
+      "id": "wsj-markets",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 247
+    },
+    {
+      "id": "cnbc-topnews",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 317
+    },
+    {
+      "id": "ft-companies",
+      "ok": true,
+      "itemCount": 25,
+      "durationMs": 223
+    },
+    {
+      "id": "ftchinese-news",
+      "ok": true,
+      "itemCount": 20,
+      "durationMs": 235
+    },
+    {
+      "id": "yahoo-finance",
+      "ok": false,
+      "itemCount": 0,
+      "durationMs": 38,
+      "error": "Status code 404"
+    },
+    {
+      "id": "marketwatch-top",
+      "ok": true,
+      "itemCount": 10,
+      "durationMs": 40
+    },
+    {
+      "id": "bbc-business",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 112
+    },
+    {
+      "id": "economist-finance",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 112
+    },
+    {
+      "id": "reddit-wallstreetbets",
+      "ok": false,
+      "itemCount": 0,
+      "durationMs": 74,
+      "error": "Unable to parse XML."
+    },
+    {
+      "id": "reddit-investing",
+      "ok": true,
+      "itemCount": 0,
+      "durationMs": 45
+    },
+    {
+      "id": "reddit-stocks",
+      "ok": false,
+      "itemCount": 0,
+      "durationMs": 55,
+      "error": "Unable to parse XML."
+    },
+    {
+      "id": "reddit-chinastocks",
+      "ok": false,
+      "itemCount": 0,
+      "durationMs": 41,
+      "error": "Unable to parse XML."
+    },
+    {
+      "id": "wallstreetcn",
+      "ok": false,
+      "itemCount": 0,
+      "durationMs": 133,
+      "error": "Status code 403"
+    },
+    {
+      "id": "bbc-world",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 15
+    },
+    {
+      "id": "guardian-world",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 75
+    },
+    {
+      "id": "nyt-world",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 89
+    },
+    {
+      "id": "npr-world",
+      "ok": true,
+      "itemCount": 10,
+      "durationMs": 241
+    },
+    {
+      "id": "dw-chinese",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 372
+    },
+    {
+      "id": "aljazeera",
+      "ok": true,
+      "itemCount": 25,
+      "durationMs": 272
+    },
+    {
+      "id": "the-diplomat",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 265
+    },
+    {
+      "id": "rfa-chinese",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 562
+    },
+    {
+      "id": "bbc-entertainment",
+      "ok": true,
+      "itemCount": 21,
+      "durationMs": 24
+    },
+    {
+      "id": "bbc-top-stories",
+      "ok": true,
+      "itemCount": 30,
+      "durationMs": 101
+    },
+    {
+      "id": "npr-news",
+      "ok": true,
+      "itemCount": 10,
+      "durationMs": 36
+    }
+  ]
+}

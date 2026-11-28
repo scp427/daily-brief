@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-26T04:19:40.831Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 336,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T20:10:24.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Entering the Geminispace",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T22:43:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Optimizing Rustc's next trait solver",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T13:09:22.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T06:20:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Scott Aaronson on recent complexity theory AI achievements",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T21:52:52.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Update on a security incident involving 1Password’s backend systems",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T17:43:13.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Typed indexes in Zig",
+      "url": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T22:48:44.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "October in Servo: video captions and inert content",
+      "url": "https://servo.org/blog/2026/11/25/october-in-servo/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T14:31:31.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Abolish Lock Poisoning",
+      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T05:10:37.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Make the Plan a Value",
+      "url": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T00:12:06.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+      "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T23:14:50.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T22:28:27.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+      "url": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
+      "category": "tech",
+      "excerpt": "This is a shortened version of Alpöge's Lean proof of RH and GRH for Dirichlet L-functions (https://alpo.ge/remark.pdf), which was about 17 million lines. There are two editions proving the same five theorems: a readable one at about 300,000 lines (start at grh/GUIDE.md) and a compact one at about 7",
+      "publishedAt": "2026-11-25T22:26:56.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T00:54:10.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T10:27:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T22:55:47.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T13:28:55.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "The beauty of CSS mixins",
+      "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T01:02:17.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T15:22:24.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Security incident on Hex.pm",
+      "url": "https://hex.pm/blog/security-incident-on-hexpm",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T14:52:19.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T06:30:15.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Visualizing Metra (2011)",
+      "url": "https://www.c82.net/blog/visualizing-metra",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T01:14:47.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
+      "url": "https://mastodon.social/@pervognsen/117668394962974183",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T18:11:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "I Booted From My Tape Backup From 2002",
+      "url": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T03:56:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Designing for a Sense of Mystery and Wonder (2021)",
+      "url": "https://blog.runevision.com/2021/02/designing-for-sense-of-mystery-and.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T23:28:57.000Z"
+    }
+  ]
+}

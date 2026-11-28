@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-23T03:02:07.764Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 383,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+      "category": "finance",
+      "excerpt": "European natural gas jumped after forecasts for colder weather in the coming days, which could put further pressure on inventories already depleted by export disruptions stemming from the US-Iran war.",
+      "publishedAt": "2026-11-23T02:46:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Drop as AI Worries Offset State Support Measures",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "category": "finance",
+      "excerpt": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing.",
+      "publishedAt": "2026-11-22T11:06:19.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+      "category": "finance",
+      "excerpt": "Copper sank below $12,000 a ton on the London Metal Exchange, deepening a sharp selloff as doubts grow about demand from artificial intelligence.",
+      "publishedAt": "2026-11-23T01:05:30.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
+      "category": "finance",
+      "excerpt": "India’s equity benchmark climbed as the S&P 500, MSCI’s Asia gauge and gold each lost more than 5% last week.",
+      "publishedAt": "2026-11-23T02:36:16.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+      "category": "finance",
+      "excerpt": "Tata Steel Ltd. has agreed to acquire a 26.4% stake in APL Apollo Tubes Ltd. for as much as 155.1 billion rupees ($1.7 billion), deepening its presence in India’s structural steel products market.",
+      "publishedAt": "2026-11-23T02:30:05.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+      "category": "finance",
+      "excerpt": "MSCI Inc. Chief Executive Henry Fernandez conveyed a willingness to consider alternatives to a two-step downgrade of Indonesia’s stock-market status in recent direct talks with President Prabowo Subianto, according to people with knowledge of the discussion.",
+      "publishedAt": "2026-11-23T02:27:39.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+      "category": "finance",
+      "excerpt": "Gold rebounded from its biggest weekly decline in eight months as a technology-stock rout pushed traders to seek haven assets, driving down US Treasury yields and the dollar.",
+      "publishedAt": "2026-11-23T00:28:03.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asia Market Measures May Buffer Stock Losses: BNP",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
+      "category": "finance",
+      "excerpt": "Jason Lui, Head of APAC Equity Derivative Strategy at BNP Paribas, says market support measures in China, Taiwan and South Korea may provide a buffer against weak sentiment, but longer-term investment returns will still face long-term uncertainty from US data-center regulations and restrictions on r",
+      "publishedAt": "2026-11-23T02:04:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 23",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+      "category": "finance",
+      "excerpt": "Oil dipped as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
+      "publishedAt": "2026-11-22T23:06:06.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Why Asia Market Stabilization Measures May Not Be Enough",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
+      "category": "finance",
+      "excerpt": "Bloomberg's Lianting Tu talks about investor sentiment that recent stabilization measures in China, Taiwan and Korea are not quite enough, and how near-term outlook depends on dip buying and whether hedge funds keep cutting positions. (Source: Bloomberg)",
+      "publishedAt": "2026-11-23T01:59:03.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Stock Futures Bounce After Rout, Havens Drop: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+      "category": "finance",
+      "excerpt": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
+      "publishedAt": "2026-11-22T22:02:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Taiwan Stocks See Biggest Leverage Unwind in at Least 30 Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
+      "category": "finance",
+      "excerpt": "Taiwan stocks saw the biggest unwind of leveraged bets in at least three decades on Friday, helping to explain why the authorities’ efforts to stem the selloff in Asia’s most tech-heavy market are having a limited impact.",
+      "publishedAt": "2026-11-23T01:55:17.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
+      "category": "finance",
+      "excerpt": "China’s state-backed funds poured a record amount of money into the market on Friday in another forceful attempt to stem a deepening selloff.",
+      "publishedAt": "2026-11-23T01:48:30.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+      "category": "finance",
+      "excerpt": "US Treasury futures declined as demand for havens waned on signs that the recent selloff in equities may be drawing some buyers back.",
+      "publishedAt": "2026-11-22T23:59:06.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "ICICI Prudential Seeks $800 Million as Alternatives Push Grows",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/icici-prudential-seeks-800-million-as-alternatives-push-grows",
+      "category": "finance",
+      "excerpt": "ICICI Prudential Asset Management Co. is seeking as much as $800 million for private credit and special opportunities funds, according to people familiar with the matter, tapping growing demand for alternative assets from wealthy investors and institutions.",
+      "publishedAt": "2026-11-23T01:30:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+      "category": "finance",
+      "excerpt": "US stock futures rebounded as dip buyers stepped in following a steep selloff that saw a violent rotation out of technology shares, in a signal of heightened volatility in the artificial intelligence trade.",
+      "publishedAt": "2026-11-22T23:04:42.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
+      "category": "finance",
+      "excerpt": "Masahiko Loo, Chief Fixed Income Strategist at State Street Investment Management, says US treasuries are resuming a negative correlation with stocks. He speaks as US bond futures decline in early Asia trading. (Source: Bloomberg)",
+      "publishedAt": "2026-11-23T00:30:45.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
+      "url": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
+      "category": "finance",
+      "excerpt": "The $577 billion Hong Kong market has tell-tale signs of artificially inflated trading, insiders say.",
+      "publishedAt": "2026-11-22T23:00:17.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
+      "category": "finance",
+      "excerpt": "China’s gold imports surged to a record $209 billion so far this year, in an unprecedented buying spree that followed a promise by top officials to make their country into the world’s marketplace instead of just its factory.",
+      "publishedAt": "2026-11-22T23:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
+      "category": "finance",
+      "excerpt": "",
+      "publishedAt": "2026-11-22T22:56:32.000Z"
+    }
+  ]
+}

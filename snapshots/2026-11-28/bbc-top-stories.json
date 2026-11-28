@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-28T04:10:17.061Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 93,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+      "publishedAt": "2026-11-27T20:42:44.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+      "publishedAt": "2026-11-27T22:03:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+      "publishedAt": "2026-11-27T17:47:14.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Set time aside for children to read for pleasure, schools to be told",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
+      "publishedAt": "2026-11-28T02:20:49.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "publishedAt": "2026-11-27T21:55:53.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Charity founded in Captain Tom's name bids to be struck off",
+      "url": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
+      "publishedAt": "2026-11-27T21:26:30.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "publishedAt": "2026-11-27T18:42:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "publishedAt": "2026-11-27T19:03:18.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "publishedAt": "2026-11-28T00:56:55.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "publishedAt": "2026-11-27T20:06:31.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "publishedAt": "2026-11-27T18:00:40.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+      "publishedAt": "2026-11-27T14:06:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+      "url": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Princess of Wales opening up on her \"cancer battle\" and a cyber incident hitting the pensions department lead Saturday's papers.",
+      "publishedAt": "2026-11-28T00:38:55.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "publishedAt": "2026-11-28T00:05:17.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+      "publishedAt": "2026-11-28T03:03:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Should I get a flu vaccine now?",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+      "publishedAt": "2026-11-28T01:03:11.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "With an official PC version potentially still months away, fans are getting impatient.",
+      "publishedAt": "2026-11-28T01:30:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'I don't know what I'd do without it': Why shoppers and staff fear losing Poundland",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The discount retailer has collapsed into administration after its US owners failed to secure a rescue deal.",
+      "publishedAt": "2026-11-28T01:12:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Chicken Shop Date: The perfect end or a disappointing send-off?",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74123x2jvo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Amelia Dimoldenberg has called time on her hit YouTube series Chicken Shop Date after more than a decade.",
+      "publishedAt": "2026-11-27T18:02:25.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Rap fans say people were \"choking\" and \"coughing up blood\" towards the end of Don Toliver's gig.",
+      "publishedAt": "2026-11-27T16:40:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+      "url": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
+      "publishedAt": "2026-11-27T14:33:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+      "publishedAt": "2026-11-27T09:57:37.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "NHS Grampian publishes leaked report at centre of hospital scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The report was leaked last week by a surgeon who called for NHS Grampian to face a corporate homicide investigation.",
+      "publishedAt": "2026-11-27T20:07:45.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Body found in woodland confirmed as missing Kelsey Hunter",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2e315rz00o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Kelsey Hunter's body was found in a wooded area near the village of Springholm where she lived.",
+      "publishedAt": "2026-11-27T17:03:03.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy95295835o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Tory leader says her \"candidates covenant\" would build trust in the party, but some ex-MPs have criticised the move.",
+      "publishedAt": "2026-11-27T16:42:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "publishedAt": "2026-11-27T11:44:40.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Five-try Ireland beat Australia in autumn finale",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Ireland secure a fifth-place finish in the inaugural Nations Championship thanks to a 38-14 victory over Australia in London.",
+      "publishedAt": "2026-11-27T22:17:45.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Decline of deities - the long game the All Blacks cannot afford to lose",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkgkl7de60go?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Statistically, this generation of All Blacks is the weakest in decades. How has a sporting shorthand for success slipped so far?",
+      "publishedAt": "2026-11-27T18:42:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
+      "publishedAt": "2026-11-27T21:59:48.000Z"
+    }
+  ]
+}

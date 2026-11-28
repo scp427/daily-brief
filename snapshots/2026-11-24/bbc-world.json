@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-world",
+  "fetchedAt": "2026-11-24T06:19:28.294Z",
+  "ok": true,
+  "itemCount": 22,
+  "durationMs": 22,
+  "items": [
+    {
+      "sourceId": "bbc-world",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "publishedAt": "2026-11-24T04:36:31.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "publishedAt": "2026-11-23T23:16:08.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "publishedAt": "2026-11-24T02:15:59.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "publishedAt": "2026-11-24T05:33:07.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "publishedAt": "2026-11-23T20:48:35.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "publishedAt": "2026-11-23T21:24:47.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "publishedAt": "2026-11-23T17:07:25.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "publishedAt": "2026-11-23T18:04:20.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "publishedAt": "2026-11-24T00:23:25.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "publishedAt": "2026-11-23T17:14:50.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "publishedAt": "2026-11-23T17:24:25.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "publishedAt": "2026-11-23T21:03:34.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "publishedAt": "2026-11-24T01:21:41.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+      "publishedAt": "2026-11-23T22:59:07.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "publishedAt": "2026-11-23T18:49:19.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "publishedAt": "2026-11-23T11:34:10.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "publishedAt": "2026-11-22T22:37:43.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+      "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+      "publishedAt": "2026-11-24T00:02:15.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "publishedAt": "2026-11-23T13:09:52.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "publishedAt": "2026-11-23T15:49:52.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "publishedAt": "2026-11-23T06:33:50.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00.000Z"
+    }
+  ]
+}

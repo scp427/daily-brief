@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-papers",
+  "fetchedAt": "2026-11-26T04:19:41.002Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 155,
+  "items": [
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+      "url": "https://huggingface.co/papers/2611.32884",
+      "category": "tech",
+      "excerpt": "AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers. An outcome reward at the end of the episode scores only the final an",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 97"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+      "url": "https://huggingface.co/papers/2611.31358",
+      "category": "tech",
+      "excerpt": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while st",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 81"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "LingSante MedGuard Technical Report",
+      "url": "https://huggingface.co/papers/2611.25509",
+      "category": "tech",
+      "excerpt": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deployment. Assessing these risks requires checking clinical claims against relevant evidence, verifying calc",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 34"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement",
+      "url": "https://huggingface.co/papers/2611.32554",
+      "category": "tech",
+      "excerpt": "Segmenting a 3D object into semantically meaningful parts requires joint reasoning about geometric structure and semantic context. Pretrained 3D experts provide spatially grounded region proposals, while 2D experts provide semantic cues for identifying object parts. The challenge is to integrate the",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 33"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
+      "url": "https://huggingface.co/papers/2611.33010",
+      "category": "tech",
+      "excerpt": "Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in animal cognition, we investigate whether robot policies can reliably manipulate physical objects in scenes containing their reflections. We introduce RoboDojo-Mirror, ",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 28"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks",
+      "url": "https://huggingface.co/papers/2611.32183",
+      "category": "tech",
+      "excerpt": "People reason with pictures as well as words. Interleaved multimodal reasoning gives models a similar way to solve problems by creating intermediate images and using them to guide further reasoning. Training models with this ability usually relies on task-specific demonstrations, which are difficult",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 21"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+      "url": "https://huggingface.co/papers/2611.32649",
+      "category": "tech",
+      "excerpt": "In-context learning (ICL) lets agents acquire new rules from context and adapt to user-specific requirements at inference time. The same frontier agents now operate both computers and robots, yet their ICL remains insufficiently assessed: existing benchmarks are largely offline, rely on text or stat",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 20"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents",
+      "url": "https://huggingface.co/papers/2611.33144",
+      "category": "tech",
+      "excerpt": "Learning for dexterous manipulation is limited by the scarcity of high-quality demonstrations: retargeting from human video is imprecise, teleoperation gives no force feedback to the operator, and exoskeleton-based collection is hard to scale up. We present PyRUA-Dex, a framework that enables coding",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 18"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "url": "https://huggingface.co/papers/2611.33148",
+      "category": "tech",
+      "excerpt": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are ",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 14"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MAGPIE: Agentic Multi-Reference Image Generation via Executable Scene Construction",
+      "url": "https://huggingface.co/papers/2611.32462",
+      "category": "tech",
+      "excerpt": "Multi-reference image generation requires a model to preserve the appearance of selected subjects while arranging them according to an instruction. Despite recent progress in reference-based generation and compositional control, reliably organizing selected subjects into the intended scene remains c",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 13"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers",
+      "url": "https://huggingface.co/papers/2611.32973",
+      "category": "tech",
+      "excerpt": "Autonomous specification engineering requires coding agents to translate functional requirements into executable tests and use the results to discover and validate defects. However, existing benchmarks evaluate coding agents on explicitly specified test generation tasks, commonly providing an issue ",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Coding4Games: Can Modern Coding Agents Play Modern Video Games?",
+      "url": "https://huggingface.co/papers/2611.31974",
+      "category": "tech",
+      "excerpt": "Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language models as computer-use agents that query a language model throughout play, incurring repeated inference c",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "On-Policy Codec Distillation for Efficient All-in-One Video Generation",
+      "url": "https://huggingface.co/papers/2611.31184",
+      "category": "tech",
+      "excerpt": "Modern visual generative models operate on tokens, and every visual asset they receive, whether an identity, a scribble, a depth map, or a motion video, is tokenized and appended to the input token sequence. Consequently, conditioning quickly dominates the computation cost. Yet most of these tokens ",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Target-Part Preference Optimization for Part-Aware 3D Generation",
+      "url": "https://huggingface.co/papers/2611.30472",
+      "category": "tech",
+      "excerpt": "Part-aware 3D generation requires not only globally plausible objects but also complete, well-separated semantic parts, yet high-quality part decompositions remain too scarce to support large-scale supervised fine-tuning. We study whether preference fine-tuning based on Direct Preference Optimizatio",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 10"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VenusOCR2.0: Towards Efficient and Effective Document Parsing",
+      "url": "https://huggingface.co/papers/2611.32617",
+      "category": "tech",
+      "excerpt": "We present VenusOCR2.0, a compact 1B-parameter vision-language recognizer designed for both high-accuracy and high-throughput document parsing across text, tables, and formulas. To continuously improve recognition quality without self-training collapse, we build a bounded recursive self-improvement ",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
+      "url": "https://huggingface.co/papers/2611.33143",
+      "category": "tech",
+      "excerpt": "Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities unde",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 8"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines",
+      "url": "https://huggingface.co/papers/2510.22622",
+      "category": "tech",
+      "excerpt": "Audio-visual deepfakes can spread misinformation and enable impersonation, undermining trust in digital media. However, existing datasets provide limited coverage of forgery operations and their combinations, constraining detector development and systematic evaluation. We introduce Mega-MMDF, contai",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "meta": "👍 8"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA",
+      "url": "https://huggingface.co/papers/2611.32782",
+      "category": "tech",
+      "excerpt": "Modern large language models (LLMs) keep the feed-forward network (FFN) intermediate width identical across every layer, a convention inherited from the original Transformer. Yet mechanistic work suggests layers at different depths do qualitatively different work, raising a natural question: are the",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PINE: Point, Instance and Normal Estimation in One-Step Diffusion Model",
+      "url": "https://huggingface.co/papers/2611.29389",
+      "category": "tech",
+      "excerpt": "Understanding a scene requires both geometry and semantics: geometry recovers its spatial structure, and semantics separates it into objects. Current models obtain the two from separate networks or separate passes. We present PINE, a one-step Omni Diffusion Transformer that predicts the point map, t",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2611.30844",
+      "category": "tech",
+      "excerpt": "Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation roughly fixed, but still require substantial parameter storage. In this paper, we propose Dynamic Loo",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Separating Measurement Failures from Defence Failures in Split Language-Model Privacy",
+      "url": "https://huggingface.co/papers/2611.31752",
+      "category": "tech",
+      "excerpt": "Split-training privacy evaluations fail through distinct mechanisms. Evaluators can overlook an exposed gradient channel, align reconstructions against shifted labels, or deploy uncalibrated probes before testing a candidate defence, while calibrated attacks can also refute real defences. Separating",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SEEK: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation",
+      "url": "https://huggingface.co/papers/2611.33915",
+      "category": "tech",
+      "excerpt": "General-purpose multimodal foundation models enable robots to adapt during deployment from observations and execution feedback, without task-specific demonstrations or training. However, the robot retains what it learns only in the model's working context. Once the task ends, it loses this execution",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+      "url": "https://huggingface.co/papers/2611.31977",
+      "category": "tech",
+      "excerpt": "Looped transformers reuse one block of shared weights along the depth of the network. Recent looped diffusion transformers are trained from scratch, which repeats the full pretraining cost although strong pretrained non-looped diffusion transformers exist. We propose Distill to Loop (Dooop), which d",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "GRAPE-Bench: When Vision Degrades, Does Video Reasoning Hold?",
+      "url": "https://huggingface.co/papers/2611.33020",
+      "category": "tech",
+      "excerpt": "Despite strong performance on standard benchmarks, video reasoning models remain vulnerable to visual degradation, raising concerns about their reliability in safety-critical scenarios. Existing benchmarks address this concern in part by simulating visual degradation or probing model reasoning with ",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "AdProducer: Towards Agentic Advertising Video Generation",
+      "url": "https://huggingface.co/papers/2611.31466",
+      "category": "tech",
+      "excerpt": "Recent advances in video generation have made automated advertising production increasingly feasible. However, an effective advertisement must faithfully represent the product and communicate its selling points through compelling visual storytelling, which requires more than visual synthesis: it cal",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning",
+      "url": "https://huggingface.co/papers/2611.32918",
+      "category": "tech",
+      "excerpt": "Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmarks by 35 points on average, and that these losses track a collapse in answer length: fine-tuned models at leas",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CONCOR: Benchmarking Contrastive Decoding for Visual Hallucination Mitigation Beyond Final-Output Performance",
+      "url": "https://huggingface.co/papers/2611.30460",
+      "category": "tech",
+      "excerpt": "Contrastive decoding (CD) mitigates object hallucination in multimodal large language models (MLLMs) by contrasting token distributions under different conditions to adjust token scores. However, existing generative and discriminative benchmarks primarily measure final task scores, which can be conf",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 2"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "https://huggingface.co/papers/2611.27962",
+      "category": "tech",
+      "excerpt": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same order, and optimizes the weights within. This uniformity is a convention rather than a",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "meta": "👍 2"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering",
+      "url": "https://huggingface.co/papers/2611.30017",
+      "category": "tech",
+      "excerpt": "We present OWE-Bench (OpenWorldEngineer-Bench), a benchmark of 26 long-horizon engineering tasks written by domain experts in software engineering, physical engineering, machine learning, and scientific computing. Tasks range from optimizing kernels and designing an aircraft, to identifying the faul",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 2"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2611.30963",
+      "category": "tech",
+      "excerpt": "Robotic manipulation policies can improve action prediction by anticipating how objects move and how their spatial relationships change. World Action Models (WAMs) learn to predict future visual observations, but their training objectives typically leave the underlying 3D geometric transitions impli",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 2"
+    }
+  ]
+}

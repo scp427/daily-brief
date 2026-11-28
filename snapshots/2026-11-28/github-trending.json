@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "github-trending",
+  "fetchedAt": "2026-11-28T04:10:15.707Z",
+  "ok": true,
+  "itemCount": 16,
+  "durationMs": 1354,
+  "items": [
+    {
+      "sourceId": "github-trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "category": "tech",
+      "excerpt": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "meta": "Python · ★ 26,269 · 🍴 2,693 · 📈 1,608 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "category": "tech",
+      "excerpt": "An agentic skills framework & software development methodology that works.",
+      "meta": "Shell · ★ 328,414 · 🍴 29,189 · 📈 922 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "category": "tech",
+      "excerpt": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "meta": "Python · ★ 67,076 · 🍴 6,171 · 📈 666 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "category": "tech",
+      "excerpt": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "meta": "Python · ★ 72,269 · 🍴 9,451 · 📈 660 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "category": "tech",
+      "excerpt": "Cursor plugin specification and official plugins",
+      "meta": "TypeScript · ★ 20,039 · 🍴 2,241 · 📈 243 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "category": "tech",
+      "excerpt": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "meta": "TypeScript · ★ 211,766 · 🍴 11,149 · 📈 822 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "category": "tech",
+      "excerpt": "The official NGINX Open Source repository.",
+      "meta": "C · ★ 33,685 · 🍴 8,486 · 📈 146 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "category": "tech",
+      "excerpt": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "meta": "C++ · ★ 12,968 · 🍴 3,812 · 📈 151 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "category": "tech",
+      "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "meta": "HTML · ★ 74,517 · 🍴 5,029 · 📈 725 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "category": "tech",
+      "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "meta": "Python · ★ 76,429 · 🍴 6,798 · 📈 675 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "category": "tech",
+      "excerpt": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "meta": "TypeScript · ★ 13,629 · 🍴 1,631 · 📈 311 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "category": "tech",
+      "excerpt": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "meta": "Shell · ★ 7,992 · 🍴 602 · 📈 530 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "category": "tech",
+      "excerpt": "The open-source agent for CI/CD reliability.",
+      "meta": "Python · ★ 16,176 · 🍴 2,162 · 📈 328 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "category": "tech",
+      "excerpt": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "meta": "TypeScript · ★ 79,519 · 🍴 5,843 · 📈 474 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "category": "tech",
+      "excerpt": "The only downloader you need. 下载器的集大成者。",
+      "meta": "Python · ★ 19,963 · 🍴 1,269 · 📈 836 stars today"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "category": "tech",
+      "excerpt": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "meta": "Python · ★ 17,667 · 🍴 2,498 · 📈 718 stars today"
+    }
+  ]
+}

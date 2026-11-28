@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-24T06:19:28.065Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 440,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Erases Nvidia Bounce on ‘Multiple Reasons’ to Be Short",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+      "category": "finance",
+      "excerpt": "Copper erased a one-day gain sparked by Jensen Huang’s return to Nvidia Corp., with prices tumbling back toward the $12,000-a-ton level in London as demand and interest-rate concerns returned to the fore.",
+      "publishedAt": "2026-11-24T02:38:19.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Warns Huang Comeback Doesn’t End ‘Malicious’ Risks From US",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us",
+      "category": "finance",
+      "excerpt": "Jensen Huang’s return to the helm of Nvidia Corp. restores the AI industry’s most prominent opponent of chip controls against China. Already, Beijing has signaled it sees little reason to expect Washington’s restrictions to ease.",
+      "publishedAt": "2026-11-24T06:12:55.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
+      "publishedAt": "2026-11-23T22:06:46.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
+      "category": "finance",
+      "excerpt": "Goldman Sachs Group Inc. said stabilizing South Korea’s currency would be a more effective way to curb inflation than raising interest rates, arguing that price pressures stem more from rising import costs than from strong domestic demand.",
+      "publishedAt": "2026-11-24T04:33:10.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
+      "category": "finance",
+      "excerpt": "The central banks of Singapore and China will expand ways for financial institutions to access yuan funding in the city-state to help finance a broader range of corporate activities, in another step to promote the currency’s international use.",
+      "publishedAt": "2026-11-24T04:50:54.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India Banking Cash Turns to Deficit, First Time Since June",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
+      "category": "finance",
+      "excerpt": "India’s banking-system liquidity slipped into deficit for the first time in about five months, as recent tax outflows drained cash from lenders.",
+      "publishedAt": "2026-11-23T08:42:10.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+      "category": "finance",
+      "excerpt": "Gold held a gain after surging Monday on the back of Jensen Huang’s surprise return to the helm of Nvidia Corp., which recharged bets on artificial intelligence and spurred rallies across markets.",
+      "publishedAt": "2026-11-24T00:06:57.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
+      "category": "finance",
+      "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping g",
+      "publishedAt": "2026-11-24T05:00:29.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Temasek-Backed M1, Starhub Merge in Singapore Telecoms Shakeup",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
+      "category": "finance",
+      "excerpt": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two major Singaporean telecommunications operators backed by state investor Temasek Holdings Pte.",
+      "publishedAt": "2026-11-24T01:07:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+      "category": "finance",
+      "excerpt": "US Treasuries gained across the curve as a drop in oil prices eased concerns about inflation, a notable move on a day when Jensen Huang’s return to Nvidia Corp. revived investor appetite for risk assets.",
+      "publishedAt": "2026-11-24T04:42:33.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+      "category": "finance",
+      "excerpt": "Asia’s AI trade came roaring back Tuesday, with chipmakers and data-center plays from Taiwan to Kuala Lumpur surging as Jensen Huang’s return to Nvidia unleashed a buying frenzy across a sector battered by weeks of doubts over the durability of the AI boom.",
+      "publishedAt": "2026-11-23T23:45:20.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "MSCI Says No Change in Indonesia Market Consultation Process",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
+      "category": "finance",
+      "excerpt": "US index compiler MSCI Inc. said Tuesday that it hadn’t changed its process for considering a downgrade of Indonesia’s stock-market status, a day after Bloomberg reported news of a meeting between the company’s chief executive and President Prabowo Subianto.",
+      "publishedAt": "2026-11-24T04:13:48.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 24",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+      "category": "finance",
+      "excerpt": "Oil pushed lower after sliding more than 3% in the previous session on cautious optimism over efforts to end the US-Iran war.",
+      "publishedAt": "2026-11-23T23:04:12.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
+      "category": "finance",
+      "excerpt": "Australia’s bond market is heading for its longest rally in over five months as mounting signs of economic weakness fuel bets the Reserve Bank’s next move will be an interest-rate cut.",
+      "publishedAt": "2026-11-24T04:06:12.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
+      "category": "finance",
+      "excerpt": "GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.",
+      "publishedAt": "2026-11-24T03:42:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
+      "category": "finance",
+      "excerpt": "Shares in Chinese cobalt producers surged after the Democratic Republic of Congo slapped an export ban on the battery metal from the end of the month in a bid to arrest a price decline.",
+      "publishedAt": "2026-11-24T03:17:56.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
+      "category": "finance",
+      "excerpt": "Japanese government bonds rallied across the curve after a three-day holiday, with gains holding even as domestic equities surged on easing concerns over the outlook for artificial intelligence investment.",
+      "publishedAt": "2026-11-24T03:07:20.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
+      "category": "finance",
+      "excerpt": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire.",
+      "publishedAt": "2026-11-24T01:29:41.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Margin Calls Rose in Taiwan Before Huang Return Fueled Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+      "category": "finance",
+      "excerpt": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
+      "publishedAt": "2026-11-23T10:11:28.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Malaysia Index Rejig Puts Tech, Power Stocks in Focus for 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-index-rejig-puts-tech-power-stocks-in-focus-for-2027",
+      "category": "finance",
+      "excerpt": "Malaysia is gearing up for the first major overhaul of its equity benchmark in 17 years, a shake-up that may channel more investor money into technology and energy companies just as traders rethink the profitability of the AI trade.",
+      "publishedAt": "2026-11-24T01:12:37.000Z"
+    }
+  ]
+}

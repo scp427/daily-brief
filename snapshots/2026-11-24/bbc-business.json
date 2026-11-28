@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-business",
+  "fetchedAt": "2026-11-24T06:19:28.084Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 11,
+  "items": [
+    {
+      "sourceId": "bbc-business",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "publishedAt": "2026-11-24T04:36:31.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "publishedAt": "2026-11-23T17:11:58.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "publishedAt": "2026-11-23T21:23:42.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "publishedAt": "2026-11-23T16:12:35.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "publishedAt": "2026-11-24T00:01:04.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "publishedAt": "2026-11-23T15:49:52.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "publishedAt": "2026-11-23T11:24:37.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Next data accessed in cyber breach",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+      "publishedAt": "2026-11-23T12:34:07.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "publishedAt": "2026-11-23T09:54:04.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "publishedAt": "2026-11-23T01:05:07.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "publishedAt": "2026-11-23T10:09:25.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "publishedAt": "2026-11-23T17:59:55.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "South East Water reports loss after supply issues",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+      "publishedAt": "2026-11-23T10:19:46.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "publishedAt": "2026-11-22T00:04:07.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "publishedAt": "2026-11-22T13:50:21.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "publishedAt": "2026-11-21T00:06:11.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "publishedAt": "2026-11-23T00:33:36.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "publishedAt": "2026-11-20T16:41:52.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "publishedAt": "2026-11-22T07:22:05.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "publishedAt": "2026-11-20T17:49:48.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "publishedAt": "2026-11-20T20:54:12.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "publishedAt": "2026-11-20T22:42:47.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "publishedAt": "2026-11-20T22:53:24.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "publishedAt": "2026-11-20T09:44:56.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "publishedAt": "2026-11-20T07:32:19.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "publishedAt": "2026-11-18T00:00:24.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "publishedAt": "2026-11-13T12:22:30.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "publishedAt": "2026-11-11T00:19:13.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "publishedAt": "2026-11-06T00:06:06.000Z"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-24T06:19:28.608Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 101,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "category": "society",
+      "excerpt": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+      "publishedAt": "2026-11-23T22:29:53.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+      "category": "society",
+      "excerpt": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
+      "publishedAt": "2026-11-23T22:17:59.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Some women in tech have concerns about Huang's return",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+      "category": "society",
+      "excerpt": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+      "publishedAt": "2026-11-23T22:03:57.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+      "category": "society",
+      "excerpt": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things Considered.",
+      "publishedAt": "2026-11-23T20:53:12.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+      "category": "society",
+      "excerpt": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+      "publishedAt": "2026-11-23T16:00:49.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "category": "society",
+      "excerpt": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.",
+      "publishedAt": "2026-11-23T14:53:41.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "category": "society",
+      "excerpt": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "publishedAt": "2026-11-23T12:42:03.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "category": "society",
+      "excerpt": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "publishedAt": "2026-11-23T10:16:33.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Mushroom supplements promise health benefits. What does the science say?",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+      "category": "society",
+      "excerpt": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+      "publishedAt": "2026-11-23T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "K is for kindness, but families worry the world has less of it",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+      "category": "society",
+      "excerpt": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
+      "publishedAt": "2026-11-23T10:00:00.000Z"
+    }
+  ]
+}

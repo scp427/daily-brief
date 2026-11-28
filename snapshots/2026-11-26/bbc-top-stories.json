@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-26T04:19:42.946Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 446,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK government set to publish new treaties agreed with EU",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "publishedAt": "2026-11-26T02:13:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "publishedAt": "2026-11-26T00:07:51.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Stalking law simplified to become one offence",
+      "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "publishedAt": "2026-11-26T00:02:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "publishedAt": "2026-11-26T00:08:07.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "BBC launches partnership with Met Office for weather coverage",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+      "publishedAt": "2026-11-26T00:12:37.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "publishedAt": "2026-11-25T22:19:38.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+      "publishedAt": "2026-11-25T20:11:46.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "publishedAt": "2026-11-25T22:18:06.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "publishedAt": "2026-11-25T21:31:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
+      "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
+      "publishedAt": "2026-11-25T15:42:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "publishedAt": "2026-11-25T23:18:27.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "publishedAt": "2026-11-26T00:24:48.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "publishedAt": "2026-11-26T00:22:18.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "publishedAt": "2026-11-26T00:23:27.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "publishedAt": "2026-11-26T00:24:25.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "publishedAt": "2026-11-25T23:26:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+      "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian.",
+      "publishedAt": "2026-11-26T01:01:31.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+      "url": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "How a wayward child from the north-east of England made it with the world's biggest band.",
+      "publishedAt": "2026-11-25T22:16:14.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Why has Poundland collapsed and what happens next?",
+      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+      "publishedAt": "2026-11-25T16:24:30.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Motorcycle rider who took stunning cricket catch found",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+      "publishedAt": "2026-11-25T23:50:02.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "publishedAt": "2026-11-25T19:38:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Hotels need 'minimum standards' to keep women safe",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3gnjeqe0o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "MPs hear calls for national hotel safety standards after an outcry over a sexual assault at a Travelodge.",
+      "publishedAt": "2026-11-25T20:45:18.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Top Gear is back': Gordon Ramsay announced as new host",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gne4wgz27o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "TV chef Gordon Ramsay will lead the new presenting line-up on BBC motoring show Top Gear as it returns to screens in 2028.",
+      "publishedAt": "2026-11-25T17:32:13.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "publishedAt": "2026-11-25T16:42:11.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+      "publishedAt": "2026-11-25T11:57:31.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Two men charged with trying to steal cufflinks and clock from royal home",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The court hears the items from the Sandringham estate are of an unknown value.",
+      "publishedAt": "2026-11-25T15:05:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The making of Band Aid's iconic Christmas hit 42 years on",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0025gmy/the-making-of-do-they-know-its-christmas?at_mid=Ic6fsbnoVI&at_campaign=The_Making_of_Do_They_Know_Its_Christmas&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0025gmy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Making_of_Do_They_Know_Its_Christmas&at_bbc_team=BBC",
+      "category": "society",
+      "excerpt": "Rare and unseen moments from the making of the hit single by charity supergroup Band Aid.",
+      "publishedAt": "2024-11-25T06:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "publishedAt": "2026-11-26T00:24:48.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+      "publishedAt": "2026-11-25T23:25:30.000Z"
+    }
+  ]
+}

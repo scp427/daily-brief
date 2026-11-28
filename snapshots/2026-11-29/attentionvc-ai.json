@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-28T17:09:16.137Z",
+  "ok": true,
+  "itemCount": 4,
+  "durationMs": 160,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "A Warning About AI to My Loved Ones",
+      "url": "https://x.com/nikolaj2030/status/2125996744718565514",
+      "category": "tech",
+      "excerpt": "To my dear friends and family, This is not my first attempt to write this letter. I have been privately worried about AI for years. I feel like I have a duty to warn you, because you deserve to learn",
+      "publishedAt": "2026-11-26T16:54:57.000Z",
+      "meta": "@nikolaj2030 · 4.0K 粉丝 · 171.3K 阅 · 704 赞 · 105 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Antigravity App Releases: v2.34.0 - v2.35.2",
+      "url": "https://x.com/erintwalsh_/status/2125741680427208811",
+      "category": "tech",
+      "excerpt": "TLDR: Antigravity App v2.34.0 through v2.35.2 brings Gemini 4 Neon, MCP App support, unlimited local conversation history, a built-in Conversation Management API, automatic startup resumption, and",
+      "publishedAt": "2026-11-26T00:01:25.000Z",
+      "meta": "@erintwalsh_ · 881 粉丝 · 75.0K 阅 · 509 赞 · 27 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Distilling Kimi-K3.1-Pro into Qwen3.8-27B: Teaching a model a new language",
+      "url": "https://x.com/togethercompute/status/2126025460416921661",
+      "category": "tech",
+      "excerpt": "While running some experiments we found out that Qwen3.8-27B, one of the most popular small language models (SLMs), can't write Lao, a Southwestern Tai language and the official language of Laos. If",
+      "publishedAt": "2026-11-26T18:49:04.000Z",
+      "meta": "@togethercompute · 66.9K 粉丝 · 43.5K 阅 · 534 赞 · 53 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Why I'm Bullish on MCP for 2027 ",
+      "url": "https://x.com/_philschmid/status/2125945282072297794",
+      "category": "tech",
+      "excerpt": "MCP went through the full hype cycle in the last 18 months. Early excitement turned into backlash and confusion fast, with context bloat as the main complaint. When Skills arrived, most developers",
+      "publishedAt": "2026-11-26T13:30:28.000Z",
+      "meta": "@_philschmid · 130.5K 粉丝 · 27.5K 阅 · 556 赞 · 47 转"
+    }
+  ]
+}

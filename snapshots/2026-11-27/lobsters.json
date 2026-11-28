@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-27T04:29:19.914Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 272,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Taking Email Back",
+      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T19:51:21.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T20:10:24.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+      "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T12:40:23.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "In defense of lock poisoning in Rust (2025)",
+      "url": "https://sunshowers.io/posts/on-poisoning/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T11:51:23.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T20:06:50.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Entering the Geminispace",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T22:43:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How WinHelp files work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T06:39:00.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Scott Aaronson on recent complexity theory AI achievements",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T21:52:52.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-27T01:50:42.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+      "url": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
+      "category": "tech",
+      "excerpt": "This is a shortened version of Alpöge's Lean proof of RH and GRH for Dirichlet L-functions (https://alpo.ge/remark.pdf), which was about 17 million lines. There are two editions proving the same five theorems: a readable one at about 300,000 lines (start at grh/GUIDE.md) and a compact one at about 7",
+      "publishedAt": "2026-11-25T22:26:56.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Typed indexes in Zig",
+      "url": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T22:48:44.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+      "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T09:45:42.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Browser tabs as a container runtime",
+      "url": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T04:57:04.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Make the Plan a Value",
+      "url": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T00:12:06.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Understanding \"You are not expected to understand this.\"",
+      "url": "https://www.taniwha.com/~paul/not.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T11:30:21.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Ambiguous Errors Are the Mind Killer",
+      "url": "https://amit.prasad.me/blog/ambiguous-errors",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T21:23:06.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "London Meetup - 13th December 2026",
+      "url": "https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026",
+      "category": "tech",
+      "excerpt": "Pub Address: The Counting House, 50 Cornhill, London, EC3V 3PD Date: Sunday 13th December 2026. Time: 1pm. Please do send me a direct message if you want to be added to the London Lobsters Whatsapp group.",
+      "publishedAt": "2026-11-26T16:09:08.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "The beauty of CSS mixins",
+      "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T01:02:17.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T00:54:10.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Qualcomm’s Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T08:02:18.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Optimizing Rustc's next trait solver",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T13:09:22.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "I Booted From My Tape Backup From 2002",
+      "url": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T03:56:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Update on a security incident involving 1Password’s backend systems",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T17:43:13.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T06:20:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Hints and hazards: pg_plan_advice in PG19",
+      "url": "https://clickhouse.com/blog/pg-plan-advice-postgresql-19",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-26T13:20:26.000Z"
+    }
+  ]
+}

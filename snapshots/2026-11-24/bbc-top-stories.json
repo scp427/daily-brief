@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-24T06:19:28.507Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 24,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "publishedAt": "2026-11-24T01:21:41.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+      "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+      "publishedAt": "2026-11-24T00:45:53.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Benefits review to suggest quicker payment for some disabled people",
+      "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+      "publishedAt": "2026-11-24T00:53:31.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "In March this year, the UK Home Office announced an \"emergency visa brake\" on study visas for applicants from Afghanistan.",
+      "publishedAt": "2026-11-24T06:00:47.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+      "publishedAt": "2026-11-24T00:00:47.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+      "url": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+      "publishedAt": "2026-11-23T22:01:09.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "publishedAt": "2026-11-24T02:15:59.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+      "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Colder weather continues for much of the UK with some ice and hill snow but milder and wetter in the south and west, as Simon King explains",
+      "publishedAt": "2026-11-24T00:03:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "State failing to keep public safe, warns victims' commissioner",
+      "url": "https://www.bbc.co.uk/news/articles/cr0jx7dw234jo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Claire Waxman tells the BBC Andy Burnham needs to put justice in his 10-year plan for government.",
+      "publishedAt": "2026-11-24T06:02:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "publishedAt": "2026-11-23T21:24:47.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "publishedAt": "2026-11-24T00:11:08.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Increasing numbers of corporate landlords could usher in big changes for renters",
+      "publishedAt": "2026-11-24T00:28:48.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The work of Number 10 North in Manchester has been kept largely away from the headlines since it opened in July.",
+      "publishedAt": "2026-11-24T00:31:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "publishedAt": "2026-11-24T00:01:04.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+      "publishedAt": "2026-11-24T06:01:37.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK papers:  'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The reinstatement of Nvidia's chief executive Jensen Huang is a major focus of Tuesday's front pages.",
+      "publishedAt": "2026-11-24T05:19:37.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "publishedAt": "2026-11-23T17:11:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "publishedAt": "2026-11-23T20:48:35.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "How Ukraine drone attacks on Russian ships unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Two Russian ships were hit by Ukrainian drones in Libya on Sunday, with verified videos showing huge fireballs, smoke plumes and sea drones attacking the vessels.",
+      "publishedAt": "2026-11-23T14:16:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+      "publishedAt": "2026-11-23T20:49:08.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "publishedAt": "2026-11-24T05:33:07.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The former Duke of York is expected to give evidence in the complex court case next month.",
+      "publishedAt": "2026-11-23T19:36:56.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Teenage girl stabbed multiple times by 14-year-old boy, murder trial told",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydn1zye23o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Lilly Jones's body was found near Duffryn Park in Blaina two days after she was reported missing.",
+      "publishedAt": "2026-11-23T17:24:13.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK to host 2035 Women's World Cup, Fifa confirms",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The United Kingdom will host a football World Cup for the first time since 1966.",
+      "publishedAt": "2026-11-23T15:09:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Cold War missile tucked away in a field hides love story for man's late wife",
+      "url": "https://www.bbc.co.uk/news/articles/cre3d45key2xo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Adrian Hyde and his wife Janette spent years talking about owning a military vehicle.",
+      "publishedAt": "2026-11-24T06:00:43.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
+      "publishedAt": "2026-11-23T22:43:39.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+      "publishedAt": "2026-11-23T22:31:27.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+      "publishedAt": "2026-11-23T16:30:59.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "publishedAt": "2026-11-23T23:26:35.000Z"
+    }
+  ]
+}

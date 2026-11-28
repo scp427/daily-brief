@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-25T05:00:34.947Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 101,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+      "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+      "publishedAt": "2026-11-24T22:49:41.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Nuclear test veterans speak to BBC about search for justice",
+      "url": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.",
+      "publishedAt": "2026-11-24T22:45:03.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Anthony Zurcher: With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "publishedAt": "2026-11-25T01:03:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+      "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+      "publishedAt": "2026-11-24T23:38:39.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "publishedAt": "2026-11-25T00:29:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "publishedAt": "2026-11-25T01:40:42.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Watch: China's Shenzhou-24 carries Pakistan's first astronaut into space",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "publishedAt": "2026-11-25T03:28:37.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "publishedAt": "2026-11-25T00:38:01.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "publishedAt": "2026-11-24T23:05:11.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "publishedAt": "2026-11-25T00:56:51.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Ministers ask public for views on changing age of consent",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved.",
+      "publishedAt": "2026-11-25T01:38:39.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "publishedAt": "2026-11-25T00:58:34.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "publishedAt": "2026-11-25T00:54:13.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "publishedAt": "2026-11-24T23:03:59.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+      "publishedAt": "2026-11-25T01:00:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "India's food inflation is broadening, squeezing household budgets.",
+      "publishedAt": "2026-11-25T01:02:13.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "publishedAt": "2026-11-25T00:30:52.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "UK papers: PIP benefits 'not fit for purpose' and Royal 'security scare'",
+      "url": "https://www.bbc.co.uk/news/articles/crq5v3g5jq13o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Many of the papers are leading on the findings of a government-commissioned review into personal independence payment.",
+      "publishedAt": "2026-11-25T01:34:53.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "publishedAt": "2026-11-25T00:34:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+      "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+      "publishedAt": "2026-11-25T01:51:43.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Substance released at Manchester concert could be linked to robberies, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+      "publishedAt": "2026-11-24T22:01:30.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The verdict follows a months-long trial in New York.",
+      "publishedAt": "2026-11-25T02:59:27.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+      "publishedAt": "2026-11-24T16:19:29.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "publishedAt": "2026-11-25T04:49:55.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Will there be a White Christmas this year?",
+      "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+      "publishedAt": "2026-11-25T01:03:24.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Bake Off winner crowned after high-stakes final",
+      "url": "https://www.bbc.co.uk/news/articles/cm894exd27j2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Judge Nigella Lawson describes the three finalists as \"sensational\" bakers.",
+      "publishedAt": "2026-11-24T21:40:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+      "publishedAt": "2026-11-24T23:17:42.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Bellingham plays down Zidane comparison after wonder goal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+      "publishedAt": "2026-11-24T23:54:10.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Arteta says Arsenal need more luck to kill off games",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+      "publishedAt": "2026-11-24T23:44:04.000Z"
+    }
+  ]
+}

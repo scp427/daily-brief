@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-26T04:19:41.380Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 246,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "XPENG Turing World Model WorldGPT: Opening the Cross-Embodiment Imagination for Physical AI",
+      "url": "https://x.com/XPENG_Global/status/2125227181026799956",
+      "category": "tech",
+      "excerpt": "XPENG Turing World Model family has a new member: WorldGPT, a world action model. Within XPENG's Physical AI framework, WorldGPT serves as a cloud-based teacher model. It builds on a foundation model",
+      "publishedAt": "2026-11-24T13:56:59.000Z",
+      "meta": "@XPENG_Global · 432.2K 粉丝 · 771.0K 阅 · 518 赞 · 28 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How I Turn Any Sketch Into a 3D House You Can Walk Through",
+      "url": "https://x.com/Nyxera0x/status/2125210356238762233",
+      "category": "tech",
+      "excerpt": "I gave Claude Code a pen sketch. It built the house on top of the drawing from 2,444 parts, every board, tatami mat and shoji strip its own object, then walked me inside. Below: the free skill, every",
+      "publishedAt": "2026-11-24T12:50:08.000Z",
+      "meta": "@Nyxera0x · 23.7K 粉丝 · 548.9K 阅 · 504 赞 · 49 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Human empowerment in a few fake graphs",
+      "url": "https://x.com/boazbaraktcs/status/2124884201283485934",
+      "category": "tech",
+      "excerpt": "One view of AI’s trajectory can be captured by this “fake graph” (with the gray region reflecting roughly where we are): AI is improving in intelligence while human intelligence is fixed. At some",
+      "publishedAt": "2026-11-23T15:14:06.000Z",
+      "meta": "@boazbaraktcs · 38.0K 粉丝 · 503.3K 阅 · 988 赞 · 130 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "My Top 10 RSI Papers of 2026",
+      "url": "https://x.com/omarsar0/status/2125234668396023943",
+      "category": "tech",
+      "excerpt": "Recursive self-improvement (RSI) is when an AI system can effectively edit and improve its own prompts, tools, harness, memory, code, or weights. The edited system then makes the next round of edits.",
+      "publishedAt": "2026-11-24T14:26:44.000Z",
+      "meta": "@omarsar0 · 331.2K 粉丝 · 132.9K 阅 · 500 赞 · 68 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Make Grok Bot Do What You Saved for Later",
+      "url": "https://x.com/liam_fallen/status/2125248925334454647",
+      "category": "tech",
+      "excerpt": "I've got loads of useful things sitting in my X bookmarks. Tutorials I saved to follow, tools I wanted to try, prompts I never tested and GitHub projects I was going to check out. Most of them haven't",
+      "publishedAt": "2026-11-24T15:23:23.000Z",
+      "meta": "@liam_fallen · 9.8K 粉丝 · 117.6K 阅 · 574 赞 · 100 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "The Complete Guide to Creating Consistent AI Characters for UGC",
+      "url": "https://x.com/spwfeijen/status/2125583716764340637",
+      "category": "tech",
+      "excerpt": "The Video I Made Why Characters Fall Apart Across Scenes Same prompt, same reference — different face every time. Jawline shifts. Hair falls differently. Features drift slightly from scene to",
+      "publishedAt": "2026-11-25T13:33:44.000Z",
+      "meta": "@spwfeijen · 35.9K 粉丝 · 116.0K 阅 · 707 赞 · 55 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How To Make Viral 2.5D Stickman Animations With Claude (Free Kit Inside)",
+      "url": "https://x.com/caesarscales/status/2125199782557991411",
+      "category": "tech",
+      "excerpt": "a cartoon short about an ancient jar got 32M views , its a bean head character inside a 3d world telling a story and the channel behind this posts 6 of these a week he got 100M views in the past 30",
+      "publishedAt": "2026-11-24T12:08:07.000Z",
+      "meta": "@caesarscales · 2.3K 粉丝 · 108.7K 阅 · 527 赞 · 76 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Unslop your UI: how I design with AI without it looking like AI",
+      "url": "https://x.com/eliakuratli/status/2124850779639181567",
+      "category": "tech",
+      "excerpt": "You know the look by now. Purple gradient. Sparkle emoji in the headline. Three cards with an icon in a glowing circle, and a tiny all caps label above every heading that nobody reads. Somehow the",
+      "publishedAt": "2026-11-23T13:01:18.000Z",
+      "meta": "@eliakuratli · 6.3K 粉丝 · 102.2K 阅 · 514 赞 · 23 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to build a software factory you'll actually use",
+      "url": "https://x.com/BHolmesDev/status/2125351601431089418",
+      "category": "tech",
+      "excerpt": "There are countless ways to define a software factory. This is the one we’ve used on our own team: An automation loop in the cloud that orchestrates agents to build better and better software over",
+      "publishedAt": "2026-11-24T22:11:23.000Z",
+      "meta": "@BHolmesDev · 50.3K 粉丝 · 60.2K 阅 · 512 赞 · 41 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Gemini Omni 1.2: Longer generations, scene extension, and precision editing now in Google Flow",
+      "url": "https://x.com/FlowbyGoogle/status/2124960667748737313",
+      "category": "tech",
+      "excerpt": "Gemini Omni Flash just leveled up in Google Flow, bringing powerful new capabilities alongside meaningful quality enhancements to unlock greater creative control and expand your visual storytelling",
+      "publishedAt": "2026-11-23T20:17:57.000Z",
+      "meta": "@FlowbyGoogle · 77.9K 粉丝 · 58.4K 阅 · 1.0K 赞 · 89 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing file slicing controls in the Gemini API",
+      "url": "https://x.com/GoogleAIStudio/status/2124928707529674979",
+      "category": "tech",
+      "excerpt": "The Gemini API now features native file slicing controls, allowing developers to specify targeted pages, sheet ranges, and media segments for the model to load server-side. This capability reduces",
+      "publishedAt": "2026-11-23T18:10:57.000Z",
+      "meta": "@GoogleAIStudio · 223.6K 粉丝 · 55.3K 阅 · 792 赞 · 50 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How Uber Evals 1 Million Agent Skill Invocations a Month",
+      "url": "https://x.com/UberEng/status/2125008806249930999",
+      "category": "tech",
+      "excerpt": "Skills at Enterprise Scale A skill is a Markdown file that teaches an AI agent to do one job well, such as creating a pull request, querying a metrics store, or outlining a weekly sales presentation.",
+      "publishedAt": "2026-11-23T23:29:14.000Z",
+      "meta": "@UberEng · 72.5K 粉丝 · 54.6K 阅 · 812 赞 · 87 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Gemini 4 Neon: Build an AI Agent team with the best Google model in 8 Steps ( Full-course ) ",
+      "url": "https://x.com/0xMovez/status/2125577359269019791",
+      "category": "tech",
+      "excerpt": "Gemini 4 Neon is the most underrated AI model of the month, and 99% of people are running it at a third of its power half of them tried it in a chat window, got a decent answer and went back to Claude",
+      "publishedAt": "2026-11-25T13:08:28.000Z",
+      "meta": "@0xMovez · 50.6K 粉丝 · 53.7K 阅 · 564 赞 · 43 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Pino: building an email client with stacks over a weekend",
+      "url": "https://x.com/karrisaarinen/status/2125485348407087532",
+      "category": "tech",
+      "excerpt": "At 7 PM on Friday, I asked Linear cloud coding agent to build me a personal email client from my Linear project. While I was on the couch watching Alone on TV, at 7:24pm I got a notification from",
+      "publishedAt": "2026-11-25T07:02:51.000Z",
+      "meta": "@karrisaarinen · 97.2K 粉丝 · 51.3K 阅 · 516 赞 · 9 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "A practical guide to shipping with Claude Code",
+      "url": "https://x.com/addyosmani/status/2125492213903978917",
+      "category": "tech",
+      "excerpt": "We just launched Claude Ship which can review your pull requests, work on fixes and approve the ones your team's policy allows. You may have a custom skill or workflow for these steps, but we wanted",
+      "publishedAt": "2026-11-25T07:30:08.000Z",
+      "meta": "@addyosmani · 499.4K 粉丝 · 42.3K 阅 · 542 赞 · 45 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Building Mont-Saint-Michel with Astra inside Unreal Engine",
+      "url": "https://x.com/UnrealEngine/status/2124911349775868138",
+      "category": "tech",
+      "excerpt": "Hi, I’m Quentin Marmier, Technical Art Director at Epic Games. I’ve been having a blast building a Mont-Saint-Michel-inspired level with Astra in Unreal Engine. Mont-Saint-Michel is a French island",
+      "publishedAt": "2026-11-23T17:01:59.000Z",
+      "meta": "@UnrealEngine · 601.3K 粉丝 · 37.6K 阅 · 593 赞 · 46 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "I reverse engineered Grok Bot, Muse and Instinct",
+      "url": "https://x.com/sarahfim/status/2125402373149557079",
+      "category": "tech",
+      "excerpt": "I had a lot of interest in my recent video where I talk about how bots like Grok Bot, Muse and Instinct really work under the hood. So I wanted to create a blog version for those of you that prefer",
+      "publishedAt": "2026-11-25T01:33:08.000Z",
+      "meta": "@sarahfim · 8.0K 粉丝 · 36.1K 阅 · 506 赞 · 38 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "5 Habits i changed when working with Gemini 4 Neon",
+      "url": "https://x.com/_philschmid/status/2125579472594223340",
+      "category": "tech",
+      "excerpt": "When you use a coding agent every day, your prompt is only a small part of what the model sees. System instructions, tool definitions, skills, and past turns fill the rest of the context window.",
+      "publishedAt": "2026-11-25T13:16:52.000Z",
+      "meta": "@_philschmid · 129.9K 粉丝 · 34.9K 阅 · 573 赞 · 28 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Welcome to November 23, 2026",
+      "url": "https://x.com/alexwg/status/2124861268607529386",
+      "category": "tech",
+      "excerpt": "The Singularity now has a y-axis. OpenAI's Jakub Pachocki published the lab's log-perplexity curve, placing transformative math and cyber below 0.8, while Mark Chen urged rivals to share theirs under",
+      "publishedAt": "2026-11-23T13:42:59.000Z",
+      "meta": "@alexwg · 74.8K 粉丝 · 29.5K 阅 · 500 赞 · 56 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Tidal Is Deleting, Rejecting, and Banning Fully AI-Generated Music ",
+      "url": "https://x.com/TIDAL/status/2125233598714487170",
+      "category": "tech",
+      "excerpt": "This year we introduced Tidal’s AI Policy to protect artists and keep listeners informed. Since then, we’ve been identifying, labeling, and demonetizing tracks we determined are 100% AI generated",
+      "publishedAt": "2026-11-24T14:22:29.000Z",
+      "meta": "@TIDAL · 390.6K 粉丝 · 11.1K 阅 · 738 赞 · 104 转"
+    }
+  ]
+}

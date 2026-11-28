@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-26T04:19:42.086Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 337,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "Early review of Disney’s ABC station licences blocked in blow to Trump",
+      "url": "https://www.ft.com/content/99acbf19-3a6f-4b4c-aa8c-77b8b7edb5e9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "US judge Loren AliKhan wrote that broadcast regulator’s chair had ‘taken President Trump’s rhetoric as his marching orders’",
+      "publishedAt": "2026-11-26T04:10:42.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Stocks advance in Asia after volatile US trading over AI risks",
+      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+      "category": "finance",
+      "excerpt": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+      "publishedAt": "2026-11-26T03:28:45.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+      "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+      "publishedAt": "2026-11-26T00:45:54.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Financier Todd Boehly strikes deal for Lukoil assets",
+      "url": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Shares in the Russian oil company have been frozen since Moscow’s full-scale invasion of Ukraine in 2022",
+      "publishedAt": "2026-11-25T23:18:32.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Poundland collapses into administration",
+      "url": "https://www.ft.com/content/cfa5222e-c629-4f8c-8d32-d4723e13b7f4?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Retailer’s demise follows criticism of US owner Gordon Brothers, which bought the business for less than £1 last year",
+      "publishedAt": "2026-11-25T22:46:13.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US Treasury financial crime watchdog hit by suspected cyber attack",
+      "url": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+      "publishedAt": "2026-11-25T22:24:37.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US stocks close lower in volatile session as AI trade remains under pressure",
+      "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
+      "publishedAt": "2026-11-25T21:26:33.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Light-activated nano-robots bring more drugs to the brain",
+      "url": "https://www.ft.com/content/95b7e73d-a884-42bb-9845-f0e305699664?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Research on mice suggests biodegradable agents may be able to deliver increased amounts of medication than other methods while causing less toxicity",
+      "publishedAt": "2026-11-25T19:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The fund manager’s dilemma over AI",
+      "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Assessing concentration risks may be more complicated than it seems",
+      "publishedAt": "2026-11-25T18:05:53.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Fragrance makers fined more than €500mn over Unilever price-fixing cartel",
+      "url": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "EU and UK impose penalties over illegal collusion arranged at beer and curry meetings in London and over WhatsApp",
+      "publishedAt": "2026-11-25T16:54:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nvidia fallout exposes China’s fragility on frontier AI",
+      "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+      "category": "finance",
+      "excerpt": "The lack of US-style capital markets and domestic commercial demand makes it difficult for Beijing to fuel innovation",
+      "publishedAt": "2026-11-25T16:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Saudi Arabia’s PIF seeks to sell 25% stake in Newcastle United",
+      "url": "https://www.ft.com/content/b1e4ec25-2d1f-454d-9ca6-596612cc37de?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Saudi wealth fund wants to raise capital to invest in Premier League football club’s infrastructure",
+      "publishedAt": "2026-11-25T15:32:47.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Why do economists struggle to forecast the impact of AI?",
+      "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+      "category": "finance",
+      "excerpt": "Frontier labs and officials present wildly different predictions for growth in the next few years",
+      "publishedAt": "2026-11-25T14:49:44.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Opec+’s largest members head for clash over oil production estimates",
+      "url": "https://www.ft.com/content/b24d5c8c-4c9b-48f0-b4a8-5f83eee2d3e9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Analysts expect Sunday’s meeting of the cartel and its allies to be ‘one of the most complicated in years’ as global markets swing back into oversupply",
+      "publishedAt": "2026-11-25T14:27:46.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’",
+      "url": "https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "State-backed group responds to growing angst about continent’s dependence on US technology",
+      "publishedAt": "2026-11-25T14:22:29.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Weil’s collapse ushers in law-firm M&A by the back door",
+      "url": "https://www.ft.com/content/7359e027-cc1c-43da-a528-d0e55c556780?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The industry is entering a period of greater volatility, leaving lawyers to wrestle with a new, hedge fund-like culture",
+      "publishedAt": "2026-11-25T14:11:00.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "EasyJet profits tumble 96% after fuel prices soar",
+      "url": "https://www.ft.com/content/8606f7ee-f98b-44f5-ae5a-120b696afca5?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Falling consumer demand also hits airline in final set of annual results before takeover by Apollo next year",
+      "publishedAt": "2026-11-25T11:53:14.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The investigations facing Nvidia and Jensen Huang",
+      "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Returning CEO and chipmaker face scrutiny from federal and state authorities, Congress and shareholders",
+      "publishedAt": "2026-11-25T11:25:34.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Heathrow seeks to pass on £300mn third runway planning costs to passengers",
+      "url": "https://www.ft.com/content/800abc68-933a-40f5-be6a-3e2f4a55ff88?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Airport wants permission from regulator to claw back money through higher traveller charges",
+      "publishedAt": "2026-11-25T11:24:03.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Shein to pay $100mn to resolve US allegations it deceived customers",
+      "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Regulators claim retailer made misleading claims on origin of its cotton fabrics and suppressed negative reviews",
+      "publishedAt": "2026-11-25T11:18:59.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "An $87bn debt gamble tests the limits of the Ellison family fortune",
+      "url": "https://www.ft.com/content/f269760e-e9e4-4bf9-b88b-a5daaa5b5b52?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The tech billionaire dynasty’s Hollywood ambitions have rattled credit markets and set the stage for thousands of lay-offs",
+      "publishedAt": "2026-11-25T11:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: Trump shelves plans for deals with Russia",
+      "url": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Also in today’s newsletter: Jensen Huang’s return, and the Iranian group behind Europe’s freezer hacks",
+      "publishedAt": "2026-11-25T10:50:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Under the hood of Global Auto Holdings",
+      "url": "https://www.ft.com/content/bdbeeeff-d7d9-4062-bf9f-b37f180485d5?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "A low-profile founder, a multi-continent collection of car dealerships, a slew of unexplained related-party transactions, and an IPO in the pipeline",
+      "publishedAt": "2026-11-25T10:00:04.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nationwide launches 99% mortgage for first-time buyers",
+      "url": "https://www.ft.com/content/f1041850-1ba9-443a-8d9e-76c4c3d1bec9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Aspiring property owners can borrow up to six times their income.",
+      "publishedAt": "2026-11-25T09:30:03.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "British household energy bills to soar 26% from January",
+      "url": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Energy regulator Ofgem says new three-month price cap reflects surge in wholesale cost of gas",
+      "publishedAt": "2026-11-25T07:58:42.000Z"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-25T05:00:33.667Z",
+  "ok": true,
+  "itemCount": 12,
+  "durationMs": 125,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Human empowerment in a few fake graphs",
+      "url": "https://x.com/boazbaraktcs/status/2124884201283485934",
+      "category": "tech",
+      "excerpt": "One view of AI’s trajectory can be captured by this “fake graph” (with the gray region reflecting roughly where we are): AI is improving in intelligence while human intelligence is fixed. At some",
+      "publishedAt": "2026-11-23T15:14:06.000Z",
+      "meta": "@boazbaraktcs · 38.0K 粉丝 · 503.3K 阅 · 988 赞 · 130 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "T3 Code: build ai agent teams with all frontier models (Full-Course)",
+      "url": "https://x.com/0xCodez/status/2124586834072330269",
+      "category": "tech",
+      "excerpt": "Most people running AI agents have the same desktop. Claude Code in one terminal. Codex in another. A Gemini tab behind them. Grok on the phone. And one human in the middle, copy-pasting context",
+      "publishedAt": "2026-11-22T19:32:28.000Z",
+      "meta": "@0xCodez · 0 粉丝 · 176.9K 阅 · 632 赞 · 65 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Make Grok Bot Do What You Saved for Later",
+      "url": "https://x.com/liam_fallen/status/2125248925334454647",
+      "category": "tech",
+      "excerpt": "I've got loads of useful things sitting in my X bookmarks. Tutorials I saved to follow, tools I wanted to try, prompts I never tested and GitHub projects I was going to check out. Most of them haven't",
+      "publishedAt": "2026-11-24T15:23:23.000Z",
+      "meta": "@liam_fallen · 9.8K 粉丝 · 117.6K 阅 · 574 赞 · 100 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Unslop your UI: how I design with AI without it looking like AI",
+      "url": "https://x.com/eliakuratli/status/2124850779639181567",
+      "category": "tech",
+      "excerpt": "You know the look by now. Purple gradient. Sparkle emoji in the headline. Three cards with an icon in a glowing circle, and a tiny all caps label above every heading that nobody reads. Somehow the",
+      "publishedAt": "2026-11-23T13:01:18.000Z",
+      "meta": "@eliakuratli · 6.3K 粉丝 · 102.2K 阅 · 514 赞 · 23 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "🥇Top AI Papers of the Week ",
+      "url": "https://x.com/dair_ai/status/2124510548070895895",
+      "category": "tech",
+      "excerpt": "1. Self-Improvement Memory Harness optimization is usually studied with one fixed model and one fixed benchmark. When either changes, the optimizer has to decide which parts of an evolved harness to",
+      "publishedAt": "2026-11-22T14:29:20.000Z",
+      "meta": "@dair_ai · 0 粉丝 · 82.4K 阅 · 560 赞 · 61 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Gemini Omni 1.2: Longer generations, scene extension, and precision editing now in Google Flow",
+      "url": "https://x.com/FlowbyGoogle/status/2124960667748737313",
+      "category": "tech",
+      "excerpt": "Gemini Omni Flash just leveled up in Google Flow, bringing powerful new capabilities alongside meaningful quality enhancements to unlock greater creative control and expand your visual storytelling",
+      "publishedAt": "2026-11-23T20:17:57.000Z",
+      "meta": "@FlowbyGoogle · 77.9K 粉丝 · 58.4K 阅 · 1.0K 赞 · 89 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Introducing file slicing controls in the Gemini API",
+      "url": "https://x.com/GoogleAIStudio/status/2124928707529674979",
+      "category": "tech",
+      "excerpt": "The Gemini API now features native file slicing controls, allowing developers to specify targeted pages, sheet ranges, and media segments for the model to load server-side. This capability reduces",
+      "publishedAt": "2026-11-23T18:10:57.000Z",
+      "meta": "@GoogleAIStudio · 223.6K 粉丝 · 55.3K 阅 · 792 赞 · 50 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How Uber Evals 1 Million Agent Skill Invocations a Month",
+      "url": "https://x.com/UberEng/status/2125008806249930999",
+      "category": "tech",
+      "excerpt": "Skills at Enterprise Scale A skill is a Markdown file that teaches an AI agent to do one job well, such as creating a pull request, querying a metrics store, or outlining a weekly sales presentation.",
+      "publishedAt": "2026-11-23T23:29:14.000Z",
+      "meta": "@UberEng · 72.5K 粉丝 · 54.6K 阅 · 812 赞 · 87 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Building Mont-Saint-Michel with Astra inside Unreal Engine",
+      "url": "https://x.com/UnrealEngine/status/2124911349775868138",
+      "category": "tech",
+      "excerpt": "Hi, I’m Quentin Marmier, Technical Art Director at Epic Games. I’ve been having a blast building a Mont-Saint-Michel-inspired level with Astra in Unreal Engine. Mont-Saint-Michel is a French island",
+      "publishedAt": "2026-11-23T17:01:59.000Z",
+      "meta": "@UnrealEngine · 601.3K 粉丝 · 37.6K 阅 · 593 赞 · 46 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Welcome to November 23, 2026",
+      "url": "https://x.com/alexwg/status/2124861268607529386",
+      "category": "tech",
+      "excerpt": "The Singularity now has a y-axis. OpenAI's Jakub Pachocki published the lab's log-perplexity curve, placing transformative math and cyber below 0.8, while Mark Chen urged rivals to share theirs under",
+      "publishedAt": "2026-11-23T13:42:59.000Z",
+      "meta": "@alexwg · 74.8K 粉丝 · 29.5K 阅 · 500 赞 · 56 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Superintelligence is Arriving",
+      "url": "https://x.com/alexandr_wang/status/2124636606959345776",
+      "category": "tech",
+      "excerpt": "Superintelligence is arriving. How humanity acts over the next year will have great consequence on what future world we live in. As someone who has spent much of my life in math and science, I see the",
+      "publishedAt": "2026-11-22T22:50:15.000Z",
+      "meta": "@alexandr_wang · 855.8K 粉丝 · 22.8K 阅 · 537 赞 · 63 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Tidal Is Deleting, Rejecting, and Banning Fully AI-Generated Music ",
+      "url": "https://x.com/TIDAL/status/2125233598714487170",
+      "category": "tech",
+      "excerpt": "This year we introduced Tidal’s AI Policy to protect artists and keep listeners informed. Since then, we’ve been identifying, labeling, and demonetizing tracks we determined are 100% AI generated",
+      "publishedAt": "2026-11-24T14:22:29.000Z",
+      "meta": "@TIDAL · 390.6K 粉丝 · 11.1K 阅 · 738 赞 · 104 转"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "aljazeera",
+  "fetchedAt": "2026-11-26T04:19:42.500Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 128,
+  "items": [
+    {
+      "sourceId": "aljazeera",
+      "title": "Colombian president taunts arrested supermarket hostage-takers",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+      "publishedAt": "2026-11-26T03:23:24.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+      "publishedAt": "2026-11-26T03:20:23.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "FIFA turns to influencers to promote U17 World Cup",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+      "publishedAt": "2026-11-26T03:00:51.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+      "publishedAt": "2026-11-26T02:03:03.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+      "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+      "publishedAt": "2026-11-26T01:40:13.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ukraine attacks Russian military base, says five planes struck",
+      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+      "publishedAt": "2026-11-26T01:39:46.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "ICE officers smash car window, pepper spray bystanders",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
+      "publishedAt": "2026-11-26T01:33:50.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Judges recommend prosecutors end corruption case against Netanyahu",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+      "publishedAt": "2026-11-26T01:08:43.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+      "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+      "publishedAt": "2026-11-26T00:52:56.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "ISIL blamed for multiple suicide attacks in Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+      "publishedAt": "2026-11-26T00:51:17.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Two Syrian security personnel killed in ISIL suicide attack",
+      "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Syrian forces say the attack in northeastern Syria's city of Hasakah involved four assailants who were all killed.",
+      "publishedAt": "2026-11-26T00:41:49.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Zambia bans protest against push to remove presidential term limits",
+      "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
+      "publishedAt": "2026-11-26T00:22:15.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "A meeting with Democrats over healthcare? Trump says he’s open to it",
+      "url": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
+      "publishedAt": "2026-11-26T00:18:49.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
+      "publishedAt": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+      "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+      "publishedAt": "2026-11-25T23:33:39.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "King tides and big waves batter coastal California",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+      "publishedAt": "2026-11-25T23:20:03.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+      "publishedAt": "2026-11-25T22:48:47.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+      "url": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+      "publishedAt": "2026-11-25T22:41:46.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Man United denied at Sporting as referee overshadows Fernandes double",
+      "url": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
+      "publishedAt": "2026-11-25T22:15:59.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+      "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+      "publishedAt": "2026-11-25T21:03:51.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+      "publishedAt": "2026-11-25T20:52:32.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Baby Aliyah steals the show during Australian Senate debate",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+      "publishedAt": "2026-11-25T20:42:41.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "What’s behind Europe’s protests?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Increase in protests and industrial disputes across EU and UK.",
+      "publishedAt": "2026-11-25T20:30:22.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+      "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
+      "publishedAt": "2026-11-25T20:29:22.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Migrant wrongly deported by Trump leaves US for Spain",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
+      "publishedAt": "2026-11-25T20:14:28.000Z"
+    }
+  ]
+}

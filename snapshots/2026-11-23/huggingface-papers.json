@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-papers",
+  "fetchedAt": "2026-11-23T03:02:06.466Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 161,
+  "items": [
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "url": "https://huggingface.co/papers/2611.21373",
+      "category": "tech",
+      "excerpt": "Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibili",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 57"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2611.26444",
+      "category": "tech",
+      "excerpt": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through envi",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 54"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "url": "https://huggingface.co/papers/2611.26409",
+      "category": "tech",
+      "excerpt": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual pe",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 46"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2611.26590",
+      "category": "tech",
+      "excerpt": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to special",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 43"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Posterior Matching Distillation",
+      "url": "https://huggingface.co/papers/2611.26629",
+      "category": "tech",
+      "excerpt": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student's output distribution to the teacher's. This matching is often driven by reve",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 39"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+      "url": "https://huggingface.co/papers/2611.26595",
+      "category": "tech",
+      "excerpt": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled ",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 39"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space",
+      "url": "https://huggingface.co/papers/2611.26107",
+      "category": "tech",
+      "excerpt": "Unified multimodal models aim to support visual understanding and generation within a single framework. However, prevailing approaches often separate their visual representations or backbone computation to accommodate the different requirements of these two tasks, which limits the degree of unificat",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 25"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+      "url": "https://huggingface.co/papers/2611.26380",
+      "category": "tech",
+      "excerpt": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the wearer's motion. Existing caption formats also offer limited support for combining detailed narration ",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 25"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "url": "https://huggingface.co/papers/2611.26073",
+      "category": "tech",
+      "excerpt": "Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decisions, the Alternative Annotator Test (Alt-Test) was introduced for dense settings where all items are a",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 23"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+      "url": "https://huggingface.co/papers/2611.25387",
+      "category": "tech",
+      "excerpt": "Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this very loop,",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 23"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+      "url": "https://huggingface.co/papers/2611.26414",
+      "category": "tech",
+      "excerpt": "Representative vision-language navigation (VLN) methods typically couple a vision-language model (VLM) brain with a learnable action head and fine-tune the VLM brain on navigation-domain data to predict geometric goals. However, such adaptation can substantially alter base VLM weights and degrade ge",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 22"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://huggingface.co/papers/2611.21885",
+      "category": "tech",
+      "excerpt": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite ",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 20"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
+      "url": "https://huggingface.co/papers/2611.26268",
+      "category": "tech",
+      "excerpt": "Mixture of Block Attention (MoBA) reduces long-context computation by selecting key-value (KV) blocks for each query. FlashMoBA implements MoBA efficiently but retains a fixed Top-k budget and query-centric schedule. Fixed Top-k applies one budget across different score distributions and couples rou",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 18"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
+      "url": "https://huggingface.co/papers/2611.26408",
+      "category": "tech",
+      "excerpt": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated training of these networks can contribute to the successes of weight-space programming. We present a ",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 17"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WM^MLLM: Turning MLLMs into World Models",
+      "url": "https://huggingface.co/papers/2611.24193",
+      "category": "tech",
+      "excerpt": "Video world models keep the world in the context of a generator, so a revisit is synthesized again and earlier edits can drift or disappear. We present WM^MLLM, the first interactive world model built on multimodal large language models (MLLMs), for persistent, editable world generation from a singl",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 16"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+      "url": "https://huggingface.co/papers/2611.26510",
+      "category": "tech",
+      "excerpt": "Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which uses natural-language skills to su",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 14"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "CompoundingKernel: Self-Improving from Zero to First",
+      "url": "https://huggingface.co/papers/2611.19230",
+      "category": "tech",
+      "excerpt": "We present CompoundingKernel, a self-improving agent system that writes GPU kernels by search. As of 2026-11-11, its generated kernels rank #1 on the public L1, L2 and Quantization boards of SOL-ExecBench (NVIDIA B200). They have held #1 on L1 since 2026-10-27, albeit a short loss on 2026-11-07. All",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 12"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
+      "url": "https://huggingface.co/papers/2611.20455",
+      "category": "tech",
+      "excerpt": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, old code and a handicapped BM25. To find out, we build Repo-Premium, a realistic repository-level cod",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 11"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2611.22666",
+      "category": "tech",
+      "excerpt": "Our aim is to accelerate autoregressive vision-language-action models (VLAs), which generate robot actions one token at a time. Speculative decoding makes this possible: a lightweight draft model proposes several tokens at once, and the VLA verifies them in a single pass, accepting only those that m",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "meta": "👍 11"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era",
+      "url": "https://huggingface.co/papers/2611.26286",
+      "category": "tech",
+      "excerpt": "Peer review relies on several readers finding different problems. We measure critique overlap in conference and journal reviews. At ICLR, measured overlap rose from 12.0% in 2026 to 21.3% in 2027, in reviews from the same stage of the review process, with year-on-year rises at NeurIPS, ICML and the ",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 10"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+      "url": "https://huggingface.co/papers/2611.21053",
+      "category": "tech",
+      "excerpt": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call propagates through every later step. Here we present a method to",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SpecWM: Turning Verification into Refinement for Streaming World Models",
+      "url": "https://huggingface.co/papers/2611.26211",
+      "category": "tech",
+      "excerpt": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference. Existing speculative methods combine their strengths through fast draft generation and selective target regeneration guided by rewards on decoded",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights",
+      "url": "https://huggingface.co/papers/2611.26450",
+      "category": "tech",
+      "excerpt": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters. We introduce closed-form, zero-gradient circuit-grafting primitives that compile deterministic computation directly into pretrained LM weights using zero tra",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs",
+      "url": "https://huggingface.co/papers/2611.26248",
+      "category": "tech",
+      "excerpt": "AI agents are increasingly expected to act as AI scientists, which requires three increasingly open abilities: carrying out a given computational workflow correctly, choosing the next measurements from a given design space, and designing their own experiments. Existing benchmarks mainly evaluate the",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 7"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+      "url": "https://huggingface.co/papers/2611.26511",
+      "category": "tech",
+      "excerpt": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels. Despite their architectural differences, these ",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 6"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks",
+      "url": "https://huggingface.co/papers/2611.25179",
+      "category": "tech",
+      "excerpt": "Simulated manipulation benchmarks measure policy performance using hand-written success checkers that label each episode as a success or failure. Passing an expert demonstration shows that a checker accepts one way of completing the task. Learned policies, however, may stop after partial progress or",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments",
+      "url": "https://huggingface.co/papers/2611.00911",
+      "category": "tech",
+      "excerpt": "Decision-making in humans and AI involves multiple cognitive abilities. System One decision models produce fast, structured choices. Their cognitive strengths and limitations, however, remain poorly understood. We introduce S1CogBench, a benchmark of 24 established cognitive tasks and 27 evaluation ",
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions",
+      "url": "https://huggingface.co/papers/2611.26298",
+      "category": "tech",
+      "excerpt": "As multimodal large language models (MLLMs) become increasingly integrated into everyday life, their ability to provide safe and reliable assistance in realistic daily activities remains insufficiently explored. Existing safety benchmarks primarily focus on isolated harmful requests or adversarial s",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning",
+      "url": "https://huggingface.co/papers/2611.25776",
+      "category": "tech",
+      "excerpt": "Supervised fine-tuning (SFT) is the stage in which Video Large Language Models (VideoLLMs) advance their capability to reason over video. However, the VideoLLM also learns to answer from textual regularities of its training data, a shortcut that bypasses the video. The regularities behind the shortc",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "In Situ Training of Optical Neural Networks by Coding Agents",
+      "url": "https://huggingface.co/papers/2611.23875",
+      "category": "tech",
+      "excerpt": "Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated digital model of each device or on gradient-free trial and error. Coding agents, large language mode",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "meta": "👍 3"
+    }
+  ]
+}

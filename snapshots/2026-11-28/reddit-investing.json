@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "reddit-investing",
+  "fetchedAt": "2026-11-28T04:10:16.591Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 106,
+  "items": [],
+  "error": "Unable to parse XML."
+}

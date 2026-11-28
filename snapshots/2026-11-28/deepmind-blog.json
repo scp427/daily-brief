@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "deepmind-blog",
+  "fetchedAt": "2026-11-28T04:10:15.025Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 237,
+  "items": [],
+  "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+}

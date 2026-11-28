@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-tech",
+  "fetchedAt": "2026-11-28T04:10:16.136Z",
+  "ok": true,
+  "itemCount": 21,
+  "durationMs": 296,
+  "items": [
+    {
+      "sourceId": "bbc-tech",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "With an official PC version potentially still months away, fans are getting impatient.",
+      "publishedAt": "2026-11-28T01:30:50.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "publishedAt": "2026-11-27T00:02:19.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "publishedAt": "2026-11-26T23:08:12.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "publishedAt": "2026-11-26T09:27:44.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The verdict follows a months-long trial in New York.",
+      "publishedAt": "2026-11-25T10:52:09.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+      "publishedAt": "2026-11-25T10:11:34.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+      "publishedAt": "2026-11-25T10:03:12.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "publishedAt": "2026-11-25T03:44:07.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "publishedAt": "2026-11-25T00:34:05.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "publishedAt": "2026-11-24T18:21:43.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+      "publishedAt": "2026-11-24T09:33:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "publishedAt": "2026-11-23T23:16:08.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "publishedAt": "2026-11-23T21:23:42.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Experts from around the world plot the progress of AI development every five years.",
+      "publishedAt": "2026-11-24T21:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "publishedAt": "2026-11-17T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "publishedAt": "2026-11-10T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "publishedAt": "2026-11-03T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "publishedAt": "2026-11-28T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+      "publishedAt": "2026-11-21T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "publishedAt": "2026-10-10T01:00:00.000Z"
+    }
+  ]
+}

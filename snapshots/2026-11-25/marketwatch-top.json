@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "marketwatch-top",
+  "fetchedAt": "2026-11-25T05:00:34.328Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 40,
+  "items": [
+    {
+      "sourceId": "marketwatch-top",
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "publishedAt": "2026-11-25T02:00:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "publishedAt": "2026-11-25T01:11:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "publishedAt": "2026-11-25T00:05:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "publishedAt": "2026-11-24T23:11:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "publishedAt": "2026-11-24T21:53:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "publishedAt": "2026-11-24T21:46:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "publishedAt": "2026-11-24T21:45:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "url": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "publishedAt": "2026-11-24T21:31:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "“Retirement is a financial status, not an age.”",
+      "publishedAt": "2026-11-24T21:30:00.000Z"
+    },
+    {
+      "sourceId": "marketwatch-top",
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "category": "finance",
+      "excerpt": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+      "publishedAt": "2026-11-24T21:22:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube-ai-engineer",
+  "fetchedAt": "2026-11-27T04:29:19.639Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 339,
+  "items": [],
+  "error": "youtube youtube-ai-engineer: HTTP 503"
+}

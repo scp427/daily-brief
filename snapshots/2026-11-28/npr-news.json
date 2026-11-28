@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-28T04:10:17.064Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 58,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+      "category": "society",
+      "excerpt": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+      "publishedAt": "2026-11-27T11:59:02.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+      "category": "society",
+      "excerpt": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+      "publishedAt": "2026-11-27T11:49:50.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+      "category": "society",
+      "excerpt": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade.",
+      "publishedAt": "2026-11-27T10:59:36.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Can luxury save Macy's?",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+      "category": "society",
+      "excerpt": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
+      "publishedAt": "2026-11-27T10:01:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+      "category": "society",
+      "excerpt": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+      "publishedAt": "2026-11-27T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+      "category": "society",
+      "excerpt": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
+      "publishedAt": "2026-11-27T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "category": "society",
+      "excerpt": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+      "publishedAt": "2026-11-27T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+      "category": "society",
+      "excerpt": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.",
+      "publishedAt": "2026-11-27T09:47:08.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "New balloons will fly in the postponed 100th Macy's Thanksgiving Day Parade",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6043796/new-balloons-will-fly-in-the-postponed-100th-macys-thanksgiving-day-parade",
+      "category": "society",
+      "excerpt": "Some new balloons are set to fly in the weather-delayed Macy's Thanksgiving Day Parade.",
+      "publishedAt": "2026-11-27T09:45:12.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
+      "category": "society",
+      "excerpt": "Eagles QB Joe Milton threw two long touchdowns against the quarterback's former team, the Dallas Cowboys, for the the start of quite a comeback, after being down 31-10 early in the third quarter.",
+      "publishedAt": "2026-11-27T08:23:12.000Z"
+    }
+  ]
+}

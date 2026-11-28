@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "hackernews",
+  "fetchedAt": "2026-11-23T03:02:06.097Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 340,
+  "items": [
+    {
+      "sourceId": "hackernews",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "category": "tech",
+      "excerpt": "128 points · 21 comments",
+      "publishedAt": "2026-11-23T01:13:51.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "category": "tech",
+      "excerpt": "71 points · 8 comments",
+      "publishedAt": "2026-11-22T10:59:56.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "category": "tech",
+      "excerpt": "274 points · 120 comments",
+      "publishedAt": "2026-11-22T21:01:16.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "category": "tech",
+      "excerpt": "379 points · 179 comments",
+      "publishedAt": "2026-11-22T19:10:34.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "category": "tech",
+      "excerpt": "127 points · 13 comments",
+      "publishedAt": "2026-11-18T15:43:29.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "category": "tech",
+      "excerpt": "108 points · 45 comments",
+      "publishedAt": "2026-11-22T23:06:37.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "category": "tech",
+      "excerpt": "165 points · 75 comments",
+      "publishedAt": "2026-11-22T20:33:23.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "category": "tech",
+      "excerpt": "74 points · 14 comments",
+      "publishedAt": "2026-11-22T22:10:58.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "category": "tech",
+      "excerpt": "54 points · 15 comments",
+      "publishedAt": "2026-11-22T21:33:12.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
+      "category": "tech",
+      "excerpt": "106 points · 12 comments",
+      "publishedAt": "2026-11-22T20:15:59.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "category": "tech",
+      "excerpt": "504 points · 348 comments",
+      "publishedAt": "2026-11-22T17:06:27.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "category": "tech",
+      "excerpt": "167 points · 145 comments",
+      "publishedAt": "2026-11-22T23:12:10.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "category": "tech",
+      "excerpt": "77 points · 42 comments",
+      "publishedAt": "2026-11-22T19:41:30.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What we learned operating auth for 1k APIs",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "category": "tech",
+      "excerpt": "9 points · 2 comments",
+      "publishedAt": "2026-11-23T01:01:11.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "category": "tech",
+      "excerpt": "464 points · 269 comments",
+      "publishedAt": "2026-11-22T19:20:15.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Advanced Character Physics (2001) [pdf]",
+      "url": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
+      "category": "tech",
+      "excerpt": "3 points · 0 comments",
+      "publishedAt": "2026-11-23T02:17:27.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "category": "tech",
+      "excerpt": "30 points · 10 comments",
+      "publishedAt": "2026-11-22T22:18:48.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "category": "tech",
+      "excerpt": "114 points · 108 comments",
+      "publishedAt": "2026-11-22T23:57:45.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "category": "tech",
+      "excerpt": "279 points · 65 comments",
+      "publishedAt": "2026-11-22T13:56:58.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Advice for Young Researchers",
+      "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+      "category": "tech",
+      "excerpt": "59 points · 20 comments",
+      "publishedAt": "2026-11-18T13:33:25.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How the World Draws the World",
+      "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
+      "category": "tech",
+      "excerpt": "10 points · 0 comments",
+      "publishedAt": "2026-11-20T14:20:15.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
+      "category": "tech",
+      "excerpt": "24 points · 6 comments",
+      "publishedAt": "2026-11-22T23:53:00.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+      "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+      "category": "tech",
+      "excerpt": "6 points · 0 comments",
+      "publishedAt": "2026-11-19T14:27:07.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "category": "tech",
+      "excerpt": "227 points · 215 comments",
+      "publishedAt": "2026-11-22T15:24:32.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "category": "tech",
+      "excerpt": "134 points · 42 comments",
+      "publishedAt": "2026-11-22T15:35:24.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Will the first approved psychedelic become a blockbuster?",
+      "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+      "category": "tech",
+      "excerpt": "30 points · 31 comments",
+      "publishedAt": "2026-11-22T21:13:10.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "category": "tech",
+      "excerpt": "1202 points · 682 comments",
+      "publishedAt": "2026-11-22T04:04:56.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A Better Vocabulary for Testing",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "category": "tech",
+      "excerpt": "120 points · 29 comments",
+      "publishedAt": "2026-11-21T22:15:39.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "category": "tech",
+      "excerpt": "50 points · 6 comments",
+      "publishedAt": "2026-11-22T18:01:54.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "category": "tech",
+      "excerpt": "I started my career 15+ years ago doing native development (c, c++, etc), but the last decade I&#x27;ve been doing fullstack web applications.I&#x27;d like to transition closer to my roots with a job doing primarily c, c++ or rust. The natural place seems to be in embedded development or firmware wo",
+      "publishedAt": "2026-11-19T01:37:45.000Z"
+    }
+  ]
+}

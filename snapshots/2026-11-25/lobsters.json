@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-25T05:00:33.051Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 261,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+      "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T23:14:50.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T06:30:15.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T15:22:24.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Security incident on Hex.pm",
+      "url": "https://hex.pm/blog/security-incident-on-hexpm",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T14:52:19.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
+      "url": "https://mastodon.social/@pervognsen/117668394962974183",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T18:11:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T22:28:27.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "category": "tech",
+      "excerpt": "I have written a story about this on the Register, but of course I can't post that here. I think this is a quite astonishing effort and could make 9front considerably more usable... but it's bot-assisted, so I don't think they'll take it. Comments",
+      "publishedAt": "2026-11-24T18:37:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "A faster algorithm for extracting hexadecimal digits of π",
+      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T23:53:03.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Matrix Multiplication is Θ(n^2.25)",
+      "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T03:15:59.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T17:45:29.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-23T16:13:03.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "What VP != VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T02:10:30.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Bypassing iOS Safari 60 FPS Limit",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T10:35:19.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Lua for data representation",
+      "url": "https://citrons.xyz/journal/2025-07-23",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T00:22:05.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Fund browser-grade certificate checking for every TLS client",
+      "url": "https://upki.rustls.dev/funding.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T18:27:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection",
+      "url": "https://ii4gsp.github.io/iterm2-rce/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T14:06:14.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Nightmare mode: simulating disk failures",
+      "url": "https://antithesis.com/blog/2026/nightmare-mode/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T16:26:44.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "From formal verification to bug-finding in CHERIoT",
+      "url": "https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T23:52:41.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "cgo's pointer check is all over the place",
+      "url": "https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-23T23:36:14.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "FRSTPM, a completely useless 80287 instruction?",
+      "url": "https://www.os2museum.com/wp/a-completely-useless-instruction/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T02:04:56.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Signal is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-23T07:44:09.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Sneakernet",
+      "url": "https://sneakernet.eu/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-23T16:20:21.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "SeaStore: Redesigning Ceph’s Storage Backend for CPU-Efficient NVMe Performance",
+      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-24T16:35:47.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Showing a MessageBox from kernel-mode",
+      "url": "https://vollragm.github.io/posts/kernel-message-box/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-25T04:23:25.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+      "url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+      "category": "tech",
+      "excerpt": "related: Nearby Glasses (smart glasses detector android app) Comments",
+      "publishedAt": "2026-11-25T00:02:36.000Z"
+    }
+  ]
+}

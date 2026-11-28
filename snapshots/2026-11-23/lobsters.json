@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lobsters",
+  "fetchedAt": "2026-11-23T03:02:06.148Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 376,
+  "items": [
+    {
+      "sourceId": "lobsters",
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T21:49:18.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T20:10:15.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T02:03:46.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Falsehoods Programmers Believe About ATProto",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T16:37:12.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "NixOS bring-up on an Alibaba RISC-V board",
+      "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T00:30:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Calculate radio link placement and node amount for your city's mesh network",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "category": "tech",
+      "excerpt": "FSPL + Delta-Bullington based local-first WASM radio mesh network calculator with the end goal of making calls over mesh networks possible without pissing off anybody in the process (yes, I'm talking about you, Meshtastic maintainers). Feel free to tell me how this idea does or doesn't make sense an",
+      "publishedAt": "2026-11-22T18:17:44.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "What If Netscape Did SSL the HTTP Way?",
+      "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T14:48:20.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "scriptura: a cozy corner for your scripts",
+      "url": "https://alanpearce.eu/post/scriptura/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T19:13:26.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T15:03:28.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T23:10:07.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Testing Terraform with AWS Emulator",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T21:44:04.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Fixing Google’s Feedburner problem, and caching that half works",
+      "url": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-22T12:30:56.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "TODOs JJ Style",
+      "url": "https://bwc9876.dev/blog/jj_todo/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T15:17:18.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "port scanning for mojang",
+      "url": "https://sipacid.com/blog/port-scanning-for-mojang/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T23:40:51.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How I Got Postgres into a Single Binary",
+      "url": "https://progrium.xyz/articles/2026/single-binary-postgres",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T19:32:22.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T13:57:53.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Microsoft 365 Outage - Post Incident Report",
+      "url": "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T12:22:47.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Probabilistic data structures in Go, part 2",
+      "url": "https://antonz.org/probabilistic-data-structures-2/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T13:18:02.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "category": "tech",
+      "excerpt": "Here's the NVD page for the CVE with some additional useful context. Comments",
+      "publishedAt": "2026-11-22T00:52:23.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Levent Alpöge Claims Proof of Riemann Hypothesis",
+      "url": "https://alpo.ge/remark.pdf",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T14:46:49.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Changes on freedesktop.org",
+      "url": "https://blog.tenstral.net/2026/11/new-fdo-website.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T11:41:23.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Slopstrap: Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/l",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T00:46:40.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "How 2 Security Research (MLG)",
+      "url": "https://www.youtube.com/watch?v=dXQ_9WN6KLQ",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-21T16:57:15.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Vim Classic 8.3.1 released",
+      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T10:02:03.000Z"
+    },
+    {
+      "sourceId": "lobsters",
+      "title": "Announcing jj-musubi: live sync for Jujutsu",
+      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+      "category": "tech",
+      "excerpt": "Comments",
+      "publishedAt": "2026-11-20T09:39:11.000Z"
+    }
+  ]
+}

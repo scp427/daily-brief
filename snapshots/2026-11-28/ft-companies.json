@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-28T04:10:16.411Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 275,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "The Chinese car champion turning to police and nurse robots",
+      "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+      "publishedAt": "2026-11-28T01:00:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+      "publishedAt": "2026-11-27T23:00:08.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "US tech stocks rise in latest market swing",
+      "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "publishedAt": "2026-11-27T20:08:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "AI and the decryption nightmare",
+      "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "New breakthroughs call for faster upgrades to security, not panic",
+      "publishedAt": "2026-11-27T18:18:27.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Can AI crack encryption?",
+      "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "publishedAt": "2026-11-27T18:16:51.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Directors’ Deals: M&S chief offloads shares after they hit multiyear peak",
+      "url": "https://www.ft.com/content/ca9f958e-40a4-4fc4-b300-866343f9228f",
+      "category": "finance",
+      "excerpt": "£4mn sale follows encouraging interim results",
+      "publishedAt": "2026-11-27T18:00:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Thames Water seeks to delay debt repayments to secure £2.4bn emergency loan",
+      "url": "https://www.ft.com/content/f7c0d928-ed8b-4835-9a60-1acf098a98c1?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Fresh funding will keep the embattled utility afloat but pile on hundreds of millions of pounds in additional financing costs",
+      "publishedAt": "2026-11-27T17:33:17.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+      "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region",
+      "publishedAt": "2026-11-27T17:29:29.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK Department for Work and Pensions hit by cyber incident",
+      "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Agency says it has taken most of its online services down as it investigates possible attack",
+      "publishedAt": "2026-11-27T16:44:31.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Wave of cyber incidents rattles western economies",
+      "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+      "publishedAt": "2026-11-27T16:19:21.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Russia set to criminalise sharing information about Ukrainian strikes",
+      "url": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Moscow looks to extend wartime crackdown to pro-war bloggers and regular citizens posting about Kyiv’s drones hitting oil refineries",
+      "publishedAt": "2026-11-27T15:16:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "From Jobs to Jensen: tech’s metamorphosis",
+      "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+      "category": "finance",
+      "excerpt": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+      "publishedAt": "2026-11-27T15:10:17.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The reforms the NHS needs (and those it doesn’t)",
+      "url": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+      "category": "finance",
+      "excerpt": "Different age groups make totally different demands on healthcare — here’s what I learnt in adapting how the London Ambulance Service responds",
+      "publishedAt": "2026-11-27T13:27:45.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "EU weighs tighter export controls to prevent battery waste going to China",
+      "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+      "publishedAt": "2026-11-27T13:26:26.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "London is playing a game of penthouse one-upmanship",
+      "url": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+      "category": "finance",
+      "excerpt": "A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops",
+      "publishedAt": "2026-11-27T12:00:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Japanese carmakers’ sales collapse amid China market plunge",
+      "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic",
+      "publishedAt": "2026-11-27T11:31:30.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "If we say the pay, let’s mention the pension",
+      "url": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Disclosing pension contributions on job ads would get people talking about their retirement prospects",
+      "publishedAt": "2026-11-27T10:54:25.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
+      "url": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’",
+      "publishedAt": "2026-11-27T10:21:13.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Ladbrokes owner to settle Australia money laundering case",
+      "url": "https://www.ft.com/content/5fe8a858-6ed2-40f0-a0f3-e8742b7656aa?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing",
+      "publishedAt": "2026-11-27T09:51:44.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Sky-high WiFi will give airlines a shortlived boost",
+      "url": "https://www.ft.com/content/8a8d973e-e476-4578-80a9-26e9c6e5f912?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "What seems like an upgrade will soon be an everyday expectation, much like hotel WiFis",
+      "publishedAt": "2026-11-27T07:11:05.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+      "url": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Move comes after some global investors pulled out or scaled back teams in Asian financial hub",
+      "publishedAt": "2026-11-27T06:47:12.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "‘It’s not nation versus nation. It’s hyperscaler versus hyperscaler’",
+      "url": "https://www.ft.com/content/698d29bd-490b-41ef-a3e3-20edc2b591f7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Mining billionaire Robert Friedland on copper and war",
+      "publishedAt": "2026-11-27T06:30:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Business of Energy",
+      "url": "https://www.ft.com/content/5122d17d-341b-4ca1-8bae-b8ec2b52b797?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The world is struggling to keep up with the demand for power as renewables become an increasingly larger part of the energy mix. Here, FT writers look at some of the issues facing nuclear, electricity grids, the oil and gas industry and solar and wind generation",
+      "publishedAt": "2026-11-27T06:15:42.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Private credit’s ‘alpha’ problem",
+      "url": "https://www.ft.com/content/364fece7-4303-4ed9-afc9-47e953bd4e9f",
+      "category": "finance",
+      "excerpt": "Can direct lending really be replicated in public markets? Yes",
+      "publishedAt": "2026-11-27T06:00:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FirstFT: BoE’s Bailey warns of AI threat to encrypted financial data",
+      "url": "https://www.ft.com/content/f1669703-4e86-4ab0-b4d8-f43a40cb0294?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Also in today’s newsletter: tech sell-off and Meloni’s rebuke",
+      "publishedAt": "2026-11-27T05:30:19.000Z"
+    }
+  ]
+}

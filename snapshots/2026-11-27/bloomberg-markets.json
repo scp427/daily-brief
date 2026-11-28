@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-27T04:29:21.650Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 449,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 27",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+      "category": "finance",
+      "excerpt": "Oil was on track for the first weekly gain this month as attacks on energy infrastructure and tankers in the Middle East raised concerns escalating hostilities could disrupt exports.",
+      "publishedAt": "2026-11-26T23:05:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks Extend Recovery on AI Trade, Treasuries Dip: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "category": "finance",
+      "excerpt": "Global equities extended their recovery into a second straight day as buyers returned after weeks of volatility in the artificial intelligence trade. Treasuries fell as gains in equities sapped demand for haven assets.",
+      "publishedAt": "2026-11-26T21:59:57.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasuries Retreat as Gains in Equities Sap Demand for Havens",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+      "category": "finance",
+      "excerpt": "Treasuries fell in light trading as the market reopened after the Thanksgiving holiday, with gains in Asian equities damping demand for haven assets.",
+      "publishedAt": "2026-11-27T02:43:08.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "What’s Driving Hong Kong Home Rents to New Highs",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/what-s-driving-hong-kong-home-rents-to-new-highs-video",
+      "category": "finance",
+      "excerpt": "Habitat Property Founder and CEO Victoria Allan tells Bloomberg TV that competing offers are pushing Hong Kong rents higher as returning expatriates, increased bank hiring and more arrivals from mainland China tighten housing supply. (Source: Bloomberg)",
+      "publishedAt": "2026-11-27T03:41:24.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+      "category": "finance",
+      "excerpt": "Emerging-market equities in Asia were set for a weekly gain, clawing back some of a recent selloff as investors returned to technology shares and sentiment toward the artificial intelligence trade improved.",
+      "publishedAt": "2026-11-27T03:33:48.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Rebounds From 11-Month Low on Return of Risk Appetite",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+      "category": "finance",
+      "excerpt": "Copper extended its rebound from an 11-month low alongside technology stocks in Asia, as risk appetite returned across markets after weeks of volatility fueled by concerns over the artificial intelligence trade.",
+      "publishedAt": "2026-11-27T03:33:07.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan’s ‘Tokyo Drift’ Car Culture Draws Global Fans",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/japan-s-tokyo-drift-car-culture-draws-global-fans-video",
+      "category": "finance",
+      "excerpt": "The latest Japan bucket-list attraction: the world of the Fast & Furious movie franchise. Japan’s car scene is drawing fans from around the world as tourists flock to see rare Toyota and Nissan models immortalized by the movies. Stefan Nicola has more. (Source: Bloomberg)",
+      "publishedAt": "2026-11-27T03:18:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Korea Plans Market Meeting as Stock Swings Put Fund in Focus",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
+      "category": "finance",
+      "excerpt": "South Korean authorities will meet financial industry leaders Monday to assess recent market conditions following the central bank’s rate hike, with the country’s stock market stabilization fund also likely to come up, according to the Financial Services Commission.",
+      "publishedAt": "2026-11-27T01:22:32.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australia Passes Gas Reserve Law in Upset to LNG Exporters",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-set-to-pass-gas-reserve-law-in-upset-to-lng-exporters",
+      "category": "finance",
+      "excerpt": "Australia adopted a law requiring liquefied natural gas exporters to reserve as much as a fifth of their supply for the domestic market.",
+      "publishedAt": "2026-11-26T13:31:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "category": "finance",
+      "excerpt": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
+      "publishedAt": "2026-11-26T23:53:35.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+      "category": "finance",
+      "excerpt": "Firms have raised about $18.6 billion through IPOs this year, with a flurry of deals expected in December.",
+      "publishedAt": "2026-11-27T02:30:22.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
+      "category": "finance",
+      "excerpt": "The International Monetary Fund has flagged a series of emerging risks in Australia’s fast-growing pension system, including the challenge of keeping more assets liquid as a wave of workers enters retirement.",
+      "publishedAt": "2026-11-27T02:15:34.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+      "category": "finance",
+      "excerpt": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
+      "publishedAt": "2026-11-27T00:26:05.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
+      "category": "finance",
+      "excerpt": "Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is set to start trading Friday after its initial public offering in the first listing since India’s market regulator barred publishing so-called gray-market prices for IPO shares.",
+      "publishedAt": "2026-11-27T02:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "How Volatility is Undermining the Carry Trade",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
+      "category": "finance",
+      "excerpt": "The carry trade, in which investors borrow in currencies like the yen, euro, and dollar, is becoming harder to navigate after delivering strong returns earlier in the year. Bloomberg's Garfield Reynolds discusses how market changes are impacting the strategy's appeal. (Source: Bloomberg)",
+      "publishedAt": "2026-11-27T01:40:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Malaysia Says May Intervene If AirAsia’s Struggles Worsen",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-says-may-intervene-if-airasia-s-financial-woes-worsen",
+      "category": "finance",
+      "excerpt": "Malaysia may consider stepping in to support AirAsia Group Bhd. if the airline’s financial difficulties worsen, Second Finance Minister Amir Hamzah Azizan said, as the government seeks to protect domestic air connectivity.",
+      "publishedAt": "2026-11-26T11:22:52.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+      "category": "finance",
+      "excerpt": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges to tighten fiscal policy.",
+      "publishedAt": "2026-11-27T01:10:12.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+      "category": "finance",
+      "excerpt": "Brazilian assets gained after one of the country’s best-known bankers was named the new finance minister.",
+      "publishedAt": "2026-11-27T01:08:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Modi Critics Face Growing Constraints on Travel, Speech in India",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+      "category": "finance",
+      "excerpt": "When activist Saurav Das tried to board a flight from New Delhi to London this week, Indian authorities stopped him from leaving the country. Days earlier, a Norwegian journalist critical of Prime Minister Narendra Modi’s government faced the opposite problem: she was prevented from entering.",
+      "publishedAt": "2026-11-27T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
+      "category": "finance",
+      "excerpt": "The dollar is poised for its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
+      "publishedAt": "2026-11-26T23:44:27.000Z"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-entertainment",
+  "fetchedAt": "2026-11-28T04:10:16.968Z",
+  "ok": true,
+  "itemCount": 19,
+  "durationMs": 91,
+  "items": [
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+      "url": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
+      "publishedAt": "2026-11-27T14:33:10.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+      "publishedAt": "2026-11-27T14:06:20.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Five Gladiators will not return for new BBC series",
+      "url": "https://www.bbc.co.uk/news/articles/cm0jx92d07n5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The programme is set to feature a host of new faces when it returns to screens next year.",
+      "publishedAt": "2026-11-27T12:36:06.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "GTA 6 crashes into top end of music chart after its record launch",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Several songs on the game's soundtrack have climbed the UK's singles chart.",
+      "publishedAt": "2026-11-27T17:39:11.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+      "publishedAt": "2026-11-26T12:33:23.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "The little Welsh town that transformed a Strictly star's career",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2r8nr00mo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Layton Williams credits living and working in a small Welsh town with transforming his career.",
+      "publishedAt": "2026-11-27T22:03:22.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "BBC launches partnership with Met Office for weather coverage",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+      "publishedAt": "2026-11-26T00:12:37.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Veruschka: Striking images of one of the first supermodels, who has died aged 87",
+      "url": "https://www.bbc.co.uk/news/articles/cmn50ezxdnewo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Veruschka was a model and artist who became one of one of the first global fashion stars in the 1960s.",
+      "publishedAt": "2026-11-26T10:32:20.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Alun Wyn Jones urges men to talk about hair loss after transplant",
+      "url": "https://www.bbc.co.uk/news/articles/c5742dygzn31o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The former Wales captain said he wanted to encourage more men to talk openly about hair loss.",
+      "publishedAt": "2026-11-27T20:03:11.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "publishedAt": "2026-11-26T14:44:26.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "publishedAt": "2026-11-25T23:18:27.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Government's antisemitism adviser launches investigation into BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw782ml8ndgyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Lord Mann says he has launched the investigation after \"growing discomfort among Jewish BBC staff\".",
+      "publishedAt": "2026-11-26T12:02:58.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Rare panto programmes owned by 'Freddie Mercury of his time' sell at auction",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg2990y1pno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The life of Henry Paget was the focus of the biopic Madfabulous released earlier this year.",
+      "publishedAt": "2026-11-27T18:37:54.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Gig evacuation quarantine was traumatic, fans say",
+      "url": "https://www.bbc.co.uk/news/articles/cklywnlrwjexo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Don Toliver fans say they were asked to strip and held for hours after an evacuation at Co-op Live.",
+      "publishedAt": "2026-11-26T06:09:53.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+      "url": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "How a wayward child from the north-east of England made it with the world's biggest band.",
+      "publishedAt": "2026-11-25T22:16:14.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "DJ gets lucky after finding lost Daft Punk mixtape",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr08r9yljo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A Leeds DJ has rediscovered and restored a mix he was sent by the famous French duo several decades ago.",
+      "publishedAt": "2026-11-26T07:20:57.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "publishedAt": "2026-11-26T00:01:37.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
+      "publishedAt": "2026-11-25T06:28:22.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Fatbergs, feathers and flocks of sheep - inside the new London Museum",
+      "url": "https://www.bbc.co.uk/news/articles/cky9708qj7wdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The venue's new site at Smithfield Market opens on Saturday following a £437m restoration project.",
+      "publishedAt": "2026-11-25T05:50:53.000Z"
+    }
+  ]
+}

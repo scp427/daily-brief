@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "hackernews",
+  "fetchedAt": "2026-11-24T06:19:26.937Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 494,
+  "items": [
+    {
+      "sourceId": "hackernews",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "category": "tech",
+      "excerpt": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-board-reinstates-j...https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;11&#x2F;23&#x2F;nvidia-jensen-huang-congress...",
+      "publishedAt": "2026-11-23T14:00:18.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "category": "tech",
+      "excerpt": "356 points · 171 comments",
+      "publishedAt": "2026-11-23T22:32:29.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "category": "tech",
+      "excerpt": "1672 points · 386 comments",
+      "publishedAt": "2026-11-23T16:13:12.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "category": "tech",
+      "excerpt": "33 points · 12 comments",
+      "publishedAt": "2026-11-24T04:00:28.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "category": "tech",
+      "excerpt": "48 points · 1 comments",
+      "publishedAt": "2026-11-22T22:37:51.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "category": "tech",
+      "excerpt": "212 points · 78 comments",
+      "publishedAt": "2026-11-23T20:52:54.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "category": "tech",
+      "excerpt": "190 points · 44 comments",
+      "publishedAt": "2026-11-23T21:01:16.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Lowering Perplexity Without Scaling",
+      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+      "category": "tech",
+      "excerpt": "8 points · 0 comments",
+      "publishedAt": "2026-11-23T04:33:50.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Making a dumb TV just smart enough",
+      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+      "category": "tech",
+      "excerpt": "34 points · 13 comments",
+      "publishedAt": "2026-11-24T02:46:54.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "category": "tech",
+      "excerpt": "168 points · 54 comments",
+      "publishedAt": "2026-11-24T02:27:02.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "category": "tech",
+      "excerpt": "1468 points · 824 comments",
+      "publishedAt": "2026-11-23T17:07:26.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "category": "tech",
+      "excerpt": "968 points · 224 comments",
+      "publishedAt": "2026-11-23T19:17:55.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The search for a top dark matter candidate",
+      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "category": "tech",
+      "excerpt": "33 points · 16 comments",
+      "publishedAt": "2026-11-23T23:12:40.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "New material gets stronger the more it bends",
+      "url": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
+      "category": "tech",
+      "excerpt": "11 points · 4 comments",
+      "publishedAt": "2026-11-23T11:12:33.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Freeing the iPod Nano 5G",
+      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "category": "tech",
+      "excerpt": "83 points · 9 comments",
+      "publishedAt": "2026-11-23T23:03:13.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How photos were transmitted by wire in the 1930s (2024)",
+      "url": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
+      "category": "tech",
+      "excerpt": "38 points · 3 comments",
+      "publishedAt": "2026-11-20T21:47:06.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "category": "tech",
+      "excerpt": "327 points · 107 comments",
+      "publishedAt": "2026-11-21T09:14:02.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "category": "tech",
+      "excerpt": "51 points · 4 comments",
+      "publishedAt": "2026-11-23T22:29:48.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Power of GraphQL, Without GraphQL",
+      "url": "https://cobalt27.dev/",
+      "category": "tech",
+      "excerpt": "36 points · 18 comments",
+      "publishedAt": "2026-11-24T00:03:59.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "category": "tech",
+      "excerpt": "978 points · 170 comments",
+      "publishedAt": "2026-11-23T01:13:51.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Rune: Rust VM for Emacs",
+      "url": "https://github.com/CeleritasCelery/rune",
+      "category": "tech",
+      "excerpt": "19 points · 0 comments",
+      "publishedAt": "2026-11-24T02:30:47.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "category": "tech",
+      "excerpt": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchm",
+      "publishedAt": "2026-11-23T13:42:38.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "category": "tech",
+      "excerpt": "30 points · 15 comments",
+      "publishedAt": "2026-11-24T02:36:56.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "category": "tech",
+      "excerpt": "1097 points · 358 comments",
+      "publishedAt": "2026-11-23T10:06:43.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Derivative Flipping",
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "category": "tech",
+      "excerpt": "88 points · 13 comments",
+      "publishedAt": "2026-11-22T00:13:17.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "category": "tech",
+      "excerpt": "392 points · 300 comments",
+      "publishedAt": "2026-11-23T17:17:01.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Hacking radiators",
+      "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "category": "tech",
+      "excerpt": "13 points · 4 comments",
+      "publishedAt": "2026-11-24T02:56:41.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Online Backrooms",
+      "url": "https://onlinebackrooms.com/",
+      "category": "tech",
+      "excerpt": "3 points · 0 comments",
+      "publishedAt": "2026-11-24T04:42:02.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "category": "tech",
+      "excerpt": "110 points · 131 comments",
+      "publishedAt": "2026-11-22T15:59:59.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "category": "tech",
+      "excerpt": "Paper: https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;formal-math&#x2F;blob&#x2F;11b6c7e3c927d...",
+      "publishedAt": "2026-11-23T22:09:10.000Z"
+    }
+  ]
+}

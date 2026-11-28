@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-28T17:09:16.317Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 40,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "This new sports app is designed specifically for women’s sports",
+      "url": "https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/",
+      "category": "tech",
+      "excerpt": "A new sports app is looking to change the way fans engage with women’s sports — without real-money gambling.",
+      "publishedAt": "2026-11-28T16:43:39.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "category": "tech",
+      "excerpt": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "publishedAt": "2026-11-28T14:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "category": "tech",
+      "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "publishedAt": "2026-11-26T20:03:54.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "category": "tech",
+      "excerpt": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "publishedAt": "2026-11-26T20:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "category": "tech",
+      "excerpt": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "publishedAt": "2026-11-26T19:31:50.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "category": "tech",
+      "excerpt": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "publishedAt": "2026-11-26T17:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "category": "tech",
+      "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "category": "tech",
+      "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "publishedAt": "2026-11-25T22:44:32.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "category": "tech",
+      "excerpt": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "publishedAt": "2026-11-25T20:56:44.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "category": "tech",
+      "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "publishedAt": "2026-11-25T20:03:27.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "category": "tech",
+      "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "publishedAt": "2026-11-25T19:54:57.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "category": "tech",
+      "excerpt": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "publishedAt": "2026-11-25T19:54:32.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "category": "tech",
+      "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "publishedAt": "2026-11-25T19:44:24.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "category": "tech",
+      "excerpt": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "publishedAt": "2026-11-25T18:49:52.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "category": "tech",
+      "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "publishedAt": "2026-11-25T18:11:46.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "category": "tech",
+      "excerpt": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "publishedAt": "2026-11-25T17:36:51.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "category": "tech",
+      "excerpt": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "publishedAt": "2026-11-25T17:35:58.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "X’s latest update for creators focuses on vertical video",
+      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+      "category": "tech",
+      "excerpt": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+      "publishedAt": "2026-11-25T17:28:29.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+      "category": "tech",
+      "excerpt": "Users can schedule messages from 10 minutes later to after 14 days.",
+      "publishedAt": "2026-11-25T16:57:51.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
+      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "category": "tech",
+      "excerpt": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "publishedAt": "2026-11-25T15:08:37.000Z"
+    }
+  ]
+}

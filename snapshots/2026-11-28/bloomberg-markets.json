@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-28T04:10:16.222Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 319,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+      "category": "finance",
+      "excerpt": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation of Logistics and Purchasing.",
+      "publishedAt": "2026-11-28T03:01:44.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+      "category": "finance",
+      "excerpt": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+      "publishedAt": "2026-11-27T22:29:56.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+      "category": "finance",
+      "excerpt": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the US dollar, and how Bessemer evolved from a single family office to a $300 billion e",
+      "publishedAt": "2026-11-27T22:14:41.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Emerging-Market Stocks Snag Best Week Since June on Tech Rebound",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+      "category": "finance",
+      "excerpt": "Emerging-market stocks posted their biggest weekly gain since June as investors piled back into technology shares following a recent selloff, capping a volatile week across global markets.",
+      "publishedAt": "2026-11-27T03:33:48.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "category": "finance",
+      "excerpt": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+      "publishedAt": "2026-11-27T21:19:31.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Brazil’s Real Caps Best Week Since 2020 as Trabuco Lifts Mood",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+      "category": "finance",
+      "excerpt": "Brazilian markets rallied after President Luiz Inácio Lula da Silva picked one of the nation’s most prominent bankers to be his finance minister, easing the worries about his economic policies that triggered a deep selloff after his surprise re-election last month.",
+      "publishedAt": "2026-11-27T01:08:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+      "category": "finance",
+      "excerpt": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays.",
+      "publishedAt": "2026-11-27T21:05:05.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "category": "finance",
+      "excerpt": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
+      "publishedAt": "2026-11-26T21:59:57.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China Spurs Biggest Stock Gain Since 2024 on Rare Midday Vow",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+      "category": "finance",
+      "excerpt": "Chinese authorities gave markets a boost with a rare midday statement pledging support, sending stocks to their best day in more than two years.",
+      "publishedAt": "2026-11-27T05:00:23.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Colombia Peso Stumbles as Mounting Risks Test Rally",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/colombia-peso-stumbles-as-mounting-risks-test-carry-fueled-rally",
+      "category": "finance",
+      "excerpt": "The Colombian peso is headed for its worst month in more than four years as a toxic mix of trouble at home and abroad takes the shine off one of the year’s most resilient currencies.",
+      "publishedAt": "2026-11-27T16:37:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 27",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+      "category": "finance",
+      "excerpt": "Oil swung in thin trading as increasing attacks on energy infrastructure and tankers in the Middle East heightened supply fears.",
+      "publishedAt": "2026-11-26T23:05:38.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
+      "category": "finance",
+      "excerpt": "Pedro Sánchez rallied voters to turn out in Sunday’s national election during his final campaign event, in a last-minute attempt to pull off an upset.",
+      "publishedAt": "2026-11-27T20:24:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
+      "category": "finance",
+      "excerpt": "Bloomberg’s Romaine Bostick reports on how Exemplar Luxury Group, formerly known as Saks Global, is reinventing itself for a fresh start in luxury since emerging from bankruptcy earlier this year. Exemplar Luxury Group CEO Geoffroy van Raemdonck, FIT Associate Professor Shawn Grain Carter, Telsey Ad",
+      "publishedAt": "2026-11-25T23:18:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
+      "category": "finance",
+      "excerpt": "The dollar climbed toward its longest monthly winning streak in two years as a rupture in the artificial intelligence trade and rising interest rates spur demand for safe-haven assets.",
+      "publishedAt": "2026-11-26T23:44:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "category": "finance",
+      "excerpt": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
+      "publishedAt": "2026-11-26T23:53:35.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+      "category": "finance",
+      "excerpt": "US Treasuries fell as the market reopened after the Thanksgiving holiday, with gains in equities damping demand for haven assets.",
+      "publishedAt": "2026-11-27T02:43:08.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Surges Most in Seven Months as Risk Appetite Returns",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+      "category": "finance",
+      "excerpt": "Copper climbed the most since April, extending its rebound from an 11-month low earlier this week, as risk appetite returned after a rout fueled by concerns over the artificial intelligence trade.",
+      "publishedAt": "2026-11-27T03:33:07.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+      "category": "finance",
+      "excerpt": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "publishedAt": "2026-11-27T18:43:36.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+      "category": "finance",
+      "excerpt": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
+      "publishedAt": "2026-11-27T07:56:20.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Power Outages, Flood Risks Linger as Storm Leaves East Coast",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
+      "category": "finance",
+      "excerpt": "More than 400,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in Queens and Manhattan and inundated commuter rail lines in New Jersey on Thanksgiving Day.",
+      "publishedAt": "2026-11-27T14:20:06.000Z"
+    }
+  ]
+}

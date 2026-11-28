@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "simonwillison",
+  "fetchedAt": "2026-11-28T17:09:16.204Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 67,
+  "items": [
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-27T23:57:17.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-27T00:26:17.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-26T15:09:31.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-26T06:08:25.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-26T05:08:46.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Scott Aaronson",
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-25T23:26:32.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-charts 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-25T18:16:50.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T23:02:07.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T16:53:59.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-charts 0.2a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T06:07:19.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T04:24:29.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T03:45:57.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T23:40:49.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T21:46:35.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T00:37:20.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-22T19:45:06.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-21T23:56:28.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T19:21:49.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Levent Alpöge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T16:30:48.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.38.1",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T03:01:57.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T02:49:57.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "PostgreSQL 19 Released",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T20:43:57.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T23:59:20.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T17:09:59.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T15:58:27.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T14:44:48.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T22:52:29.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T22:38:52.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T16:48:33.000Z"
+    },
+    {
+      "sourceId": "simonwillison",
+      "title": "Quoting Go Proverbs",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T06:16:26.000Z"
+    }
+  ]
+}

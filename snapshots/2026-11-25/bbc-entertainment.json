@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-entertainment",
+  "fetchedAt": "2026-11-25T05:00:34.854Z",
+  "ok": true,
+  "itemCount": 21,
+  "durationMs": 24,
+  "items": [
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Substance released at concert could be linked to robberies, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+      "publishedAt": "2026-11-24T22:01:30.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Bake Off winner crowned after high-stakes final",
+      "url": "https://www.bbc.co.uk/news/articles/cm894exd27j2o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Judge Nigella Lawson describes the three finalists as \"sensational\" bakers.",
+      "publishedAt": "2026-11-24T21:40:58.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "BBC and Netflix team up for new CBeebies hub on streamer",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The limited trial will see a CBeebies hub on Netflix for the first time and will feature 24 programmes.",
+      "publishedAt": "2026-11-24T13:05:09.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "First Children's Booker prize reveals shortlist - and its child judges",
+      "url": "https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The eight books in contention include War by Artemis Fowl author Eoin Colfer and Andrew Donkin.",
+      "publishedAt": "2026-11-24T07:29:37.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Irish reality star dances her way to final of Dancing with the Stars",
+      "url": "https://www.bbc.co.uk/news/articles/cw9879841ev7o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The final will be shown on ABC and Disney+ in the US at 20:00 local time, with no option for people here in the UK to watch live.",
+      "publishedAt": "2026-11-24T16:06:10.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "publishedAt": "2026-11-24T00:23:25.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023.",
+      "publishedAt": "2026-11-24T09:47:20.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "US rapper postpones two arena shows after Manchester evacuation",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+      "publishedAt": "2026-11-23T20:49:08.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Bros announce first tour in a decade",
+      "url": "https://www.bbc.co.uk/news/articles/cklylrldzqm4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The twins, from Camberley, will perform in 10-date tour in 2027 including at Wembley Arena.",
+      "publishedAt": "2026-11-24T12:31:16.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "publishedAt": "2026-11-23T18:04:20.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Catherine's cancer documentary makes me feel less alone, says Strictly's Amy Dowden",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The dancer says Catherine's documentary about her cancer journey is \"so important\" to raise awareness.",
+      "publishedAt": "2026-11-24T16:02:20.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The couple have been together for four years and were engaged in 2025.",
+      "publishedAt": "2026-11-22T21:22:40.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Russell Brand's wife says she'll honour prison rules after message row",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+      "publishedAt": "2026-11-22T16:51:57.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+      "publishedAt": "2026-11-22T04:39:13.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
+      "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
+      "publishedAt": "2026-11-23T17:34:24.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
+      "publishedAt": "2026-11-21T00:03:16.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
+      "publishedAt": "2026-11-22T00:01:27.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "'It gives me the ick': Can you cheat on someone with a video game?",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
+      "publishedAt": "2026-11-21T21:21:57.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+      "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+      "publishedAt": "2026-11-20T01:11:57.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "TRNSMT: What's the future for Scotland's largest music festival?",
+      "url": "https://www.bbc.co.uk/news/articles/cv702en03nw4o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "No dates, ticket sales or acts have yet been announced by DF Concerts for the Glasgow Green festival.",
+      "publishedAt": "2026-11-21T09:27:12.000Z"
+    },
+    {
+      "sourceId": "bbc-entertainment",
+      "title": "Who decides that Grand Theft Auto is for adults only?",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25ver32rpo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Examiners based in Stevenage spend days playing unreleased games before issuing age rating.",
+      "publishedAt": "2026-11-19T05:58:59.000Z"
+    }
+  ]
+}

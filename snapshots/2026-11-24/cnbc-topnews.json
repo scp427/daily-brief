@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-24T06:19:28.073Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 312,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+      "category": "finance",
+      "excerpt": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
+      "publishedAt": "2026-11-23T22:43:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+      "category": "finance",
+      "excerpt": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+      "publishedAt": "2026-11-24T05:05:08.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "category": "finance",
+      "excerpt": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+      "publishedAt": "2026-11-24T05:09:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "category": "finance",
+      "excerpt": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+      "publishedAt": "2026-11-23T23:42:17.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
+      "url": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+      "category": "finance",
+      "excerpt": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
+      "publishedAt": "2026-11-24T03:32:26.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "category": "finance",
+      "excerpt": "China is increasingly focused on containing India economically rather than through military actions.",
+      "publishedAt": "2026-11-24T04:27:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "category": "finance",
+      "excerpt": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
+      "publishedAt": "2026-11-24T02:37:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "category": "finance",
+      "excerpt": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+      "publishedAt": "2026-11-23T21:00:59.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "category": "finance",
+      "excerpt": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+      "publishedAt": "2026-11-24T05:07:16.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+      "category": "finance",
+      "excerpt": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones.",
+      "publishedAt": "2026-11-23T23:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "category": "finance",
+      "excerpt": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "publishedAt": "2026-11-24T03:05:49.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+      "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
+      "category": "finance",
+      "excerpt": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans such as 401(k)s.",
+      "publishedAt": "2026-11-23T19:46:28.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "category": "finance",
+      "excerpt": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+      "publishedAt": "2026-11-24T02:20:36.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "category": "finance",
+      "excerpt": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+      "publishedAt": "2026-11-23T20:22:49.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
+      "url": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
+      "category": "finance",
+      "excerpt": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
+      "publishedAt": "2026-11-23T20:26:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+      "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+      "category": "finance",
+      "excerpt": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
+      "publishedAt": "2026-11-24T00:56:10.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "category": "finance",
+      "excerpt": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "publishedAt": "2026-11-23T21:02:17.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+      "category": "finance",
+      "excerpt": "Nvidia break record for single stock options volume",
+      "publishedAt": "2026-11-23T23:24:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+      "category": "finance",
+      "excerpt": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+      "publishedAt": "2026-11-23T23:14:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+      "category": "finance",
+      "excerpt": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
+      "publishedAt": "2026-11-23T23:53:20.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "An options strategy for making even more of your money back in Nvidia",
+      "url": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
+      "category": "finance",
+      "excerpt": "Nvidia shareholders can look to the options market to recoup lost money",
+      "publishedAt": "2026-11-23T18:52:46.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "category": "finance",
+      "excerpt": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "publishedAt": "2026-11-23T21:08:05.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "category": "finance",
+      "excerpt": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+      "publishedAt": "2026-11-23T18:00:47.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
+      "url": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
+      "category": "finance",
+      "excerpt": "As more Americans pay net investment income tax, there are strategies to avoid it, experts say.",
+      "publishedAt": "2026-11-23T13:15:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "DNI Jay Clayton tapped as acting national cyber director",
+      "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
+      "category": "finance",
+      "excerpt": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
+      "publishedAt": "2026-11-23T23:02:18.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "category": "finance",
+      "excerpt": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "publishedAt": "2026-11-23T21:22:13.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+      "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+      "category": "finance",
+      "excerpt": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
+      "publishedAt": "2026-11-23T21:55:27.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "category": "finance",
+      "excerpt": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "publishedAt": "2026-11-23T16:45:31.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "category": "finance",
+      "excerpt": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+      "publishedAt": "2026-11-23T19:34:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "category": "finance",
+      "excerpt": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "publishedAt": "2026-11-23T21:04:03.000Z"
+    }
+  ]
+}

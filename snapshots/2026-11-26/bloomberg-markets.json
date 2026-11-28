@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-26T04:19:41.931Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 340,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+      "category": "finance",
+      "excerpt": "Stocks rose alongside US equity-index futures as investors returned to the artificial intelligence trade in the runup to the Thanksgiving holiday after a week of whipsawing.",
+      "publishedAt": "2026-11-25T22:10:42.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dubai Seals Deal to Form $159 Billion Islamic Banking Giant",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dubai-bank-merger-to-create-159-billion-islamic-lending-giant",
+      "category": "finance",
+      "excerpt": "Dubai Islamic Bank PJSC said it’s buying Emirates Islamic Bank PJSC in an all-stock deal that will create one of the world’s largest listed Islamic-banking groups, with combined assets of about $159 billion.",
+      "publishedAt": "2026-11-25T15:48:08.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
+      "category": "finance",
+      "excerpt": "Two companies controlled by Indian billionaire Gautam Adani are looking to sell public bonds to raise at least 20 billion rupees ($220 million), according to people familiar with the matter, which would boost the nation’s subdued domestic public debt market.",
+      "publishedAt": "2026-11-26T03:42:25.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
+      "category": "finance",
+      "excerpt": "Japan’s concerted push to bolster the yen is running into a major headwind, after the nation’s biggest life insurers slashed their currency hedging to a record low in the fiscal first half.",
+      "publishedAt": "2026-11-26T03:36:45.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 26",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+      "category": "finance",
+      "excerpt": "Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
+      "publishedAt": "2026-11-25T23:03:15.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Cracks in AI Stocks Sink the Once Reliable Carry Trade",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
+      "category": "finance",
+      "excerpt": "One of Wall Street’s most reliable wagers of 2026 is starting to lose its surefire status.",
+      "publishedAt": "2026-11-25T14:01:11.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Copper Rebounds From Lowest This Year as Volatility Grips Metals",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+      "category": "finance",
+      "excerpt": "Copper jumped more than 3% from an 11-month low, tracking gains in tech stocks even as doubts lingered over the durability of the AI boom and related industrial metals demand.",
+      "publishedAt": "2026-11-26T02:01:10.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
+      "category": "finance",
+      "excerpt": "ANZ Banking Group sees room for the rupee to gain further to 90-91 per dollar.",
+      "publishedAt": "2026-11-26T02:32:22.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
+      "category": "finance",
+      "excerpt": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
+      "publishedAt": "2026-11-26T02:28:30.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
+      "category": "finance",
+      "excerpt": "KK Mart Retail Bhd., the Malaysian convenience-store chain whose first attempt at an initial public offering was delayed by a religious controversy, is launching a 462 million ringgit ($112 million) share sale as it prepares to add hundreds of outlets across the country.",
+      "publishedAt": "2026-11-26T02:03:11.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Shein’s Slow India Start Lays Bare Limits of Billionaire Ambani’s Retail Might",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might",
+      "category": "finance",
+      "excerpt": "Shein Global Holdings Ltd.’s return to India through a local partner is off to a slow start, due to supply chain snags, leadership uncertainty and a lack of proprietary technology that made the fast-fashion brand a hit.",
+      "publishedAt": "2026-11-26T01:31:20.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Rupee Has Room to Rally Before RBI Steps In, Strategists Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-rally-has-91-in-sight-as-rbi-seen-holding-back-dollar-buys",
+      "category": "finance",
+      "excerpt": "India’s rupee is pulling away from its Asian peers, and strategists say the rally has further to run before the central bank steps in to buy dollars.",
+      "publishedAt": "2026-11-26T01:30:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
+      "category": "finance",
+      "excerpt": "Situational Awareness told investors it lost 65% after fees in the third quarter, after highly levered bets on artificial intelligence firms nearly led to the hedge fund’s implosion in July, according to the Wall Street Journal.",
+      "publishedAt": "2026-11-26T01:11:41.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
+      "category": "finance",
+      "excerpt": "President Luiz Inácio Lula da Silva has sounded out Bradesco Chairman Luiz Carlos Trabuco Cappi about joining his fourth-term government, according to people familiar with the matter, a move that could help ease investor concerns over Brazil’s deteriorating fiscal outlook.",
+      "publishedAt": "2026-11-26T01:07:45.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australia Capex Surges by Most Since Mining Boom on Data Centers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
+      "category": "finance",
+      "excerpt": "Australian business investment surged by the most since the peak of the mining boom in the three months through September, driven by data center-related spending in a bright spot for an otherwise cooling economy.",
+      "publishedAt": "2026-11-26T01:01:57.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Air India Chief Seeks to Cut $650 Million in Costs This Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
+      "category": "finance",
+      "excerpt": "Air India Ltd. is looking to cut costs by 60 billion rupees ($650 million) this financial year as its new chief executive officer outlined initiatives to revive the loss-making airline, people familiar with the matter said.",
+      "publishedAt": "2026-11-25T15:20:13.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
+      "category": "finance",
+      "excerpt": "Prime Minister Narendra Modi’s sharp criticism of Indian businesses last week exposed an underlying weakness in the economy’s booming growth story.",
+      "publishedAt": "2026-11-26T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+      "category": "finance",
+      "excerpt": "Gold edged lower, after rising on Wednesday, as inflation data reinforced bets the Federal Reserve will hike interest rates further.",
+      "publishedAt": "2026-11-26T00:18:09.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
+      "category": "finance",
+      "excerpt": "Philippine government bonds look poised to build on this month’s sharp rally as expectations of easing price pressures and a landmark global index inclusion may stimulate fresh demand next year, according to some market watchers.",
+      "publishedAt": "2026-11-26T00:05:45.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China 2027 Growth to Top 4.5%, Ex-Official Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
+      "category": "finance",
+      "excerpt": "China’s economy is on track to grow more than 4.5% in 2027, according to former Vice Finance Minister Zhu Guangyao. Speaking to Bloomberg TV’s Avril Hong in Singapore on Wednesday, Zhu noted that Beijing still has room to loosen fiscal policy next year, while also stressing the need for AI regulatio",
+      "publishedAt": "2026-11-25T23:54:41.000Z"
+    }
+  ]
+}

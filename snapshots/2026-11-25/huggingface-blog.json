@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-blog",
+  "fetchedAt": "2026-11-25T05:00:33.164Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 113,
+  "items": [
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-24T16:34:13.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T17:20:37.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T19:54:56.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T18:53:43.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T15:00:23.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-13T14:05:22.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-12T19:07:35.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T05:01:16.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-09T12:34:29.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-06T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-04T17:50:10.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-03T16:35:36.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-29T13:37:07.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-27T17:16:52.000Z"
+    }
+  ]
+}

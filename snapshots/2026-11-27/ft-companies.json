@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ft-companies",
+  "fetchedAt": "2026-11-27T04:29:21.835Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 364,
+  "items": [
+    {
+      "sourceId": "ft-companies",
+      "title": "India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti",
+      "url": "https://www.ft.com/content/a342f53c-c323-4fa1-bdc2-16d504c1dd10?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Renewables can match coal power for reliability at lower cost, insists wind power pioneer",
+      "publishedAt": "2026-11-27T01:30:01.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "What's a fund manager to do?",
+      "url": "https://www.ft.com/content/ff2a3ebf-d9be-45f6-95e0-00cc67e7c49e?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "A guide to navigating tempestuous markets",
+      "publishedAt": "2026-11-26T21:00:00.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Britain’s electricity grid operator makes record number of calls for extra power",
+      "url": "https://www.ft.com/content/21a1331c-c201-4333-b312-ab87b7fd994f?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England",
+      "publishedAt": "2026-11-26T18:36:59.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "SAP explores at least 10,000 job cuts",
+      "url": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "European software group is latest to restructure as AI hits software sector",
+      "publishedAt": "2026-11-26T18:24:34.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Altria explores takeover bid for Imperial Brands",
+      "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Deal would remove another of the UK’s large listed companies from the London stock market",
+      "publishedAt": "2026-11-26T17:46:48.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+      "publishedAt": "2026-11-26T17:13:40.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Global stocks climb after volatile US trading over AI risks",
+      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Tech shares hit this month by fears over whether boom can be sustained",
+      "publishedAt": "2026-11-26T16:49:54.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "European airlines brace for more bankruptcies after Norse suspends flights",
+      "url": "https://www.ft.com/content/c4affa94-263d-4bab-959a-b26fc7cc8077?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Wave of failures has swept through low-margin industry since Middle East conflict drove up fuel prices",
+      "publishedAt": "2026-11-26T15:51:41.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "BoE to cut capital requirements for banks as it warns of AI risks",
+      "url": "https://www.ft.com/content/cf30cef5-0e35-4ebd-a456-797dbd1ad132?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Central bank tells lenders they will need to keep pace with the growing scale and sophistication of cyber threats",
+      "publishedAt": "2026-11-26T15:42:39.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Bringing data to the Thanksgiving table",
+      "url": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Does America really face a food affordability crisis?",
+      "publishedAt": "2026-11-26T15:26:58.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Babcock secures record £8.7bn contract to support Royal Navy submarines",
+      "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Five-year deal comes amid concerns over fleet’s readiness and increased Russian activity in north Atlantic",
+      "publishedAt": "2026-11-26T14:57:27.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "British and European banks have taken on a lot of France risk",
+      "url": "https://www.ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
+      "category": "finance",
+      "excerpt": "Toulouse or not Toulouse",
+      "publishedAt": "2026-11-26T13:32:02.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nvidia’s ‘great man theory’ is flawed",
+      "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Some Big Tech companies have made a striking success of switching from founder mode to manager mode",
+      "publishedAt": "2026-11-26T12:56:10.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Texas resumes data centre permitting before Democrats take over",
+      "url": "https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Incoming governor Gina Hinojosa pledged to rein in construction of new projects during her campaign",
+      "publishedAt": "2026-11-26T12:00:10.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Trafigura calls for greater European metals support after zinc shutdown",
+      "url": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The trading house will close Dutch zinc operations after calling for greater government help with power costs",
+      "publishedAt": "2026-11-26T12:00:09.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Nintendo and Sony ready for a two-level battle with AI",
+      "url": "https://www.ft.com/content/2e618ea7-e91f-40f3-903e-9ce355b0308c?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Idea that the processing power behind games will one day reside in the cloud is something the industry must plan for",
+      "publishedAt": "2026-11-26T11:59:32.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK government has ‘failed’ to make case for third Heathrow runway, say MPs",
+      "url": "https://www.ft.com/content/9c271b6d-3280-4abc-9e8f-a93caf594d21?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Transport committee warns ambitious scheme would only create ‘modest’ economic growth as PM Andy Burnham weighs decision on £33bn project",
+      "publishedAt": "2026-11-26T11:05:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "The space economy and European common goods",
+      "url": "https://www.ft.com/content/0b69fa9a-7e15-4993-acfb-7fc93b81f2d7?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "With its formal budget kept small, the EU should think outside the box on ‘club goods’",
+      "publishedAt": "2026-11-26T11:00:07.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Backlash over AI power costs threatens $67bn NextEra-Dominion deal",
+      "url": "https://www.ft.com/content/1f4095cb-c032-414f-9858-554c8b82b145?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Tie-up faces fierce opposition as anger over soaring electricity bills spills into Wall Street dealmaking",
+      "publishedAt": "2026-11-26T11:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "VC investors dump old funds at steep discounts to chase AI riches",
+      "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generation tech start-ups",
+      "publishedAt": "2026-11-26T11:00:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UniCredit to propose Orcel as chair of Commerzbank",
+      "url": "https://www.ft.com/content/d10e7600-2f98-42d6-8262-19f0a57d1112?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Italian lender will put forward its chief executive as head of supervisory board at its German rival",
+      "publishedAt": "2026-11-26T09:24:06.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "FCA admits miscalculating compensation in £9bn car mis-selling redress scheme",
+      "url": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "UK financial regulator’s error risks further delays to payments for millions of consumers",
+      "publishedAt": "2026-11-26T08:40:24.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "China made Shenzhen a showcase for tech prowess at Apec summit",
+      "url": "https://www.ft.com/content/05a51863-48f4-44f5-90a0-3fbaebb72c79?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+      "publishedAt": "2026-11-26T08:27:59.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "Tata Trusts launch first legal salvo in boardroom battle",
+      "url": "https://www.ft.com/content/722ecb81-51cc-4897-baa9-cb80c4d2fe4a?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Charitable bodies controlling Tata Sons file court challenge against N Chandrasekaran’s reappointment as chair",
+      "publishedAt": "2026-11-26T08:16:36.000Z"
+    },
+    {
+      "sourceId": "ft-companies",
+      "title": "UK regulator finds ‘systemic’ problems in £8bn private dental market",
+      "url": "https://www.ft.com/content/acd1b122-558c-42ba-ba28-0723ef04fd3f?syn-25a6b1a6=1",
+      "category": "finance",
+      "excerpt": "Investigation finds patients are sold unnecessary services in an industry that more people are turning to",
+      "publishedAt": "2026-11-26T07:59:45.000Z"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-business",
+  "fetchedAt": "2026-11-27T04:29:21.890Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 78,
+  "items": [
+    {
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "publishedAt": "2026-11-26T19:55:58.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "publishedAt": "2026-11-26T23:17:12.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "publishedAt": "2026-11-26T23:08:12.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "publishedAt": "2026-11-27T00:54:45.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+      "publishedAt": "2026-11-26T14:00:20.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+      "publishedAt": "2026-11-26T13:40:46.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "publishedAt": "2026-11-27T00:02:19.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "New boss appointed to lead Travelodge",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+      "publishedAt": "2026-11-26T12:03:49.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "When will Poundland shops close? Five key questions answered",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+      "publishedAt": "2026-11-26T17:21:21.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+      "publishedAt": "2026-11-26T14:28:22.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Drivers over 70 face eye tests every three years under new plans",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
+      "publishedAt": "2026-11-26T11:21:45.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "publishedAt": "2026-11-26T15:23:17.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Car finance compensation payments explained",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+      "publishedAt": "2026-11-26T09:39:50.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "publishedAt": "2026-11-26T08:24:29.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "What's gone wrong at Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Poundland has collapse into administration. Why?",
+      "publishedAt": "2026-11-26T10:15:47.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "publishedAt": "2026-11-26T04:10:58.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "publishedAt": "2026-11-26T09:27:44.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "publishedAt": "2026-11-25T21:43:18.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "publishedAt": "2026-11-26T00:01:37.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "publishedAt": "2026-11-25T00:34:05.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "publishedAt": "2026-11-24T00:01:04.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "publishedAt": "2026-11-20T07:32:19.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "publishedAt": "2026-11-18T00:00:24.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "publishedAt": "2026-11-13T12:22:30.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "publishedAt": "2026-11-11T00:19:13.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "publishedAt": "2026-11-06T00:06:06.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "publishedAt": "2026-11-04T00:04:35.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "How video game remakes tap the power of nostalgia",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "publishedAt": "2026-10-30T07:45:00.000Z"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "category": "finance",
+      "excerpt": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "publishedAt": "2026-10-29T09:30:03.000Z"
+    }
+  ]
+}

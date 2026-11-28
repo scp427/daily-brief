@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-25T05:00:34.288Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 317,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "category": "finance",
+      "excerpt": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "publishedAt": "2026-11-24T23:13:49.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "category": "finance",
+      "excerpt": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "publishedAt": "2026-11-25T02:36:43.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "category": "finance",
+      "excerpt": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "publishedAt": "2026-11-25T04:06:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "category": "finance",
+      "excerpt": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+      "publishedAt": "2026-11-25T03:52:03.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "category": "finance",
+      "excerpt": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "publishedAt": "2026-11-25T02:43:33.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "category": "finance",
+      "excerpt": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "publishedAt": "2026-11-25T02:09:45.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "category": "finance",
+      "excerpt": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+      "publishedAt": "2026-11-24T21:13:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "category": "finance",
+      "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "publishedAt": "2026-11-25T01:13:56.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "category": "finance",
+      "excerpt": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "publishedAt": "2026-11-24T17:51:45.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "category": "finance",
+      "excerpt": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+      "publishedAt": "2026-11-24T22:18:47.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+      "category": "finance",
+      "excerpt": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "publishedAt": "2026-11-25T03:58:32.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "category": "finance",
+      "excerpt": "China is increasingly focused on containing India economically rather than through military actions.",
+      "publishedAt": "2026-11-24T04:27:38.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "category": "finance",
+      "excerpt": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "publishedAt": "2026-11-24T13:31:29.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "category": "finance",
+      "excerpt": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "publishedAt": "2026-11-24T22:07:45.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "category": "finance",
+      "excerpt": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+      "publishedAt": "2026-11-24T21:07:19.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+      "category": "finance",
+      "excerpt": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "publishedAt": "2026-11-24T19:23:59.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+      "category": "finance",
+      "excerpt": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones.",
+      "publishedAt": "2026-11-23T23:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "category": "finance",
+      "excerpt": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "publishedAt": "2026-11-24T22:03:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Gold is doing something strange. Here's one way to play it",
+      "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+      "category": "finance",
+      "excerpt": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
+      "publishedAt": "2026-11-24T19:25:13.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "category": "finance",
+      "excerpt": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+      "publishedAt": "2026-11-24T18:34:43.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "category": "finance",
+      "excerpt": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+      "publishedAt": "2026-11-24T21:04:03.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Retail turnarounds are taking hold just in time for the holiday season",
+      "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+      "category": "finance",
+      "excerpt": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+      "publishedAt": "2026-11-24T19:26:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "category": "finance",
+      "excerpt": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+      "publishedAt": "2026-11-24T20:37:40.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+      "category": "finance",
+      "excerpt": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+      "publishedAt": "2026-11-24T19:47:42.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "category": "finance",
+      "excerpt": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+      "publishedAt": "2026-11-23T21:00:59.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "category": "finance",
+      "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
+      "publishedAt": "2026-11-24T23:03:24.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "category": "finance",
+      "excerpt": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+      "publishedAt": "2026-11-23T20:22:49.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "category": "finance",
+      "excerpt": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+      "publishedAt": "2026-11-24T20:45:57.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "category": "finance",
+      "excerpt": "The AG and FBI director evaded answering reporters' questions about details of an investigation Trump said resolved security concerns about Jensen Huang.",
+      "publishedAt": "2026-11-24T19:19:12.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "category": "finance",
+      "excerpt": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+      "publishedAt": "2026-11-25T02:50:08.000Z"
+    }
+  ]
+}

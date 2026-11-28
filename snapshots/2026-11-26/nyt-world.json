@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-26T04:19:42.372Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 86,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
+      "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
+      "category": "politics",
+      "excerpt": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
+      "publishedAt": "2026-11-25T20:40:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+      "category": "politics",
+      "excerpt": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.",
+      "publishedAt": "2026-11-25T20:45:09.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+      "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+      "category": "politics",
+      "excerpt": "The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?",
+      "publishedAt": "2026-11-25T05:01:14.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
+      "url": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+      "category": "politics",
+      "excerpt": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
+      "publishedAt": "2026-11-25T16:22:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+      "category": "politics",
+      "excerpt": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
+      "publishedAt": "2026-11-25T13:59:32.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+      "category": "politics",
+      "excerpt": "The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.",
+      "publishedAt": "2026-11-25T13:39:46.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+      "category": "politics",
+      "excerpt": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
+      "publishedAt": "2026-11-25T19:02:51.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
+      "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+      "category": "politics",
+      "excerpt": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
+      "publishedAt": "2026-11-25T22:30:27.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+      "category": "politics",
+      "excerpt": "At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.",
+      "publishedAt": "2026-11-25T17:17:42.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "category": "politics",
+      "excerpt": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+      "publishedAt": "2026-11-25T17:00:25.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+      "category": "politics",
+      "excerpt": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+      "publishedAt": "2026-11-25T05:24:36.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+      "url": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+      "category": "politics",
+      "excerpt": "The blackouts follow a string of violent episodes attributed to Colombia’s armed traffickers, as the country’s new president cracks down on the groups.",
+      "publishedAt": "2026-11-25T08:05:15.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+      "url": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "category": "politics",
+      "excerpt": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
+      "publishedAt": "2026-11-25T17:33:35.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+      "category": "politics",
+      "excerpt": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+      "publishedAt": "2026-11-24T16:27:04.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
+      "url": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
+      "category": "politics",
+      "excerpt": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
+      "publishedAt": "2026-11-26T00:11:25.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Gordon Ramsay to Host Revival of BBC’s ‘Top Gear’",
+      "url": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+      "category": "politics",
+      "excerpt": "The British car show “Top Gear” paused production three years ago and is returning with a new host in 2028, the BBC said.",
+      "publishedAt": "2026-11-25T22:23:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+      "category": "politics",
+      "excerpt": "The blaze killed at least 31 and injured at least 21 near Giza, beside the Nile River, officials said.",
+      "publishedAt": "2026-11-25T21:37:07.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Study Hard, Get Ahead?",
+      "url": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
+      "category": "politics",
+      "excerpt": "The broken promise of upward mobility through education is sparking youth protests around the world.",
+      "publishedAt": "2026-11-25T20:38:48.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+      "category": "politics",
+      "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
+      "publishedAt": "2026-11-25T22:16:50.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
+      "category": "politics",
+      "excerpt": "Gadi Eisenkot, a former military chief, has set Dec. 6 as the deadline to form a new Israeli government. His ally, Avigdor Liberman, said Mr. Eisenkot was on track.",
+      "publishedAt": "2026-11-25T18:12:36.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "How to Celebrate Thanksgiving as an Expat",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
+      "category": "politics",
+      "excerpt": "From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.",
+      "publishedAt": "2026-11-26T01:25:49.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+      "category": "politics",
+      "excerpt": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+      "publishedAt": "2026-11-25T02:55:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump Administration Pauses Joint Operations With Ecuador",
+      "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+      "category": "politics",
+      "excerpt": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "publishedAt": "2026-11-25T00:42:52.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "‘Saturday Night Live’ Is Coming to France",
+      "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+      "category": "politics",
+      "excerpt": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
+      "publishedAt": "2026-11-24T21:13:22.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "National Security vs. the Stock Market",
+      "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+      "category": "politics",
+      "excerpt": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+      "publishedAt": "2026-11-25T05:45:35.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "category": "politics",
+      "excerpt": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "publishedAt": "2026-11-25T07:36:48.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "category": "politics",
+      "excerpt": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+      "publishedAt": "2026-11-24T19:18:16.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+      "category": "politics",
+      "excerpt": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "publishedAt": "2026-11-24T18:25:38.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "category": "politics",
+      "excerpt": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+      "publishedAt": "2026-11-24T19:54:59.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+      "category": "politics",
+      "excerpt": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+      "publishedAt": "2026-11-24T14:13:17.000Z"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "aljazeera",
+  "fetchedAt": "2026-11-27T04:29:22.651Z",
+  "ok": true,
+  "itemCount": 25,
+  "durationMs": 237,
+  "items": [
+    {
+      "sourceId": "aljazeera",
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
+      "publishedAt": "2026-11-27T04:06:52.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+      "publishedAt": "2026-11-27T03:49:08.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Asian stock markets rise after earlier tech rout",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+      "publishedAt": "2026-11-27T03:42:16.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Spain and Morocco under-17 stars target World Cup 2030",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+      "publishedAt": "2026-11-27T02:58:48.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+      "publishedAt": "2026-11-27T02:14:25.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
+      "publishedAt": "2026-11-27T01:44:02.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+      "publishedAt": "2026-11-27T01:36:23.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "publishedAt": "2026-11-27T01:07:44.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+      "publishedAt": "2026-11-27T00:46:19.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "America’s Thanksgiving holiday seen through different eyes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
+      "publishedAt": "2026-11-27T00:41:28.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Argentina bars Central Bank from printing money to fund government spending",
+      "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+      "publishedAt": "2026-11-27T00:11:16.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "publishedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+      "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
+      "publishedAt": "2026-11-26T23:37:17.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+      "publishedAt": "2026-11-26T23:07:36.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+      "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
+      "publishedAt": "2026-11-26T22:51:55.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+      "publishedAt": "2026-11-26T22:06:54.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+      "publishedAt": "2026-11-26T21:08:44.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Bangladesh garment workers clash with police over low wages",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
+      "publishedAt": "2026-11-26T21:04:39.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+      "publishedAt": "2026-11-26T20:34:34.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.",
+      "publishedAt": "2026-11-26T20:32:43.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Mexico seeks US talks about suspected SpaceX debris",
+      "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
+      "publishedAt": "2026-11-26T20:31:50.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Musk pledges two SpaceX shares for every US child",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "US children would receive one share from SpaceX and one from him personally, Musk said.",
+      "publishedAt": "2026-11-26T20:19:22.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Peru burns more than 10 tonnes of seized drugs",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026",
+      "publishedAt": "2026-11-26T19:44:05.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "publishedAt": "2026-11-26T19:19:12.000Z"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+      "category": "politics",
+      "excerpt": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
+      "publishedAt": "2026-11-26T19:09:39.000Z"
+    }
+  ]
+}

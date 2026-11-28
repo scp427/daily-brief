@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-24T06:19:27.605Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 72,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "category": "tech",
+      "excerpt": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "publishedAt": "2026-11-23T23:07:49.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "category": "tech",
+      "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "publishedAt": "2026-11-23T22:05:50.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "category": "tech",
+      "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "publishedAt": "2026-11-23T22:02:05.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "category": "tech",
+      "excerpt": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "publishedAt": "2026-11-23T21:47:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "category": "tech",
+      "excerpt": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "publishedAt": "2026-11-23T21:25:42.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "category": "tech",
+      "excerpt": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "publishedAt": "2026-11-23T20:38:53.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "category": "tech",
+      "excerpt": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "publishedAt": "2026-11-23T19:31:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "category": "tech",
+      "excerpt": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "publishedAt": "2026-11-23T19:14:46.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "category": "tech",
+      "excerpt": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "publishedAt": "2026-11-23T18:12:22.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "category": "tech",
+      "excerpt": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "publishedAt": "2026-11-23T17:14:23.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "category": "tech",
+      "excerpt": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "publishedAt": "2026-11-23T17:13:45.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "category": "tech",
+      "excerpt": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "publishedAt": "2026-11-23T16:57:40.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "category": "tech",
+      "excerpt": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "publishedAt": "2026-11-23T16:39:10.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "category": "tech",
+      "excerpt": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "publishedAt": "2026-11-23T16:20:11.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "category": "tech",
+      "excerpt": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "publishedAt": "2026-11-23T15:29:49.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "category": "tech",
+      "excerpt": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "publishedAt": "2026-11-23T15:04:01.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "category": "tech",
+      "excerpt": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "publishedAt": "2026-11-23T14:43:03.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "category": "tech",
+      "excerpt": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "publishedAt": "2026-11-23T14:21:59.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "category": "tech",
+      "excerpt": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "publishedAt": "2026-11-23T14:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "category": "tech",
+      "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "publishedAt": "2026-11-23T01:25:53.000Z"
+    }
+  ]
+}

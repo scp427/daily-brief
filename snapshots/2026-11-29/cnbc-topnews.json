@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-28T17:09:16.727Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 169,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+      "category": "finance",
+      "excerpt": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
+      "publishedAt": "2026-11-28T14:34:51.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "category": "finance",
+      "excerpt": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "publishedAt": "2026-11-27T22:00:57.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "category": "finance",
+      "excerpt": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+      "publishedAt": "2026-11-27T16:43:14.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "AI data center boom strains construction labor across the U.S.",
+      "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+      "category": "finance",
+      "excerpt": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
+      "publishedAt": "2026-11-28T14:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
+      "url": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
+      "category": "finance",
+      "excerpt": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one billion in damages over four wildfires in 2020.",
+      "publishedAt": "2026-11-28T13:46:46.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "category": "finance",
+      "excerpt": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+      "publishedAt": "2026-11-27T13:21:56.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "category": "finance",
+      "excerpt": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+      "publishedAt": "2026-11-27T15:52:00.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "category": "finance",
+      "excerpt": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+      "publishedAt": "2026-11-28T06:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
+      "url": "https://www.cnbc.com/make-it/2026/11/28/wearable-health-trackers-doctors.html",
+      "category": "finance",
+      "excerpt": "Many Americans use a smartwatch or fitness tracker to collect their health data, and doctors say the devices are increasingly becoming part of annual checkups.",
+      "publishedAt": "2026-11-28T13:00:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "New car prices are at a record high. Here's where to look for deals",
+      "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+      "category": "finance",
+      "excerpt": "While the average price of a new car hit $51,109 in October, according to Kelley Blue Book, many buyers are spending far less on their purchase. Here's how.",
+      "publishedAt": "2026-11-27T13:15:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+      "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
+      "category": "finance",
+      "excerpt": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers.",
+      "publishedAt": "2026-11-28T14:34:57.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+      "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "category": "finance",
+      "excerpt": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+      "publishedAt": "2026-11-28T06:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "category": "finance",
+      "excerpt": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+      "publishedAt": "2026-11-25T21:56:43.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "category": "finance",
+      "excerpt": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "publishedAt": "2026-11-27T18:46:20.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "category": "finance",
+      "excerpt": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+      "publishedAt": "2026-11-27T18:20:32.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "category": "finance",
+      "excerpt": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+      "publishedAt": "2026-11-27T10:13:44.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "category": "finance",
+      "excerpt": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+      "publishedAt": "2026-11-27T18:24:06.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+      "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+      "category": "finance",
+      "excerpt": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
+      "publishedAt": "2026-11-27T14:12:55.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+      "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+      "category": "finance",
+      "excerpt": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro Sánchez's eight years in power to an end.",
+      "publishedAt": "2026-11-27T13:00:42.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "category": "finance",
+      "excerpt": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "publishedAt": "2026-11-27T12:00:22.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html",
+      "category": "finance",
+      "excerpt": "Winning prize money can come with some big financial decisions, including how much to set aside for taxes.",
+      "publishedAt": "2026-11-27T15:49:29.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+      "category": "finance",
+      "excerpt": "A wide swath of consumer products are becoming less reliable and durable, even as their prices rise, research shows.",
+      "publishedAt": "2026-11-27T16:08:10.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+      "category": "finance",
+      "excerpt": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+      "publishedAt": "2026-11-27T03:30:23.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
+      "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
+      "category": "finance",
+      "excerpt": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
+      "publishedAt": "2026-11-26T13:34:51.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
+      "url": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html",
+      "category": "finance",
+      "excerpt": "Visiting loved ones for the holidays? Here's how to manage the travel fatigue, from a travel expert and a sleep medicine specialist.",
+      "publishedAt": "2026-11-26T13:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "category": "finance",
+      "excerpt": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+      "publishedAt": "2026-11-27T14:52:40.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "category": "finance",
+      "excerpt": "The German arms maker vows a \"more prudent approch\" to forecast sales of tanks and ammunition.",
+      "publishedAt": "2026-11-27T13:08:07.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
+      "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+      "category": "finance",
+      "excerpt": "Retail access to private markets is growing, but PwC says education lags as redemption limits put liquidity risks in focus.",
+      "publishedAt": "2026-11-27T08:05:09.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Semiconductor chips are the new oil. Here's why",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "category": "finance",
+      "excerpt": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+      "publishedAt": "2026-11-26T17:52:15.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
+      "category": "finance",
+      "excerpt": "Swiss regulator FINMA said UBS can execute its preferred crisis-resolution strategy, even as the bank faces a separate parliamentary fight over tougher capital requirements.",
+      "publishedAt": "2026-11-26T11:17:39.000Z"
+    }
+  ]
+}

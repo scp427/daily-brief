@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-world",
+  "fetchedAt": "2026-11-25T05:00:34.722Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 241,
+  "items": [
+    {
+      "sourceId": "npr-world",
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "category": "politics",
+      "excerpt": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+      "publishedAt": "2026-11-24T14:24:04.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "category": "politics",
+      "excerpt": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "publishedAt": "2026-11-24T12:12:25.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "category": "politics",
+      "excerpt": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "publishedAt": "2026-11-24T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Meet Colombia's fuzzy 'water guardians'",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+      "category": "politics",
+      "excerpt": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+      "publishedAt": "2026-11-24T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+      "category": "politics",
+      "excerpt": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
+      "publishedAt": "2026-11-24T09:52:03.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Russian incursions into NATO territory are increasing",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+      "category": "politics",
+      "excerpt": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+      "publishedAt": "2026-11-23T23:08:51.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "category": "politics",
+      "excerpt": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "publishedAt": "2026-11-23T12:42:03.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "category": "politics",
+      "excerpt": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "publishedAt": "2026-11-23T10:16:33.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Ukraine war spilling into NATO territory",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+      "category": "politics",
+      "excerpt": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+      "publishedAt": "2026-11-22T22:40:22.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+      "category": "politics",
+      "excerpt": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+      "publishedAt": "2026-11-22T22:39:47.000Z"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-24T06:19:27.350Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 55,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "category": "tech",
+      "excerpt": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "publishedAt": "2026-11-23T21:58:34.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "category": "tech",
+      "excerpt": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "publishedAt": "2026-11-23T21:30:44.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+      "category": "tech",
+      "excerpt": "\"I would ask you to please reach out to Roscosmos directly.\"",
+      "publishedAt": "2026-11-23T20:34:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "category": "tech",
+      "excerpt": "Personalized pricing can mean unfair, and even biased, prices.",
+      "publishedAt": "2026-11-23T20:11:43.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "category": "tech",
+      "excerpt": "Amazon now uses its packages for political purposes.",
+      "publishedAt": "2026-11-23T19:38:13.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+      "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+      "category": "tech",
+      "excerpt": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
+      "publishedAt": "2026-11-23T19:28:30.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+      "category": "tech",
+      "excerpt": "\"All of you have lived stolen lives. But now you must give them back.\"",
+      "publishedAt": "2026-11-23T15:55:12.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "category": "tech",
+      "excerpt": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "publishedAt": "2026-11-23T15:46:18.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+      "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+      "category": "tech",
+      "excerpt": "COP31 ended without a consensus deal for the first time since 2009.",
+      "publishedAt": "2026-11-23T15:23:26.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
+      "category": "tech",
+      "excerpt": "There were 352 position changes, including 35 for the lead.",
+      "publishedAt": "2026-11-23T13:54:22.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Tri-screen portable monitors aren’t for the faint of heart",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "category": "tech",
+      "excerpt": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "publishedAt": "2026-11-23T12:15:16.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "category": "tech",
+      "excerpt": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "publishedAt": "2026-11-23T12:00:00.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "category": "tech",
+      "excerpt": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "publishedAt": "2026-11-22T12:07:41.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Review: Godzilla Minus Zero joins the ranks of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "category": "tech",
+      "excerpt": "Director Takashi Yamazaki ups the ante, pitting Godzilla against one of the monster's greatest foes.",
+      "publishedAt": "2026-11-21T22:12:41.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "category": "tech",
+      "excerpt": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "publishedAt": "2026-11-21T12:01:13.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "category": "tech",
+      "excerpt": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "publishedAt": "2026-11-20T22:28:24.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "category": "tech",
+      "excerpt": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "publishedAt": "2026-11-20T22:16:51.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "category": "tech",
+      "excerpt": "Google search is making it even easier to access AI tools on the search page.",
+      "publishedAt": "2026-11-20T21:58:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "category": "tech",
+      "excerpt": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "publishedAt": "2026-11-20T21:47:10.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "category": "tech",
+      "excerpt": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "publishedAt": "2026-11-20T20:59:08.000Z"
+    }
+  ]
+}

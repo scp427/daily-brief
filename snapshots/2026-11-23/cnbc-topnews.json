@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "cnbc-topnews",
+  "fetchedAt": "2026-11-23T03:02:07.623Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 128,
+  "items": [
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "category": "finance",
+      "excerpt": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+      "publishedAt": "2026-11-22T17:14:03.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "category": "finance",
+      "excerpt": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "publishedAt": "2026-11-22T18:55:05.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+      "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+      "category": "finance",
+      "excerpt": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
+      "publishedAt": "2026-11-22T13:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "category": "finance",
+      "excerpt": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "publishedAt": "2026-11-21T16:40:05.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+      "category": "finance",
+      "excerpt": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+      "publishedAt": "2026-11-22T13:25:47.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "category": "finance",
+      "excerpt": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+      "publishedAt": "2026-11-22T06:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "category": "finance",
+      "excerpt": "This would make the second recent intrusion into the FBI system.",
+      "publishedAt": "2026-11-21T16:57:34.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "S&P 500 correction: Five forces behind the market sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "category": "finance",
+      "excerpt": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+      "publishedAt": "2026-11-21T11:29:25.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "category": "finance",
+      "excerpt": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+      "publishedAt": "2026-11-21T12:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+      "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+      "category": "finance",
+      "excerpt": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+      "publishedAt": "2026-11-20T07:08:36.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "category": "finance",
+      "excerpt": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+      "publishedAt": "2026-11-23T00:42:54.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+      "category": "finance",
+      "excerpt": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
+      "publishedAt": "2026-11-21T14:05:40.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
+      "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
+      "category": "finance",
+      "excerpt": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. But Medicare and tax changes will also affect retirees.",
+      "publishedAt": "2026-11-22T14:30:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "category": "finance",
+      "excerpt": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "publishedAt": "2026-11-22T23:49:44.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+      "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+      "category": "finance",
+      "excerpt": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
+      "publishedAt": "2026-11-22T12:13:56.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The Nasdaq is in freefall. Here's one stock to look at",
+      "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+      "category": "finance",
+      "excerpt": "Elevated options premiums are creating an opportunity in Amazon",
+      "publishedAt": "2026-11-22T12:10:39.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "State and federal battle over prediction markets regulation heats up after midterms",
+      "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+      "category": "finance",
+      "excerpt": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
+      "publishedAt": "2026-11-21T13:12:41.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
+      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
+      "category": "finance",
+      "excerpt": "The brutal sell-off is creating opportunities for us to put cash to work.",
+      "publishedAt": "2026-11-21T14:22:04.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "category": "finance",
+      "excerpt": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
+      "publishedAt": "2026-11-22T14:00:01.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+      "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+      "category": "finance",
+      "excerpt": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+      "publishedAt": "2026-11-21T13:01:44.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+      "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+      "category": "finance",
+      "excerpt": "In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years.",
+      "publishedAt": "2026-11-20T05:09:52.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+      "category": "finance",
+      "excerpt": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
+      "publishedAt": "2026-11-22T17:33:25.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "category": "finance",
+      "excerpt": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+      "publishedAt": "2026-11-20T14:15:29.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "category": "finance",
+      "excerpt": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+      "publishedAt": "2026-11-20T19:42:53.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
+      "category": "finance",
+      "excerpt": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
+      "publishedAt": "2026-11-21T15:00:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "How China is using summits to expand its global influence",
+      "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "category": "finance",
+      "excerpt": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+      "publishedAt": "2026-11-21T06:00:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Trump says he still has confidence in Lutnick",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "category": "finance",
+      "excerpt": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick.",
+      "publishedAt": "2026-11-20T20:52:08.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "category": "finance",
+      "excerpt": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "publishedAt": "2026-11-20T22:59:33.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
+      "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html",
+      "category": "finance",
+      "excerpt": "The busy holiday season may lead retirees to miss a key deadline for retirement account withdrawals.",
+      "publishedAt": "2026-11-21T14:30:02.000Z"
+    },
+    {
+      "sourceId": "cnbc-topnews",
+      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "category": "finance",
+      "excerpt": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+      "publishedAt": "2026-11-20T21:35:24.000Z"
+    }
+  ]
+}

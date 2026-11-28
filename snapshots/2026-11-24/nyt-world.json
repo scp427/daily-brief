@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "nyt-world",
+  "fetchedAt": "2026-11-24T06:19:28.345Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 51,
+  "items": [
+    {
+      "sourceId": "nyt-world",
+      "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+      "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+      "category": "politics",
+      "excerpt": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+      "publishedAt": "2026-11-23T18:54:42.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+      "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+      "category": "politics",
+      "excerpt": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
+      "publishedAt": "2026-11-23T18:05:31.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+      "category": "politics",
+      "excerpt": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
+      "publishedAt": "2026-11-23T13:53:33.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+      "category": "politics",
+      "excerpt": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+      "publishedAt": "2026-11-23T19:19:23.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "category": "politics",
+      "excerpt": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+      "publishedAt": "2026-11-23T18:09:46.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+      "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "category": "politics",
+      "excerpt": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
+      "publishedAt": "2026-11-24T00:35:20.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+      "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+      "category": "politics",
+      "excerpt": "The conflict between Colombia’s government and a leftist rebel group ended in a historic 2016 accord. But Colombia is still waiting for true peace.",
+      "publishedAt": "2026-11-23T10:02:48.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
+      "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+      "category": "politics",
+      "excerpt": "Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country’s nuclear forces more vulnerable to attack.",
+      "publishedAt": "2026-11-23T05:49:04.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "category": "politics",
+      "excerpt": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+      "publishedAt": "2026-11-22T11:03:04.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+      "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+      "category": "politics",
+      "excerpt": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+      "publishedAt": "2026-11-22T12:29:34.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "category": "politics",
+      "excerpt": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "publishedAt": "2026-11-22T01:56:16.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "category": "politics",
+      "excerpt": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "publishedAt": "2026-11-22T08:35:05.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+      "category": "politics",
+      "excerpt": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+      "publishedAt": "2026-11-22T06:58:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "category": "politics",
+      "excerpt": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "publishedAt": "2026-11-22T14:34:02.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Pope Francis Diary Excerpts Published in New Book",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+      "category": "politics",
+      "excerpt": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
+      "publishedAt": "2026-11-24T06:00:05.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+      "category": "politics",
+      "excerpt": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+      "publishedAt": "2026-11-24T05:01:05.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Woman Who Took Canada to Court Over Genocide",
+      "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+      "category": "politics",
+      "excerpt": "Na’kuset is a longtime champion for Indigenous communities across Canada using her experiences to fuel her advocacy.",
+      "publishedAt": "2026-11-23T21:21:53.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Phumzile Mlambo-Ngcuka, South Africa’s First Female Deputy President, Has Died",
+      "url": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
+      "category": "politics",
+      "excerpt": "A champion of women’s rights and education, she led the U.N.’s gender equality and empowerment organization after leaving political office. She died at 71.",
+      "publishedAt": "2026-11-23T21:12:03.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "The Return of Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+      "category": "politics",
+      "excerpt": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
+      "publishedAt": "2026-11-24T05:44:37.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "COP31 Climate Talks Broke Down. Now What?",
+      "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+      "category": "politics",
+      "excerpt": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
+      "publishedAt": "2026-11-23T16:18:49.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+      "category": "politics",
+      "excerpt": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
+      "publishedAt": "2026-11-23T15:39:34.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+      "category": "politics",
+      "excerpt": "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
+      "publishedAt": "2026-11-23T17:50:10.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
+      "url": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
+      "category": "politics",
+      "excerpt": "The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.",
+      "publishedAt": "2026-11-23T17:44:58.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+      "category": "politics",
+      "excerpt": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+      "publishedAt": "2026-11-23T17:15:17.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "url": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+      "category": "politics",
+      "excerpt": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+      "publishedAt": "2026-11-23T19:15:23.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Landmark Genocide Ruling",
+      "url": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+      "category": "politics",
+      "excerpt": "A U.N. court’s decision against Myanmar sets a precedent in international law with important implications for a similar case over Israel’s actions in Gaza.",
+      "publishedAt": "2026-11-23T05:40:36.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+      "category": "politics",
+      "excerpt": "The first lady, who has little experience in international affairs, developed back channels to key figures on both sides of the conflict through her longtime agent.",
+      "publishedAt": "2026-11-22T18:12:18.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "category": "politics",
+      "excerpt": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "publishedAt": "2026-11-23T19:27:13.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+      "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+      "category": "politics",
+      "excerpt": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
+      "publishedAt": "2026-11-23T21:46:33.000Z"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+      "category": "politics",
+      "excerpt": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "publishedAt": "2026-11-21T20:35:07.000Z"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "huggingface-papers",
+  "fetchedAt": "2026-11-27T04:29:20.203Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 172,
+  "items": [
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Mixture-of-Loops Transformer",
+      "url": "https://huggingface.co/papers/2611.34923",
+      "category": "tech",
+      "excerpt": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 66"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "url": "https://huggingface.co/papers/2611.34051",
+      "category": "tech",
+      "excerpt": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffer",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 50"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "url": "https://huggingface.co/papers/2611.34232",
+      "category": "tech",
+      "excerpt": "Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span mu",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 35"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding",
+      "url": "https://huggingface.co/papers/2611.34420",
+      "category": "tech",
+      "excerpt": "Multi-page document vision-language models encode each page independently, creating a feature-level discontinuity at page boundaries: visual tokens are formed without access to content on adjacent pages, and the language model must reason over these page representations formed in isolation. We intro",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 27"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+      "url": "https://huggingface.co/papers/2611.28732",
+      "category": "tech",
+      "excerpt": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling human-video ICL on world-action models (WAMs) faces two chal",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 26"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Let Vision-Language Models Generate Images through Their Representations",
+      "url": "https://huggingface.co/papers/2611.31237",
+      "category": "tech",
+      "excerpt": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 25"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "url": "https://huggingface.co/papers/2611.34852",
+      "category": "tech",
+      "excerpt": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how de",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 22"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+      "url": "https://huggingface.co/papers/2611.34811",
+      "category": "tech",
+      "excerpt": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusi",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 22"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Playfulness as Feedback for Agentic Game Development",
+      "url": "https://huggingface.co/papers/2611.33457",
+      "category": "tech",
+      "excerpt": "Coding agents can generate runnable games from natural-language descriptions. However, a runnable game does not guarantee an excellent gameplay experience for players. In our view, a playful game should provide 1) reliable core functionality, 2) appealing visual design and assets, and 3) rich gamepl",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 19"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+      "url": "https://huggingface.co/papers/2611.34466",
+      "category": "tech",
+      "excerpt": "AI wearables, such as smart glasses, extend the context available to agents beyond digital environments to users' physical surroundings. With these devices, computer tasks can originate from users' ongoing activities rather than solely from explicit instructions. Through first-person observations, a",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 19"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+      "url": "https://huggingface.co/papers/2611.34290",
+      "category": "tech",
+      "excerpt": "Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challenges because continual planning and repair accumulate context, while reference up",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 15"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Beyond Self-Consistency: Recursive Self-Improvement at Test Time",
+      "url": "https://huggingface.co/papers/2611.30965",
+      "category": "tech",
+      "excerpt": "Large language models (LLMs) that continue improving after deployment (e.g., recursive self-improvement) offer a promising path toward general intelligence. Current test-time methods pursue this goal on unlabeled questions, primarily relying on self-consistency: they generate independent solutions a",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "meta": "👍 15"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "iMFPO: Improving Mean Flow Policy Optimization with Drift-Aware Velocity Alignment for Embodied Control",
+      "url": "https://huggingface.co/papers/2611.33922",
+      "category": "tech",
+      "excerpt": "Flow-based generative policies offer expressive action modeling for embodied control, yet achieving efficient one-step generation under reward-driven policy optimization remains challenging. In particular, evolving action distributions during online reinforcement learning may introduce inconsistenci",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 10"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Letting Models Manage Their Own Context: Where We Stand",
+      "url": "https://huggingface.co/papers/2611.34147",
+      "category": "tech",
+      "excerpt": "Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, model-driven context management, in which the model itself decides when and what to compact through a context API. We gave model",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 9"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
+      "url": "https://huggingface.co/papers/2611.32238",
+      "category": "tech",
+      "excerpt": "Agent-orchestrated robot systems combine the general reasoning capability of multimodal agents with the precise physical control of learned visuomotor policies. Yet such systems often fail at the moment of handoff: a policy is reliable only from a limited set of start states, while the agent may inv",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
+      "url": "https://huggingface.co/papers/2611.28244",
+      "category": "tech",
+      "excerpt": "Autoresearch agents, which autonomously design, run, and refine experiments, are accelerating scientific progress, particularly in AI research. However, existing agents rely on harnesses that combine multiple mechanisms, making it difficult to determine how individual components contribute to perfor",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "meta": "👍 5"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "url": "https://huggingface.co/papers/2611.34813",
+      "category": "tech",
+      "excerpt": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfoldi",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
+      "url": "https://huggingface.co/papers/2611.34363",
+      "category": "tech",
+      "excerpt": "Reinforcement learning (RL) for text-to-SQL agents pays a query when its result matches the reference on one database. However, a wrong query can match by luck when the data lack the rows that expose its bug. We study a counterfactual-database (CF) reward that also runs the final query on a few hidd",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+      "url": "https://huggingface.co/papers/2611.21056",
+      "category": "tech",
+      "excerpt": "Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to decide which candidates or lineages continue evolving, which we term evaluate-and-select. Obtaining ",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models",
+      "url": "https://huggingface.co/papers/2611.33307",
+      "category": "tech",
+      "excerpt": "Decision models are language models fine-tuned to return a probability for each option of a typed query, which routers and guardrails threshold directly. They are built on multilingual bases but ranked almost entirely in English. We evaluate 25 top-ranked open-weight decision models on 17 tasks in 1",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers",
+      "url": "https://huggingface.co/papers/2611.34331",
+      "category": "tech",
+      "excerpt": "We introduce Puzzling-Bench, a benchmark of 23,777 puzzles with community-verified answers drawn from the Puzzling Stack Exchange archive (2014-2026): riddles, ciphers, logic grids, lateral-thinking problems, wordplay and recreational mathematics, a third of them with images. Every puzzle carries th",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 4"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
+      "url": "https://huggingface.co/papers/2611.32993",
+      "category": "tech",
+      "excerpt": "Structured clinical decisions from volumetric computed tomography (CT) require anatomically grounded predictions and calibrated confidence estimates. However, existing 3D medical multimodal models often suffer from uncalibrated autoregressive decoding and shortcut reliance on irrelevant anatomical r",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Evaluating Memanto on DolphinBench for AI Agents",
+      "url": "https://huggingface.co/papers/2611.28231",
+      "category": "tech",
+      "excerpt": "Memory benchmarks built on question answering tell an agent which fact to recall. Workplace requests often leave that need implicit: to post an update in the team's channel, an agent must work out which channel from earlier interactions and use it in a tool call. We evaluate Memanto, a memory agent ",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+      "url": "https://huggingface.co/papers/2611.33093",
+      "category": "tech",
+      "excerpt": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardwa",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL",
+      "url": "https://huggingface.co/papers/2611.34777",
+      "category": "tech",
+      "excerpt": "Group-based reinforcement learning with verifiable rewards often yields all-fail groups on long-horizon agent tasks: every sampled trajectory receives zero reward, leaving group-relative methods without a reward-based policy gradient. A common remedy supplies complete solutions from a stronger model",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2611.34756",
+      "category": "tech",
+      "excerpt": "Fully online on-policy distillation (OPD) is costly for long-horizon agents because each update depends on fresh environment rollouts. Prefix replay offers an efficient alternative by sampling current-student responses from stored histories, reducing idle time for long-tail rollouts and allowing eac",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "LiveVAE: Causal Window Attention Makes Efficient Streaming Video VAE",
+      "url": "https://huggingface.co/papers/2611.34912",
+      "category": "tech",
+      "excerpt": "While video diffusion models have grown faster and increasingly streamable, the video VAE remains a primary latency bottleneck across interactive generation and editing pipelines. Existing VAEs and their acceleration methods rely mainly on heavy convolutions or full frame attention, and most focus o",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 3"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection",
+      "url": "https://huggingface.co/papers/2611.34719",
+      "category": "tech",
+      "excerpt": "Generalization to unseen image generators has driven efforts to adapt pretrained visual representations for detection. Yet recent findings show that vision foundation models already encode transferable detection knowledge, while further adaptation can impair generalization. This motivates a shift fr",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "meta": "👍 2"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DetourBench: Trajectory-Level Evaluation of Interactive Agents with Exact Minimum-Action Bounds",
+      "url": "https://huggingface.co/papers/2611.20844",
+      "category": "tech",
+      "excerpt": "Benchmarks judge language-model agents mainly by whether they reach the correct final state, not by how they got there. Endpoint scoring cannot separate an agent that retrieved exactly the evidence a decision required from one that read most of the environment, nor an agent that never located the ev",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 2"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?",
+      "url": "https://huggingface.co/papers/2611.21155",
+      "category": "tech",
+      "excerpt": "After a large language model (LLM) agent generates an artifact, users often send edit requests for it. This paper studies whether an LLM can anticipate these requests before they are sent. Such anticipation is useful in practice because it reduces the effort of user review and feedback. We formalize",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "meta": "👍 2"
+    }
+  ]
+}

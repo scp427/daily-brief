@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-world",
+  "fetchedAt": "2026-11-27T04:29:22.316Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 119,
+  "items": [
+    {
+      "sourceId": "bbc-world",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "publishedAt": "2026-11-26T22:49:27.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "publishedAt": "2026-11-27T00:52:11.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "publishedAt": "2026-11-26T19:26:16.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "publishedAt": "2026-11-27T03:28:15.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "publishedAt": "2026-11-26T05:00:24.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+      "publishedAt": "2026-11-26T05:00:27.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "publishedAt": "2026-11-26T14:44:26.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "publishedAt": "2026-11-26T22:01:22.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "publishedAt": "2026-11-26T14:35:22.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "publishedAt": "2026-11-26T21:17:53.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+      "publishedAt": "2026-11-26T12:16:06.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "publishedAt": "2026-11-26T11:00:39.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+      "publishedAt": "2026-11-26T10:25:51.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+      "publishedAt": "2026-11-26T12:33:23.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+      "publishedAt": "2026-11-26T16:21:19.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+      "publishedAt": "2026-11-26T09:49:42.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+      "publishedAt": "2026-11-26T10:14:08.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+      "publishedAt": "2026-11-26T07:31:24.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "DR Congo demands answers over Ugandan general's threats",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+      "publishedAt": "2026-11-26T07:24:39.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "publishedAt": "2026-11-26T15:23:17.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+      "publishedAt": "2026-11-26T07:43:48.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "publishedAt": "2026-11-26T09:27:44.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "publishedAt": "2026-11-26T22:06:20.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "publishedAt": "2026-11-26T23:03:16.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
+      "url": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
+      "publishedAt": "2026-11-26T09:22:34.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+      "publishedAt": "2026-11-25T20:11:46.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "publishedAt": "2026-11-27T00:47:43.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "publishedAt": "2026-11-27T00:48:11.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "publishedAt": "2026-11-26T06:01:58.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "publishedAt": "2026-11-25T23:26:50.000Z"
+    }
+  ]
+}

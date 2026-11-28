@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "ars-technica",
+  "fetchedAt": "2026-11-28T17:09:16.104Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 50,
+  "items": [
+    {
+      "sourceId": "ars-technica",
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "category": "tech",
+      "excerpt": "Kindles are getting costlier faster than they're getting better.",
+      "publishedAt": "2026-11-28T12:00:20.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "category": "tech",
+      "excerpt": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "publishedAt": "2026-11-27T17:05:37.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "category": "tech",
+      "excerpt": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "publishedAt": "2026-11-27T12:05:01.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "category": "tech",
+      "excerpt": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+      "publishedAt": "2026-11-27T11:30:04.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "category": "tech",
+      "excerpt": "There’s just one thing we still don’t know: How much will they cost?",
+      "publishedAt": "2026-11-27T08:00:53.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "category": "tech",
+      "excerpt": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "publishedAt": "2026-11-26T18:00:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "category": "tech",
+      "excerpt": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "publishedAt": "2026-11-26T12:15:42.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "category": "tech",
+      "excerpt": "Our home offices range from tasteful to \"please explain yourself.\"",
+      "publishedAt": "2026-11-26T12:00:14.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "category": "tech",
+      "excerpt": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "publishedAt": "2026-11-25T22:36:45.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "category": "tech",
+      "excerpt": "The pitch is an unusual combination of privacy promises and AI features.",
+      "publishedAt": "2026-11-25T20:57:09.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "category": "tech",
+      "excerpt": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "publishedAt": "2026-11-25T18:38:29.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "category": "tech",
+      "excerpt": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "publishedAt": "2026-11-25T18:22:38.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "category": "tech",
+      "excerpt": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "publishedAt": "2026-11-25T17:33:30.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "category": "tech",
+      "excerpt": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "publishedAt": "2026-11-25T17:12:57.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "category": "tech",
+      "excerpt": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "publishedAt": "2026-11-25T16:47:14.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "category": "tech",
+      "excerpt": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+      "publishedAt": "2026-11-25T16:33:45.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "category": "tech",
+      "excerpt": "Prior modeling estimated the plume would cover hundreds of square miles.",
+      "publishedAt": "2026-11-25T15:35:17.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "category": "tech",
+      "excerpt": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "publishedAt": "2026-11-25T14:29:43.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "category": "tech",
+      "excerpt": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "publishedAt": "2026-11-25T12:00:28.000Z"
+    },
+    {
+      "sourceId": "ars-technica",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "category": "tech",
+      "excerpt": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "publishedAt": "2026-11-24T22:50:11.000Z"
+    }
+  ]
+}

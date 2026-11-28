@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-world",
+  "fetchedAt": "2026-11-27T04:29:22.526Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 245,
+  "items": [
+    {
+      "sourceId": "npr-world",
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+      "category": "politics",
+      "excerpt": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+      "publishedAt": "2026-11-26T13:47:09.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "category": "politics",
+      "excerpt": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+      "publishedAt": "2026-11-26T13:31:28.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+      "category": "politics",
+      "excerpt": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
+      "publishedAt": "2026-11-26T12:24:29.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "How American Thanksgiving took root — and evolved — in Liberia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "category": "politics",
+      "excerpt": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+      "publishedAt": "2026-11-25T14:14:34.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "category": "politics",
+      "excerpt": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
+      "publishedAt": "2026-11-25T12:18:09.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "category": "politics",
+      "excerpt": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+      "publishedAt": "2026-11-25T11:50:05.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+      "category": "politics",
+      "excerpt": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+      "publishedAt": "2026-11-25T11:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+      "category": "politics",
+      "excerpt": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+      "publishedAt": "2026-11-25T09:44:13.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+      "category": "politics",
+      "excerpt": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+      "publishedAt": "2026-11-25T06:43:23.000Z"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "category": "politics",
+      "excerpt": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+      "publishedAt": "2026-11-24T14:24:04.000Z"
+    }
+  ]
+}

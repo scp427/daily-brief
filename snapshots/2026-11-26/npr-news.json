@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "npr-news",
+  "fetchedAt": "2026-11-26T04:19:42.575Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 31,
+  "items": [
+    {
+      "sourceId": "npr-news",
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+      "category": "society",
+      "excerpt": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+      "publishedAt": "2026-11-25T21:02:58.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+      "category": "society",
+      "excerpt": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+      "publishedAt": "2026-11-25T17:30:47.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "category": "society",
+      "excerpt": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+      "publishedAt": "2026-11-25T14:14:34.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "category": "society",
+      "excerpt": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+      "publishedAt": "2026-11-25T13:51:56.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "category": "society",
+      "excerpt": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
+      "publishedAt": "2026-11-25T12:18:09.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "category": "society",
+      "excerpt": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+      "publishedAt": "2026-11-25T11:50:05.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+      "category": "society",
+      "excerpt": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+      "publishedAt": "2026-11-25T11:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "Buying new things feels wonderful. But it can also be a trap",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
+      "category": "society",
+      "excerpt": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.",
+      "publishedAt": "2026-11-25T10:02:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
+      "category": "society",
+      "excerpt": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
+      "publishedAt": "2026-11-25T10:00:00.000Z"
+    },
+    {
+      "sourceId": "npr-news",
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+      "category": "society",
+      "excerpt": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+      "publishedAt": "2026-11-25T10:00:00.000Z"
+    }
+  ]
+}

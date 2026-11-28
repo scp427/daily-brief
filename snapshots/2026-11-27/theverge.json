@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "theverge",
+  "fetchedAt": "2026-11-27T04:29:21.244Z",
+  "ok": true,
+  "itemCount": 10,
+  "durationMs": 181,
+  "items": [
+    {
+      "sourceId": "theverge",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "category": "tech",
+      "excerpt": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some ",
+      "publishedAt": "2026-11-26T21:00:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "category": "tech",
+      "excerpt": "The Forerunner 265S is great for runners with small wrists. | Photo by Amelia Holowaty Krales / The Verge The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty go",
+      "publishedAt": "2026-11-26T19:00:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "category": "tech",
+      "excerpt": "This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounte",
+      "publishedAt": "2026-11-26T17:07:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "category": "tech",
+      "excerpt": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says c",
+      "publishedAt": "2026-11-26T17:06:24.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "category": "tech",
+      "excerpt": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t",
+      "publishedAt": "2026-11-26T16:55:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "category": "tech",
+      "excerpt": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights an",
+      "publishedAt": "2026-11-26T16:38:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "category": "tech",
+      "excerpt": "HBO’s A Knight of the Seven Kingdoms takes a surprisingly charming approach to Westerosi medievalism. | Image: HBO Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this ye",
+      "publishedAt": "2026-11-26T16:00:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "GTA VI developers vote against unionization",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "category": "tech",
+      "excerpt": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organi",
+      "publishedAt": "2026-11-26T15:55:24.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "category": "tech",
+      "excerpt": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a b",
+      "publishedAt": "2026-11-26T15:00:00.000Z"
+    },
+    {
+      "sourceId": "theverge",
+      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+      "category": "tech",
+      "excerpt": "The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to",
+      "publishedAt": "2026-11-26T14:00:00.000Z"
+    }
+  ]
+}

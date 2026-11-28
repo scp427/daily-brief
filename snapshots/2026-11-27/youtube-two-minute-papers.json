@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "youtube-two-minute-papers",
+  "fetchedAt": "2026-11-27T04:29:19.642Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 344,
+  "items": [],
+  "error": "youtube youtube-two-minute-papers: HTTP 503"
+}

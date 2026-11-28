@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "yahoo-finance",
+  "fetchedAt": "2026-11-24T06:19:28.203Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 144,
+  "items": [],
+  "error": "Status code 404"
+}

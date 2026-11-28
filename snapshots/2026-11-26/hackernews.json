@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "hackernews",
+  "fetchedAt": "2026-11-26T04:19:40.847Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 360,
+  "items": [
+    {
+      "sourceId": "hackernews",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "category": "tech",
+      "excerpt": "See also The matrix multiplication exponent is nine fourths [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50637220",
+      "publishedAt": "2026-11-25T19:11:27.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "category": "tech",
+      "excerpt": "1256 points · 529 comments",
+      "publishedAt": "2026-11-25T17:18:26.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "category": "tech",
+      "excerpt": "338 points · 174 comments",
+      "publishedAt": "2026-11-25T21:48:10.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "category": "tech",
+      "excerpt": "17 points · 1 comments",
+      "publishedAt": "2026-11-22T11:29:44.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "category": "tech",
+      "excerpt": "There have been questions about why the &#x2F;ask page (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask) was running dry of Ask HNs - e.g.:Ask HN: Why is Ask HN only showing me 14 posts? - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49984484 - Oct 2026 (47 comments)Ask HN: Why is pagination ",
+      "publishedAt": "2026-11-26T00:43:34.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "category": "tech",
+      "excerpt": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter solution. And once a pr",
+      "publishedAt": "2026-11-22T16:44:48.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "category": "tech",
+      "excerpt": "184 points · 92 comments",
+      "publishedAt": "2026-11-25T20:38:00.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "category": "tech",
+      "excerpt": "453 points · 112 comments",
+      "publishedAt": "2026-11-25T15:14:32.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "How did pinwheel calculators work?",
+      "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "category": "tech",
+      "excerpt": "39 points · 3 comments",
+      "publishedAt": "2026-11-25T02:00:08.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "category": "tech",
+      "excerpt": "https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy",
+      "publishedAt": "2026-11-25T21:18:02.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "category": "tech",
+      "excerpt": "21 points · 0 comments",
+      "publishedAt": "2026-11-24T10:56:56.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "category": "tech",
+      "excerpt": "41 points · 3 comments",
+      "publishedAt": "2026-11-26T00:40:00.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "category": "tech",
+      "excerpt": "68 points · 7 comments",
+      "publishedAt": "2026-11-25T22:12:25.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "category": "tech",
+      "excerpt": "88 points · 17 comments",
+      "publishedAt": "2026-11-25T22:15:34.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "category": "tech",
+      "excerpt": "107 points · 36 comments",
+      "publishedAt": "2026-11-25T20:35:50.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "category": "tech",
+      "excerpt": "154 points · 77 comments",
+      "publishedAt": "2026-11-21T14:52:41.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "category": "tech",
+      "excerpt": "4 points · 0 comments",
+      "publishedAt": "2026-11-26T03:43:24.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Linear scan register allocation in Datalog",
+      "url": "https://bernsteinbear.com/blog/lsra-datalog/",
+      "category": "tech",
+      "excerpt": "9 points · 0 comments",
+      "publishedAt": "2026-11-23T14:17:34.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "category": "tech",
+      "excerpt": "462 points · 342 comments",
+      "publishedAt": "2026-11-25T13:33:07.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "category": "tech",
+      "excerpt": "134 points · 37 comments",
+      "publishedAt": "2026-11-25T17:34:34.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A beer brewer's noise estimation",
+      "url": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
+      "category": "tech",
+      "excerpt": "20 points · 2 comments",
+      "publishedAt": "2026-11-23T12:20:15.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+      "url": "https://www.worksinprogress.news/p/the-trouble-with-serendipity",
+      "category": "tech",
+      "excerpt": "28 points · 7 comments",
+      "publishedAt": "2026-11-23T18:18:08.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
+      "url": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
+      "category": "tech",
+      "excerpt": "14 points · 0 comments",
+      "publishedAt": "2026-11-23T23:25:26.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "category": "tech",
+      "excerpt": "324 points · 182 comments",
+      "publishedAt": "2026-11-25T11:34:25.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Hacking radiators",
+      "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "category": "tech",
+      "excerpt": "42 points · 16 comments",
+      "publishedAt": "2026-11-24T02:56:41.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "category": "tech",
+      "excerpt": "258 points · 75 comments",
+      "publishedAt": "2026-11-25T22:57:04.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "category": "tech",
+      "excerpt": "199 points · 70 comments",
+      "publishedAt": "2026-11-25T14:56:52.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "category": "tech",
+      "excerpt": "240 points · 95 comments",
+      "publishedAt": "2026-11-24T06:22:36.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "category": "tech",
+      "excerpt": "https:&#x2F;&#x2F;archive.ph&#x2F;pfVdX",
+      "publishedAt": "2026-11-25T17:43:46.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "category": "tech",
+      "excerpt": "7 points · 1 comments",
+      "publishedAt": "2026-11-26T03:00:48.000Z"
+    }
+  ]
+}

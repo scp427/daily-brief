@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-tech",
+  "fetchedAt": "2026-11-23T03:02:07.472Z",
+  "ok": true,
+  "itemCount": 21,
+  "durationMs": 143,
+  "items": [
+    {
+      "sourceId": "bbc-tech",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "publishedAt": "2026-11-21T00:06:11.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "publishedAt": "2026-11-20T23:08:57.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "publishedAt": "2026-11-20T22:53:24.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "publishedAt": "2026-11-20T22:42:47.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "publishedAt": "2026-11-20T20:54:12.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+      "publishedAt": "2026-11-20T19:03:56.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "publishedAt": "2026-11-20T07:32:19.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "publishedAt": "2026-11-20T00:02:07.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "publishedAt": "2026-11-19T23:33:51.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "publishedAt": "2026-11-19T16:33:17.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "publishedAt": "2026-11-19T15:58:58.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
+      "publishedAt": "2026-11-19T12:26:39.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Video gaming is huge - it's more lucrative than the movies and music combined.",
+      "publishedAt": "2026-11-17T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "publishedAt": "2026-11-10T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "publishedAt": "2026-11-03T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "publishedAt": "2026-10-27T20:30:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+      "publishedAt": "2026-11-21T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "publishedAt": "2026-11-14T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "publishedAt": "2026-10-10T01:00:00.000Z"
+    },
+    {
+      "sourceId": "bbc-tech",
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "category": "tech",
+      "excerpt": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+      "publishedAt": "2026-10-03T01:00:00.000Z"
+    }
+  ]
+}

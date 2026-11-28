@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "attentionvc-ai",
+  "fetchedAt": "2026-11-23T03:02:06.974Z",
+  "ok": true,
+  "itemCount": 6,
+  "durationMs": 177,
+  "items": [
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to Make Claude Design Like a Real Studio",
+      "url": "https://x.com/tobiadonadon_/status/2124269680122638822",
+      "category": "tech",
+      "excerpt": "claude can build almost anything now. ask it for a landing page and you have one in a minute. the catch is you get the same landing page every time. same serif headline. same one word in italic, in",
+      "publishedAt": "2026-11-21T22:32:13.000Z",
+      "meta": "@tobiadonadon_ · 13.8K 粉丝 · 104.6K 阅 · 721 赞 · 43 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "You vibe-coded an app. Are you sure it's secure? ",
+      "url": "https://x.com/GoogleCloudTech/status/2123827364471746624",
+      "category": "tech",
+      "excerpt": "In no time at all, AI has made it possible for almost anyone to create an app. Vibe coding is all about delegating the writing of code to your agent, which means that you're delegating the entire",
+      "publishedAt": "2026-11-20T17:14:37.000Z",
+      "meta": "@GoogleCloudTech · 1.3M 粉丝 · 44.9K 阅 · 515 赞 · 41 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to build a knowledge factory",
+      "url": "https://x.com/hwchase17/status/2124181216719151585",
+      "category": "tech",
+      "excerpt": "In order to make AI work for your company, the missing bit is not better models, it’s not just more context - it’s better knowledge. It’s knowledge of how your company works, what standards for",
+      "publishedAt": "2026-11-21T16:40:42.000Z",
+      "meta": "@hwchase17 · 141.3K 粉丝 · 41.0K 阅 · 550 赞 · 42 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How to pick an eval framework that checks what you ship: what the popular tools really ask you to bu",
+      "url": "https://x.com/sermakarevich/status/2124210425331921148",
+      "category": "tech",
+      "excerpt": "An article for engineers who ship language-model features and need repeatable checks, plus managers deciding what to standardize on. Numbers come from public docs, repo pages, and papers listed at the",
+      "publishedAt": "2026-11-21T18:36:45.000Z",
+      "meta": "@sermakarevich · 3.1K 粉丝 · 40.8K 阅 · 589 赞 · 73 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+      "url": "https://x.com/GoogleAIStudio/status/2123840416277512391",
+      "category": "tech",
+      "excerpt": "Google AI Studio, with Gemini 4 Carbon, Hydrogen, and Neon, now enables you to build and ship full-stack, Android applications and publish to the Play Store in minutes. You can now go from a single",
+      "publishedAt": "2026-11-20T18:06:28.000Z",
+      "meta": "@GoogleAIStudio · 222.1K 粉丝 · 37.0K 阅 · 591 赞 · 53 转"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Superintelligence is Arriving",
+      "url": "https://x.com/alexandr_wang/status/2124636606959345776",
+      "category": "tech",
+      "excerpt": "Superintelligence is arriving. How humanity acts over the next year will have great consequence on what future world we live in. As someone who has spent much of my life in math and science, I see the",
+      "publishedAt": "2026-11-22T22:50:15.000Z",
+      "meta": "@alexandr_wang · 855.8K 粉丝 · 22.8K 阅 · 537 赞 · 63 转"
+    }
+  ]
+}

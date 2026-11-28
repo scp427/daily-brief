@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "reddit-wallstreetbets",
+  "fetchedAt": "2026-11-26T04:19:42.206Z",
+  "ok": false,
+  "itemCount": 0,
+  "durationMs": 120,
+  "items": [],
+  "error": "Unable to parse XML."
+}

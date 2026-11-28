@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "techcrunch",
+  "fetchedAt": "2026-11-23T03:02:07.329Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 103,
+  "items": [
+    {
+      "sourceId": "techcrunch",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "category": "tech",
+      "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "publishedAt": "2026-11-23T01:25:53.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "category": "tech",
+      "excerpt": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "publishedAt": "2026-11-22T21:42:48.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "category": "tech",
+      "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "publishedAt": "2026-11-22T21:14:07.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "category": "tech",
+      "excerpt": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "publishedAt": "2026-11-22T21:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "category": "tech",
+      "excerpt": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "publishedAt": "2026-11-22T18:08:43.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "category": "tech",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-11-22T17:06:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "category": "tech",
+      "excerpt": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "publishedAt": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "category": "tech",
+      "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "publishedAt": "2026-11-21T21:37:10.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "category": "tech",
+      "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "publishedAt": "2026-11-21T21:07:42.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "category": "tech",
+      "excerpt": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "publishedAt": "2026-11-21T18:44:53.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "tech",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "publishedAt": "2026-11-21T17:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "category": "tech",
+      "excerpt": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "publishedAt": "2026-11-21T16:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "category": "tech",
+      "excerpt": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "publishedAt": "2026-11-21T15:18:29.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "category": "tech",
+      "excerpt": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "publishedAt": "2026-11-21T04:00:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "category": "tech",
+      "excerpt": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "publishedAt": "2026-11-20T20:58:29.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "category": "tech",
+      "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "publishedAt": "2026-11-20T19:53:41.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "category": "tech",
+      "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "publishedAt": "2026-11-20T19:32:08.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "category": "tech",
+      "excerpt": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "publishedAt": "2026-11-20T18:34:00.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "category": "tech",
+      "excerpt": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "publishedAt": "2026-11-20T17:40:01.000Z"
+    },
+    {
+      "sourceId": "techcrunch",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "category": "tech",
+      "excerpt": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "publishedAt": "2026-11-20T16:16:06.000Z"
+    }
+  ]
+}

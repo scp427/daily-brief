@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "hackernews",
+  "fetchedAt": "2026-11-25T05:00:33.189Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 417,
+  "items": [
+    {
+      "sourceId": "hackernews",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "category": "tech",
+      "excerpt": "322 points · 141 comments",
+      "publishedAt": "2026-11-25T01:19:26.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "category": "tech",
+      "excerpt": "85 points · 5 comments",
+      "publishedAt": "2026-11-25T03:23:07.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "I've been drinking wine in my kitchen",
+      "url": "https://scottaaronson.blog/?p=10362",
+      "category": "tech",
+      "excerpt": "71 points · 29 comments",
+      "publishedAt": "2026-11-25T03:02:10.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "category": "tech",
+      "excerpt": "74 points · 30 comments",
+      "publishedAt": "2026-11-25T02:34:21.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: U.S. Interstate Weather",
+      "url": "https://www.interstateweather.com/",
+      "category": "tech",
+      "excerpt": "In case you&#x27;re going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday).",
+      "publishedAt": "2026-11-25T04:35:32.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "category": "tech",
+      "excerpt": "384 points · 129 comments",
+      "publishedAt": "2026-11-24T20:08:03.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "category": "tech",
+      "excerpt": "28 points · 5 comments",
+      "publishedAt": "2026-11-25T03:47:42.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "category": "tech",
+      "excerpt": "16 points · 6 comments",
+      "publishedAt": "2026-11-25T04:03:33.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "category": "tech",
+      "excerpt": "139 points · 24 comments",
+      "publishedAt": "2026-11-25T00:54:49.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "category": "tech",
+      "excerpt": "20 points · 5 comments",
+      "publishedAt": "2026-11-25T03:28:06.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "category": "tech",
+      "excerpt": "35 points · 9 comments",
+      "publishedAt": "2026-11-25T03:04:37.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "category": "tech",
+      "excerpt": "217 points · 65 comments",
+      "publishedAt": "2026-11-24T21:02:22.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Lua for Data Representation",
+      "url": "https://citrons.xyz/journal/2025-07-23",
+      "category": "tech",
+      "excerpt": "18 points · 2 comments",
+      "publishedAt": "2026-11-25T03:04:12.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Macrohistory in Six Facts",
+      "url": "https://basilhalperin.com/essays/macrohistory.html",
+      "category": "tech",
+      "excerpt": "20 points · 4 comments",
+      "publishedAt": "2026-11-25T03:04:46.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "category": "tech",
+      "excerpt": "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (https:&#x2F;&#x2F;versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks,",
+      "publishedAt": "2026-11-24T20:44:15.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "New Rewritable Antimony Elenide Display Shows an Image for Months Without Power",
+      "url": "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/",
+      "category": "tech",
+      "excerpt": "18 points · 6 comments",
+      "publishedAt": "2026-11-24T10:52:12.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "category": "tech",
+      "excerpt": "412 points · 106 comments",
+      "publishedAt": "2026-11-22T11:16:30.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "category": "tech",
+      "excerpt": "273 points · 140 comments",
+      "publishedAt": "2026-11-24T16:32:17.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "category": "tech",
+      "excerpt": "15 points · 3 comments",
+      "publishedAt": "2026-11-25T03:01:36.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "category": "tech",
+      "excerpt": "3 points · 1 comments",
+      "publishedAt": "2026-11-25T04:31:48.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "url": "https://literaryreview.co.uk/here-in-the-world",
+      "category": "tech",
+      "excerpt": "38 points · 3 comments",
+      "publishedAt": "2026-11-25T00:36:43.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+      "url": "https://vcarl.com/sashay/",
+      "category": "tech",
+      "excerpt": "15 points · 1 comments",
+      "publishedAt": "2026-11-25T03:10:18.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "The Shapes of Rivers",
+      "url": "https://dominicroye.github.io/shapes-of-rivers/",
+      "category": "tech",
+      "excerpt": "7 points · 0 comments",
+      "publishedAt": "2026-11-24T12:14:25.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Gödel Enigma",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "category": "tech",
+      "excerpt": "109 points · 35 comments",
+      "publishedAt": "2026-11-24T08:16:02.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III",
+      "url": "https://github.com/mawlicious/bo3mac",
+      "category": "tech",
+      "excerpt": "12 points · 0 comments",
+      "publishedAt": "2026-11-25T03:00:12.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "category": "tech",
+      "excerpt": "92 points · 21 comments",
+      "publishedAt": "2026-11-23T09:46:57.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "category": "tech",
+      "excerpt": "149 points · 100 comments",
+      "publishedAt": "2026-11-23T12:40:08.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Network Researchers Nail Down Theory of 'Perfect Resilience'",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "category": "tech",
+      "excerpt": "7 points · 0 comments",
+      "publishedAt": "2026-11-25T03:00:39.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "A faster algorithm for extracting hexadecimal digits of π",
+      "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+      "category": "tech",
+      "excerpt": "7 points · 0 comments",
+      "publishedAt": "2026-11-25T03:28:42.000Z"
+    },
+    {
+      "sourceId": "hackernews",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "category": "tech",
+      "excerpt": "1 points · 0 comments",
+      "publishedAt": "2026-11-24T17:00:55.000Z"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "economist-finance",
+  "fetchedAt": "2026-11-28T17:09:16.942Z",
+  "ok": true,
+  "itemCount": 30,
+  "durationMs": 91,
+  "items": [
+    {
+      "sourceId": "economist-finance",
+      "title": "History’s warning lesson for Anthropic",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+      "category": "finance",
+      "excerpt": "As tech stocks plunge, recall the fate of the East India Company",
+      "publishedAt": "2026-11-26T09:49:07.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The fall of China’s most trusted wealth manager",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+      "category": "finance",
+      "excerpt": "A hard landing for CreditEase",
+      "publishedAt": "2026-11-26T09:47:52.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Mexico’s export boom is real—and disappointing",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+      "category": "finance",
+      "excerpt": "AI servers are no pickup trucks",
+      "publishedAt": "2026-11-26T09:45:41.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Can America’s government afford “affordability”?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+      "category": "finance",
+      "excerpt": "Making things cheap is expensive",
+      "publishedAt": "2026-11-25T22:33:27.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Are America’s supply chains really more vulnerable than China’s?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+      "category": "finance",
+      "excerpt": "Mapping the vulnerabilities in global commerce",
+      "publishedAt": "2026-11-24T20:34:14.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Copper shows how AI is messing with markets",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+      "category": "finance",
+      "excerpt": "The pitfalls of being a proxy bet for a technological revolution",
+      "publishedAt": "2026-11-24T18:12:38.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "How much more air can come out of the AI trade?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+      "category": "finance",
+      "excerpt": "Markets are troubled—for good reason",
+      "publishedAt": "2026-11-22T19:44:21.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+      "category": "finance",
+      "excerpt": "The Public Investment Fund is distracted, and not just by war",
+      "publishedAt": "2026-11-22T11:13:42.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Bond yields are rising everywhere—except China",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+      "category": "finance",
+      "excerpt": "The Chinese central bank has cut interest rates despite itself",
+      "publishedAt": "2026-11-19T10:04:37.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Europe tightens sanctions on Russia. America loosens them",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+      "category": "finance",
+      "excerpt": "The West’s sanctions regimes are pulling in opposite directions",
+      "publishedAt": "2026-11-19T10:03:23.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "AI is swallowing maths. Is economics next?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+      "category": "finance",
+      "excerpt": "The dismal science braces for disruption",
+      "publishedAt": "2026-11-19T10:01:25.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Meet the European Central Bank’s new squad",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+      "category": "finance",
+      "excerpt": "A Spaniard, a German and a Frenchwoman",
+      "publishedAt": "2026-11-18T19:24:30.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Why startups still go public, eventually",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+      "category": "finance",
+      "excerpt": "Costly regulation is not a big deterrent to IPOs",
+      "publishedAt": "2026-11-17T18:38:26.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Does Donald Trump care about the economy?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+      "category": "finance",
+      "excerpt": "His economic advisers have gone missing after a bruising midterm defeat",
+      "publishedAt": "2026-11-17T17:54:03.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "America does not produce world-beating statistics. Who does?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+      "category": "finance",
+      "excerpt": "We search for the world’s worst—and best—economic data",
+      "publishedAt": "2026-11-16T18:28:18.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The return of the snatch-and-grab state",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
+      "category": "finance",
+      "excerpt": "A new history of confiscation sheds light on modern economic warfare",
+      "publishedAt": "2026-11-12T10:40:24.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Where to find the anti-AI trade",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+      "category": "finance",
+      "excerpt": "The worse chipmakers do, the better Indian equities perform",
+      "publishedAt": "2026-11-12T10:38:28.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Italy’s proposed exit tax causes ructions",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
+      "category": "finance",
+      "excerpt": "Taxing rich emigrants’ capital gains may be good in theory. Practice is harder",
+      "publishedAt": "2026-11-12T10:35:00.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Lessons from a miserable month for hedge funds",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+      "category": "finance",
+      "excerpt": "The struggle to invest in anything other than AI",
+      "publishedAt": "2026-11-10T20:47:39.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "For boomers, economic boom times are over",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+      "category": "finance",
+      "excerpt": "Across the rich world, the geriatric share of income and wealth is ebbing",
+      "publishedAt": "2026-11-10T20:28:56.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "The future of Trumponomics: compromise or failure",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+      "category": "finance",
+      "excerpt": "How the art of the deal may yet prevail over the art of denial",
+      "publishedAt": "2026-11-09T19:13:41.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Markets realise they hate America’s blue wave",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+      "category": "finance",
+      "excerpt": "Investors worry that Democratic dominance will slow down the AI boom",
+      "publishedAt": "2026-11-05T23:41:07.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Indebted tycoons haunt China’s banking system",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+      "category": "finance",
+      "excerpt": "Lenders are feeling the hangover from years of Wild East capitalism",
+      "publishedAt": "2026-11-05T11:54:22.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "AI is turning protectionists into free traders",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+      "category": "finance",
+      "excerpt": "Barriers to commerce are rising—except in technology",
+      "publishedAt": "2026-11-05T10:22:20.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "William Nordhaus, favourite economist of the right and the left",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+      "category": "finance",
+      "excerpt": "The Nobel-prizewinner was fascinated by what happens when markets fail",
+      "publishedAt": "2026-11-05T10:17:54.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "What markets make of the midterms",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+      "category": "finance",
+      "excerpt": "Democrats triumph. Investors yawn",
+      "publishedAt": "2026-11-04T21:48:18.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "China’s AI stock-market struggles are a warning",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+      "category": "finance",
+      "excerpt": "What happens when the supply of new tech catches up with demand?",
+      "publishedAt": "2026-11-03T20:48:59.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "America’s renters are in serious trouble",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+      "category": "finance",
+      "excerpt": "Several gauges of their financial health are flashing red",
+      "publishedAt": "2026-11-03T19:06:57.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Intensive parenting is no longer the preserve of the rich",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+      "category": "finance",
+      "excerpt": "But wealthy families still come out on top",
+      "publishedAt": "2026-11-01T16:08:43.000Z"
+    },
+    {
+      "sourceId": "economist-finance",
+      "title": "Christine Lagarde departs at a moment of peril",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+      "category": "finance",
+      "excerpt": "Her successor as ECB chief will have an unenviable job",
+      "publishedAt": "2026-10-29T11:26:26.000Z"
+    }
+  ]
+}

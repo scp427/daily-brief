@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bloomberg-markets",
+  "fetchedAt": "2026-11-25T05:00:34.264Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 446,
+  "items": [
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Stock Losses Build as AI Trade Falters, Oil Drops: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "category": "finance",
+      "excerpt": "Stocks sold off and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove a retreat from technology shares. Treasuries advanced on haven demand.",
+      "publishedAt": "2026-11-24T22:09:18.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Center Projects",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+      "category": "finance",
+      "excerpt": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
+      "publishedAt": "2026-11-25T04:35:30.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Nov. 25",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+      "category": "finance",
+      "excerpt": "Oil slipped as signs of rising crude supply outweighed escalating attacks on vessels around the Strait of Hormuz.",
+      "publishedAt": "2026-11-24T23:06:29.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
+      "category": "finance",
+      "excerpt": "China has opened an investigation into Chen Jining, a member of the country's elite Politburo and the party chief of Shanghai, for suspected serious violations of law and discipline. Bloomberg Economics' Neil Thomas has the context. (Source: Bloomberg)",
+      "publishedAt": "2026-11-25T04:25:11.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
+      "category": "finance",
+      "excerpt": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos, far exceeding the size of the next-largest business on the continent.",
+      "publishedAt": "2026-11-25T04:15:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+      "category": "finance",
+      "excerpt": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
+      "publishedAt": "2026-11-25T02:45:27.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
+      "category": "finance",
+      "excerpt": "Australia signed a new treaty with the Solomon Islands aimed at rolling back China’s access to the Pacific, partly reversing Beijing’s gains in the region three years ago that alarmed the US and its allies.",
+      "publishedAt": "2026-11-24T09:01:29.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
+      "category": "finance",
+      "excerpt": "Japan’s 40-year government bond auction on Wednesday drew weaker demand as global risk-off sentiment weighed on investor appetite.",
+      "publishedAt": "2026-11-25T03:39:10.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+      "category": "finance",
+      "excerpt": "Copper ticked higher and aluminum steadied after a major selloff across metals on Tuesday, as traders awaited US inflation data that will feed into the Federal Reserve’s next decision on interest rates.",
+      "publishedAt": "2026-11-25T03:57:12.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+      "category": "finance",
+      "excerpt": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
+      "publishedAt": "2026-11-25T03:10:23.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/india-s-anti-ai-stock-trade-confronts-rich-valuations-global-tariff-risks",
+      "category": "finance",
+      "excerpt": "Meanwhile, a cash crunch in India’s banking system is forcing lenders to borrow at higher costs.",
+      "publishedAt": "2026-11-25T02:30:28.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/rakuten-credit-risk-surges-after-yen-bond-offering-scrapped",
+      "category": "finance",
+      "excerpt": "Rakuten Group Inc.’s credit risk surged by the most since April 2025 after the company scrapped plans to raise about ¥150 billion ($942 million) in the bond market.",
+      "publishedAt": "2026-11-25T02:23:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+      "category": "finance",
+      "excerpt": "Australia’s core inflation unexpectedly accelerated in October, highlighting persistent price pressures in the economy and vindicating Reserve Bank officials’ hawkish commentary.",
+      "publishedAt": "2026-11-25T00:32:01.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
+      "category": "finance",
+      "excerpt": "India’s biggest pension funds are directing more of their inflows to government bonds as they near a regulatory threshold on equity investments, just as local stocks rebound from a bruising selloff.",
+      "publishedAt": "2026-11-25T01:30:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "category": "finance",
+      "excerpt": "Gold held a decline, after the White House’s latest tariff plans drove equities lower and reinforced expectations for an interest-rate hike by the Federal Reserve.",
+      "publishedAt": "2026-11-24T23:51:22.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
+      "category": "finance",
+      "excerpt": "Ho Chi Minh City Development JSC Bank is planning to both sell global bonds and borrow via the syndicated loan market, turning to overseas investors to meet rising credit demand in an economy chasing ambitious growth goals.",
+      "publishedAt": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
+      "category": "finance",
+      "excerpt": "Australia’s financial conditions are “clearly restrictive” following five interest-rate increases this year, a senior Reserve Bank official said, while also noting the difficulty of determining the extent.",
+      "publishedAt": "2026-11-24T23:50:00.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Readies Tariff Hike on China, EU Goods",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
+      "category": "finance",
+      "excerpt": "The US is set to announce plans to raise tariffs on goods from China, the European Union and more than a dozen other economies, according to people familiar with the matter. Bloomberg’s Derek Wallbank has the latest. (Source: Bloomberg)",
+      "publishedAt": "2026-11-24T23:41:59.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Butterball CEO on Thanksgiving Dinner Outlook",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
+      "category": "finance",
+      "excerpt": "Jay Jandrain, Butterball CEO, says U.S. turkey production is slightly higher than last year and holiday turkey prices are broadly consistent with prior years. Some retailers are offering turkey deals below last year’s prices, and Thanksgiving meal baskets may cost the same or less. Jandrain says ret",
+      "publishedAt": "2026-11-24T23:12:17.000Z"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Advent Weighs Takeover Of Testing Firm Bureau Veritas",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
+      "category": "finance",
+      "excerpt": "Advent is considering a bid to acquire French testing firm Bureau Veritas SA, people with knowledge of the matter said, in what would be one of the largest buyouts of a European company this year.",
+      "publishedAt": "2026-11-24T19:58:23.000Z"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-world",
+  "fetchedAt": "2026-11-28T17:09:17.186Z",
+  "ok": true,
+  "itemCount": 24,
+  "durationMs": 132,
+  "items": [
+    {
+      "sourceId": "bbc-world",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "publishedAt": "2026-11-28T16:45:30.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "publishedAt": "2026-11-28T10:34:58.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "publishedAt": "2026-11-28T14:10:01.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "publishedAt": "2026-11-27T21:55:53.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "publishedAt": "2026-11-28T11:35:34.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "publishedAt": "2026-11-28T04:19:16.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "publishedAt": "2026-11-28T07:31:14.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "publishedAt": "2026-11-28T00:56:55.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "publishedAt": "2026-11-28T04:13:45.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "publishedAt": "2026-11-27T18:00:40.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "publishedAt": "2026-11-27T20:06:31.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "publishedAt": "2026-11-27T16:53:46.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "publishedAt": "2026-11-27T17:19:31.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "publishedAt": "2026-11-27T08:13:43.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "publishedAt": "2026-11-27T16:46:47.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "publishedAt": "2026-11-27T06:09:31.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "publishedAt": "2026-11-26T22:06:20.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+      "publishedAt": "2026-11-26T05:00:27.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "publishedAt": "2026-11-26T19:26:16.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "publishedAt": "2026-11-27T18:42:50.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "publishedAt": "2026-11-27T23:02:35.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "publishedAt": "2026-11-28T16:18:58.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "publishedAt": "2026-11-28T00:50:11.000Z"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Nigeria's acting legend who was loved across Africa and beyond",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "category": "politics",
+      "excerpt": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "publishedAt": "2026-11-28T01:20:35.000Z"
+    }
+  ]
+}

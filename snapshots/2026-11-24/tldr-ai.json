@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "tldr-ai",
+  "fetchedAt": "2026-11-24T06:19:27.088Z",
+  "ok": true,
+  "itemCount": 20,
+  "durationMs": 151,
+  "items": [
+    {
+      "sourceId": "tldr-ai",
+      "title": "OpenAI publishes progress 🧠, Inkling 2 Mini 💧, Riemann proof 📐",
+      "url": "https://tldr.tech/ai/2026-11-23",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+      "url": "https://tldr.tech/ai/2026-11-20",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+      "url": "https://tldr.tech/ai/2026-11-19",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "GPT-6.2 Astra 🧠, Microsoft’s seven models 🚀, Replit Missions 🤖",
+      "url": "https://tldr.tech/ai/2026-11-18",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Perplexity Research 🧪, NVIDIA Rubin HPC 🖥️, OpenAI safety assessments 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-11-17",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
+      "url": "https://tldr.tech/ai/2026-11-16",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
+      "url": "https://tldr.tech/ai/2026-11-13",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠",
+      "url": "https://tldr.tech/ai/2026-11-12",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini 4 Carbon ⚡, Claude Sheets 📊, Antigravity Swarm 🤖",
+      "url": "https://tldr.tech/ai/2026-11-11",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Claude Fable 5.2 ✨, Meta Ember 🤖, Google’s new TPUs ⚡",
+      "url": "https://tldr.tech/ai/2026-11-10",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "AI R&D accelerates 📈, OpenAI at $1.25T 💰, GitHub’s multiplayer harness 🤖",
+      "url": "https://tldr.tech/ai/2026-11-09",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-09T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
+      "url": "https://tldr.tech/ai/2026-11-06",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-06T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡",
+      "url": "https://tldr.tech/ai/2026-11-05",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡",
+      "url": "https://tldr.tech/ai/2026-11-04",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄",
+      "url": "https://tldr.tech/ai/2026-11-03",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "DeepSeek super agent 🤖, GPT-6 Rosalind 🧬, Google orbital compute 🛰️",
+      "url": "https://tldr.tech/ai/2026-11-02",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
+      "url": "https://tldr.tech/ai/2026-10-30",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini 4 Carbon 🌱, Nemotron Transcribe 📝, benchmarker’s dilemma ❓",
+      "url": "https://tldr.tech/ai/2026-10-29",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Genie 4 worlds 🌍, Frontier Code 2 👨‍💻, AI drug discovery 🧬",
+      "url": "https://tldr.tech/ai/2026-10-28",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-10-27",
+      "category": "tech",
+      "excerpt": "",
+      "publishedAt": "2026-10-27T00:00:00.000Z"
+    }
+  ]
+}

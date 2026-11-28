@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "bbc-top-stories",
+  "fetchedAt": "2026-11-28T17:09:17.678Z",
+  "ok": true,
+  "itemCount": 23,
+  "durationMs": 167,
+  "items": [
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "publishedAt": "2026-11-28T16:45:30.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
+      "url": "https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Prime ministers have always chased audiences - but does the backlash over Max Balegde’s video show Burnham’s strategy has gone too far?",
+      "publishedAt": "2026-11-28T16:18:15.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Dozens killed in Myanmar military strikes, including attack on wedding",
+      "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "publishedAt": "2026-11-28T16:53:20.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Swinney insists Scotland's NHS is safe despite hospital scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The first minister urged people to attend medical appointments after a leaked report highlighted avoidable deaths at NHS Grampian.",
+      "publishedAt": "2026-11-28T14:43:12.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "publishedAt": "2026-11-28T10:34:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "'I don't know what I'd do without it': Is this the end for Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "With baskets loaded full of bargains, shoppers at the much-loved chain tell the BBC the high street doesn't need more empty shops.",
+      "publishedAt": "2026-11-28T01:12:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "publishedAt": "2026-11-28T16:18:58.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+      "publishedAt": "2026-11-28T03:03:36.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "The AI-powered race to get GTA 6 onto PC before Rockstar",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "With an official PC version potentially still months away, fans are getting impatient.",
+      "publishedAt": "2026-11-28T01:30:50.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Flu cases are rising - should you get a vaccine now?",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+      "publishedAt": "2026-11-28T01:03:11.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Two forces are being investigated after Friday's late night crash on Rugeley Road in Hednesford.",
+      "publishedAt": "2026-11-28T15:46:34.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+      "publishedAt": "2026-11-27T22:03:22.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Man arrested on suspicion of murdering girl, 16",
+      "url": "https://www.bbc.co.uk/news/articles/ckq5vj3ldpx5o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The girl was found at a property in east London on Friday afternoon after fears about her welfare.",
+      "publishedAt": "2026-11-28T16:58:09.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Channel 4 executive defends Huw Edwards documentary",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3z8y0nxdo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "The broadcaster defends its decision to interview the disgraced ex-BBC newsreader in an upcoming documentary.",
+      "publishedAt": "2026-11-28T14:42:33.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Girl honoured for shielding sister in Southport attack",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgkl76167qo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Police say her actions almost certainly saved her sister's life.",
+      "publishedAt": "2026-11-28T13:21:47.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Actor and comedian PJ Gallagher dies aged 51",
+      "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+      "publishedAt": "2026-11-28T13:34:39.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Specialist 'quad squad' called in to deliver shocked couple's four babies",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx10k6ln6lo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A team of 30 clinicians helped deliver the quadruplets, following a one in 700,000 pregnancy.",
+      "publishedAt": "2026-11-27T11:59:05.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Jilted bride who went ahead with her wedding alone finally walks down the aisle",
+      "url": "https://www.bbc.co.uk/news/articles/cxp80yln85nyo?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Guests burst into applause as Swansea bride Kayley Stead, jilted in 2022, finally says \"I do\".",
+      "publishedAt": "2026-11-25T06:06:26.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Bellingham's backing of reporter praised after viral clip",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5d3078zro?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "A clip of Jude Bellingham preventing someone from interrupting a reporter has gone viral.",
+      "publishedAt": "2026-11-26T06:25:29.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Robotic exoskeleton helps boy, 7, take first steps",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2517m8804o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Seeing Ellison Fishwick, who has a condition affecting strength, walk was amazing, his family says.",
+      "publishedAt": "2026-11-27T12:09:27.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+      "publishedAt": "2026-11-24T00:00:47.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Download now",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "publishedAt": "2025-04-30T14:04:28.000Z"
+    },
+    {
+      "sourceId": "bbc-top-stories",
+      "title": "Wales end Nations Championship with hearty win over Japan",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm7021z6xze6o?at_medium=RSS&at_campaign=rss",
+      "category": "society",
+      "excerpt": "Wales end their year with another victory against Japan, winning 40-10 in a six-try display at the Allianz Stadium in Twickenham.",
+      "publishedAt": "2026-11-28T15:26:10.000Z"
+    }
+  ]
+}
